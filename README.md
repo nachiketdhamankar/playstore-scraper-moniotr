@@ -13,8 +13,9 @@ Make sure you have the following installed
 
 To clone this repository using -
 
+<!-- $ git clone --single-branch --branch migrate_to_pip https://github.com/nachiketdhamankar/playstore-scraper-moniotr.git -->
 ```powershell
-$ git clone --single-branch --branch migrate_to_pip https://github.com/nachiketdhamankar/playstore-scraper-moniotr.git
+$ git clone https://github.com/nachiketdhamankar/playstore-scraper-moniotr.git
 $ cd playstore-scraper-moniotr
 ```
 

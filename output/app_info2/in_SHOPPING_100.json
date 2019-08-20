@@ -1,0 +1,4290 @@
+[
+    {
+        "title": "Flipkart Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/b-0jdm5STWU",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9059315,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5793131769291455541",
+        "updated": "July 20, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "6.16",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Flipkart",
+        "developer_email": "app-feedback@flipkart.com",
+        "developer_url": "http://www.flipkart.com",
+        "developer_address": null,
+        "app_id": "com.flipkart.android",
+        "url": "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en&gl=in"
+    },
+    {
+        "title": "Club Factory - Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/ktwTe8JTsoJ7K6Is7Xz7nFdTBAUGTGrKbE1y6OtOIbGFmZrrhHDSNt_sGgpuscTJcYY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/aYsFU1huoJ8",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 766332,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Club+Factory",
+        "updated": "June 24, 2019",
+        "size": "14M",
+        "installs": "50,000,000+",
+        "current_version": "5.6.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Club Factory",
+        "developer_email": "info@clubfactory.com",
+        "developer_url": "https://www.clubfactory.com",
+        "developer_address": null,
+        "app_id": "club.fromfactory",
+        "url": "https://play.google.com/store/apps/details?id=club.fromfactory&hl=en&gl=in"
+    },
+    {
+        "title": "Mobile Recharge, UPI, Bill Payment, Money Transfer",
+        "icon": "https://lh3.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NjtvIZZsjfU",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5755318,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5032485548806526009",
+        "updated": "July 22, 2019",
+        "size": "44M",
+        "installs": "100,000,000+",
+        "current_version": "8.2.11",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Paytm - One97 Communications Ltd.",
+        "developer_email": "app.feedback@paytm.com",
+        "developer_url": "https://paytm.com",
+        "developer_address": "B-121, Sector 5, Noida, UP, 201301",
+        "app_id": "net.one97.paytm",
+        "url": "https://play.google.com/store/apps/details?id=net.one97.paytm&hl=en&gl=in"
+    },
+    {
+        "title": "Amazon India Online Shopping and Payments",
+        "icon": "https://lh3.googleusercontent.com/TpxeOgptQworHjromT4yoo05oHk72dSE0pVQowPfb3u3rozTwLjYUHxTpEzIYMemomQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/PVsvqsVDYJI",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4415131,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "feedback-amazon-app-android@amazon.com",
+        "developer_url": "http://www.amazon.in/",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "in.amazon.mShop.android.shopping",
+        "url": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping&hl=en&gl=in"
+    },
+    {
+        "title": "OLX: Buy & Sell Near You with Online Classifieds",
+        "icon": "https://lh3.googleusercontent.com/tYdcwxICaq7q-Qe_jmQ-2YIMfZ011Tap8PtWLOOpLx23LJLvqr_YziUqek9nBEdVJE8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1749548,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8405377917759873091",
+        "updated": "July 24, 2019",
+        "size": "8.6M",
+        "installs": "100,000,000+",
+        "current_version": "13.18.03",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "OLX Global B.V.",
+        "developer_email": "androidapp@olx.com",
+        "developer_url": "https://www.olx.in/",
+        "developer_address": "Taurusavenue 105\n2132LS, Hoofddorp\nThe Netherlands",
+        "app_id": "com.olx.southasia",
+        "url": "https://play.google.com/store/apps/details?id=com.olx.southasia&hl=en&gl=in"
+    },
+    {
+        "title": "Snapdeal Online Shopping App - Shop Online India",
+        "icon": "https://lh3.googleusercontent.com/IfMz_US0gMwcVYtNNjQPEglG4cHLW51zitBhGZ0nmAYEXTIuIdCjUaZ_Xg9H6sDVxQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rsayxEiNJVs",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1689546,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7708405474390121556",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "6.8.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Snapdeal Private Limited",
+        "developer_email": "apphelp@snapdeal.com",
+        "developer_url": "https://www.snapdeal.com",
+        "developer_address": "Suite #181-TR4, First Floor of Sprout Box Suryavilas, D-181, Okhla Industrial Area Phase 1, New Delhi \u2013 110020",
+        "app_id": "com.snapdeal.main",
+        "url": "https://play.google.com/store/apps/details?id=com.snapdeal.main&hl=en&gl=in"
+    },
+    {
+        "title": "Myntra Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/G87iT9dhwxwtgl5UA8SIqwp7I0GTlItyuR5mNL7vUOgP2SN8JyXigaiOpxKRaCXI22w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/WsPc-L2OmGA",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2242908,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Myntra",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Myntra",
+        "developer_email": "appfeedback@myntra.com",
+        "developer_url": "http://www.myntra.com",
+        "developer_address": null,
+        "app_id": "com.myntra.android",
+        "url": "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en&gl=in"
+    },
+    {
+        "title": "Mi Store",
+        "icon": "https://lh3.googleusercontent.com/0DqrnGl7YqBFlVids_xVVrWRXE3GiwJdf5g1YcEsKJWYkWlfhPVKSe7pv6Mk-P816g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 386747,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Xiaomi",
+        "updated": "July 18, 2019",
+        "size": "25M",
+        "installs": "10,000,000+",
+        "current_version": "3.6.3",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Xiaomi",
+        "developer_email": "app-feedback-in@xiaomi.com",
+        "developer_url": "http://www.mi.com",
+        "developer_address": null,
+        "app_id": "com.mi.global.shop",
+        "url": "https://play.google.com/store/apps/details?id=com.mi.global.shop&hl=en&gl=in"
+    },
+    {
+        "title": "ShopClues: Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/oaOz1gpJtbH4NiD0qjNBN-TjNIkR7jKkhbmN5vHVwQcVHJhSswoXn3IffwY6EUde5H0k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/C0H_jVnU_Y0",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 543373,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ShopClues",
+        "updated": "June 11, 2019",
+        "size": "14M",
+        "installs": "50,000,000+",
+        "current_version": "3.5.72",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ShopClues",
+        "developer_email": "android@shopclues.com",
+        "developer_url": "http://www.shopclues.com",
+        "developer_address": null,
+        "app_id": "com.shopclues",
+        "url": "https://play.google.com/store/apps/details?id=com.shopclues&hl=en&gl=in"
+    },
+    {
+        "title": "FirstCry Baby & Kids Shopping, Fashion & Parenting",
+        "icon": "https://lh3.googleusercontent.com/MnuZ2c-iJgXdlyjs1lMAzBR6meMfkSBmPAebq9LGnVi83NNGpd0dPMGS5sJQS_EO_w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/jmjRq_f-di8",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 121109,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "FirstCry.com",
+        "updated": "July 5, 2019",
+        "size": "27M",
+        "installs": "10,000,000+",
+        "current_version": "91",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "FirstCry.com",
+        "developer_email": "customercare@firstcry.com",
+        "developer_url": "http://www.firstcry.com",
+        "developer_address": null,
+        "app_id": "fc.admin.fcexpressadmin",
+        "url": "https://play.google.com/store/apps/details?id=fc.admin.fcexpressadmin&hl=en&gl=in"
+    },
+    {
+        "title": "LimeRoad Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/u6j1542q7JZ7CW-TQxrF69JV6yZn9vvKXqxngO6j6P7hTkpkUZAc5u6Mewb9P6X2fw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/fnhSSNjBjEc",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 324428,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "LimeRoad+-+Best+online+shopping",
+        "updated": "July 24, 2019",
+        "size": "6.7M",
+        "installs": "50,000,000+",
+        "current_version": "5.6.8",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "LimeRoad - Best online shopping",
+        "developer_email": "android@limeroad.com",
+        "developer_url": "http://www.limeroad.com",
+        "developer_address": "LimeRoad, (AM Marketplaces Pvt Ltd)\n4th & 5th Floor, Plot No. 48, Sector 44,\nNear HUDA City Center Metro Station,\nGurgaon, Haryana, India\nPincode: 122001",
+        "app_id": "com.shopping.limeroad",
+        "url": "https://play.google.com/store/apps/details?id=com.shopping.limeroad&hl=en&gl=in"
+    },
+    {
+        "title": "AJIO Online Shopping - Handpicked Curated Fashion",
+        "icon": "https://lh3.googleusercontent.com/RWNQyHoMPJ-Z8ApQhQchXsfoBXrj3By1cf49GPRK6-hYiIv0RL6Z1fdZl1OAUpqHCB8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 190822,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Reliance+Retail+Ltd",
+        "updated": "July 17, 2019",
+        "size": "9.1M",
+        "installs": "10,000,000+",
+        "current_version": "5.10",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Reliance Retail Ltd",
+        "developer_email": "customercare@ajio.com",
+        "developer_url": "https://www.ajio.com",
+        "developer_address": null,
+        "app_id": "com.ril.ajio",
+        "url": "https://play.google.com/store/apps/details?id=com.ril.ajio&hl=en&gl=in"
+    },
+    {
+        "title": "Alibaba.com - Leading online B2B Trade Marketplace",
+        "icon": "https://lh3.googleusercontent.com/Btfes5_yrMt5peCLS3QDjKYZN9rUYqGdPxrmBXdJ0b-6SJFI5-JLd5QSHl4aAplt_FE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/a5qw92b6CXE",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 463200,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Alibaba+Mobile",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Alibaba Mobile",
+        "developer_email": "developer.android@aliexpress.com",
+        "developer_url": "http://www.alibaba.com",
+        "developer_address": "NO.699 WANGSHANG ROAD,BINJIANG DISTRICT,HANGZHOU,ZHEJIANG,CHINA",
+        "app_id": "com.alibaba.intl.android.apps.poseidon",
+        "url": "https://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon&hl=en&gl=in"
+    },
+    {
+        "title": "bigbasket - Online Grocery Shopping App",
+        "icon": "https://lh3.googleusercontent.com/EuiZnkT8aEKjXDLX74DTp1VRIwWaeRa8Dvo-LOGAxy1FPQ8GzABTIRenksiM-A7Oz48g",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/eZDQCXrlNw4",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 355926,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bigbasket.com",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "4.9.11",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bigbasket.com",
+        "developer_email": "customerservice@bigbasket.com",
+        "developer_url": "https://www.bigbasket.com",
+        "developer_address": null,
+        "app_id": "com.bigbasket.mobileapp",
+        "url": "https://play.google.com/store/apps/details?id=com.bigbasket.mobileapp&hl=en&gl=in"
+    },
+    {
+        "title": "Lenskart: Eyeglasses, Sunglasses, Contact Lens App",
+        "icon": "https://lh3.googleusercontent.com/wPGVqEoS2gtvGLHPaifWXPy53S-5-zjq_Cl5YBhpAVQ_FtQ0gicsKmOCgQrg1yQIzus",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/5okU36g8rY0",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 169464,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Lenskart",
+        "updated": "July 25, 2019",
+        "size": "8.7M",
+        "installs": "10,000,000+",
+        "current_version": "2.6.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Lenskart",
+        "developer_email": "support@lenskart.com",
+        "developer_url": "https://www.lenskart.com",
+        "developer_address": null,
+        "app_id": "com.lenskart.app",
+        "url": "https://play.google.com/store/apps/details?id=com.lenskart.app&hl=en&gl=in"
+    },
+    {
+        "title": "Nykaa: Beauty Shopping App. Buy Makeup & Cosmetics",
+        "icon": "https://lh3.googleusercontent.com/RllZf42XounX60rftJqa0K3EfoCMmzGqdOgbZvtQiPETcOVaes8cw1bEeBhW7UGeNb0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 305398,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6882913406687595746",
+        "updated": "July 19, 2019",
+        "size": "13M",
+        "installs": "10,000,000+",
+        "current_version": "2.2.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Nykaa.com",
+        "developer_email": "appdevelopers@nykaa.com",
+        "developer_url": "http://www.nykaa.com",
+        "developer_address": null,
+        "app_id": "com.fsn.nykaa",
+        "url": "https://play.google.com/store/apps/details?id=com.fsn.nykaa&hl=en&gl=in"
+    },
+    {
+        "title": "Bewakoof Online Fashion Shopping App",
+        "icon": "https://lh3.googleusercontent.com/Yw9PLTNk-sBLUiKU7m4Z5mRdeEOKll_SjXtC0p_Mv-wKxLzKCEhQxWqLhXJ3KvAJMw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/nAG7mKswN2Q",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 235798,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bewakoof.com",
+        "updated": "July 6, 2019",
+        "size": "6.7M",
+        "installs": "5,000,000+",
+        "current_version": "1.0.123",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bewakoof.com",
+        "developer_email": "care@bewakoof.com",
+        "developer_url": "https://www.bewakoof.com",
+        "developer_address": null,
+        "app_id": "com.bewakoof.bewakoof",
+        "url": "https://play.google.com/store/apps/details?id=com.bewakoof.bewakoof&hl=en&gl=in"
+    },
+    {
+        "title": "Grofers - Order Grocery Online",
+        "icon": "https://lh3.googleusercontent.com/h7Q-5-PvIhugV8diWciQbjwYIn4D1Z2D8MVaKPWotn9OL8h5wADR0aqhO7hw0iQXTQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/YhuKJBF9z1w",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 290538,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Grofers+India+Pvt+Ltd",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Grofers India Pvt Ltd",
+        "developer_email": "info@grofers.com",
+        "developer_url": "http://www.grofers.com",
+        "developer_address": null,
+        "app_id": "com.grofers.customerapp",
+        "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&hl=en&gl=in"
+    },
+    {
+        "title": "Banggood - Easy Online Shopping",
+        "icon": "https://lh3.googleusercontent.com/VKGVWQQ78waiYOBjRNQpTmSOESQRcd5HDoLhbec88jssoMPPzNIj9mIVsHnnHcL1Zycv",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3NFsX_dUdyY",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 176060,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Banggood",
+        "updated": "July 18, 2019",
+        "size": "21M",
+        "installs": "10,000,000+",
+        "current_version": "6.10.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Banggood",
+        "developer_email": "androidservice@banggood.com",
+        "developer_url": "https://www.banggood.com",
+        "developer_address": "Room608,HaoQuan\u00a0Building,1st\u00a0Jichangdongmen\u00a0Road\u00a0Jingtai\u00a0Street,Baiyun\u00a0District China",
+        "app_id": "com.banggood.client",
+        "url": "https://play.google.com/store/apps/details?id=com.banggood.client&hl=en&gl=in"
+    },
+    {
+        "title": "Future Pay",
+        "icon": "https://lh3.googleusercontent.com/SDjIxT7jl_at2AqySSVEZqYrWXYzJKaNdao8WsPN7dNh-eFnYpF98k1EfwKPbNe_4g",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Tv6PQDi0vwE",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 108715,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Future+Group+India",
+        "updated": "July 22, 2019",
+        "size": "6.1M",
+        "installs": "10,000,000+",
+        "current_version": "3.0.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Future Group India",
+        "developer_email": "care@futurepay.co.in",
+        "developer_url": "https://futurepay.co.in/",
+        "developer_address": null,
+        "app_id": "com.oxigen.futurepay",
+        "url": "https://play.google.com/store/apps/details?id=com.oxigen.futurepay&hl=en&gl=in"
+    },
+    {
+        "title": "Tata CLiQ India's Curated Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/YYMB0q3VZuH1cegb-s636R6p4cIPivJ-4BMn04ogVWfw1l0JrJSFYZ2xvcjsPEWY5ro",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/mYvMavrE-es",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 84628,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6666667068815062475",
+        "updated": "July 9, 2019",
+        "size": "8.7M",
+        "installs": "10,000,000+",
+        "current_version": "9.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Tata Unistore Limited",
+        "developer_email": "tataunistore@gmail.com",
+        "developer_url": "https://www.tatacliq.com/",
+        "developer_address": "Tata Unistore Ltd,  1st Floor, Empire Plaza 2, Lal Bahadur Shastri Marg, Chandan Nagar, Vikhroli West, Mumbai, Maharashtra 400083",
+        "app_id": "com.tul.tatacliq",
+        "url": "https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en&gl=in"
+    },
+    {
+        "title": "All Shopping Apps - All in one Online shopping app",
+        "icon": "https://lh3.googleusercontent.com/BhzO38ynsqTVemz6DhU8b9OjnquQwlIsTQDsNTj69JOCzRiYcbAGwOnTgCTi5Cg5Hdjb",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2597,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Excel+Innovation+Labs",
+        "updated": "July 11, 2019",
+        "size": "5.9M",
+        "installs": "100,000+",
+        "current_version": "1.4",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Excel Innovation Labs",
+        "developer_email": "rajinder.droid99@gmail.com",
+        "developer_url": null,
+        "developer_address": "Punjab",
+        "app_id": "com.shopping.all.in.one.shopping.jio.shopping",
+        "url": "https://play.google.com/store/apps/details?id=com.shopping.all.in.one.shopping.jio.shopping&hl=en&gl=in"
+    },
+    {
+        "title": "Zivame - Shop Lingerie, Activewear, Apparel Online",
+        "icon": "https://lh3.googleusercontent.com/tuTJ47aasC_wt0v3cFORr0aCjPVAohJDDtDXjdYVDpvZs-1RVXFnkBwa6X_OpqH2ig2w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3VklkbHLeZM",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22522,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Zivame",
+        "updated": "July 17, 2019",
+        "size": "9.7M",
+        "installs": "5,000,000+",
+        "current_version": "3.4.10",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Zivame",
+        "developer_email": "android@zivame.com",
+        "developer_url": "http://www.zivame.com",
+        "developer_address": null,
+        "app_id": "com.zivame.consumer",
+        "url": "https://play.google.com/store/apps/details?id=com.zivame.consumer&hl=en&gl=in"
+    },
+    {
+        "title": "PAYBACK - India's Largest Rewards Program",
+        "icon": "https://lh3.googleusercontent.com/84LQovajzTxAzi-JSR8A1NaGc8-0VZPabbhUObh7fyBWCfb9K893lcUKizzfSZQ4pzM",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/11I5b-WASKo",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22983,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8764676644107844297",
+        "updated": "July 22, 2019",
+        "size": "15M",
+        "installs": "1,000,000+",
+        "current_version": "12.6.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PAYBACK India",
+        "developer_email": "paybackmobileindia@gmail.com",
+        "developer_url": "https://www.payback.in",
+        "developer_address": "Loyalty Solutions & Research Private Limited,\nGround & First Floor, Plot No 34,\nSector 44, Institutional Area,\nGurgaon - 122002, Haryana, India.",
+        "app_id": "com.adobe.cq.mobile.payback",
+        "url": "https://play.google.com/store/apps/details?id=com.adobe.cq.mobile.payback&hl=en&gl=in"
+    },
+    {
+        "title": "Purplle: Beauty Shopping App. Buy Cosmetics Online",
+        "icon": "https://lh3.googleusercontent.com/kGx2KMETFueclfMyGAH2BiIHHtpN4ZtlpaiZ0MZWUd0EFdGLLWYk4B9LdCH5poC39EQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/j2KsRYKLWck",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 39735,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Purplle.com",
+        "updated": "June 20, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "2.0.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "developer": "Purplle.com",
+        "developer_email": "customercare@purplle.com",
+        "developer_url": "https://www.purplle.com",
+        "developer_address": "101 B , Raheja Plaza, LBS Marg, Ghatkopar West, Mumbai 400086. India",
+        "app_id": "com.manash.purplle",
+        "url": "https://play.google.com/store/apps/details?id=com.manash.purplle&hl=en&gl=in"
+    },
+    {
+        "title": "Quikr \u2013 Search Jobs, Mobiles, Cars, Home Services",
+        "icon": "https://lh3.googleusercontent.com/l5vy1ANtkBFog57kFEGOtPKYH7HDhnUFePivRBa3LbyzgqohMGEMfQOkYCRu-gQgRQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rATiEMmqi6k",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 782068,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4919594609020723282",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "Quikr India Pvt. Ltd.",
+        "developer_email": "mobileapps@quikr.com",
+        "developer_url": "http://www.quikr.com/",
+        "developer_address": null,
+        "app_id": "com.quikr",
+        "url": "https://play.google.com/store/apps/details?id=com.quikr&hl=en&gl=in"
+    },
+    {
+        "title": "AppBrowzer - Browser for Web and Apps. Fast & Easy",
+        "icon": "https://lh3.googleusercontent.com/uzKoNKzf8NUEGpyIi-shX-Dv_Snmkpum4QaYeHpaI9IVImrLMIFhET5898yd_dCtsU6h",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21664,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8189487451561882349",
+        "updated": "June 13, 2019",
+        "size": "29M",
+        "installs": "1,000,000+",
+        "current_version": "3.2.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info, Unrestricted Internet"
+        ],
+        "developer": "One Tap. Many Apps.",
+        "developer_email": "info@appbrowzer.com",
+        "developer_url": "https://www.appbrowzer.com",
+        "developer_address": null,
+        "app_id": "com.roidtechnologies.appbrowzer",
+        "url": "https://play.google.com/store/apps/details?id=com.roidtechnologies.appbrowzer&hl=en&gl=in"
+    },
+    {
+        "title": "Print Photo - Customize Mobile Cover, T-Shirt, Mug",
+        "icon": "https://lh3.googleusercontent.com/rgmGikMT8R9-64MrffaBEGLWwXRBpOTlVqg3GrBJV-PUySR3bkSuplrN_na9IVbNOw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ZmondWft3uc",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6324,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "printphoto.in",
+        "updated": "July 17, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "4.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "printphoto.in",
+        "developer_email": "pipaliyachirag@gmail.com",
+        "developer_url": "https://printphoto.in",
+        "developer_address": "205-207, Oasis Corner, Dhanmora Char Rasta, Kataragam, Surat - 395004",
+        "app_id": "com.mobile.cover.photo.editor.back.maker",
+        "url": "https://play.google.com/store/apps/details?id=com.mobile.cover.photo.editor.back.maker&hl=en&gl=in"
+    },
+    {
+        "title": "Wish - Shopping Made Fun",
+        "icon": "https://lh3.googleusercontent.com/wu3_Q4_441IArxi9_u0xS-ZL0BFFxzd1dEU-8u3ls1XsoREpRArMLmY1lXfJ4pahyec",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/_K7w3nJY6aU",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8115699,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wish+Inc.",
+        "updated": "July 17, 2019",
+        "size": "17M",
+        "installs": "100,000,000+",
+        "current_version": "4.32.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Wish Inc.",
+        "developer_email": "support@wish.com",
+        "developer_url": "http://www.wish.com",
+        "developer_address": null,
+        "app_id": "com.contextlogic.wish",
+        "url": "https://play.google.com/store/apps/details?id=com.contextlogic.wish&hl=en&gl=in"
+    },
+    {
+        "title": "realme Store",
+        "icon": "https://lh3.googleusercontent.com/6vf5ATPmVt7GHcgqDjQwrYFoYGDNC_O49h_Y-ri-EzxVmWdQ8NEUVcWjeI4rDr4xGfuu",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1988,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "realme+Mobile",
+        "updated": "July 10, 2019",
+        "size": "7.8M",
+        "installs": "100,000+",
+        "current_version": "1.0.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "realme Mobile",
+        "developer_email": "apps_store@realme.com",
+        "developer_url": "https://www.realme.com/in/",
+        "developer_address": null,
+        "app_id": "com.realmestore.app",
+        "url": "https://play.google.com/store/apps/details?id=com.realmestore.app&hl=en&gl=in"
+    },
+    {
+        "title": "Bulbul - Online Video Shopping App",
+        "icon": "https://lh3.googleusercontent.com/aYabCzm-lOrE0r_Ke5zRyE_1qCKs25a3ndq7oBBNJI1pJVnGjGBT-BlXW23iBpxbQ7E",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/kpwSYi9xqCI",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1431,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "BulbulShop+Shopping+Network+Private+Limited",
+        "updated": "July 25, 2019",
+        "size": "22M",
+        "installs": "100,000+",
+        "current_version": "1.30",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "BulbulShop Shopping Network Private Limited",
+        "developer_email": "help@bulbul.tv",
+        "developer_url": "https://bulbul.tv/",
+        "developer_address": null,
+        "app_id": "bulbul.tv.customer",
+        "url": "https://play.google.com/store/apps/details?id=bulbul.tv.customer&hl=en&gl=in"
+    },
+    {
+        "title": "Online Shopping App For Women",
+        "icon": "https://lh3.googleusercontent.com/6YrBuCbuC32AmUvu-hkIm6Qo9NipReAM-MwzVDJ91oWJZablK8P-6XqCIlJx72rZ6w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/VeD1IAlgKW4",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16322,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mirraw.com",
+        "updated": "July 8, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "1.6.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mirraw.com",
+        "developer_email": "androidapp@mirraw.com",
+        "developer_url": "http://www.mirraw.com",
+        "developer_address": null,
+        "app_id": "com.mirraw.android",
+        "url": "https://play.google.com/store/apps/details?id=com.mirraw.android&hl=en&gl=in"
+    },
+    {
+        "title": "Clovia - Lingerie Shopping App",
+        "icon": "https://lh3.googleusercontent.com/5Yxl8fhzXu8JBIzOfPu73UHGqkoMJpzuJkTw7GT4cmUCpoEqiMsdXM6RwewjeuO5X3Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3fqt-b7uzb0",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15961,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Purple+Panda+Fashions+Pvt.+Ltd.",
+        "updated": "June 26, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "2.3.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Purple Panda Fashions Pvt. Ltd.",
+        "developer_email": "clovia@clovia.com",
+        "developer_url": "https://www.clovia.com",
+        "developer_address": null,
+        "app_id": "com.ipragmatech.clovia.shop",
+        "url": "https://play.google.com/store/apps/details?id=com.ipragmatech.clovia.shop&hl=en&gl=in"
+    },
+    {
+        "title": "Max Fashion India",
+        "icon": "https://lh3.googleusercontent.com/G6CTTmXabDiuM42IQUUuKc0cCunygI55Ddkr8R2CmT8jFeXxo4zbCSK2Zbv8iGPED_w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21969,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Landmark+Online+India+Pvt.+Ltd.",
+        "updated": "July 25, 2019",
+        "size": "14M",
+        "installs": "5,000,000+",
+        "current_version": "6.17",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Landmark Online India Pvt. Ltd.",
+        "developer_email": "help.in@maxfashion.com",
+        "developer_url": "http://www.maxfashion.com",
+        "developer_address": null,
+        "app_id": "com.applications.max",
+        "url": "https://play.google.com/store/apps/details?id=com.applications.max&hl=en&gl=in"
+    },
+    {
+        "title": "Amazon Prime Now",
+        "icon": "https://lh3.googleusercontent.com/PT8dZdIesKY4nvZh6wmq_6z5msn41TdXVQSI99P6dVPLlcIlDsslpKuo5K6E3525Aw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45502,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "March 8, 2019",
+        "size": "7.0M",
+        "installs": "10,000,000+",
+        "current_version": "2.4.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "amazonnow@amazon.com",
+        "developer_url": "http://www.amazon.in",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "com.amazon.anow",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.anow&hl=en&gl=in"
+    },
+    {
+        "title": "Cashify - Sell Old & Used Mobile Phones Online",
+        "icon": "https://lh3.googleusercontent.com/OcncpZw_s3Cm7wL9xZ7v1fDfdV7gUlj6Uh22iNZY9ZaxSWXTdhmbx6R3PFGUle4or9SQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/JnKiadRnpHI",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 78276,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7425729344556158031",
+        "updated": "July 24, 2019",
+        "size": "8.0M",
+        "installs": "1,000,000+",
+        "current_version": "3.2.19",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Cashify.in",
+        "developer_email": "info@cashify.in",
+        "developer_url": "http://www.cashify.in",
+        "developer_address": null,
+        "app_id": "com.reglobe.cashify",
+        "url": "https://play.google.com/store/apps/details?id=com.reglobe.cashify&hl=en&gl=in"
+    },
+    {
+        "title": "Dailyorders - Print Photo On Phone Case , T-Shirt",
+        "icon": "https://lh3.googleusercontent.com/BEP0NuOqc-lT6nRRxH_VlDDo8y4-uoScz3RAaiKxZpmq1FVSxLXKacUWIGcfhmFNsuo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/op53PcgqZfI",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3546,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Out+thinking+electronics+private+limited",
+        "updated": "July 25, 2019",
+        "size": "9.0M",
+        "installs": "1,000,000+",
+        "current_version": "1.53",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Out thinking electronics private limited",
+        "developer_email": "outthinkingelectronics@gmail.com",
+        "developer_url": "http://dailyorders.com",
+        "developer_address": null,
+        "app_id": "com.electronics.dailyorders",
+        "url": "https://play.google.com/store/apps/details?id=com.electronics.dailyorders&hl=en&gl=in"
+    },
+    {
+        "title": "SHEIN-Fashion Shopping Online",
+        "icon": "https://lh3.googleusercontent.com/qHMq-NDTYOWT4g9Km61D4lv1-bfLNAuQW2K7iKmhQvf1hLktadTWwxeQycpZcf0pPHw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/H_mH4YXmzvA",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 658740,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ZOETOP+BUSINESS+CO.,+LIMITED",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ZOETOP BUSINESS CO., LIMITED",
+        "developer_email": "service@shein.com",
+        "developer_url": "http://www.shein.com/",
+        "developer_address": null,
+        "app_id": "com.zzkko",
+        "url": "https://play.google.com/store/apps/details?id=com.zzkko&hl=en&gl=in"
+    },
+    {
+        "title": "Lifestyle India",
+        "icon": "https://lh3.googleusercontent.com/FUtIkY7TkLUFUcX67W3lvWefZr1yurvWwkWfpvGtDiK1VXrGCmQ27fJt3ROqZv5q3Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10257,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Landmark+Online+India+Pvt.+Ltd.",
+        "updated": "July 25, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "6.17",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Landmark Online India Pvt. Ltd.",
+        "developer_email": "help@lifestylestores.com",
+        "developer_url": "http://www.lifestylestores.com",
+        "developer_address": null,
+        "app_id": "com.applications.lifestyle",
+        "url": "https://play.google.com/store/apps/details?id=com.applications.lifestyle&hl=en&gl=in"
+    },
+    {
+        "title": "Sarees Online Shopping",
+        "icon": "https://lh3.googleusercontent.com/pe2twvuIYdPVHX4cmIX6Bt5_3ACFnxt8jfV4g1rGhhGRpLhf5c9OHOmfCbunl2kVMSVu",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6181,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mirraw.com",
+        "updated": "February 27, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "1.4.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Mirraw.com",
+        "developer_email": "androidapp@mirraw.com",
+        "developer_url": "http://www.mirraw.com",
+        "developer_address": null,
+        "app_id": "com.mirraw.android.sarees",
+        "url": "https://play.google.com/store/apps/details?id=com.mirraw.android.sarees&hl=en&gl=in"
+    },
+    {
+        "title": "AliExpress - Smarter Shopping, Better Living",
+        "icon": "https://lh3.googleusercontent.com/8XePOjdAbTm12TJ4Cu3-DnQxT7kG-ptsu6yqXMusO5nbCs1s9GeVPwDMqMAMi4rxTYSV",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8043000,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Alibaba+Mobile",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Alibaba Mobile",
+        "developer_email": "developer.android@aliexpress.com",
+        "developer_url": "http://www.aliexpress.com",
+        "developer_address": "NO.699 WANGSHANG ROAD,BINJIANG DISTRICT,HANGZHOU,ZHEJIANG,CHINA",
+        "app_id": "com.alibaba.aliexpresshd",
+        "url": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd&hl=en&gl=in"
+    },
+    {
+        "title": "Smytten",
+        "icon": "https://lh3.googleusercontent.com/KUjwbiOXHJrDQdKxRCozjltqwXiePh9FntuUtHGSCxdLCRSrAVm__teOVyCOzC4bTw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8273,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Surfboats+Solutions+Private+Limited",
+        "updated": "July 22, 2019",
+        "size": "19M",
+        "installs": "500,000+",
+        "current_version": "6.17",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Surfboats Solutions Private Limited",
+        "developer_email": "care@smytten.com",
+        "developer_url": "https://www.smytten.com",
+        "developer_address": null,
+        "app_id": "com.app.smytten",
+        "url": "https://play.google.com/store/apps/details?id=com.app.smytten&hl=en&gl=in"
+    },
+    {
+        "title": "Pepperfry - Online Furniture Store",
+        "icon": "https://lh3.googleusercontent.com/DRUl_Itt6wKtdfGRAOuSRHaXz9pVhNEgS1C-f2jylSbDMZxh_PNyRO2ZdnY-kCcznnoC",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/j2SphaMixrM",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28845,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pepperfry",
+        "updated": "July 25, 2019",
+        "size": "9.7M",
+        "installs": "1,000,000+",
+        "current_version": "4.7.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Pepperfry",
+        "developer_email": "appsrus@pepperfry.com",
+        "developer_url": "http://www.pepperfry.com",
+        "developer_address": "801-802, 8th Floor, Tower B, 247 Business Park\nLBS Marg, Vikhroli (West)\nMumbai - 400083",
+        "app_id": "com.app.pepperfry",
+        "url": "https://play.google.com/store/apps/details?id=com.app.pepperfry&hl=en&gl=in"
+    },
+    {
+        "title": "Ferns N Petals: Flowers, Gifts",
+        "icon": "https://lh3.googleusercontent.com/c6sG8C6xSVTSpDfODgJeWswtAZbfn7SX3lqYPPoHJuSKi5U0M9oah9z6LJbuNJRJBB4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25126,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ferns+N+Petals",
+        "updated": "July 25, 2019",
+        "size": "5.8M",
+        "installs": "1,000,000+",
+        "current_version": "2.25.0.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ferns N Petals",
+        "developer_email": "support@fnp.com",
+        "developer_url": "https://www.fnp.com/",
+        "developer_address": "FNP Estates, Ashram Marg, Gadaipur, Mandi Road, New Delhi, Delhi 110030",
+        "app_id": "com.Clairvoyant.FernsAndPetals",
+        "url": "https://play.google.com/store/apps/details?id=com.Clairvoyant.FernsAndPetals&hl=en&gl=in"
+    },
+    {
+        "title": "Hopscotch - Online Shopping for baby & kids",
+        "icon": "https://lh3.googleusercontent.com/mCHYwfOMZ6m_J8TrdFxUOswSHNGqXD_TG6QZYeVquM9rKSDVJY--E4W9nCR5uHLrwg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/gygpO3vUxKE",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40581,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hopscotch",
+        "updated": "July 13, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.9.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hopscotch",
+        "developer_email": "android@hopscotch.in",
+        "developer_url": "http://www.hopscotch.in/",
+        "developer_address": null,
+        "app_id": "in.hopscotch.android",
+        "url": "https://play.google.com/store/apps/details?id=in.hopscotch.android&hl=en&gl=in"
+    },
+    {
+        "title": "Free QR code reader/QR Scanner&Barcode Scanner app",
+        "icon": "https://lh3.googleusercontent.com/f4BnhukTM36SHM_ceySK4whPPW2S26OKVY5Pu2iq93QQF0zp8osuHHIl5NAhaMyk8Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 72642,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Application4u",
+        "updated": "July 15, 2019",
+        "size": "1.9M",
+        "installs": "5,000,000+",
+        "current_version": "2.5.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Application4u",
+        "developer_email": "app4u666@gmail.com",
+        "developer_url": "http://www.application-4u.com",
+        "developer_address": "54, Lane 116, sec.6 Yangping N Rd.",
+        "app_id": "com.application_4u.qrcode.barcode",
+        "url": "https://play.google.com/store/apps/details?id=com.application_4u.qrcode.barcode&hl=en&gl=in"
+    },
+    {
+        "title": "All in One Mobile Recharge - Mobile Recharge App",
+        "icon": "https://lh3.googleusercontent.com/v6dAiPJam6FSZY3B4jlbxjTso7sQKtywTEDdKASNVAezlE0VfG03sTzyDtneT6-SmYez",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 574,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bluepointer.pvt.ltd",
+        "updated": "July 8, 2019",
+        "size": "9.4M",
+        "installs": "100,000+",
+        "current_version": "1.0.15",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bluepointer.pvt.ltd",
+        "developer_email": "bluepointer.pvt.ltd@gmail.com",
+        "developer_url": "https://www.bluepointer-developer.com/privecy-policey-recharge-app",
+        "developer_address": null,
+        "app_id": "com.ankurrajpurohit17.Mobile_Recharge",
+        "url": "https://play.google.com/store/apps/details?id=com.ankurrajpurohit17.Mobile_Recharge&hl=en&gl=in"
+    },
+    {
+        "title": "bbdaily - Online Daily Milk Delivery App",
+        "icon": "https://lh3.googleusercontent.com/1gNLxDbtJ0NJIb_nJJRCOuxNJDf_f8SbF5Zwh2h6MOUpK4ngHphL-GJDWeGgWL6pxA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9456,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bigbasket.com",
+        "updated": "July 23, 2019",
+        "size": "16M",
+        "installs": "500,000+",
+        "current_version": "5.0.14",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Bigbasket.com",
+        "developer_email": "bbdailysupport@bigbasket.com",
+        "developer_url": "http://www.bigbasket.com",
+        "developer_address": null,
+        "app_id": "com.raincan.android.hybrid",
+        "url": "https://play.google.com/store/apps/details?id=com.raincan.android.hybrid&hl=en&gl=in"
+    },
+    {
+        "title": "DMart Online Grocery Shopping - Mumbai & Thane",
+        "icon": "https://lh3.googleusercontent.com/0FxNc84rRnHI3dBapmW6fi6AnJnRS3QrXoCDO3WolHso1-cgeocX_iikjUbsMI0doco",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/wm1I9E0GItc",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10971,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Avenue+E-Commerce+Ltd.",
+        "updated": "July 17, 2019",
+        "size": "12M",
+        "installs": "1,000,000+",
+        "current_version": "2.3.8",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Avenue E-Commerce Ltd.",
+        "developer_email": "customerservice@dmart.in",
+        "developer_url": "http://www.dmart.in",
+        "developer_address": null,
+        "app_id": "in.dmart",
+        "url": "https://play.google.com/store/apps/details?id=in.dmart&hl=en&gl=in"
+    },
+    {
+        "title": "Urbanic - Women Fashion and Lifestyle",
+        "icon": "https://lh3.googleusercontent.com/I1W7axny4hHIr21fXGKqMHFN2A90mYeWJdOMO1DjKeGQzSCTi02GHt309wMNqzv9cld9",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 236,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MAYSQUARE+LIFESTYLE+PRIVATE+LIMITED",
+        "updated": "July 18, 2019",
+        "size": "3.0M",
+        "installs": "100,000+",
+        "current_version": "1.0.27",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MAYSQUARE LIFESTYLE PRIVATE LIMITED",
+        "developer_email": "support@urbanic.com",
+        "developer_url": "http://www.urbanic.com",
+        "developer_address": "602, Naurang House, 21, Kasturba Gandhi Marg, Connaught Place, New Delhi - 110001",
+        "app_id": "com.urbanic",
+        "url": "https://play.google.com/store/apps/details?id=com.urbanic&hl=en&gl=in"
+    },
+    {
+        "title": "Nykaa Fashion \u2013 Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/xssIv0JcnH2J--NNqaW1pFI4az8sfUtndDC1-0VhSpOyaM94_GexXHturGzAivqCrg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "2.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 161,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6882913406687595746",
+        "updated": "July 20, 2019",
+        "size": "15M",
+        "installs": "100,000+",
+        "current_version": "1.2.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Nykaa.com",
+        "developer_email": "appdevelopers@nykaa.com",
+        "developer_url": "https://www.nykaafashion.com",
+        "developer_address": null,
+        "app_id": "com.fsn.nds",
+        "url": "https://play.google.com/store/apps/details?id=com.fsn.nds&hl=en&gl=in"
+    },
+    {
+        "title": "MyGlamm - Buy Makeup Products",
+        "icon": "https://lh3.googleusercontent.com/NTsREtXmJd8MwVyCcNDAL0IRc9Rrk7DavGrkmyBBgTnszVDc7G_E3qxznRb29Q_alw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1318,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MyGlamm",
+        "updated": "July 23, 2019",
+        "size": "10M",
+        "installs": "500,000+",
+        "current_version": "1.4.1",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MyGlamm",
+        "developer_email": "care@myglamm.com",
+        "developer_url": "http://www.myglamm.com",
+        "developer_address": null,
+        "app_id": "com.myglamm.ecommerce",
+        "url": "https://play.google.com/store/apps/details?id=com.myglamm.ecommerce&hl=en&gl=in"
+    },
+    {
+        "title": "Locanto \u2013 FREE CLASSIFIEDS",
+        "icon": "https://lh3.googleusercontent.com/sGRC7D0nW7Z4wsAM_2XBv10C4OfHS8LnqE6xVMghoZycJy2XddLKVYlc4W98X3-6pCrv",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 44941,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Yalwa",
+        "updated": "July 3, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Yalwa",
+        "developer_email": "app-support@locanto.com",
+        "developer_url": "http://www.locanto.info",
+        "developer_address": null,
+        "app_id": "de.locanto.app",
+        "url": "https://play.google.com/store/apps/details?id=de.locanto.app&hl=en&gl=in"
+    },
+    {
+        "title": "Yoli - Hot deals at low price",
+        "icon": "https://lh3.googleusercontent.com/XxEqzqJ67SGidbbyANYRtaBeqtGgW21AlIGjG0Ae0wZ3hwPTUKWm-uF1zw_vQMwhqw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 128,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Yoli+Team",
+        "updated": "July 25, 2019",
+        "size": "4.5M",
+        "installs": "10,000+",
+        "current_version": "0.7.4.1016",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Yoli Team",
+        "developer_email": "ulove.inc@gmail.com",
+        "developer_url": "http://terms.alicdn.com/legal-agreement/terms/suit_bu1_uc/suit_bu1_uc201906180029_27392.html",
+        "developer_address": null,
+        "app_id": "com.uc.alibuy",
+        "url": "https://play.google.com/store/apps/details?id=com.uc.alibuy&hl=en&gl=in"
+    },
+    {
+        "title": "Spoyl: Top Fashion at best prices",
+        "icon": "https://lh3.googleusercontent.com/L5iHZW5y1YXNzFoe9qHaoD_3L8OletrDJzr7SH0Z1P_O4Ktko1MPs57t0gULuX7f02k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NpBFNuCP7v8",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23065,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Spoyl",
+        "updated": "May 27, 2019",
+        "size": "32M",
+        "installs": "1,000,000+",
+        "current_version": "5.0.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location"
+        ],
+        "developer": "Spoyl",
+        "developer_email": "care@spoyl.in",
+        "developer_url": "https://www.spoyl.in",
+        "developer_address": null,
+        "app_id": "com.spoyl.android.activities",
+        "url": "https://play.google.com/store/apps/details?id=com.spoyl.android.activities&hl=en&gl=in"
+    },
+    {
+        "title": "2GUD - Shop Online for Refurbished Products",
+        "icon": "https://lh3.googleusercontent.com/bKi_UJ4lvNHh8fHmBp2eX5X0scwnB2Aunzd8WI3hUqbaM-Xvd7jqnmAkGc7IjN63C8g9",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2917,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "2GUD.com",
+        "updated": "June 13, 2019",
+        "size": "2.9M",
+        "installs": "500,000+",
+        "current_version": "1.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "2GUD.com",
+        "developer_email": "app-admin@2gud.com",
+        "developer_url": "https://www.2gud.com",
+        "developer_address": null,
+        "app_id": "com.toogud.android",
+        "url": "https://play.google.com/store/apps/details?id=com.toogud.android&hl=en&gl=in"
+    },
+    {
+        "title": "SuprDaily - Daily Milk & Grocery Delivery App",
+        "icon": "https://lh3.googleusercontent.com/9WRjrYISic8kszDRqG4Ui0eVnEEv27tOmRi8xRO0oQk5KPpOrmql5ZG86qvOAtTj64c",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7068,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Supr+Daily",
+        "updated": "July 25, 2019",
+        "size": "9.8M",
+        "installs": "500,000+",
+        "current_version": "2.3.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Supr Daily",
+        "developer_email": "care@suprdaily.com",
+        "developer_url": "http://www.suprdaily.com",
+        "developer_address": null,
+        "app_id": "com.supr.suprdaily",
+        "url": "https://play.google.com/store/apps/details?id=com.supr.suprdaily&hl=en&gl=in"
+    },
+    {
+        "title": "Jabong Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/iKa26o8XnL1nzvnPxhcPAFF_PeGd59sZhfk6Bhe16FjHHtgwlqHoXyoRIUnVE7bqI3k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/UVBv5jiR5SY",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 529439,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jabong",
+        "updated": "May 29, 2019",
+        "size": "10M",
+        "installs": "10,000,000+",
+        "current_version": "5.7.1",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Jabong",
+        "developer_email": "android@jabong.com",
+        "developer_url": "https://www.jabong.com",
+        "developer_address": null,
+        "app_id": "com.jabong.android",
+        "url": "https://play.google.com/store/apps/details?id=com.jabong.android&hl=en&gl=in"
+    },
+    {
+        "title": "Barcode Scanner Pro",
+        "icon": "https://lh3.googleusercontent.com/pSFlU7vAakyZhuczm_BTz-rNZ-6qM73pDX22spOuBU_R4_rdof3944Pk_33Pz3PDX7M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 153218,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Geeks.Lab.2015",
+        "updated": "April 22, 2019",
+        "size": "2.2M",
+        "installs": "10,000,000+",
+        "current_version": "1.2.95",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Geeks.Lab.2015",
+        "developer_email": "geeks.lab.2015@gmail.com",
+        "developer_url": "http://geekslab-privacypolicy.blogspot.com",
+        "developer_address": "AnNingZhuang West Road No.15, Haidian District, Beijing, China",
+        "app_id": "com.geekslab.qrbarcodescanner.pro",
+        "url": "https://play.google.com/store/apps/details?id=com.geekslab.qrbarcodescanner.pro&hl=en&gl=in"
+    },
+    {
+        "title": "Shoppers Stop Fashion Shopping",
+        "icon": "https://lh3.googleusercontent.com/pXsjPSuFjJ7FjIzHpa2cTITH9krQMlUC_SJ8wxNWnLbGb5nhrxk-duoIfV8Zrx1hTw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15170,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Shoppers+Stop",
+        "updated": "July 25, 2019",
+        "size": "22M",
+        "installs": "1,000,000+",
+        "current_version": "7.4",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Shoppers Stop",
+        "developer_email": "customercare@shoppersstop.com",
+        "developer_url": "http://www.shoppersstop.com",
+        "developer_address": null,
+        "app_id": "shoppersstop.shoppersstop",
+        "url": "https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en&gl=in"
+    },
+    {
+        "title": "Coutloot - Buy & Sell Online",
+        "icon": "https://lh3.googleusercontent.com/5qrUkM8nbtSycUFsV6LDdbvYsKMP9PA74X-wlvdQ_gL4A2DN57lf-LEy9Myx0IGcCo3C",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/r3gxTscfOF8",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6576,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CoutLoot",
+        "updated": "July 22, 2019",
+        "size": "12M",
+        "installs": "1,000,000+",
+        "current_version": "5.8.70",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "CoutLoot",
+        "developer_email": "hi@coutloot.com",
+        "developer_url": "http://www.coutloot.com",
+        "developer_address": null,
+        "app_id": "company.coutloot",
+        "url": "https://play.google.com/store/apps/details?id=company.coutloot&hl=en&gl=in"
+    },
+    {
+        "title": "Money Transfer India, BHIM UPI app, Recharge & Pay",
+        "icon": "https://lh3.googleusercontent.com/q4JbbG9M_dMRIBvXZx78eRh3QHpmksttbnDYHyyJgPmJUnIfh0kHUp3ENA1BaAHyM8o",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/HvcSs3yuHNM",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12622,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "UltraCash",
+        "updated": "July 25, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "1.9.39",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "UltraCash",
+        "developer_email": "support@ultracash.com",
+        "developer_url": "https://m.ultracash.in",
+        "developer_address": null,
+        "app_id": "com.ultracash.payment.customer",
+        "url": "https://play.google.com/store/apps/details?id=com.ultracash.payment.customer&hl=en&gl=in"
+    },
+    {
+        "title": "Paytm Mall: Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/7NwF3V-2xx4xRmMRbGXjdCeK7UMJ2D-BmZnGgGMEsbGcR-J1rc3W6BaboH-TuSh6hA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/b3pxzwakTeo",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 174140,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5032485548806526009",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "4.2.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "Paytm - One97 Communications Ltd.",
+        "developer_email": "sales@paytm.com",
+        "developer_url": "https://paytmmall.com",
+        "developer_address": "B-121, Sector 5, Noida, UP, 201301",
+        "app_id": "com.paytmmall",
+        "url": "https://play.google.com/store/apps/details?id=com.paytmmall&hl=en&gl=in"
+    },
+    {
+        "title": "Amazon Assistant",
+        "icon": "https://lh3.googleusercontent.com/mIeBLLu8xOi-1bPbtRO_HYb5d1VchJDLDH4hebMO7R-GNOfueGDtHCKgPWFjwyCAORQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 44088,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Assistant",
+        "updated": "July 3, 2019",
+        "size": "11M",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Amazon Assistant",
+        "developer_email": "assistantfeedback@amazon.com",
+        "developer_url": "http://www.amazon.com",
+        "developer_address": null,
+        "app_id": "com.amazon.aa",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.aa&hl=en&gl=in"
+    },
+    {
+        "title": "Phone Case Maker - Custom Mobile Cover T Shirt Mug",
+        "icon": "https://lh3.googleusercontent.com/lEv4X8VWzH3L2DWQna-UFrNkSGNP5PCBDkcCRnuAFry1e701bDufAH6hhjAndzQXsX8I",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/O79TI8ET1s8",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5068,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Out+thinking+electronics+private+limited",
+        "updated": "July 23, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "1.63",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Out thinking electronics private limited",
+        "developer_email": "outthinkingelectronics@gmail.com",
+        "developer_url": "http://dailyorders.com",
+        "developer_address": null,
+        "app_id": "com.electronics.phonecasemaker",
+        "url": "https://play.google.com/store/apps/details?id=com.electronics.phonecasemaker&hl=en&gl=in"
+    },
+    {
+        "title": "Koovs Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/4YQ4eS67H6pLnABtgT2-k3LGtDvbd9OwMVa5tzxzZoW2Gz2Iq0Se7-XrYtTr4HX8lLJw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/J2l4IALMG1Q",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 47089,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "KOOVS",
+        "updated": "July 23, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "3.17.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "KOOVS",
+        "developer_email": "info@koovs.com",
+        "developer_url": "http://www.koovs.com",
+        "developer_address": null,
+        "app_id": "com.koovs.fashion",
+        "url": "https://play.google.com/store/apps/details?id=com.koovs.fashion&hl=en&gl=in"
+    },
+    {
+        "title": "Coolwinks.com - Eyeglasses & Sunglasses",
+        "icon": "https://lh3.googleusercontent.com/IZ70AJHqx9UdRul9NwNho_h9_R-hqnGZnPgEQpux40Y76HKdc4s0XssBksGqUewVgQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XzbuRb9chTs",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 52784,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Coolwinks+Technologies+Private+Limited",
+        "updated": "July 8, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "3.471",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Coolwinks Technologies Private Limited",
+        "developer_email": "coolwinksapp@coolwinks.com",
+        "developer_url": "http://www.coolwinks.com",
+        "developer_address": null,
+        "app_id": "com.coolwinks.cwapp",
+        "url": "https://play.google.com/store/apps/details?id=com.coolwinks.cwapp&hl=en&gl=in"
+    },
+    {
+        "title": "Decathlon Online Shopping App",
+        "icon": "https://lh3.googleusercontent.com/6EGuPlhYD2SBdYW9bEFSiam3NvPCIdSRhdY74NCJuKOYz8NHh6KN2O9sa6IzZf06ng",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2700,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Decathlon+IN",
+        "updated": "July 17, 2019",
+        "size": "5.9M",
+        "installs": "100,000+",
+        "current_version": "2.21",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Decathlon IN",
+        "developer_email": "app.publisher@decathlon.com",
+        "developer_url": "https://www.decathlon.in",
+        "developer_address": null,
+        "app_id": "com.evamall.evacustomer",
+        "url": "https://play.google.com/store/apps/details?id=com.evamall.evacustomer&hl=en&gl=in"
+    },
+    {
+        "title": "Fresh To Home Fresh Fish, Meat",
+        "icon": "https://lh3.googleusercontent.com/kCqhU4WXvAA2JDicx7czWPnZANfvpeJAI2rwkS3ckvVBDiKjU5XEdqwAB4D5vBmHYwkp",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ZPKVsLw-5FE",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17122,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "freshtohome.com",
+        "updated": "July 22, 2019",
+        "size": "7.7M",
+        "installs": "500,000+",
+        "current_version": "1.17.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "freshtohome.com",
+        "developer_email": "developer@freshtohome.com",
+        "developer_url": "https://www.freshtohome.com",
+        "developer_address": null,
+        "app_id": "com.freshtohome",
+        "url": "https://play.google.com/store/apps/details?id=com.freshtohome&hl=en&gl=in"
+    },
+    {
+        "title": "Jiji Ghana - Buy & Sell (OLX Ghana)",
+        "icon": "https://lh3.googleusercontent.com/Q_FZHnXLHL936LKxcH6EfOBnfuNPyq-bdP1-iVfykPGYVN8hVI7vA5_FhUn1BONyoBY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18987,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jiji+Group",
+        "updated": "July 14, 2019",
+        "size": "20M",
+        "installs": "1,000,000+",
+        "current_version": "4.2.2.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jiji Group",
+        "developer_email": "support@jiji.com.gh",
+        "developer_url": "https://jiji.com.gh",
+        "developer_address": null,
+        "app_id": "com.olx.ssa.gh",
+        "url": "https://play.google.com/store/apps/details?id=com.olx.ssa.gh&hl=en&gl=in"
+    },
+    {
+        "title": "Home Centre India",
+        "icon": "https://lh3.googleusercontent.com/PeQcNlD9RECQI81xavrxqh7UZ1eYaQhY6-il279b2PVM_zrgDmbnwfrweZFInW4L5sI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3776,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Landmark+Online+India+Pvt.+Ltd.",
+        "updated": "July 25, 2019",
+        "size": "14M",
+        "installs": "500,000+",
+        "current_version": "6.17",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Landmark Online India Pvt. Ltd.",
+        "developer_email": "help@homecentre.in",
+        "developer_url": "http://www.homecentre.in",
+        "developer_address": null,
+        "app_id": "com.applications.homecentre",
+        "url": "https://play.google.com/store/apps/details?id=com.applications.homecentre&hl=en&gl=in"
+    },
+    {
+        "title": "NexMoney App Wallet: Innovative Ways Of Earning...",
+        "icon": "https://lh3.googleusercontent.com/DG4lfHmeggpOCW9X6caADVT9YoTMPWuznhGdoHoA3UF5pDM3s15QB3vcPeik1QP-8Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4250,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7735874120413526431",
+        "updated": "June 5, 2019",
+        "size": "13M",
+        "installs": "100,000+",
+        "current_version": "9.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NexGeN INVENTIVE INFORMATION TECHNOLOGY PVT LTD",
+        "developer_email": "admin@nexmoney.in",
+        "developer_url": "https://www.nexmoney.in",
+        "developer_address": "NexGeN INVENTIVE INFORMATION TECHNOLOGY PVT LTD, Office No. 1417/18,\nKasba Peth, Infront of Saniwarwada,Pune,Maharashtra.\n411011",
+        "app_id": "com.nexgen.nexmoney",
+        "url": "https://play.google.com/store/apps/details?id=com.nexgen.nexmoney&hl=en&gl=in"
+    },
+    {
+        "title": "eBay Online Shopping - Buy and Sell This Summer",
+        "icon": "https://lh3.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2934419,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6005619443614255030",
+        "updated": "July 22, 2019",
+        "size": "40M",
+        "installs": "100,000,000+",
+        "current_version": "5.33.1.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "eBay Mobile",
+        "developer_email": "androidhelp@ebay.com",
+        "developer_url": "http://www.ebay.com",
+        "developer_address": null,
+        "app_id": "com.ebay.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.ebay.mobile&hl=en&gl=in"
+    },
+    {
+        "title": "Fresh Meat Online - Licious",
+        "icon": "https://lh3.googleusercontent.com/K2rmZH4UtwEIoB7K_jo8K7e7vPK2hilhwcvf5rCJKd2TThZ9hFMX5yqf8RI2d7XjJLar",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4476,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Delightful+Gourmet+Pvt+Ltd",
+        "updated": "May 27, 2019",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "3.4.20",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Delightful Gourmet Pvt Ltd",
+        "developer_email": "android@licious.in",
+        "developer_url": "https://www.licious.in",
+        "developer_address": null,
+        "app_id": "com.licious",
+        "url": "https://play.google.com/store/apps/details?id=com.licious&hl=en&gl=in"
+    },
+    {
+        "title": "Voylla : Fashion Jewellery Shopping App",
+        "icon": "https://lh3.googleusercontent.com/BbzoRxhYAeW3vm2WsyV5zMdos0REYRHdTuaw_8Lzf-GEcoSk9QG1cp6E63E7t2g3Jg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6832,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Voylla+Fashions",
+        "updated": "July 25, 2019",
+        "size": "9.7M",
+        "installs": "1,000,000+",
+        "current_version": "native-v2.6.1-04-06-2019",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Voylla Fashions",
+        "developer_email": "voyllaretail@gmail.com",
+        "developer_url": "http://www.voylla.com",
+        "developer_address": null,
+        "app_id": "com.voylla.voylla",
+        "url": "https://play.google.com/store/apps/details?id=com.voylla.voylla&hl=en&gl=in"
+    },
+    {
+        "title": "HomeShop Mobile",
+        "icon": "https://lh3.googleusercontent.com/9O7PTg7bO_d_w46Y864pa5alBaxcl_CPQDQZPWIY75jST4OVcfsGylb17B-MGq-6pKQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 86382,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TV18+Home+Shopping+Network+Limited",
+        "updated": "April 8, 2019",
+        "size": "8.4M",
+        "installs": "5,000,000+",
+        "current_version": "3.3.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TV18 Home Shopping Network Limited",
+        "developer_email": "care@homeshop18.com",
+        "developer_url": "https://www.homeshop18.com",
+        "developer_address": null,
+        "app_id": "com.homeshop18.activity",
+        "url": "https://play.google.com/store/apps/details?id=com.homeshop18.activity&hl=en&gl=in"
+    },
+    {
+        "title": "DealShare - Best Deals in India!",
+        "icon": "https://lh3.googleusercontent.com/QPRlPt2umUIakFMlqR1Y8HburDTVqnagnHDFE3UEu3fxycqPicqoLl80oTfIuL7O7Pc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5376,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "dealshare.in",
+        "updated": "July 14, 2019",
+        "size": "16M",
+        "installs": "100,000+",
+        "current_version": "0.1.45",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "dealshare.in",
+        "developer_email": "support@dealshare.in",
+        "developer_url": "https://www.dealshare.in",
+        "developer_address": "JTM Mall, 5th Floor, Jaipur, Rajasthan 302017",
+        "app_id": "com.dealshare",
+        "url": "https://play.google.com/store/apps/details?id=com.dealshare&hl=en&gl=in"
+    },
+    {
+        "title": "Droom: Used & New Car, Bike, Insurance, Loan & RTO",
+        "icon": "https://lh3.googleusercontent.com/0W2unGedMsL9SxN4fL9WbR6fM_thwYGFjP4LaAMibaUL2iFe0vszFzacBvvOCa0Ddw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hIpqlPueK7g",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43194,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Droom+Pte.+Ltd.",
+        "updated": "July 25, 2019",
+        "size": "19M",
+        "installs": "5,000,000+",
+        "current_version": "2.34.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Droom Pte. Ltd.",
+        "developer_email": "app-feedback@droom.in",
+        "developer_url": "https://droom.in/",
+        "developer_address": null,
+        "app_id": "in.droom",
+        "url": "https://play.google.com/store/apps/details?id=in.droom&hl=en&gl=in"
+    },
+    {
+        "title": "Barcode Scanner",
+        "icon": "https://lh3.googleusercontent.com/os72icmFlDtbxpYbZCP-v6kOereSLGDmlKsBl1ISTPdgbcpoc4rSIuXDuoDECvgcvoFJ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 629594,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ZXing+Team",
+        "updated": "February 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ZXing Team",
+        "developer_email": "srowen@gmail.com",
+        "developer_url": "https://github.com/zxing/zxing/wiki/Frequently-Asked-Questions",
+        "developer_address": null,
+        "app_id": "com.google.zxing.client.android",
+        "url": "https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en&gl=in"
+    },
+    {
+        "title": "Jiji.ug - Buy & Sell (OLX Uganda)",
+        "icon": "https://lh3.googleusercontent.com/26F_HQVZy8THwUeiOF6Kx9KVXY2bLJqVVpkLghW-vA2I3VNLj0h7H7SbEdq_yhw0kDI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8005,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jiji+Group",
+        "updated": "July 14, 2019",
+        "size": "20M",
+        "installs": "100,000+",
+        "current_version": "4.2.2.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jiji Group",
+        "developer_email": "support@jiji.ug",
+        "developer_url": "https://jiji.ug",
+        "developer_address": null,
+        "app_id": "com.olx.ssa.ug",
+        "url": "https://play.google.com/store/apps/details?id=com.olx.ssa.ug&hl=en&gl=in"
+    },
+    {
+        "title": "Naaptol: Shop Right Shop More",
+        "icon": "https://lh3.googleusercontent.com/4ptcURtKZfQ1DYQId88-l6Kdq6XtFN1m4YqNR7b45BhEIqWw666kNtNv-XNs9pXWbaLg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18876,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Naaptol.com",
+        "updated": "July 11, 2019",
+        "size": "1.5M",
+        "installs": "1,000,000+",
+        "current_version": "5.0.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Naaptol.com",
+        "developer_email": "mahendra.patil@naaptol.com",
+        "developer_url": "http://www.naaptol.com",
+        "developer_address": null,
+        "app_id": "com.naaptol.NaaptolMobileApp",
+        "url": "https://play.google.com/store/apps/details?id=com.naaptol.NaaptolMobileApp&hl=en&gl=in"
+    },
+    {
+        "title": "NNNOW - Online Fashion Shopping App",
+        "icon": "https://lh3.googleusercontent.com/wvWWdWFDFWTM9YLKdbqzFL_1LezJkrpPUK2c2UBQkw817EzgjV5-AXNtHVynYpCuTsr2",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/_6BnneZFnMU",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1452,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Arvind+Internet",
+        "updated": "June 11, 2019",
+        "size": "8.1M",
+        "installs": "100,000+",
+        "current_version": "1.3.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Arvind Internet",
+        "developer_email": "care@nnnow.com",
+        "developer_url": "https://www.nnnow.com/",
+        "developer_address": null,
+        "app_id": "com.nnnow.arvind",
+        "url": "https://play.google.com/store/apps/details?id=com.nnnow.arvind&hl=en&gl=in"
+    },
+    {
+        "title": "DHgate-Online Wholesale Stores",
+        "icon": "https://lh3.googleusercontent.com/0Kyrv3SbVLdSzZMm2XRQReCFi1bqfbkcx0L2mDWfYjQVkUkOyKHPmAVE0kdqart62pdr",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hrr3Ynwjhq4",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 220678,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "dhgate.com",
+        "updated": "July 19, 2019",
+        "size": "42M",
+        "installs": "10,000,000+",
+        "current_version": "4.8.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "dhgate.com",
+        "developer_email": "dhgate.sjhg@gmail.com",
+        "developer_url": "https://www.dhgate.com",
+        "developer_address": "\u4e2d\u56fd \u5317\u4eac \u6d77\u6dc0\u533a \u6210\u5e9c\u8def28\u53f7\u4f18\u76db\u5927\u53a6A",
+        "app_id": "com.dhgate.buyermob",
+        "url": "https://play.google.com/store/apps/details?id=com.dhgate.buyermob&hl=en&gl=in"
+    },
+    {
+        "title": "All in One Online Shopping - SmartShoppr",
+        "icon": "https://lh3.googleusercontent.com/GKdxTJIO21I3PTsqZ89oaY0dxeWTPWcuhH7TVZ1nmAIAppH4wesKmFT5wdBDytWXKA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/0mbmASRHRog",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16190,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SmartShoppr+:+All-in-1+Online+Shopping+App+by+RTPL",
+        "updated": "May 8, 2019",
+        "size": "4.8M",
+        "installs": "1,000,000+",
+        "current_version": "2.24",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SmartShoppr : All-in-1 Online Shopping App by RTPL",
+        "developer_email": "contact@routogo.com",
+        "developer_url": "https://thesmartshoppr.wordpress.com/2018/01/11/privacy-policy/",
+        "developer_address": "A-220, 3rd Floor, West Vinod Nagar Delhi",
+        "app_id": "shopall.compare.onlineshopping.shopping",
+        "url": "https://play.google.com/store/apps/details?id=shopall.compare.onlineshopping.shopping&hl=en&gl=in"
+    },
+    {
+        "title": "Mobile Price Comparison App",
+        "icon": "https://lh3.googleusercontent.com/YjO3MoN7jv4_OLJGzR4tiekDuJD5Hu-U7D5JTKPz_KdLb2dirsVt3KTKBe2gZpRFtR8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55927,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4641862048407841490",
+        "updated": "March 26, 2019",
+        "size": "10.0M",
+        "installs": "1,000,000+",
+        "current_version": "3.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "91Digital",
+        "developer_email": "appdeveloper@91mobiles.com",
+        "developer_url": "http://www.91mobiles.com",
+        "developer_address": null,
+        "app_id": "com.mob91",
+        "url": "https://play.google.com/store/apps/details?id=com.mob91&hl=en&gl=in"
+    },
+    {
+        "title": "WMall - Shopping at Best Price in Gujarati & Hindi",
+        "icon": "https://lh3.googleusercontent.com/sDHaI1ooXbWAPGmxbiqmSye1MqfxIvQ95IRKcMGYdFhOS5V1S-vcdGcFHj_nLmGUZ2U",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "WMall+E-Commerce+-+Blitzscale+Tech",
+        "updated": "July 24, 2019",
+        "size": "5.6M",
+        "installs": "5,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "WMall E-Commerce - Blitzscale Tech",
+        "developer_email": "help@blitzscale.co",
+        "developer_url": "https://www.wmall.co.in",
+        "developer_address": null,
+        "app_id": "com.wmall.customer",
+        "url": "https://play.google.com/store/apps/details?id=com.wmall.customer&hl=en&gl=in"
+    },
+    {
+        "title": "Spencer's - Online Grocery Shopping App in India",
+        "icon": "https://lh3.googleusercontent.com/rZixmiDxGugZuaJ66925fxLQLMLrz6kb_jF52g9N4VH_X9xEOdg8hgccSU9lCDlmLPs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4839,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Omnipresent+Retail+India+Private+Limited",
+        "updated": "May 3, 2019",
+        "size": "18M",
+        "installs": "500,000+",
+        "current_version": "3.4.12",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Omnipresent Retail India Private Limited",
+        "developer_email": "customercare@spencers.in",
+        "developer_url": "http://www.spencers.in/",
+        "developer_address": null,
+        "app_id": "com.bsl.spencers.activity",
+        "url": "https://play.google.com/store/apps/details?id=com.bsl.spencers.activity&hl=en&gl=in"
+    },
+    {
+        "title": "CashKaro - Highest Cashback & Best Coupons \u2605\u2605\u2605\u2605\u2605",
+        "icon": "https://lh3.googleusercontent.com/GcZhHZB4JL4Hu-CLjpA5jnp4pOBTtgFlk5vOKJo2zE5-wqDECZ8xLLdVZJEeizGpZg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3482,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CashKaro",
+        "updated": "February 12, 2019",
+        "size": "8.6M",
+        "installs": "500,000+",
+        "current_version": "1.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CashKaro",
+        "developer_email": "contact@cashkaro.com",
+        "developer_url": "https://cashkaro.com/",
+        "developer_address": null,
+        "app_id": "com.cashkaro",
+        "url": "https://play.google.com/store/apps/details?id=com.cashkaro&hl=en&gl=in"
+    },
+    {
+        "title": "Online Shopping Low Price App",
+        "icon": "https://lh3.googleusercontent.com/wHCqF335g-JAaDL-DS-l-Q0Mwb_kbcr1AMXAhUDdYl-llrKCxpu0I4dJiFRwtb3F",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/IC7RnVh3SsA",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3937,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Online+Shopping+India+apps",
+        "updated": "January 18, 2019",
+        "size": "6.7M",
+        "installs": "1,000,000+",
+        "current_version": "1.3.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Online Shopping India apps",
+        "developer_email": "onlineshoppingindia11@gmail.com",
+        "developer_url": "https://secure.shopershop.in",
+        "developer_address": null,
+        "app_id": "in.azshoplife.onlineshoppinglowprice",
+        "url": "https://play.google.com/store/apps/details?id=in.azshoplife.onlineshoppinglowprice&hl=en&gl=in"
+    },
+    {
+        "title": "Milkbasket - Hasslefree Daily Grocery Delivery",
+        "icon": "https://lh3.googleusercontent.com/0ULjnMg094p1yfzboRwTMBWhbzvfmDJsfNvIBfGN_5WglGYjZ8MCFrb2MSlnF6cQcWk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7495,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Milkbasket",
+        "updated": "July 18, 2019",
+        "size": "14M",
+        "installs": "500,000+",
+        "current_version": "3.4.6",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Milkbasket",
+        "developer_email": "hello@milkbasket.com",
+        "developer_url": "https://www.milkbasket.com",
+        "developer_address": null,
+        "app_id": "com.milkbasket.app",
+        "url": "https://play.google.com/store/apps/details?id=com.milkbasket.app&hl=en&gl=in"
+    },
+    {
+        "title": "PrimeCash PRO Games, ViralNews, Coupons & Shopping",
+        "icon": "https://lh3.googleusercontent.com/YXnEH_kKEvv2l14Qj_9uze2NFycRaX1L5K1TgxjAUB_rUPZSgUp1532fN2TTW4O2OA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1183,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GAMEZONE+SOLUTIONS",
+        "updated": "May 25, 2019",
+        "size": "9.2M",
+        "installs": "100,000+",
+        "current_version": "2.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "GAMEZONE SOLUTIONS",
+        "developer_email": "info@primecashpro.com",
+        "developer_url": "http://primecashpro.com/privacypolicy.html",
+        "developer_address": null,
+        "app_id": "com.primecashpro",
+        "url": "https://play.google.com/store/apps/details?id=com.primecashpro&hl=en&gl=in"
+    },
+    {
+        "title": "Men Shoes Online Shopping India",
+        "icon": "https://lh3.googleusercontent.com/4X8o4w7E5dhfW6tPlndNCZ_wdzI1ZDp2LMlyBp3d6JA6tl1jWmtSAhr4WtLBJoUUscrX",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2613,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5825964011300965729",
+        "updated": "July 5, 2019",
+        "size": "2.2M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Divyam Infotech Private Limited",
+        "developer_email": "support@looksgud.in",
+        "developer_url": "https://www.looksgud.in?utm_source=men-footwear-page",
+        "developer_address": null,
+        "app_id": "in.looksgud.menshoesshopping",
+        "url": "https://play.google.com/store/apps/details?id=in.looksgud.menshoesshopping&hl=en&gl=in"
+    },
+    {
+        "title": "bb-instant",
+        "icon": "https://lh3.googleusercontent.com/JUbkk7DLkopAUwwfE9-qQrQRq0dJMNXxNOf_5acCvbgBtWkqham5cY1CZ_L5XecJY9c",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1001,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bigbasket.com",
+        "updated": "July 22, 2019",
+        "size": "8.6M",
+        "installs": "100,000+",
+        "current_version": "4.14.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bigbasket.com",
+        "developer_email": "bbinstant@bigbasket.com",
+        "developer_url": "http://bbinstant.bigbasket.com/",
+        "developer_address": null,
+        "app_id": "com.bigbasket.bbinstant",
+        "url": "https://play.google.com/store/apps/details?id=com.bigbasket.bbinstant&hl=en&gl=in"
+    },
+    {
+        "title": "Lulu & Sky - ONLINE SHOPPING APP",
+        "icon": "https://lh3.googleusercontent.com/FjouiG_xbnlhQ6du7Y3se3dSkSOirMk0yCxh-dYdOUU-ycDKfrXb1MuEbGwGhdhF6A",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/sYFMNiGkpzU",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2629,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Lulu+%26+Sky",
+        "updated": "July 24, 2019",
+        "size": "17M",
+        "installs": "100,000+",
+        "current_version": "8.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Lulu & Sky",
+        "developer_email": "contact@luluandsky.com",
+        "developer_url": "https://www.luluandsky.com",
+        "developer_address": "F 1/5, Okhla Industrial Area Phase-1, New Delhi - 110020, Delhi, India",
+        "app_id": "com.unify.luluandsky",
+        "url": "https://play.google.com/store/apps/details?id=com.unify.luluandsky&hl=en&gl=in"
+    },
+    {
+        "title": "TenderCuts - Farm Fresh Meat & Fresh Fish",
+        "icon": "https://lh3.googleusercontent.com/vZrFfaKaFfl386ZBKQGTwPLmLclpiaLcLq6qpW8oQsNQC-cej3Uv0zmPuIoijCB7XzQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1488,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GFM+Retail",
+        "updated": "July 18, 2019",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "3.3.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GFM Retail",
+        "developer_email": "tech@tendercuts.in",
+        "developer_url": "https://tendercuts.in",
+        "developer_address": null,
+        "app_id": "com.tendercuts.app",
+        "url": "https://play.google.com/store/apps/details?id=com.tendercuts.app&hl=en&gl=in"
+    },
+    {
+        "title": "Galwaykart",
+        "icon": "https://lh3.googleusercontent.com/DFjXdkEu80lO6uXHb90XYMoueWIW4t0NtOxfUJRZAsl5vfOB5qyr-A90eseZpxCzjOA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5073,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Glaze+Trading+India+Pvt+Ltd",
+        "updated": "July 24, 2019",
+        "size": "5.7M",
+        "installs": "100,000+",
+        "current_version": "9.8.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Glaze Trading India Pvt Ltd",
+        "developer_email": "Support@galwaykart.com",
+        "developer_url": "http://www.globalglaze.in",
+        "developer_address": null,
+        "app_id": "com.galwaykart",
+        "url": "https://play.google.com/store/apps/details?id=com.galwaykart&hl=en&gl=in"
+    },
+    {
+        "title": "Gramophone - Krishi Mitra, Agriculture App",
+        "icon": "https://lh3.googleusercontent.com/UuzlN41A52HOcGqXhcdnXqzOVDi8rIfemA1415Svrz7jTeRryAj_potS_0VolLzUGkdZ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 474,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Gramophone",
+        "updated": "June 17, 2019",
+        "size": "9.5M",
+        "installs": "100,000+",
+        "current_version": "3.0.2",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Gramophone",
+        "developer_email": "info@gramophone.co.in",
+        "developer_url": "http://www.gramophone.in",
+        "developer_address": "41, Veer Savarkar Nagar, Indore, Madhya Pradesh - 452012",
+        "app_id": "agstack.gramophone",
+        "url": "https://play.google.com/store/apps/details?id=agstack.gramophone&hl=en&gl=in"
+    },
+    {
+        "title": "Sell at Cost",
+        "icon": "https://lh3.googleusercontent.com/zTd-LDEJrKB0fp1U_FRkNt3YJTAQjsU2cRCqp_mruEOQ0WsHPND5QvDC7TpvG-tUIuw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "2.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3030,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Shixingzhe+Limited",
+        "updated": "February 18, 2019",
+        "size": "3.5M",
+        "installs": "500,000+",
+        "current_version": "1.1.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Shixingzhe Limited",
+        "developer_email": "yuyiema@gmail.com",
+        "developer_url": "http://m.sellatcost.in/",
+        "developer_address": null,
+        "app_id": "in.sellatcost.sacapp",
+        "url": "https://play.google.com/store/apps/details?id=in.sellatcost.sacapp&hl=en&gl=in"
+    },
+    {
+        "title": "Amway India",
+        "icon": "https://lh3.googleusercontent.com/gTDzlveoDD6Lkc-dolr9_J2lLKgJWrnvBsN9D6iJB5AOHuYwoKysACbstwqwsAdt6Yo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9428,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amway+India+Official",
+        "updated": "May 9, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "2.1.8",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Amway India Official",
+        "developer_email": "amwayapp@amway.com",
+        "developer_url": "http://www.amway.in",
+        "developer_address": null,
+        "app_id": "com.orgname.amwaymcommerce",
+        "url": "https://play.google.com/store/apps/details?id=com.orgname.amwaymcommerce&hl=en&gl=in"
+    },
+    {
+        "title": "ShareSave - Shop and Save BIG with Xiaomi",
+        "icon": "https://lh3.googleusercontent.com/5q94Oun81zpYmpU9UGHtmt5mjGSErEacYMJkvF5qH22MTxeAQeOEEx6nWU_FSULtzw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3201,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Xiaomi",
+        "updated": "May 31, 2019",
+        "size": "9.3M",
+        "installs": "100,000+",
+        "current_version": "1.5.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Xiaomi",
+        "developer_email": "sharesavesupport@xiaomi.com",
+        "developer_url": "https://sharesave.mi.com/",
+        "developer_address": null,
+        "app_id": "com.mi.global.jointly",
+        "url": "https://play.google.com/store/apps/details?id=com.mi.global.jointly&hl=en&gl=in"
+    }
+]

@@ -1,0 +1,4404 @@
+[
+    {
+        "title": "Samsung Notes",
+        "icon": "https://lh3.googleusercontent.com/GsNdpuskXyDTlc5jOoT3M425gZVNdl49bAk0TmGDQUmEbs9uTWlDVEqI9varcaUHi43z",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 51628,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5200379633052405703",
+        "updated": "February 15, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Samsung Electronics Co.,  Ltd.",
+        "developer_email": "noreply.sec@samsung.com",
+        "developer_url": "https://account.samsung.com/membership/pp",
+        "developer_address": "129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, 16677, Rep. of KOREA",
+        "app_id": "com.samsung.android.app.notes",
+        "url": "https://play.google.com/store/apps/details?id=com.samsung.android.app.notes&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft Outlook",
+        "icon": "https://lh3.googleusercontent.com/Zk9elS0eGXDr0L4W6-Ey7YwHbRNjkyezHC8iCc8rWp64lNIjlByS8TDF9qDSZbiEWY4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4229087,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Microsoft Corporation",
+        "developer_email": "noreply@microsoft.com",
+        "developer_url": "http://aka.ms/outlookFAQ",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.office.outlook",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en&gl=us"
+    },
+    {
+        "title": "Antivirus Free 2019 - Scan & Remove Virus, Cleaner",
+        "icon": "https://lh3.googleusercontent.com/DtoMiG4PsV_O6uYz9EHPU4fUnB86lWLLYIxDQ7FuuGTE50vHSI9WaHCrJVb_sdNF42U",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 937630,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7702189469562675193",
+        "updated": "July 19, 2019",
+        "size": "11M",
+        "installs": "50,000,000+",
+        "current_version": "1.3.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$11.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Hyper Speed.",
+        "developer_email": "developer.hyperspeed@outlook.com",
+        "developer_url": "http://8ae73b29a9b7396a47b73cc5549e5716-store.appcloudbox.net",
+        "developer_address": "Unit 701-702, 710-711 of the Building\nTower 2, Silvercord, No. 30 Canton Road, Kowloon",
+        "app_id": "com.rocket.tools.clean.antivirus.master",
+        "url": "https://play.google.com/store/apps/details?id=com.rocket.tools.clean.antivirus.master&hl=en&gl=us"
+    },
+    {
+        "title": "McAfee\u00ae Security for Metro\u00ae",
+        "icon": "https://lh3.googleusercontent.com/b2KNCnCMJHhyE-5lf_jFpYBwv8spmBO6PNeFOeN5k6QVfQYVWOEBLXl7ZvzRsjy6uvo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 873,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "McAfee+LLC",
+        "updated": "July 12, 2019",
+        "size": "25M",
+        "installs": "100,000+",
+        "current_version": "5.2.0.359",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "McAfee LLC",
+        "developer_email": "Mobile_Support@mcafee.com",
+        "developer_url": "http://www.mcafee.com",
+        "developer_address": "McAfee Inc., Headquarters\n2821 Mission College Blvd.\nSanta Clara, CA 95054\nUSA",
+        "app_id": "com.wsandroid.suite.metropcs",
+        "url": "https://play.google.com/store/apps/details?id=com.wsandroid.suite.metropcs&hl=en&gl=us"
+    },
+    {
+        "title": "AppLock - Lock Apps, PIN & Pattern Lock",
+        "icon": "https://lh3.googleusercontent.com/Ryc6TIfWh3GHp1ywcScVp17_ky2t2kpFx33hlHm-oNgpEAnIqMBf_FnIzgdb3o_zZVGG",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 454772,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7702189469562675193",
+        "updated": "July 18, 2019",
+        "size": "7.2M",
+        "installs": "10,000,000+",
+        "current_version": "1.1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hyper Speed.",
+        "developer_email": "developer.hyperspeed@outlook.com",
+        "developer_url": "http://decd8083e090851baa7761d1b5879ce1-store.appcloudbox.net",
+        "developer_address": "Unit 701-702, 710-711 of the Building\nTower 2, Silvercord, No. 30 Canton Road, Kowloon",
+        "app_id": "com.hyperspeed.rocket.applock.free",
+        "url": "https://play.google.com/store/apps/details?id=com.hyperspeed.rocket.applock.free&hl=en&gl=us"
+    },
+    {
+        "title": "Adobe Acrobat Reader: PDF Viewer, Editor & Creator",
+        "icon": "https://lh3.googleusercontent.com/34NjQBEM7e0_bpGQjib5ocfBwDu4x6YNxCXaqW_EpZJYnCz_j23-8p7s6R7rMnjVQ3q8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3359966,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4734916851270416020",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Adobe",
+        "developer_email": "adobereader-android@adobe.com",
+        "developer_url": "http://blogs.adobe.com/readermobile/",
+        "developer_address": "Adobe Systems Incorporated\n345 Park Avenue\nSan Jose, CA 95110-2704",
+        "app_id": "com.adobe.reader",
+        "url": "https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en&gl=us"
+    },
+    {
+        "title": "Your Phone Companion",
+        "icon": "https://lh3.googleusercontent.com/z5YSgrDgdBbVQejCzipNpUkLnRLYVUrHDLFpe4ZDz9lLZ-dM0XaUaYyv2X9gwzV-iEU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45876,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 24, 2019",
+        "size": "25M",
+        "installs": "10,000,000+",
+        "current_version": "3.5.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Microsoft Corporation",
+        "developer_email": "app-manager-feedback@microsoft.com",
+        "developer_url": "http://www.microsoft.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.appmanager",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.appmanager&hl=en&gl=us"
+    },
+    {
+        "title": "Google Docs",
+        "icon": "https://lh3.googleusercontent.com/NNP08MjBoIrYbgiTnUsaNepMh6QhH0UqHSUtbEJEIBPfogcx27X-KkwUU94yL8lw_A",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ex185KgkgBQ",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1064534,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/docs/?p=android_docs_help",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.docs.editors.docs",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=us"
+    },
+    {
+        "title": "Google Assistant - Get things done, hands-free",
+        "icon": "https://lh3.googleusercontent.com/ORzWxi-sIo_hCgSa6uzVvBUE4osKUqRVzHnniUUxA2WXD7BnZ95BNVpWFLUTKRyJRdU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 139812,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "March 9, 2018",
+        "size": "1.3M",
+        "installs": "10,000,000+",
+        "current_version": "0.1.187945513",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://assistant.google.com/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.googleassistant",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft Word: Write, Edit & Share Docs on the Go",
+        "icon": "https://lh3.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3588501,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6720847872553662727",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.00",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "offandro@microsoft.com",
+        "developer_url": "https://products.office.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.office.word",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.word&hl=en&gl=us"
+    },
+    {
+        "title": "Google Calendar",
+        "icon": "https://lh3.googleusercontent.com/oGR9I1X9No3SfFEXrq655tETtVVzI3jIphhmEVPGPEVuM5gfwh8lOGWHQFf6gjSTvw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/MSTmkvn060E",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1037395,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://support.google.com/calendar?p=mobilesync",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.calendar",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=us"
+    },
+    {
+        "title": "Dropbox",
+        "icon": "https://lh3.googleusercontent.com/40Q7mls-oIugtGd-JxCugHoNAZO8hwLw67Z2IgbTQ3wj1JMNvUenobtvsx1XAHGDqfRm",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1945158,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Dropbox,+Inc.",
+        "updated": "July 24, 2019",
+        "size": "47M",
+        "installs": "500,000,000+",
+        "current_version": "152.2.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$11.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Dropbox, Inc.",
+        "developer_email": "android-feedback@dropbox.com",
+        "developer_url": "https://www.dropbox.com",
+        "developer_address": "Dropbox, Inc.\n333 Brannan St\nSan Francisco, CA 94107",
+        "app_id": "com.dropbox.android",
+        "url": "https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en&gl=us"
+    },
+    {
+        "title": "Super Phone Cleaner: Virus Cleaner, Phone Cleaner",
+        "icon": "https://lh3.googleusercontent.com/VPpKEenLQJMADVNIvPRXZ8PquGmxAhcmCJSXeTthO6kMX4rjBRbQCLReRSUvPaEquQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 920733,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7702189469562675193",
+        "updated": "June 28, 2019",
+        "size": "11M",
+        "installs": "50,000,000+",
+        "current_version": "1.5.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$11.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Hyper Speed.",
+        "developer_email": "developer.hyperspeed@outlook.com",
+        "developer_url": "http://df986f78ff65cb27159d51a15b147658-store.appcloudbox.net",
+        "developer_address": "Unit 701-702, 710-711 of the Building\nTower 2, Silvercord, No. 30 Canton Road, Kowloon",
+        "app_id": "com.hyperspeed.rocketclean.pro",
+        "url": "https://play.google.com/store/apps/details?id=com.hyperspeed.rocketclean.pro&hl=en&gl=us"
+    },
+    {
+        "title": "Google Sheets",
+        "icon": "https://lh3.googleusercontent.com/RYEyviCFtwVsRHolYDHbnuDf6s9FEttJmPT-6W0ZY0xYwcmEQsG5glDV-h2afrNIFnB_",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/v20iyzwjDLc",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 641738,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/docs/?p=android_sheets_help",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.docs.editors.sheets",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&hl=en&gl=us"
+    },
+    {
+        "title": "Super-Bright LED Flashlight",
+        "icon": "https://lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3jxyd6ruj9U",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9197505,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5592031534971355323",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ONE App Essentials.",
+        "developer_email": "oneappessentials@outlook.com",
+        "developer_url": "http://641fac26c305ca8b1bcc43f5037e8a14-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.surpax.ledflashlight.panel",
+        "url": "https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel&hl=en&gl=us"
+    },
+    {
+        "title": "HP Smart",
+        "icon": "https://lh3.googleusercontent.com/JvnL83mLA8G1QHwbsYuHM_Iw6qBcrZrn5QhirpiOVdsOSRU9AhBdGsPyYm2Ru9BK_q4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 121618,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9030305074573031837",
+        "updated": "July 16, 2019",
+        "size": "23M",
+        "installs": "10,000,000+",
+        "current_version": "6.3.189",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HP Inc.",
+        "developer_email": "Hp-smart-android-feedback@hp.com",
+        "developer_url": "http://www.hp.com/go/mobileprinting",
+        "developer_address": "Attn: HP Inc. App Store Manager\n16399 West Bernardo Dr.\nMS 65-220\nSan Diego, CA 92127",
+        "app_id": "com.hp.printercontrol",
+        "url": "https://play.google.com/store/apps/details?id=com.hp.printercontrol&hl=en&gl=us"
+    },
+    {
+        "title": "Content Transfer",
+        "icon": "https://lh3.googleusercontent.com/xRoXSMzCR6SQgibCs24IZICDo5OIcUJU2YDGh-zn3xqJPocf6MLanwHMmMbQN1_7Yys1",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35783,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Verizon+-+VZ",
+        "updated": "May 29, 2019",
+        "size": "7.4M",
+        "installs": "5,000,000+",
+        "current_version": "3.5.16",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Verizon - VZ",
+        "developer_email": "ctapp@verizon.com",
+        "developer_url": "http://www.verizonwireless.com",
+        "developer_address": "One Verizon Way, Basking Ridge, New Jersey",
+        "app_id": "com.verizon.contenttransfer",
+        "url": "https://play.google.com/store/apps/details?id=com.verizon.contenttransfer&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft Excel: View, Edit, & Create Spreadsheets",
+        "icon": "https://lh3.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1928272,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6720847872553662727",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.00",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "offandro@microsoft.com",
+        "developer_url": "https://products.office.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.office.excel",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.excel&hl=en&gl=us"
+    },
+    {
+        "title": "HP Print Service Plugin",
+        "icon": "https://lh3.googleusercontent.com/kfg71sF9VqFDT9eQVjDe62PPgEZYSX3e3la5C6ESnC9dZ-ND1p0lzoDYI7AMyrjO4fA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2165496,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9030305074573031837",
+        "updated": "July 18, 2019",
+        "size": "30M",
+        "installs": "500,000,000+",
+        "current_version": "19.3.138",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HP Inc.",
+        "developer_email": "hp_print_plugin_feedback@hp.com",
+        "developer_url": "http://www.hp.com/go/mobile-printing-solutions",
+        "developer_address": "Attn: HP Inc. App Store Manager\n16399 West Bernardo Dr.\nMS 65-220\nSan Diego, CA 92127",
+        "app_id": "com.hp.android.printservice",
+        "url": "https://play.google.com/store/apps/details?id=com.hp.android.printservice&hl=en&gl=us"
+    },
+    {
+        "title": "Mobizen Screen Recorder - Record, Capture, Edit",
+        "icon": "https://lh3.googleusercontent.com/xCHTzzVqkTPQr0hnnAWWIw2yJRG7tz4dEv_rttJiU1m43doSd6sDQYWV8MBhginGeHaW",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/SKCYdJnUeIw",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2326615,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5054904379876013930",
+        "updated": "June 20, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "3.6.6.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$43.99"
+        ],
+        "interactive_elements": null,
+        "developer": "MOBIZEN",
+        "developer_email": "support@mobizen.zendesk.com",
+        "developer_url": "http://support.mobizen.com/",
+        "developer_address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc1a1\ud30c\uad6c \uc704\ub840\uc131\ub300\ub85c 10  \uc5d0\uc2a4\ud0c0\uc6cc 11~15\uce35, \ubaa8\ube44\uc98c\n10, Wiryeseong-daero, Songpa-gu, Seoul, MOBIZEN",
+        "app_id": "com.rsupport.mvagent",
+        "url": "https://play.google.com/store/apps/details?id=com.rsupport.mvagent&hl=en&gl=us"
+    },
+    {
+        "title": "X Security - Antivirus, Phone Cleaner, Booster",
+        "icon": "https://lh3.googleusercontent.com/GXSS7dGIZE0DmSohTbCeySGl9W1dq6yctsVKxoIUKZxqMZxZ_FJcDiauNvLspPItrg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2061,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Soft365+Ltd.",
+        "updated": "July 19, 2019",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "17.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Soft365 Ltd.",
+        "developer_email": "support@Soft365.us",
+        "developer_url": "https://sites.google.com/view/mobilesucuu",
+        "developer_address": "3617 Cliffside Drive, Oneonta, NY, US",
+        "app_id": "com.virusscan.privacy.fast.cleaner.booster",
+        "url": "https://play.google.com/store/apps/details?id=com.virusscan.privacy.fast.cleaner.booster&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft OneDrive",
+        "icon": "https://lh3.googleusercontent.com/Ip0ssZ4sPJtQARYBaw9dZ7sohyQff4-bfeFqEsb1fTGB6sRSix8NIF1VSXNOdd0Zzww",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1353820,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6720847872553662727",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "5.35.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$6.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "odrvhelp@microsoft.com",
+        "developer_url": "http://answers.microsoft.com/en-us/windowslive/forum/skydrive?auth=1&tab=all",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.skydrive",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.skydrive&hl=en&gl=us"
+    },
+    {
+        "title": "Google One",
+        "icon": "https://lh3.googleusercontent.com/eENVHXXlaBEt0Nkd8smOf8YpqW4xAvLq081vt116TFaqo9YU9-QbDVI8BKtvpuspyakJ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23890,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5700313618786177705",
+        "updated": "July 23, 2019",
+        "size": "6.6M",
+        "installs": "10,000,000+",
+        "current_version": "1.34.256012981",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$299.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://one.google.com/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.subscriptions.red",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red&hl=en&gl=us"
+    },
+    {
+        "title": "Xfinity xFi",
+        "icon": "https://lh3.googleusercontent.com/igt987XxHPpX3yrZUnVdV_09PZdcCQloqsYQlSZJpuDn5SVzWfpKrOssXWeO_3bzNKU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11835,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Comcast",
+        "updated": "July 25, 2019",
+        "size": "77M",
+        "installs": "1,000,000+",
+        "current_version": "2.15.0.20190716190208",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Comcast",
+        "developer_email": "Xfinity_xFi_App@comcast.com",
+        "developer_url": "https://internet.xfinity.com/",
+        "developer_address": "One Comcast Center, 15th Floor\nPhiladelphia, PA 19103",
+        "app_id": "com.xfinity.digitalhome",
+        "url": "https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en&gl=us"
+    },
+    {
+        "title": "AT&T Mobile Transfer",
+        "icon": "https://lh3.googleusercontent.com/Hf_pYHWVnWm_MseRYxoCSdwVB8vJXLd9hwn3ci0rgKB1-b3O2iNd73EW5c9MQ4ktxmXN",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/0itIvYQVEjA",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 32850,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AT%26T+Services,+Inc.",
+        "updated": "May 15, 2019",
+        "size": "21M",
+        "installs": "10,000,000+",
+        "current_version": "3.11.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "AT&T Services, Inc.",
+        "developer_email": "AT&TMobileTransferCustomerFeedback@att.com",
+        "developer_url": "http://www.att.com/mobiletransfer",
+        "developer_address": "208 S Akard St,\n\nDallas, TX 75202 USA",
+        "app_id": "com.att.mobiletransfer",
+        "url": "https://play.google.com/store/apps/details?id=com.att.mobiletransfer&hl=en&gl=us"
+    },
+    {
+        "title": "Google Keep - Notes and Lists",
+        "icon": "https://lh3.googleusercontent.com/zGDJ3nGGv_QqhHoY6wXI1qvG9eo-bj03HGVreITCkr-BIfVfGEvnczJKsNzgiC57Ds0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 807817,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/?p=notes_main",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.keep",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=us"
+    },
+    {
+        "title": "CamScanner - Scanner to scan PDF",
+        "icon": "https://lh3.googleusercontent.com/eWYNxjXiub6-HqtwoS2d4bl-NkqcKgOHansSnXXqje8-K9XLRwflOgEYwSzPMicdAA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/F27UuV-T5jQ",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1802596,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "INTSIG+Information+Co.,Ltd",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$299.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "INTSIG Information Co.,Ltd",
+        "developer_email": "android_support@intsig.com",
+        "developer_url": "http://www.camscanner.net",
+        "developer_address": "Milpitas,CA\n95035",
+        "app_id": "com.intsig.camscanner",
+        "url": "https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=en&gl=us"
+    },
+    {
+        "title": "Free WiFi Passwords and Hotspots by Instabridge",
+        "icon": "https://lh3.googleusercontent.com/OY8-_GwR0BFgCw__VIbXMjPDgnALVnknCvksd-PyzFTpBWM_5eVO8HIdG6cULShcIUc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/53eGMo-unVg",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 283487,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5766113960745724007",
+        "updated": "July 23, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Degoo Backup AB - Cloud",
+        "developer_email": "support@degoo.com",
+        "developer_url": "https://instabridge.com",
+        "developer_address": "Degoo Backup AB\n\u00d6stermalmsgatan 93\n114 59 Stockholm\nSweden",
+        "app_id": "com.instabridge.android",
+        "url": "https://play.google.com/store/apps/details?id=com.instabridge.android&hl=en&gl=us"
+    },
+    {
+        "title": "Alarm Clock for Me free",
+        "icon": "https://lh3.googleusercontent.com/akMP_3et5xbDLKNOyBqsmsujSw9I25U1Y2IkJqWK17ycMyY90ZkdAQPLFhh3KpKww5VI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 546278,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7148047194848561719",
+        "updated": "July 2, 2019",
+        "size": "12M",
+        "installs": "10,000,000+",
+        "current_version": "2.53",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Apalon Apps",
+        "developer_email": "support@apalon.com",
+        "developer_url": "http://www.apalon.com/my_alarm_clock_android.html",
+        "developer_address": "Block D, Iveagh Court\nHarcourt Road\nDublin 2, D02 VH 94 Ireland",
+        "app_id": "com.apalon.myclockfree",
+        "url": "https://play.google.com/store/apps/details?id=com.apalon.myclockfree&hl=en&gl=us"
+    },
+    {
+        "title": "File Magic -JunkFiles, Free up space, VirusCleaner",
+        "icon": "https://lh3.googleusercontent.com/cGcHrhhN2Ptb703BXJt0XQlMClAcAAj5lfVVI7P0AUoEp_LCnuwsWqldR1V8ff4DwQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1854,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PT+Harapan+Karunia+Makmur+%28+HKM+%29",
+        "updated": "July 22, 2019",
+        "size": "11M",
+        "installs": "500,000+",
+        "current_version": "1.2.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PT Harapan Karunia Makmur ( HKM )",
+        "developer_email": "csintelligentearnings@gmail.com",
+        "developer_url": "http://cdn.magicfiles123.com/fm_privacy/privacy_agreement.html",
+        "developer_address": null,
+        "app_id": "com.pobotalab.filemagic",
+        "url": "https://play.google.com/store/apps/details?id=com.pobotalab.filemagic&hl=en&gl=us"
+    },
+    {
+        "title": "myAT&T",
+        "icon": "https://lh3.googleusercontent.com/ggNZIm3f0lESd4GEu2azjLlN-mzlCTc1lqoRUcpwENSKUE3wH5eg0sYocAZ8eiswNw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 122715,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AT%26T+Services,+Inc.",
+        "updated": "June 17, 2019",
+        "size": "58M",
+        "installs": "50,000,000+",
+        "current_version": "6.6",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "AT&T Services, Inc.",
+        "developer_email": "g41808@att.com",
+        "developer_url": "https://m.att.com/myatt",
+        "developer_address": "208 S Akard St,\n\nDallas, TX 75202 USA",
+        "app_id": "com.att.myWireless",
+        "url": "https://play.google.com/store/apps/details?id=com.att.myWireless&hl=en&gl=us"
+    },
+    {
+        "title": "Pop Launcher - Black Emojis & Themes",
+        "icon": "https://lh3.googleusercontent.com/2e6kJyEiXPGV0sv6woSaGV4eIklG18RL7ruaZKikN-_tCUkXGUVCQ99w6YwbXUNpuQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 187997,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5466748676256225329",
+        "updated": "July 24, 2019",
+        "size": "21M",
+        "installs": "10,000,000+",
+        "current_version": "1.2.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Sexual Themes, Language"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Color Phone Studios",
+        "developer_email": "colorphonestudios@outlook.com",
+        "developer_url": "http://e47707217a62ce09032136237d1d236d-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.homescreen.phone.theme",
+        "url": "https://play.google.com/store/apps/details?id=com.homescreen.phone.theme&hl=en&gl=us"
+    },
+    {
+        "title": "Smart Home Manager",
+        "icon": "https://lh3.googleusercontent.com/ezmi3zW3IzGKeRNlrXJqe_P3EzKs39yUVzhMEintY_5aNeJwIPJHwPznXYwuOajytA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10936,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AT%26T+Services,+Inc.",
+        "updated": "July 8, 2019",
+        "size": "24M",
+        "installs": "500,000+",
+        "current_version": "1.1907.51",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "AT&T Services, Inc.",
+        "developer_email": "jc4141@att.com",
+        "developer_url": "https://www.att.com/esupport/article.html#!/u-verse-high-speed-internet/KM1207739",
+        "developer_address": "208 S Akard St,\n\nDallas, TX 75202 USA",
+        "app_id": "com.att.shm",
+        "url": "https://play.google.com/store/apps/details?id=com.att.shm&hl=en&gl=us"
+    },
+    {
+        "title": "Email Providers : All-in-one  & Free & Online",
+        "icon": "https://lh3.googleusercontent.com/zOTsmhatbFHuWB-QncrZqAJVSNj62LHZ7IxchrJwa5ywoBnqG4PTQV39tDQyADRueQf1",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2670,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Elevite+Mob",
+        "updated": "May 21, 2019",
+        "size": "6.4M",
+        "installs": "500,000+",
+        "current_version": "4.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Elevite Mob",
+        "developer_email": "elevitea@gmail.com",
+        "developer_url": "https://www.mobiburn.com/#/policy?package_name=comm.mailboxall.inone",
+        "developer_address": null,
+        "app_id": "comm.mailboxall.inone",
+        "url": "https://play.google.com/store/apps/details?id=comm.mailboxall.inone&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft PowerPoint: Slideshows and Presentations",
+        "icon": "https://lh3.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1094821,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6720847872553662727",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.00",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "offandro@microsoft.com",
+        "developer_url": "https://products.office.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.office.powerpoint",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=en&gl=us"
+    },
+    {
+        "title": "Notepad Free",
+        "icon": "https://lh3.googleusercontent.com/EQ8s_EFKWDgDQxwE_eseKUq-jCsYiR9gOVzV1RSpJBFgmkqSgSH4-w8IyTW-FuYliQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10226,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "atomczak",
+        "updated": "June 14, 2019",
+        "size": "2.1M",
+        "installs": "1,000,000+",
+        "current_version": "1.3.4",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "atomczak",
+        "developer_email": "arkadiusz.tomczak@outlook.com",
+        "developer_url": "https://bit.ly/notepad-policy",
+        "developer_address": null,
+        "app_id": "com.atomczak.notepat",
+        "url": "https://play.google.com/store/apps/details?id=com.atomczak.notepat&hl=en&gl=us"
+    },
+    {
+        "title": "Grammarly Keyboard \u2014 Type with confidence",
+        "icon": "https://lh3.googleusercontent.com/ZrC1rEuOCVpFgg3cKiiatGnK3dHhcLgYp12visULTGy8w4cLAHmPvDoXC3H9kBtaAT0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 49496,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Grammarly,+Inc.",
+        "updated": "July 23, 2019",
+        "size": "85M",
+        "installs": "5,000,000+",
+        "current_version": "1.5.2.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Grammarly, Inc.",
+        "developer_email": "support@grammarly.com",
+        "developer_url": "http://www.grammarly.com",
+        "developer_address": null,
+        "app_id": "com.grammarly.android.keyboard",
+        "url": "https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard&hl=en&gl=us"
+    },
+    {
+        "title": "Easy Voice Recorder",
+        "icon": "https://lh3.googleusercontent.com/dWhFDwsXEsL4nhB3jsvejCsnE7JBqOBLkYOh22wP8fwEx5sOAWyEpb5wr2b9smBocas",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/9Y_cwFx2fY4",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 278378,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8524844809417490477",
+        "updated": "May 28, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Digipom",
+        "developer_email": "support@digipom.com",
+        "developer_url": "http://www.digipom.com/",
+        "developer_address": "Digipom Inc.\n1200 Avenue McGill College Suite 1100\nMontreal, QC H3B 4G7",
+        "app_id": "com.coffeebeanventures.easyvoicerecorder",
+        "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en&gl=us"
+    },
+    {
+        "title": "NETGEAR Nighthawk \u2013 WiFi Router App",
+        "icon": "https://lh3.googleusercontent.com/f7iKcvc4hSOJ8QKTlxnY_sD2PrGcg2QYX0PTO068xJzzxYqQzVrMqiHl5iPY8MZo4_o",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8063,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NETGEAR,+Inc",
+        "updated": "July 19, 2019",
+        "size": "72M",
+        "installs": "1,000,000+",
+        "current_version": "2.4.0.719",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NETGEAR, Inc",
+        "developer_email": "ntgrapps_support@netgear.com",
+        "developer_url": "https://www.netgear.com/",
+        "developer_address": "Netgear, Inc.\n350 E. Plumeria Dr.\nSan Jose, CA\n95134",
+        "app_id": "com.netgear.netgearup",
+        "url": "https://play.google.com/store/apps/details?id=com.netgear.netgearup&hl=en&gl=us"
+    },
+    {
+        "title": "Google Slides",
+        "icon": "https://lh3.googleusercontent.com/9BPFkLP1jfXPnjLB-usfOHUHD8L-ZziPN_MmdWxrV_tIfyYEe1ch169XagaDzBmq0w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/skRZJyYimU0",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 312230,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/docs/?p=android_slides_help",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.docs.editors.slides",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&hl=en&gl=us"
+    },
+    {
+        "title": "ColorNote Notepad Notes",
+        "icon": "https://lh3.googleusercontent.com/IDOtRhsZLSG3EFxWxmWREMPa42_SNQvl9-x4FBu5dn9aJMjpVtMx_GoNdnQwEIp_7gsV",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2706922,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Notes",
+        "updated": "April 26, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Notes",
+        "developer_email": "notesupport@socialnmobile.com",
+        "developer_url": "http://www.colornote.com",
+        "developer_address": null,
+        "app_id": "com.socialnmobile.dictapps.notepad.color.note",
+        "url": "https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note&hl=en&gl=us"
+    },
+    {
+        "title": "TSheets Time Tracker",
+        "icon": "https://lh3.googleusercontent.com/bGNo-1ryo9qjx1ZJVYEgEyppIOKr3kAO9dryI7j2QEDMXd0ShQpBJ4mwrSnwDwwz81w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/4S1PsVFKAOA",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9534,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TSheets.com",
+        "updated": "July 22, 2019",
+        "size": "28M",
+        "installs": "1,000,000+",
+        "current_version": "2.69.1.20190710.1.RELEASE",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "TSheets.com",
+        "developer_email": "help@tsheets.com",
+        "developer_url": "https://www.tsheets.com/",
+        "developer_address": null,
+        "app_id": "com.tsheets.android.hammerhead",
+        "url": "https://play.google.com/store/apps/details?id=com.tsheets.android.hammerhead&hl=en&gl=us"
+    },
+    {
+        "title": "Document Viewer \u2013 Word Office, PDF reader & xlsx",
+        "icon": "https://lh3.googleusercontent.com/T0Te9mKAJSabPSov2b5tGQS_brIG_WbQljmWYXA0Hw3Pt6ODQcyFfVbd8pgsXcNUYA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8888,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5825928597674571656",
+        "updated": "July 9, 2019",
+        "size": "45M",
+        "installs": "1,000,000+",
+        "current_version": "1.1.6",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Document Software",
+        "developer_email": "documenview.officeapp@gmail.com",
+        "developer_url": "https://sites.google.com/view/documentview/",
+        "developer_address": "Bhopal\nMadhya Pradesh\nIndia",
+        "app_id": "com.officeviewer.pdfreader.document.viewer.excelviewer",
+        "url": "https://play.google.com/store/apps/details?id=com.officeviewer.pdfreader.document.viewer.excelviewer&hl=en&gl=us"
+    },
+    {
+        "title": "Mobile Security: Antivirus, Wi-Fi VPN & Anti-Theft",
+        "icon": "https://lh3.googleusercontent.com/sL72WIzwHQAX4xBkiT0NezVGHxODw8YFFJLLl-W2AKdk3UZHGWkWP764ckvyPULLD-c",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xtA8VSpyUbg",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 659492,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "McAfee+LLC",
+        "updated": "April 9, 2019",
+        "size": "29M",
+        "installs": "10,000,000+",
+        "current_version": "5.2.0.286",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$79.99"
+        ],
+        "interactive_elements": null,
+        "developer": "McAfee LLC",
+        "developer_email": "Mobile_Support@mcafee.com",
+        "developer_url": "https://www.McAfeeMobileSecurity.com",
+        "developer_address": "McAfee Inc., Headquarters\n2821 Mission College Blvd.\nSanta Clara, CA 95054\nUSA",
+        "app_id": "com.wsandroid.suite",
+        "url": "https://play.google.com/store/apps/details?id=com.wsandroid.suite&hl=en&gl=us"
+    },
+    {
+        "title": "LastPass Password Manager",
+        "icon": "https://lh3.googleusercontent.com/BPgJq2T40gw219T9wcXPld0urrii1L9WwGZ0xovChB7fy-KFfVlKPE6oT5D7lIeQRecJ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Ct3yPo2-V4U",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 143796,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "LogMeIn,+Inc.",
+        "updated": "July 11, 2019",
+        "size": "14M",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$35.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases, Unrestricted Internet"
+        ],
+        "developer": "LogMeIn, Inc.",
+        "developer_email": "support@lastpass.com",
+        "developer_url": "http://lastpass.com/",
+        "developer_address": "320 Summer St,\nBoston, MA 02210\nUnited States of America",
+        "app_id": "com.lastpass.lpandroid",
+        "url": "https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&hl=en&gl=us"
+    },
+    {
+        "title": "Google Drive",
+        "icon": "https://lh3.googleusercontent.com/1pw-tHjrkmMgnr63nxOQStYnpVkieXKP9-1RafDRtHBAQ65cN7GcsNKf4k0rWsB--W8d",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4142919,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5700313618786177705",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/drive/?p=android_drive_help",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.docs",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en&gl=us"
+    },
+    {
+        "title": "MEGA",
+        "icon": "https://lh3.googleusercontent.com/LPje8jSAa7MHJt4xaJUXn-aYy7LfFyKbc0HJuuf3c5__k7_9DbOJkwlVHvrdQ--kDvYp",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/KHVRb_kCpDo",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 636404,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Mega+Ltd",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$5.30",
+            "$318.10"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Mega Ltd",
+        "developer_email": "android@mega.nz",
+        "developer_url": "https://mega.nz",
+        "developer_address": "Physical Address: Level 21 Huawei Centre, 120 Albert St\nAuckland 1010\nNew Zealand\n\nMail Address: Private Bag 92 533\nWellesley St\nAuckland 1141\nNew Zealand",
+        "app_id": "mega.privacy.android.app",
+        "url": "https://play.google.com/store/apps/details?id=mega.privacy.android.app&hl=en&gl=us"
+    },
+    {
+        "title": "Google Tasks: Any Task, Any Goal. Get Things Done",
+        "icon": "https://lh3.googleusercontent.com/62OzNxLonba70XxMFP3X3dsdNS9lvG2xf5TqfhYDaw9iFn5as9gVSU23ExfCLoZXkMWA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21205,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 1, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "1.6.252998808.release",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/policies/privacy",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.tasks",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=en&gl=us"
+    },
+    {
+        "title": "Calendar 2019 : Schedule Reminder, Agenda, To-Do",
+        "icon": "https://lh3.googleusercontent.com/ltNpFtijoCKoGDjvD7T46PySZNPwCpP7yvMrddVAelyv1es5ajhlE8eMtsKSaRwdOfs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2357,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Lemon,+Inc",
+        "updated": "February 13, 2019",
+        "size": "9.9M",
+        "installs": "100,000+",
+        "current_version": "1.0.6",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Lemon, Inc",
+        "developer_email": "support@diary.place",
+        "developer_url": "http://www.anappforge.com/privacy.html",
+        "developer_address": "RM 603, 6/F HANG PONT COMM\nBLDG 31 TONKIN ST CHEUNG SHA\nWAN KLN",
+        "app_id": "free.weather.calendar.schedule.reminder.todo.agenda.note",
+        "url": "https://play.google.com/store/apps/details?id=free.weather.calendar.schedule.reminder.todo.agenda.note&hl=en&gl=us"
+    },
+    {
+        "title": "Office Viewer \u2013 Word Office for Docx & PDF Reader",
+        "icon": "https://lh3.googleusercontent.com/9KAOLZk6mf9w4aILwy5ksZQaz8zLgHQ-ET9wfjJemXbJvYB4pss8EsQ9yDdnTXeYi_gH",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22065,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7024989932100061074",
+        "updated": "July 2, 2019",
+        "size": "41M",
+        "installs": "1,000,000+",
+        "current_version": "1.4.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "OfficeSoft -  Smart Reader & Editor",
+        "developer_email": "officehumaan15@gmail.com",
+        "developer_url": "https://sites.google.com/view/officeallinone",
+        "developer_address": null,
+        "app_id": "com.officeviewer.word.slide.excel.pdf.editor",
+        "url": "https://play.google.com/store/apps/details?id=com.officeviewer.word.slide.excel.pdf.editor&hl=en&gl=us"
+    },
+    {
+        "title": "DocuSign - Upload & Sign Docs",
+        "icon": "https://lh3.googleusercontent.com/jIF4pYoADAL2KO-uEVlPwnOFjGxslmvWDdwm5zvo7_W9uuNBtu7h8EQAK_DXnTndF74",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/mCi3HElsDRM",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38936,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "DocuSign",
+        "updated": "July 11, 2019",
+        "size": "85M",
+        "installs": "1,000,000+",
+        "current_version": "3.13.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$299.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "DocuSign",
+        "developer_email": "mobilefeedback@docusign.com",
+        "developer_url": "http://www.docusign.com/mobile",
+        "developer_address": "221 Main St.\nSuite 1550\nSan Francisco, CA 94105",
+        "app_id": "com.docusign.ink",
+        "url": "https://play.google.com/store/apps/details?id=com.docusign.ink&hl=en&gl=us"
+    },
+    {
+        "title": "Wix",
+        "icon": "https://lh3.googleusercontent.com/90js8HRqcoSIzQ2gvT5VTsVSB0BBCumtYjpB2yB3gqNtOgBqJhNQ89LZXkfG2TAoniM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18211,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wix",
+        "updated": "July 25, 2019",
+        "size": "37M",
+        "installs": "1,000,000+",
+        "current_version": "2.11513.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Wix",
+        "developer_email": "android@wix.com",
+        "developer_url": "http://www.wix.com",
+        "developer_address": null,
+        "app_id": "com.wix.android",
+        "url": "https://play.google.com/store/apps/details?id=com.wix.android&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft OneNote: Save Ideas and Organize Notes",
+        "icon": "https://lh3.googleusercontent.com/3Wr_nlhRHjIGfPd-BNUbgffLfxPPqNW8GFPscqnQ4t2aPRyKlFMuXT4yhb-PSMsHgss",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 630182,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "June 18, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "16.0.11727.20002",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "onandroidfb@microsoft.com",
+        "developer_url": "http://www.onenote.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.office.onenote",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en&gl=us"
+    },
+    {
+        "title": "ClevCalc - Calculator",
+        "icon": "https://lh3.googleusercontent.com/zHVGtL9x5ks_cuw83q30sb30jHapNMKNXx3Mrfj2P4wwYZZ34DM_9OzcX-hgrizs2w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 251719,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Cleveni+Inc.",
+        "updated": "May 27, 2019",
+        "size": "7.7M",
+        "installs": "10,000,000+",
+        "current_version": "2.16.16",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Cleveni Inc.",
+        "developer_email": "cs@cleveni.com",
+        "developer_url": "https://www.facebook.com/CleveniApp/",
+        "developer_address": "17F, 83 Uisadang-daero, Yeongdeungpo-gu, Seoul, Republic of Korea\nCleveni Inc.",
+        "app_id": "com.dencreak.dlcalculator",
+        "url": "https://play.google.com/store/apps/details?id=com.dencreak.dlcalculator&hl=en&gl=us"
+    },
+    {
+        "title": "iScan- PDF & Document Scanner app",
+        "icon": "https://lh3.googleusercontent.com/jUXuDF68fjO4oaPXS82UwDy7mUlCzynFb9cHOfr-NkLl5rpIBXTXoFIC4q4DZTJzd8Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rhnHNpMPyiU",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1227,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "iscancm",
+        "updated": "July 9, 2019",
+        "size": "23M",
+        "installs": "100,000+",
+        "current_version": "1.9.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$6.99",
+            "$99.99"
+        ],
+        "interactive_elements": null,
+        "developer": "iscancm",
+        "developer_email": "iscancm@gmail.com",
+        "developer_url": "https://www.cmcm.com/protocol/site/privacy.html",
+        "developer_address": "8 Wilkie Road, #03-01, Wilkie Edge, Singapore 228095",
+        "app_id": "pdf.documents.scanner",
+        "url": "https://play.google.com/store/apps/details?id=pdf.documents.scanner&hl=en&gl=us"
+    },
+    {
+        "title": "Call Blocker - robocall blocker, spam call blocker",
+        "icon": "https://lh3.googleusercontent.com/gK1HIARjH0VPxli4W4j0VcBBvEJhSVq2IZH7N5LITTynm8T3sbiPfJtvqtDPDG_4Uw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/id_N6_ozO5E",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 819,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "CALLER.LIVE",
+        "updated": "July 16, 2019",
+        "size": "14M",
+        "installs": "50,000+",
+        "current_version": "1.0.9.b",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$14.99"
+        ],
+        "interactive_elements": null,
+        "developer": "CALLER.LIVE",
+        "developer_email": "support@caller.live",
+        "developer_url": "https://sites.google.com/view/callblockertos/home",
+        "developer_address": "Rm 907 Silvercord Tower 2, 30 Canton Rd., Tsim Sha Tsui",
+        "app_id": "caller.live.freeapps.callblocker",
+        "url": "https://play.google.com/store/apps/details?id=caller.live.freeapps.callblocker&hl=en&gl=us"
+    },
+    {
+        "title": "One Calculator - Multifunctional Calculator App",
+        "icon": "https://lh3.googleusercontent.com/0FotpfEpoorPwNvTylu4kOIn-FYwpSONkk_vYOTOMQsa_oWlGBichEo9pPNYAbpslvo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 67404,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wonder+Tech+Dev",
+        "updated": "July 11, 2019",
+        "size": "10M",
+        "installs": "5,000,000+",
+        "current_version": "1.5.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wonder Tech Dev",
+        "developer_email": "willslords99@gmail.com",
+        "developer_url": "http://www.bestutilities.info/policy/wondertech-privacy.html",
+        "developer_address": null,
+        "app_id": "all.in.one.photo.math.calculator",
+        "url": "https://play.google.com/store/apps/details?id=all.in.one.photo.math.calculator&hl=en&gl=us"
+    },
+    {
+        "title": "Adobe Fill & Sign: Easy PDF Doc & Form Filler.",
+        "icon": "https://lh3.googleusercontent.com/DtFmBHVTrw0Ovp6oFVXj0UcUEvElK_NdPkMOkcglpVgpUio-mJazA1a12prA6834Qg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13875,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4734916851270416020",
+        "updated": "April 15, 2019",
+        "size": "5.9M",
+        "installs": "5,000,000+",
+        "current_version": "1.5.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Adobe",
+        "developer_email": "fillandsign_support@adobe.com",
+        "developer_url": "http://www.adobe.com/",
+        "developer_address": "Adobe Systems Incorporated\n345 Park Avenue\nSan Jose, CA 95110-2704",
+        "app_id": "com.adobe.fas",
+        "url": "https://play.google.com/store/apps/details?id=com.adobe.fas&hl=en&gl=us"
+    },
+    {
+        "title": "Speak and Translate - Voice Typing with Translator",
+        "icon": "https://lh3.googleusercontent.com/uvR1ZB_3XX2XyECl3_BVEUkw3Az2bcx1PvDnfym_-wx5LrhHuhJi2C0qtNPMC8N6UIU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38213,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Innovative+World",
+        "updated": "July 17, 2019",
+        "size": "7.7M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Innovative World",
+        "developer_email": "innovativeapps786@gmail.com",
+        "developer_url": "https://completeislamapps.blogspot.com/2018/05/privacy-policy-of-complete-islam-apps.html",
+        "developer_address": null,
+        "app_id": "com.speaktranslate.tts.speechtotext.voicetyping.translator",
+        "url": "https://play.google.com/store/apps/details?id=com.speaktranslate.tts.speechtotext.voicetyping.translator&hl=en&gl=us"
+    },
+    {
+        "title": "McAfee\u00ae Security for T-Mobile",
+        "icon": "https://lh3.googleusercontent.com/LSfQWkIPODv0beEW9BTCJHHunHesFglWt16xwfpwf2mgNXq6xqc6XleUORNPIDvfw7k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5052,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "McAfee+LLC",
+        "updated": "July 17, 2019",
+        "size": "25M",
+        "installs": "1,000,000+",
+        "current_version": "5.2.0.361",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "McAfee LLC",
+        "developer_email": "Mobile_Support@mcafee.com",
+        "developer_url": "http://www.mcafee.com",
+        "developer_address": "McAfee Inc., Headquarters\n2821 Mission College Blvd.\nSanta Clara, CA 95054\nUSA",
+        "app_id": "com.wsandroid.suite.tmobile",
+        "url": "https://play.google.com/store/apps/details?id=com.wsandroid.suite.tmobile&hl=en&gl=us"
+    },
+    {
+        "title": "SwiftKey Keyboard",
+        "icon": "https://lh3.googleusercontent.com/5J7NXZuVH7ATOTJx6n-qiP1KC8blMKGWuRofeAKxdAEf5Yut9e0TnXuk8A3liY9b50M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3192291,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SwiftKey",
+        "updated": "July 19, 2019",
+        "size": "12M",
+        "installs": "100,000,000+",
+        "current_version": "7.3.4.18",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SwiftKey",
+        "developer_email": "android-support@swiftkey.com",
+        "developer_url": "http://www.swiftkey.com",
+        "developer_address": "2 Kingdom Street\nLondon\nW2 6BD\nUnited Kingdom",
+        "app_id": "com.touchtype.swiftkey",
+        "url": "https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&hl=en&gl=us"
+    },
+    {
+        "title": "Brother Print Service Plugin",
+        "icon": "https://lh3.googleusercontent.com/gS1iPTDrG6ifUPV188M9d0rSbnGXAqVDwt73Fks5PMsCZ_Faqx8RwND-RpllvrPIVs8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31013,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Brother+Industries,+Ltd.",
+        "updated": "April 24, 2019",
+        "size": "38M",
+        "installs": "5,000,000+",
+        "current_version": "1.6.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Brother Industries, Ltd.",
+        "developer_email": "mobile-apps-id@brother.com",
+        "developer_url": "http://www.brother.com",
+        "developer_address": null,
+        "app_id": "com.brother.printservice",
+        "url": "https://play.google.com/store/apps/details?id=com.brother.printservice&hl=en&gl=us"
+    },
+    {
+        "title": "TeamViewer QuickSupport",
+        "icon": "https://lh3.googleusercontent.com/8nwT1oyitY4nAh1zasfOCJzgsN-svQus2KDXhHGhMJrVarAdSu1AGPAyGULjb57ASJg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/X3l5HfYO0pY",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55351,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5432474436276944851",
+        "updated": "July 9, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "14.4.195",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TeamViewer",
+        "developer_email": "service@teamviewer.com",
+        "developer_url": "https://www.teamviewer.com",
+        "developer_address": null,
+        "app_id": "com.teamviewer.quicksupport.market",
+        "url": "https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=us"
+    },
+    {
+        "title": "Okta Verify",
+        "icon": "https://lh3.googleusercontent.com/xV6CDG9HKUdSFz5cVqYreesZftcLvyPftk7QQq0CK3j5MT6DFweuBk5LTnBn2B8M6mlV",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "2.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1782,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Okta+Inc.",
+        "updated": "June 27, 2019",
+        "size": "8.3M",
+        "installs": "1,000,000+",
+        "current_version": "4.12.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Okta Inc.",
+        "developer_email": "support@okta.com",
+        "developer_url": "https://www.okta.com",
+        "developer_address": null,
+        "app_id": "com.okta.android.auth",
+        "url": "https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en&gl=us"
+    },
+    {
+        "title": "Alarm Clock with Missions & Loud Ringtones -Alarmy",
+        "icon": "https://lh3.googleusercontent.com/gXJLTDIvxXTK6uKl2e3Od_zmrlEul1CbkgxWxjbGeDzLl4EMFsdfER2VEgqAue2v1TE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 913991,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8894199970691315215",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$8.99",
+            "$26.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Alarm Clock Alarmy",
+        "developer_email": "cs@delightroom.com",
+        "developer_url": "http://alar.my",
+        "developer_address": "A-2406, 397, Seocho-daero, Seocho-gu, Seoul, Republic of Korea",
+        "app_id": "droom.sleepIfUCan",
+        "url": "https://play.google.com/store/apps/details?id=droom.sleepIfUCan&hl=en&gl=us"
+    },
+    {
+        "title": "Google PDF Viewer",
+        "icon": "https://lh3.googleusercontent.com/u9ofV9e2diX3giScuXT46B4A0vxFw8tj5NzHQJVAqAKwL5b_o8CHnO-qiZZIZYHlTg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 277898,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "October 9, 2017",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/drive/?p=android_drive_help",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.pdfviewer",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer&hl=en&gl=us"
+    },
+    {
+        "title": "Flashlight (free & without ads)",
+        "icon": "https://lh3.googleusercontent.com/9sNEvYbTpgww52KgSP7SNTK8zVYsNj5B7nZwp-okFxxXYasgTWGc3g3JNtuFx0AtSg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4048,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5904289130448622661",
+        "updated": "June 21, 2019",
+        "size": "2.7M",
+        "installs": "100,000+",
+        "current_version": "4.6",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "FreeApps.mobi",
+        "developer_email": "hello@freeapps.mobi",
+        "developer_url": "http://freeapps.mobi/flashlight/free",
+        "developer_address": "FreeApps.mobi, B-ce 36055 381",
+        "app_id": "mobi.freeapps.flashlight.free",
+        "url": "https://play.google.com/store/apps/details?id=mobi.freeapps.flashlight.free&hl=en&gl=us"
+    },
+    {
+        "title": "Any.do: To do list, Calendar, Reminders & Planner",
+        "icon": "https://lh3.googleusercontent.com/WFvDmBvUl1yeik554IAxTGvewZxQv8d8HiRSvDeEJmOvIHAesKOzZ2SubFfm_QfojLU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2nkllLD0x6o",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 326407,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5304780265295461149",
+        "updated": "July 14, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$83.88"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Any.do",
+        "developer_email": "feedback+androidtodo@any.do",
+        "developer_url": "https://www.any.do",
+        "developer_address": "Any.do Inc.\n\n6  Agripas Street, Tel Aviv\n6249106 ISRAEL",
+        "app_id": "com.anydo",
+        "url": "https://play.google.com/store/apps/details?id=com.anydo&hl=en&gl=us"
+    },
+    {
+        "title": "Evernote",
+        "icon": "https://lh3.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1512740,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Evernote+Corporation",
+        "updated": "June 28, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.00",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Evernote Corporation",
+        "developer_email": "appstore-evernote-android@evernote.com",
+        "developer_url": "http://www.evernote.com",
+        "developer_address": "305 Walnut Street\nRedwood City, CA 94063",
+        "app_id": "com.evernote",
+        "url": "https://play.google.com/store/apps/details?id=com.evernote&hl=en&gl=us"
+    },
+    {
+        "title": "Alarm Clock Xtreme: Alarm, Stopwatch, Timer (Free)",
+        "icon": "https://lh3.googleusercontent.com/k7UDrgH6HQjEa4fECRQrsdRWfwUcefFFubUL-X1MbV8XUzy0an1TRbUvoKdlAXL8vro",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 906911,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "AVG+Labs",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "AVG Labs",
+        "developer_email": "mobile-support@avg.com",
+        "developer_url": "https://support.avg.com/SupportArticleView?l=en&urlname=Alarm-Clock-Xtreme-FAQs",
+        "developer_address": "Avast Software s.r.o.\nEnterprise Office Center,\nPikrtova 1737/1A,\nPrague 140 00\nCzech Republic",
+        "app_id": "com.alarmclock.xtreme.free",
+        "url": "https://play.google.com/store/apps/details?id=com.alarmclock.xtreme.free&hl=en&gl=us"
+    },
+    {
+        "title": "Trello \u2014 Organize anything with anyone, anywhere!",
+        "icon": "https://lh3.googleusercontent.com/wleVBvT7puiJrZ3VH_BsCBYdSq5skyjzOSME0rUf_nwmaP9HnXaxIitHvrCN-4rNGQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 82451,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Trello,+Inc.",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Trello, Inc.",
+        "developer_email": "support@trello.com",
+        "developer_url": "http://trello.com/",
+        "developer_address": null,
+        "app_id": "com.trello",
+        "url": "https://play.google.com/store/apps/details?id=com.trello&hl=en&gl=us"
+    },
+    {
+        "title": "AVG Cleaner \u2013 Speed, Battery, Memory & RAM Booster",
+        "icon": "https://lh3.googleusercontent.com/un0SgbH369LzyI5bRMvLT3YOj9ktLKLs9Q_ENyNmJxxNwBHN3rXtgYL_W33BDEJolQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1270863,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9097425538418209452",
+        "updated": "July 2, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$89.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "AVG Mobile",
+        "developer_email": "mobile-support@avg.com",
+        "developer_url": "http://www.avg.com",
+        "developer_address": "Avast Software s.r.o.\nEnterprise Office Center,\nPikrtova 1737/1A,\nPrague 140 00\nCzech Republic",
+        "app_id": "com.avg.cleaner",
+        "url": "https://play.google.com/store/apps/details?id=com.avg.cleaner&hl=en&gl=us"
+    },
+    {
+        "title": "Cox Connect",
+        "icon": "https://lh3.googleusercontent.com/VqmBGaenVNGCpa7BALlLDMpcxzwwRzsOWdxNmrynubGQwe-XE_dknw9s8DsTHVaeDfM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7478,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4875200580739567433",
+        "updated": "June 25, 2019",
+        "size": "8.7M",
+        "installs": "1,000,000+",
+        "current_version": "2.38.0.755",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Cox Communications, Inc.",
+        "developer_email": "CoxConnectApp@cox.com",
+        "developer_url": "https://www.cox.com/residential/home.html",
+        "developer_address": null,
+        "app_id": "com.cox.android.mobileconnect",
+        "url": "https://play.google.com/store/apps/details?id=com.cox.android.mobileconnect&hl=en&gl=us"
+    },
+    {
+        "title": "HOVER",
+        "icon": "https://lh3.googleusercontent.com/X-bzgKtGqy1HJYpiOK3c230uvSfaMmtvJeJD_Y9wQEaAnQa94fibc4uG27-KAvR7YliX",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 311,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "HOVER",
+        "updated": "July 19, 2019",
+        "size": "50M",
+        "installs": "100,000+",
+        "current_version": "3.6.60",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HOVER",
+        "developer_email": "support@hover.to",
+        "developer_url": "http://www.hover.to",
+        "developer_address": null,
+        "app_id": "to.hover.android.app",
+        "url": "https://play.google.com/store/apps/details?id=to.hover.android.app&hl=en&gl=us"
+    },
+    {
+        "title": "Movie Box : Watch HD Movies Free",
+        "icon": "https://lh3.googleusercontent.com/gA1NNmsennoH3Q6Vxiwt2LXRbBl1h9Zy04osCSVrbEIzwpmQXxfWAneUAAFH108mqp0y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 214,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "FreeSoft+Inc",
+        "updated": "July 23, 2019",
+        "size": "30M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "FreeSoft Inc",
+        "developer_email": "callondoctors@gmail.com",
+        "developer_url": "https://fptplay.vn",
+        "developer_address": null,
+        "app_id": "com.movie.box",
+        "url": "https://play.google.com/store/apps/details?id=com.movie.box&hl=en&gl=us"
+    },
+    {
+        "title": "Cloud Print",
+        "icon": "https://lh3.googleusercontent.com/IOAolyiGssaiu7zU7RDqoamzRzsugMaCGCDj8RteqmU3MCvp1Bel_rZVCWc0uxY3lRsP",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 336066,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "May 23, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/cloudprint",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.cloudprint",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.cloudprint&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft Office Lens - PDF Scanner",
+        "icon": "https://lh3.googleusercontent.com/0--fb3LXLbWwPePSTfRDaabQsOa82ea4xL4_sJvJSC0fr1pWPg7znVrItS-GHJgNL3Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 381421,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "April 25, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "16.0.11601.20080",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Microsoft Corporation",
+        "developer_email": "olensandsup@microsoft.com",
+        "developer_url": "http://www.onenote.com/apps",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.office.officelens",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en&gl=us"
+    },
+    {
+        "title": "PDF Reader \u2013 PDF Viewer & Epub, Ebook reader",
+        "icon": "https://lh3.googleusercontent.com/W1Jwfw3dKIo8BsQFaLc0y4UflpgSUlDKiWn4LgjKXFW1Uxj1t8qfwYu987CnBDWdsENT",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 273557,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6914702694894436377",
+        "updated": "July 9, 2019",
+        "size": "18M",
+        "installs": "10,000,000+",
+        "current_version": "9.16.1229",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$1.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Fodoo Software Inc.",
+        "developer_email": "fodoosoftware.inc@outlook.com",
+        "developer_url": "https://sites.google.com/view/pdf-reader-and-editor",
+        "developer_address": "2206 D&K Towers West Lake, Internal",
+        "app_id": "com.officetool.pdfreader2018.pdfviewer",
+        "url": "https://play.google.com/store/apps/details?id=com.officetool.pdfreader2018.pdfviewer&hl=en&gl=us"
+    },
+    {
+        "title": "File Manager",
+        "icon": "https://lh3.googleusercontent.com/9PzlG2XGr5sQDf5925tlZhqluOreI2cwzp-FOZiuj545Kt1Gk5EE9J4IdGsD7e5xWw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 514160,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Flashlight+%2B+Clock",
+        "updated": "July 12, 2019",
+        "size": "6.3M",
+        "installs": "10,000,000+",
+        "current_version": "2.2.7",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$7.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Flashlight + Clock",
+        "developer_email": "app.support@alphainventor.com",
+        "developer_url": "https://alpha-inventor.firebaseapp.com/privacy-policy-filemanager.htm",
+        "developer_address": "ChoSunNaeHwa Bld. 4050 Ho, 577, Seolleung-ro, Gangnam-gu, Seoul, Korea",
+        "app_id": "com.alphainventor.filemanager",
+        "url": "https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=en&gl=us"
+    },
+    {
+        "title": "TeamViewer for Remote Control",
+        "icon": "https://lh3.googleusercontent.com/kiuamHjSKvVwS2fZ9c3dgPBPLDNQhExfw_8_vWhTdFMIQp1Lnf5gl5ZPbO2R55BzBk4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/yEofo1tWaoc",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 547001,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5432474436276944851",
+        "updated": "July 9, 2019",
+        "size": "27M",
+        "installs": "50,000,000+",
+        "current_version": "14.4.208",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TeamViewer",
+        "developer_email": "support@teamviewer.com",
+        "developer_url": "https://www.teamviewer.com",
+        "developer_address": null,
+        "app_id": "com.teamviewer.teamviewer.market.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Email Accounts All-in-one - Free Secure Mailboxes",
+        "icon": "https://lh3.googleusercontent.com/Lilj_CDdELdL5kBg6Tx9PSMmkzmqeFQVQ1efG5vOkfmc3KwHQ-FOpXLPbHPoUgR-l__h",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2729,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Alpem+Mobile",
+        "updated": "June 26, 2019",
+        "size": "5.6M",
+        "installs": "1,000,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Alpem Mobile",
+        "developer_email": "lovrenjj@gmail.com",
+        "developer_url": "https://www.appcalibre.com/#/privacy-policy",
+        "developer_address": "Ac\u0131badem Cd. Yaprak Sk. 35/10 \u00dcsk\u00fcdar/\u0130stanbul",
+        "app_id": "com.mailsall.inonemailboxapp",
+        "url": "https://play.google.com/store/apps/details?id=com.mailsall.inonemailboxapp&hl=en&gl=us"
+    },
+    {
+        "title": "Chrome Beta",
+        "icon": "https://lh3.googleusercontent.com/XZB1L7nFZVsMyBGbV1qmf139ijkQLdeyQH-Bh5P9D2mU3vY2oEfoP2mwz0hItjxyxZo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 258383,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "76.0.3809.80",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases, Unrestricted Internet"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/chrome/android",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.chrome.beta",
+        "url": "https://play.google.com/store/apps/details?id=com.chrome.beta&hl=en&gl=us"
+    },
+    {
+        "title": "iTranslate Translator & Dictionary",
+        "icon": "https://lh3.googleusercontent.com/s0p4-o1FHMQz8ufo8lpexulqP22mbXBEXe061JhlI0KqGoN_flXsSNp_q647v5fVNmg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/izRG0jboauE",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 297347,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9134966397852256976",
+        "updated": "July 11, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$43.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "iTranslate",
+        "developer_email": "help@itranslate.com",
+        "developer_url": "https://www.itranslate.com/",
+        "developer_address": "iTranslate GmbH\nGadollaplatz 1\n8010 Graz\nAustria",
+        "app_id": "at.nk.tools.iTranslate",
+        "url": "https://play.google.com/store/apps/details?id=at.nk.tools.iTranslate&hl=en&gl=us"
+    },
+    {
+        "title": "Otter Voice Meeting Notes (for English)",
+        "icon": "https://lh3.googleusercontent.com/3XarjB7-NPvRWLY8qqX4mpkhSxjF4vuyz1-MJexuIpt79hW1ImdqP7M2wS-IEsnl2qI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NjOXIRSkP0Y",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2785,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Otter.ai",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$99.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Otter.ai",
+        "developer_email": "support@otter.ai",
+        "developer_url": "https://otter.ai",
+        "developer_address": "5150 W El Camino Real\nSuite A-22\nLos Altos, CA 94022",
+        "app_id": "com.aisense.otter",
+        "url": "https://play.google.com/store/apps/details?id=com.aisense.otter&hl=en&gl=us"
+    },
+    {
+        "title": "Ultimate Alexa - The Voice Assistant",
+        "icon": "https://lh3.googleusercontent.com/4WbdxRjRU8ikML0nvgQOcieYBRvVce9DNNf9NAnGU5tACQQNrZLznmETYpp2f2w0Ow",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1757,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Custom+Solutions",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$1.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Custom Solutions",
+        "developer_email": "help@ultimatevoiceassistant.com",
+        "developer_url": "http://www.UltimateVoiceAssistant.com",
+        "developer_address": "125 Buckskin Lane\nStreamwood, IL  60107",
+        "app_id": "com.customsolutions.android.alexa",
+        "url": "https://play.google.com/store/apps/details?id=com.customsolutions.android.alexa&hl=en&gl=us"
+    },
+    {
+        "title": "Recycle Master-Recycle Bin, File Recovery",
+        "icon": "https://lh3.googleusercontent.com/gWLxtinFzqPriMIqsduFPKspXcnoZ4mayZtz11qS23VBK6f3j2TGbpTlJbSKJIwRCg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29307,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "DC+Mobile+Dev+Team",
+        "updated": "April 30, 2019",
+        "size": "7.4M",
+        "installs": "1,000,000+",
+        "current_version": "1.6.9",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$14.99"
+        ],
+        "interactive_elements": null,
+        "developer": "DC Mobile Dev Team",
+        "developer_email": "recyclemaster@thinkyeah.com",
+        "developer_url": "http://www.thinkyeah.com",
+        "developer_address": "",
+        "app_id": "dcmobile.thinkyeah.recyclebin",
+        "url": "https://play.google.com/store/apps/details?id=dcmobile.thinkyeah.recyclebin&hl=en&gl=us"
+    },
+    {
+        "title": "Samsung Print Service Plugin",
+        "icon": "https://lh3.googleusercontent.com/J9kGCwDdENIlcYFsz4je5LLggvKtLl5PT32KWMrUmh-I3zjQeVclLcId4CqoDR-uUJs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 334410,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9030305074573031837",
+        "updated": "October 5, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HP Inc.",
+        "developer_email": "support@samsungcloudprint.com",
+        "developer_url": "http://www.samsungprinter.com",
+        "developer_address": "Attn: HP Inc. App Store Manager\n16399 West Bernardo Dr.\nMS 65-220\nSan Diego, CA 92127",
+        "app_id": "com.sec.app.samsungprintservice",
+        "url": "https://play.google.com/store/apps/details?id=com.sec.app.samsungprintservice&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft To-Do: List, Task & Reminder",
+        "icon": "https://lh3.googleusercontent.com/b2Mi4sIYHnkXfmNeuYewUWVm7bKJ5KElY_WP5XIy24tO0QdyS7jU0zvDsqjCub-MRg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40192,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Microsoft Corporation",
+        "developer_email": "todohelp@microsoft.com",
+        "developer_url": "https://go.microsoft.com/fwlink/?linkid=846683",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.todos",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=us"
+    },
+    {
+        "title": "Cozi Family Organizer",
+        "icon": "https://lh3.googleusercontent.com/NJFERLpaqfMAYn92w5aDD6Sc4JmyLUy0dtRV5Wb1tEYZsm6mb-SLpDKcQnd0CUlAfw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62552,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4655939946583734958",
+        "updated": "May 29, 2019",
+        "size": "15M",
+        "installs": "1,000,000+",
+        "current_version": "9.3.6052",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "Cozi Inc.",
+        "developer_email": "support@cozi.com",
+        "developer_url": "http://www.cozi.com/support",
+        "developer_address": "506 Second Avenue,\nSuite 800\nSeattle, WA 98104\u20132328",
+        "app_id": "com.cozi.androidfree",
+        "url": "https://play.google.com/store/apps/details?id=com.cozi.androidfree&hl=en&gl=us"
+    },
+    {
+        "title": "Firefox Preview",
+        "icon": "https://lh3.googleusercontent.com/o_RqDeCTS33l5S4d99jTiIpOMufL4RIRS5EfCPfS6owkndBwlXlNYQF0YCPUkhFSEw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4756,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7083182635971239206",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "1.0.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Mozilla",
+        "developer_email": "android-marketplace-notices@mozilla.com",
+        "developer_url": "http://www.mozilla.org/",
+        "developer_address": null,
+        "app_id": "org.mozilla.fenix",
+        "url": "https://play.google.com/store/apps/details?id=org.mozilla.fenix&hl=en&gl=us"
+    },
+    {
+        "title": "Tasks: Todo list, Task List, Reminder",
+        "icon": "https://lh3.googleusercontent.com/5CNo4tlDYDJ2N8qyRoLlTKEx7CvuCSdr-iiSaQob5EGRGrvy9QFnX0HufdPGRHWuq7-v",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43555,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Stephen+Nottage",
+        "updated": "July 19, 2019",
+        "size": "4.5M",
+        "installs": "1,000,000+",
+        "current_version": "1.30",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Stephen Nottage",
+        "developer_email": "tasks.list.app@gmail.com",
+        "developer_url": "https://mytasksapp.com",
+        "developer_address": "Unit 2 Pavilions\nRuscombe Business Park\nTwyford, RG10 9NN",
+        "app_id": "com.tasks.android",
+        "url": "https://play.google.com/store/apps/details?id=com.tasks.android&hl=en&gl=us"
+    },
+    {
+        "title": "Jabra Sound+",
+        "icon": "https://lh3.googleusercontent.com/olL_F_hsNwAu9rVbVUvRJO4pU9FwDZafry7dh_LVoxgHd4RBn62egxMLjMVdjbr8Bryw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4030,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jabra+by+GN+Audio",
+        "updated": "July 15, 2019",
+        "size": "61M",
+        "installs": "500,000+",
+        "current_version": "3.3.1.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jabra by GN Audio",
+        "developer_email": "jabra.gn.netcom@gmail.com",
+        "developer_url": "http://jabra.com",
+        "developer_address": null,
+        "app_id": "com.jabra.moments",
+        "url": "https://play.google.com/store/apps/details?id=com.jabra.moments&hl=en&gl=us"
+    },
+    {
+        "title": "Alarm Clock for Heavy Sleepers \u2014 Smart Math & Free",
+        "icon": "https://lh3.googleusercontent.com/N_ROepax-FO5OnSpeclCAoI06-NfCAyjYkqaSJSKWmaARO39pVYGXSNiPjqQr09I5oMh",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 36537,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5758897849952032401",
+        "updated": "July 16, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "4.4.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "AMdroid Alarm Clock - No more oversleep",
+        "developer_email": "support@amdroidapp.com",
+        "developer_url": "http://amdroidapp.com",
+        "developer_address": "2510 Dorog, \u00c1rp\u00e1d utca 39.",
+        "app_id": "com.amdroidalarmclock.amdroid",
+        "url": "https://play.google.com/store/apps/details?id=com.amdroidalarmclock.amdroid&hl=en&gl=us"
+    },
+    {
+        "title": "Simple Mobile My Account",
+        "icon": "https://lh3.googleusercontent.com/V7DctlVJTuN9ymQjZ3XdUeR2hxCLR0uw358yu5QQRO_Hcin6FdUBN40WE_ouT5QwVP83",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3130,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SIMPLE+Mobile",
+        "updated": "July 25, 2019",
+        "size": "21M",
+        "installs": "500,000+",
+        "current_version": "10.1.2",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SIMPLE Mobile",
+        "developer_email": "android_administrator@simplemobilemail.com",
+        "developer_url": "http://www.simplemobile.com",
+        "developer_address": null,
+        "app_id": "com.tracfone.simplemobile.myaccount",
+        "url": "https://play.google.com/store/apps/details?id=com.tracfone.simplemobile.myaccount&hl=en&gl=us"
+    },
+    {
+        "title": "Fast Scan: Free Document Scanner HD, PDF Scanning",
+        "icon": "https://lh3.googleusercontent.com/JpraPt9PorQdjoaSfOKnBGBM5FTm1BBb7YL9wBwPhV4lHDN4fH2kBuxpa28DYEv1VElM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7131,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4863837242834815675",
+        "updated": "July 7, 2019",
+        "size": "17M",
+        "installs": "500,000+",
+        "current_version": "1.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "LiveCam .inc",
+        "developer_email": "oscarsapps2019@gmail.com",
+        "developer_url": "https://sites.google.com/view/oscarapp/home",
+        "developer_address": "Glenroy, Australia",
+        "app_id": "com.camscanner.documentscanner.pdfreader",
+        "url": "https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfreader&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft SharePoint",
+        "icon": "https://lh3.googleusercontent.com/f5m1W5yi3SvVsScU43CHGqjp_YbEDnPELYDqGk-Uwv5heB-BXvScQGeYa74lAq26Xgw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6106,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 17, 2019",
+        "size": "28M",
+        "installs": "1,000,000+",
+        "current_version": "3.10.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Microsoft Corporation",
+        "developer_email": "spmobile_feedback@microsoft.com",
+        "developer_url": "https://go.microsoft.com/fwlink/p/?linkid=828159",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.sharepoint",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.sharepoint&hl=en&gl=us"
+    },
+    {
+        "title": "Camera Scanner To Pdf - TapScanner",
+        "icon": "https://lh3.googleusercontent.com/wxXnmyjJs8hAo_sYefECPH-G16JotVYRVE3Kwmj13hhjg2EohTDNEdqpe_Z0E4G9Bko",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 159669,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7922759924555516929",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$19.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Smart media",
+        "developer_email": "apps@smedia.co.il",
+        "developer_url": "http://www.tap.pm/",
+        "developer_address": "Hagoren 6, Omer, 84965",
+        "app_id": "pdf.tap.scanner",
+        "url": "https://play.google.com/store/apps/details?id=pdf.tap.scanner&hl=en&gl=us"
+    },
+    {
+        "title": "BlockSite - Block Distracting Apps & Sites",
+        "icon": "https://lh3.googleusercontent.com/RHdNipips9p0umERE6Wt8f7TPuwEZ_3gK_O4ppZjg6lg-sT6HF1TOQGE2002Ga-a_I4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9149,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Blocksite",
+        "updated": "July 18, 2019",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "1.1.187",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$49.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Blocksite",
+        "developer_email": "support@blocksite.co",
+        "developer_url": "https://blocksite.co/",
+        "developer_address": "1313 North Market Street, Wilmington, Delaware",
+        "app_id": "co.blocksite",
+        "url": "https://play.google.com/store/apps/details?id=co.blocksite&hl=en&gl=us"
+    },
+    {
+        "title": "Forest: Stay focused",
+        "icon": "https://lh3.googleusercontent.com/iwRXMcbjooH-h3a01w39BUM6iZwIqyKfsWGjniN_jC5vgwBfC4Rb4Di6jJxGtyvoCpc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 117047,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8375803120194789677",
+        "updated": "July 23, 2019",
+        "size": "50M",
+        "installs": "5,000,000+",
+        "current_version": "4.9.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$1.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Seekrtech",
+        "developer_email": "android.support@forestapp.cc",
+        "developer_url": "https://www.forestapp.cc",
+        "developer_address": "4F.-2, No.340, Sec. 2, Taiwan Blvd., North Dist., Taichung City 404, Taiwan (R.O.C.)",
+        "app_id": "cc.forestapp",
+        "url": "https://play.google.com/store/apps/details?id=cc.forestapp&hl=en&gl=us"
+    },
+    {
+        "title": "Kittyhawk: Enterprise Drone Flight Operations",
+        "icon": "https://lh3.googleusercontent.com/3fUCIcFMkR1MMv_aNuo8LN9sib2gjqDANTuDNwqwtWoASKzLq-qMOz9c-y8m3lvUiEFD",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 213,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Kittyhawk.io",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000+",
+        "current_version": "5.4.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$149.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Kittyhawk.io",
+        "developer_email": "support@kittyhawk.io",
+        "developer_url": "https://kittyhawk.io",
+        "developer_address": "49 Powell St Fl 2\nSan Francisco, CA 94102",
+        "app_id": "io.kittyhawk",
+        "url": "https://play.google.com/store/apps/details?id=io.kittyhawk&hl=en&gl=us"
+    }
+]

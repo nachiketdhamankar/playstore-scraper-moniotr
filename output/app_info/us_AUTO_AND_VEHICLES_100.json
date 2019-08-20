@@ -1,0 +1,4422 @@
+[
+    {
+        "title": "Android Auto - Google Maps, Media & Messaging",
+        "icon": "https://lh3.googleusercontent.com/drnkC46hMwqPTdRLLLufhKgy_dRhA7uNTN14-tq2NxtI3deDakYOAR_4zeHcqbGg4Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Rz00UQ3dQyE",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 607839,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 24, 2019",
+        "size": "16M",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen",
+            "Language"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "android-auto-app@google.com",
+        "developer_url": "http://www.android.com/auto",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.projection.gearhead",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead&hl=en&gl=us"
+    },
+    {
+        "title": "Extreme City GT Car Stunts",
+        "icon": "https://lh3.googleusercontent.com/npl0ZF1H9T9h69q0-9tZbuK5vr4-2CXXuPYvNa1xohdlvbrNwsbZhpMP6y00Adf_Lw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35856,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Avengers+Academy",
+        "updated": "March 29, 2019",
+        "size": "46M",
+        "installs": "10,000,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Avengers Academy",
+        "developer_email": "gamepixel16@gmail.com",
+        "developer_url": "http://gamepixelsstudio.com/",
+        "developer_address": "2-1/A Shahid Colony, Street No.1, Lahore",
+        "app_id": "com.aa.extreme.city.gt.car.stunts",
+        "url": "https://play.google.com/store/apps/details?id=com.aa.extreme.city.gt.car.stunts&hl=en&gl=us"
+    },
+    {
+        "title": "Cars.com \u2013 Shop New & Used Cars & Trucks For Sale",
+        "icon": "https://lh3.googleusercontent.com/_62EWHmLxajwP3pFeGM2GY_uVSgrKtZtO5f14pMr8M58n-X0dmrPG3dK9iW-RE8f2cN8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ooRP3DMhCLM",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 39993,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Cars.com",
+        "updated": "July 22, 2019",
+        "size": "16M",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Cars.com",
+        "developer_email": "feedback@cars.com",
+        "developer_url": "https://www.cars.com/",
+        "developer_address": null,
+        "app_id": "com.cars.android",
+        "url": "https://play.google.com/store/apps/details?id=com.cars.android&hl=en&gl=us"
+    },
+    {
+        "title": "Mountain Bike Snow Moto Racing",
+        "icon": "https://lh3.googleusercontent.com/ty7M5zaavaPUhdKquYCHkYmjq8XdcpEKRppp6f4u0XbIBTp7iM2u5D-vaRdLX6kOAik",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1225,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5103173010884337435",
+        "updated": "July 5, 2019",
+        "size": "62M",
+        "installs": "1,000,000+",
+        "current_version": "1.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "The Game Max  Studio",
+        "developer_email": "gamemaxstudio.feedback@gmail.com",
+        "developer_url": "http://www.gamemaxstudio.com",
+        "developer_address": "46-49 industrial area GulbergIII\nLahore, 54000\nPakistan",
+        "app_id": "com.gms.snowbike.stuntracing.bikeracing.racetracks",
+        "url": "https://play.google.com/store/apps/details?id=com.gms.snowbike.stuntracing.bikeracing.racetracks&hl=en&gl=us"
+    },
+    {
+        "title": "City Coach Bus Simulator 2019",
+        "icon": "https://lh3.googleusercontent.com/hb_fep8n4hsHzPh5XJu4rRDlI7-ps-qk13Ilsua9hYe28tePtOBrjWFkwfuvqjcJ0Zw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3460,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Jima+Apps",
+        "updated": "June 26, 2019",
+        "size": "53M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$119.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Jima Apps",
+        "developer_email": "crownapps94@gmail.com",
+        "developer_url": "https://sites.google.com/view/crown-apps/home",
+        "developer_address": "Khlong Toei, Bangkok, Thailand",
+        "app_id": "com.jimaapps.city.coach.bus.simulator.driving",
+        "url": "https://play.google.com/store/apps/details?id=com.jimaapps.city.coach.bus.simulator.driving&hl=en&gl=us"
+    },
+    {
+        "title": "Police Detector (Speed Camera Radar)",
+        "icon": "https://lh3.googleusercontent.com/7-QJtREDsSHCkO5GGs7x5NzNJDlwFTtER_Fz2oFUvSZf_lMoXxZ7Pphlyp7SArUe2UXC",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10856,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "M.I.R.",
+        "updated": "June 29, 2019",
+        "size": "3.5M",
+        "installs": "1,000,000+",
+        "current_version": "2.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$5.49"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "M.I.R.",
+        "developer_email": "dps.detektor@gmail.com",
+        "developer_url": "https://vk.com/dps_detektor",
+        "developer_address": "423450 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d \u0433. \u0410\u043b\u044c\u043c\u0435\u0442\u044c\u0435\u0432\u0441\u043a \u043f\u0440. \u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u0435\u0439 \u0434. 28",
+        "app_id": "tat.example.ildar.seer",
+        "url": "https://play.google.com/store/apps/details?id=tat.example.ildar.seer&hl=en&gl=us"
+    },
+    {
+        "title": "CarMax \u2013 Cars for Sale: Search Used Car Inventory",
+        "icon": "https://lh3.googleusercontent.com/XLLo5cYR4i0J0a62N4JZCPfOXC9HOHdGThaONZaXG73hju9-3uL9ZLHVqIr-Se3RfWkm",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24985,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CarMax",
+        "updated": "July 15, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "3.5.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CarMax",
+        "developer_email": "carmaxapps@carmax.com",
+        "developer_url": "http://www.carmax.com",
+        "developer_address": "CarMax Home Office\nAtt. IT Business Planning\n12800 Tuckahoe Creek Parkway\nRichmond, VA 23238",
+        "app_id": "com.carmax.carmax",
+        "url": "https://play.google.com/store/apps/details?id=com.carmax.carmax&hl=en&gl=us"
+    },
+    {
+        "title": "PayByPhone",
+        "icon": "https://lh3.googleusercontent.com/szL1ANJ3Tu3y60lNGfh7khO0MBaA20r6FgVmJfqZHqo6cAd9D3OQZBwlwRw9lXzdAg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40249,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PayByPhone+Technologies+Inc.",
+        "updated": "July 25, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "3.6.0.7302",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PayByPhone Technologies Inc.",
+        "developer_email": "support@paybyphone.com",
+        "developer_url": "https://www.paybyphone.be/nl",
+        "developer_address": null,
+        "app_id": "com.paybyphone",
+        "url": "https://play.google.com/store/apps/details?id=com.paybyphone&hl=en&gl=us"
+    },
+    {
+        "title": "Autolist - Used Cars and Trucks for Sale",
+        "icon": "https://lh3.googleusercontent.com/uBQ_9JPrVQU3_0x5Ir97m0JK8uuTP5jNZ1-vIZXNiZ-WhL6WqCuZdi7Tay51n9hjm_A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20498,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6081018741390099347",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Autolist, Inc.",
+        "developer_email": "feedback@autolist.com",
+        "developer_url": "http://www.autolist.com",
+        "developer_address": "211 Sutter Street, Suite 200\nSan Francisco, CA 94108",
+        "app_id": "com.autolist.autolist",
+        "url": "https://play.google.com/store/apps/details?id=com.autolist.autolist&hl=en&gl=us"
+    },
+    {
+        "title": "Coach Bus Driving 3D - Bus Driver Simulator 2019",
+        "icon": "https://lh3.googleusercontent.com/kbParShCdlHVCItqKRvJwE3C8C1YgbhXKZuqHICua_E-L-HlIPNfOB03uN3puqHfOe4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 46,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "phuongtrangstudio",
+        "updated": "July 16, 2019",
+        "size": "37M",
+        "installs": "100,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "phuongtrangstudio",
+        "developer_email": "trangnhim2039@gmail.com",
+        "developer_url": "https://sites.google.com/view/coach-bus-driving-3d-bus-drive/trang-ch%E1%BB%A7",
+        "developer_address": null,
+        "app_id": "coach.bus.driving.driver.simulator.offroad.city.passenger",
+        "url": "https://play.google.com/store/apps/details?id=coach.bus.driving.driver.simulator.offroad.city.passenger&hl=en&gl=us"
+    },
+    {
+        "title": "DMV Permit Practice, Drivers Test & Traffic Signs",
+        "icon": "https://lh3.googleusercontent.com/fmfXgljT1Zaq0rvkXOokytlWOs5yO6WiAnPzsYkWAH8jmEuyWjntYFS4ESv5kxablg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14930,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Drive+Buzz",
+        "updated": "March 29, 2019",
+        "size": "7.2M",
+        "installs": "500,000+",
+        "current_version": "8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Drive Buzz",
+        "developer_email": "drivebuzzapps@gmail.com",
+        "developer_url": "http://drive-buzz.blogspot.com/2018/09/dmv-privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.driveus.dmvapp",
+        "url": "https://play.google.com/store/apps/details?id=com.driveus.dmvapp&hl=en&gl=us"
+    },
+    {
+        "title": "Modern Bus Drive 3D Parking new Games - Bus Games",
+        "icon": "https://lh3.googleusercontent.com/UGFswiGgatL9bWuHSrLgiZIUkBB8kRScYNFOk2i91a2nGZjc-X84XCpbPFvRkIMZfD0",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/DBnfUOiMRXE",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8460,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7825533933042292282",
+        "updated": "July 4, 2019",
+        "size": "37M",
+        "installs": "5,000,000+",
+        "current_version": "2.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$3.49"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Gaming Zone LLC",
+        "developer_email": "contactgamingstrt@gmail.com",
+        "developer_url": "https://gamingzonellcblog.wordpress.com/",
+        "developer_address": "Heritage House\nDubai",
+        "app_id": "com.gzl.drivebus.parking.game",
+        "url": "https://play.google.com/store/apps/details?id=com.gzl.drivebus.parking.game&hl=en&gl=us"
+    },
+    {
+        "title": "Carvana: 15k Used Cars, Buy Online, 7-Day Returns",
+        "icon": "https://lh3.googleusercontent.com/nqbGxxDYtwmbBoHHqmVgMrT9496xAAaVXYmltA43yU3Vj3GKtivZd-3070pyHHVr3Ns",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1218,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Carvana",
+        "updated": "July 16, 2019",
+        "size": "20M",
+        "installs": "100,000+",
+        "current_version": "3.1.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Carvana",
+        "developer_email": "carvanasupport@carvana.com",
+        "developer_url": "https://www.carvana.com/",
+        "developer_address": null,
+        "app_id": "com.carvana.carvana",
+        "url": "https://play.google.com/store/apps/details?id=com.carvana.carvana&hl=en&gl=us"
+    },
+    {
+        "title": "Jet Sky War Fighter 2019: Airplane Shooting Combat",
+        "icon": "https://lh3.googleusercontent.com/2YPsUmcYwaoXpDGDuG_gpqOlLfMHIbP943rOEp9U8TrnPtsqgbvjMpCWESLPniHlQEI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1238,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Mini+Sports",
+        "updated": "July 17, 2019",
+        "size": "38M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Violence"
+        ],
+        "iap_range": [
+            "Teen",
+            "Violence"
+        ],
+        "interactive_elements": null,
+        "developer": "Mini Sports",
+        "developer_email": "askgames.minisports@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1yVYaVtRMH_GdgsXIUKuveBAdjJm5FzahTaj9OzSKK0Y/edit?usp=sharing",
+        "developer_address": "Johar town, Lahore",
+        "app_id": "games.mini.sports.jets.shooting",
+        "url": "https://play.google.com/store/apps/details?id=games.mini.sports.jets.shooting&hl=en&gl=us"
+    },
+    {
+        "title": "Oil Tanker Transporter - Truck Offroad Simulator",
+        "icon": "https://lh3.googleusercontent.com/hFwWvwPjDshXadbK8bcD2DC2JeRub-ScdiOCb3B6XIvXav379YcR5baAO-bwNzMHlw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2740,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sobubble+team",
+        "updated": "July 7, 2019",
+        "size": "42M",
+        "installs": "1,000,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sobubble team",
+        "developer_email": "spbubble1122@gmmail.com",
+        "developer_url": "https://sites.google.com/view/oiltrucksimulator3d2019/trang-ch%E1%BB%A7",
+        "developer_address": null,
+        "app_id": "struck.oil.tanker.offroad.transport.driver.simulator",
+        "url": "https://play.google.com/store/apps/details?id=struck.oil.tanker.offroad.transport.driver.simulator&hl=en&gl=us"
+    },
+    {
+        "title": "Crazy Bike Racing Stunt 3D",
+        "icon": "https://lh3.googleusercontent.com/XLPma1Dz1g7rU53Iy13nrSVn7VwnAUjQBz2k8ZG5F2Ju2UvB0vA4gGkR0Ty4QI4wO5I",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2048,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9120469403975107329",
+        "updated": "July 25, 2019",
+        "size": "25M",
+        "installs": "1,000,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GamePace",
+        "developer_email": "gamepaceinc@gmail.com",
+        "developer_url": "https://gamepaceinc.blogspot.com/2019/03/privacy-policy-guidelines.html",
+        "developer_address": "Mallory Rd, Jacksonville, FL 32220, USA",
+        "app_id": "com.gp.crazy.tricky.bike.stunt.drift",
+        "url": "https://play.google.com/store/apps/details?id=com.gp.crazy.tricky.bike.stunt.drift&hl=en&gl=us"
+    },
+    {
+        "title": "Ramp Bike - Impossible Bike Racing & Stunt Games",
+        "icon": "https://lh3.googleusercontent.com/uvjMccla7fFj2ip3aHLhPAgVuYxWN3ISsp3qfLSpyHi9dK6NKBEcD_Y1ugadHSFDjxo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1311,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "DET+Games+2019",
+        "updated": "July 24, 2019",
+        "size": "28M",
+        "installs": "1,000,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Blood"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "DET Games 2019",
+        "developer_email": "detgames2019@gmail.com",
+        "developer_url": "https://sites.google.com/view/det-games-2019/home",
+        "developer_address": "DET Games 2019",
+        "app_id": "com.ramp.bike.impossible.bike.racing.stunt.games",
+        "url": "https://play.google.com/store/apps/details?id=com.ramp.bike.impossible.bike.racing.stunt.games&hl=en&gl=us"
+    },
+    {
+        "title": "Water Jet Ski Boat Racing 3D",
+        "icon": "https://lh3.googleusercontent.com/CyJ9TKlH-TgG7zA1QquakEAr6ZtYFHHzJTeytDIN5dOTWZrESF29ImIX5MW-ChkEJ74X",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4111,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Frenzy+Games+Studio",
+        "updated": "April 18, 2019",
+        "size": "57M",
+        "installs": "1,000,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Frenzy Games Studio",
+        "developer_email": "Squadcell.playgames@gmail.com",
+        "developer_url": "http://squadcell.com/frenzygamesstudios-privacypolicy/",
+        "developer_address": null,
+        "app_id": "com.frenzygames.fgs.scooter.water.jetski.boat.racing.mania",
+        "url": "https://play.google.com/store/apps/details?id=com.frenzygames.fgs.scooter.water.jetski.boat.racing.mania&hl=en&gl=us"
+    },
+    {
+        "title": "Fair: Get a car on your phone",
+        "icon": "https://lh3.googleusercontent.com/5PAGypfVnjNGmJv9luK2H27acXGF9QS2GfM912em-lh3HKeaQn5JmzKGP6F5tlPXX1_P",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6784,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fair+Inc.",
+        "updated": "July 24, 2019",
+        "size": "25M",
+        "installs": "1,000,000+",
+        "current_version": "1.29.0-30531",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Fair Inc.",
+        "developer_email": "friends@fair.com",
+        "developer_url": "http://www.fair.com",
+        "developer_address": "1540 2nd St. STE 200.  Santa Monica, CA 90401",
+        "app_id": "com.fair.fairapp",
+        "url": "https://play.google.com/store/apps/details?id=com.fair.fairapp&hl=en&gl=us"
+    },
+    {
+        "title": "DriveTime Used Cars for Sale",
+        "icon": "https://lh3.googleusercontent.com/rNx8oNroHAQq-zabbWrfLvAnCf_Ggergkk0sbZIR_xIZ67egdA7VV3OXFTwT01Xnv4g",
+        "screenshots": [],
+        "video": null,
+        "category": [],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 194,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "DriveTime+Automotive+Group,+Inc.",
+        "updated": "July 10, 2019",
+        "size": "1.8M",
+        "installs": "100,000+",
+        "current_version": "1.1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "DriveTime Automotive Group, Inc.",
+        "developer_email": "customerservice@drivetime.com",
+        "developer_url": "https://www.drivetime.com/",
+        "developer_address": null,
+        "app_id": "com.drivetime.MobileOnline",
+        "url": "https://play.google.com/store/apps/details?id=com.drivetime.MobileOnline&hl=en&gl=us"
+    },
+    {
+        "title": "DMV Permit Practice Test 2019 Edition",
+        "icon": "https://lh3.googleusercontent.com/20MZ-u81-0OsFsTZgLD-F4cmInFMlNNuQx5_25zhp67RG62o7kzm4tMl1mf_5wvF0w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14690,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "MediaLab+AI",
+        "updated": "January 21, 2019",
+        "size": "28M",
+        "installs": "500,000+",
+        "current_version": "1.9.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "MediaLab AI",
+        "developer_email": "coco.elearning@gmail.com",
+        "developer_url": "http://coco-apps.org",
+        "developer_address": "Los Angeles, California",
+        "app_id": "com.coco.dmv",
+        "url": "https://play.google.com/store/apps/details?id=com.coco.dmv&hl=en&gl=us"
+    },
+    {
+        "title": "DMV Genie Permit Practice Test: Car & CDL",
+        "icon": "https://lh3.googleusercontent.com/PeyGc7qAd6AvjCjmBqJGgEDv8hcOkgDzxFkP0Bd_u6UJZDmiKwwdZLoQbMpDTV1kR-k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25792,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7301770788672848330",
+        "updated": "June 25, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "3.2.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Elegant E-Learning",
+        "developer_email": "info@driving-tests.org",
+        "developer_url": "https://driving-tests.org",
+        "developer_address": "4283 Express Lane, Suite 392-536,\nSarasota, FL 34249",
+        "app_id": "dto.ee.dmv.genius",
+        "url": "https://play.google.com/store/apps/details?id=dto.ee.dmv.genius&hl=en&gl=us"
+    },
+    {
+        "title": "Shell US",
+        "icon": "https://lh3.googleusercontent.com/Mk6v7ukmMZdVYMzSzwLXTHQAIo1ys2bvHm0SihOYdA0Va2Egi4td8sEUugnVWNcKQSM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 951,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Shell+Information+Technology+International+B.V.",
+        "updated": "July 9, 2019",
+        "size": "82M",
+        "installs": "100,000+",
+        "current_version": "2.2.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Shell Information Technology International B.V.",
+        "developer_email": "SITI-MLM-Support@shell.com",
+        "developer_url": "http://www.shell.us/mobilepay",
+        "developer_address": "Carel van Bylandtlaan 30\nDen Haag 2596 HR\nNetherlands",
+        "app_id": "com.shell.sitibv.motorist.america",
+        "url": "https://play.google.com/store/apps/details?id=com.shell.sitibv.motorist.america&hl=en&gl=us"
+    },
+    {
+        "title": "DMV Practice Test 2019",
+        "icon": "https://lh3.googleusercontent.com/j268m4Ti8CcWyBJSuRxFSYt0K2X3-aJ7zxR_veHbW3nnDtW1A_6s7xHCqmV6YUmg_A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1325,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ABC+E-Learning",
+        "updated": "July 20, 2019",
+        "size": "20M",
+        "installs": "50,000+",
+        "current_version": "1.2.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ABC E-Learning",
+        "developer_email": "abc.elearningapps@gmail.com",
+        "developer_url": "https://abcelearning.github.io/mobileapps/",
+        "developer_address": null,
+        "app_id": "org.drivingprep.dmv",
+        "url": "https://play.google.com/store/apps/details?id=org.drivingprep.dmv&hl=en&gl=us"
+    },
+    {
+        "title": "Fearless BMX Rider 2019",
+        "icon": "https://lh3.googleusercontent.com/xGQujNdq9fHYaPrxehXLnRQF6Nj_oPnxJqAsZ_65AqsuiB4kWEDf7tl2p4cAifTVHDTF",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/PH11MjRwFzU",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9652,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Frenzy+Games+Studio",
+        "updated": "July 8, 2019",
+        "size": "31M",
+        "installs": "5,000,000+",
+        "current_version": "1.4",
+        "required_android_version": "2.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Frenzy Games Studio",
+        "developer_email": "Squadcell.playgames@gmail.com",
+        "developer_url": "http://squadcell.com/frenzygamesstudios-privacypolicy/",
+        "developer_address": null,
+        "app_id": "com.frenzygames.fgs.fearless.BMX.bicycle.stunt.rider",
+        "url": "https://play.google.com/store/apps/details?id=com.frenzygames.fgs.fearless.BMX.bicycle.stunt.rider&hl=en&gl=us"
+    },
+    {
+        "title": "US Smart Car Parking 3D - City Car Park Adventure",
+        "icon": "https://lh3.googleusercontent.com/qZSHtlS1aScKMnS17GyqOmIGognLpkQD6ILia77kcVVCO0SNSgSQe-0JF_ax4ycklQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3791,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "new+action+style+2019",
+        "updated": "May 2, 2019",
+        "size": "27M",
+        "installs": "5,000,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "new action style 2019",
+        "developer_email": "newactionstyle2019@gmail.com",
+        "developer_url": "https://www.facebook.com/permalink.php?story_fbid=191116411422583&id=191110974756460",
+        "developer_address": "New action style 2019",
+        "app_id": "com.na.advance.parking.car.parkcar.adventuregame",
+        "url": "https://play.google.com/store/apps/details?id=com.na.advance.parking.car.parkcar.adventuregame&hl=en&gl=us"
+    },
+    {
+        "title": "Extreme Car Stunts - Crazy Car Driving Simulator",
+        "icon": "https://lh3.googleusercontent.com/suvMKsfMOTuVcIqfqyQicsI4tB-kfzDZfD5CcqSIUtC4uZvnCNxXn4lTn75qTq3CbA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "FirstStarGames",
+        "updated": "July 25, 2019",
+        "size": "40M",
+        "installs": "10,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "FirstStarGames",
+        "developer_email": "arkamcill01@gmail.com",
+        "developer_url": "https://sites.google.com/view/extreme-car-stunts-crazy-car-d/trang-ch%E1%BB%A7",
+        "developer_address": null,
+        "app_id": "car.stunt.racing.crazy.ramp.driving.impossiable.tracks",
+        "url": "https://play.google.com/store/apps/details?id=car.stunt.racing.crazy.ramp.driving.impossiable.tracks&hl=en&gl=us"
+    },
+    {
+        "title": "Cheap Cars For Sale, Find or Sell Yours",
+        "icon": "https://lh3.googleusercontent.com/A811EKfpuHHzUKD-83zJTU67_YhwwSAgKW4cWiSeVCXGF3oSy5D3OYw10RYf6_O1NQk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1709,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Autopten",
+        "updated": "March 12, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Autopten",
+        "developer_email": "autopten@gmail.com",
+        "developer_url": "http://www.autopten.com/",
+        "developer_address": "Raleigh, NC USA 27616",
+        "app_id": "com.autopten.cheapcarsforsale",
+        "url": "https://play.google.com/store/apps/details?id=com.autopten.cheapcarsforsale&hl=en&gl=us"
+    },
+    {
+        "title": "Derby Car Crash Stunts",
+        "icon": "https://lh3.googleusercontent.com/CSMCkUoOJA5vOie4bNJkOpHAWtjJpLBXof_Ro7RWzu06xUveK0o0LbXczear3gFWHg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2XL5NeC8lmo",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4404,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Frenzy+Games+Studio",
+        "updated": "April 1, 2019",
+        "size": "57M",
+        "installs": "1,000,000+",
+        "current_version": "1.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Fantasy Violence"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Frenzy Games Studio",
+        "developer_email": "Squadcell.playgames@gmail.com",
+        "developer_url": "http://squadcell.com/frenzygamesstudios-privacypolicy/",
+        "developer_address": null,
+        "app_id": "com.frenzygames.demolition.derby.car.crash.racing.stunts",
+        "url": "https://play.google.com/store/apps/details?id=com.frenzygames.demolition.derby.car.crash.racing.stunts&hl=en&gl=us"
+    },
+    {
+        "title": "Police Car Chase Challenge Pursuit  2019",
+        "icon": "https://lh3.googleusercontent.com/YUaFL4EIza8POKv35nBZDapBp-8cvt99uHWQZDbYcX2yFBbelgPZeBkR3mzjcYvwyA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Play+Funworlds+Legends+Gaming+Art+Studio",
+        "updated": "June 1, 2019",
+        "size": "37M",
+        "installs": "50,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$6.49"
+        ],
+        "interactive_elements": null,
+        "developer": "Play Funworlds Legends Gaming Art Studio",
+        "developer_email": "hshaiva153funplay@gmail.com",
+        "developer_url": "https://playfunworlds.blogspot.com/2019/05/background-privacy-of-your-personal-and.html",
+        "developer_address": "Play Fun Worlds Legends Gaming Art Studio",
+        "app_id": "com.free.playfun.policecar.smashingchase.deathcarracing",
+        "url": "https://play.google.com/store/apps/details?id=com.free.playfun.policecar.smashingchase.deathcarracing&hl=en&gl=us"
+    },
+    {
+        "title": "Mega Ramp Car Racing V7",
+        "icon": "https://lh3.googleusercontent.com/rm6w5ijxmBFdzcFVVKBeSLR3qve9Y0Eni39jCw6FyEItdGLhUDKoAIsPdUk3HzkUu8k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Million+games",
+        "updated": "July 19, 2019",
+        "size": "57M",
+        "installs": "50,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$139.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Million games",
+        "developer_email": "milliongamesnew@gmail.com",
+        "developer_url": "http://www.milliongames.net",
+        "developer_address": "Hyderabad\nIndia",
+        "app_id": "com.milliongames.megarampcarracingv7",
+        "url": "https://play.google.com/store/apps/details?id=com.milliongames.megarampcarracingv7&hl=en&gl=us"
+    },
+    {
+        "title": "POV Car Driving",
+        "icon": "https://lh3.googleusercontent.com/r8xaRNZdUjlnCdWzrmdi1GREeGodK4fmjBxCGwbrRLebTbj-0QFX4CymXeECvHOad7PK",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/LAcreOvC960",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2835,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6950307537129292174",
+        "updated": "July 21, 2019",
+        "size": "114M",
+        "installs": "500,000+",
+        "current_version": "3.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$5.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Sz Interactive Ltd",
+        "developer_email": "info@szinteractive.net",
+        "developer_url": "https://www.szinteractive.net/blog/privacy-policy-for-pov-car-driving",
+        "developer_address": "12 Constance Street, London E16 2DQ",
+        "app_id": "com.szinteractive.TrafficRace",
+        "url": "https://play.google.com/store/apps/details?id=com.szinteractive.TrafficRace&hl=en&gl=us"
+    },
+    {
+        "title": "Formula Car Robot Transforming War: Robot Car Game",
+        "icon": "https://lh3.googleusercontent.com/f8cPqmXouSx_j0ckETTQrH_qFGjv63_GhGsN3bD6zTJQGvAy5lcti7eL5hs1sdlXyRc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 338,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Mustard+Games+Studios",
+        "updated": "July 24, 2019",
+        "size": "57M",
+        "installs": "100,000+",
+        "current_version": "1.0.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Blood"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$9.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Mustard Games Studios",
+        "developer_email": "mustardgamesstudios@gmail.com",
+        "developer_url": "http://www.mustardgamesstudios.com",
+        "developer_address": "Lahore",
+        "app_id": "com.mustardgames.formula.car.robot.games",
+        "url": "https://play.google.com/store/apps/details?id=com.mustardgames.formula.car.robot.games&hl=en&gl=us"
+    },
+    {
+        "title": "CDL Practice Test 2019 Edition",
+        "icon": "https://lh3.googleusercontent.com/D2KAgM7MuGmPvrGcsUW9jtFGR2DTr5ZcDrcQJweU1EfSmUlxOn7-zJoGiB5DdooHEA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19427,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "MediaLab+AI",
+        "updated": "January 21, 2019",
+        "size": "17M",
+        "installs": "100,000+",
+        "current_version": "1.9.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "MediaLab AI",
+        "developer_email": "coco.elearning@gmail.com",
+        "developer_url": "http://coco-apps.org/",
+        "developer_address": "Los Angeles, California",
+        "app_id": "com.coco.cdl",
+        "url": "https://play.google.com/store/apps/details?id=com.coco.cdl&hl=en&gl=us"
+    },
+    {
+        "title": "GT Racing Master: Mega GT Stunts Lightning Chase",
+        "icon": "https://lh3.googleusercontent.com/U3q7z5V6e9hCuzSAwKJjoNoqHKKmypnTsdUFjoxrmm3v69m6bDqJY7NuxCp78TEugnQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 550,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Play+Vertex",
+        "updated": "July 12, 2019",
+        "size": "66M",
+        "installs": "1,000,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Play Vertex",
+        "developer_email": "playvertex1@gmail.com",
+        "developer_url": "https://niiptech1.wixsite.com/playvertex",
+        "developer_address": "Yanbo AL-Bahr, Saudia Arabia",
+        "app_id": "com.play.vertex.gt.racing.master.tuner.car.stunts.legends.apps",
+        "url": "https://play.google.com/store/apps/details?id=com.play.vertex.gt.racing.master.tuner.car.stunts.legends.apps&hl=en&gl=us"
+    },
+    {
+        "title": "Sand Excavator Truck Driving Rescue Simulator game",
+        "icon": "https://lh3.googleusercontent.com/jiJFv8ogv-erRpoR8rdUELFExnz4w7GlUqKuNrkhRgZlMbJQ8h6D3FP1Y4vkHbO0zdx1",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4370,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Imperial+Arts+Pty+Ltd",
+        "updated": "April 23, 2019",
+        "size": "47M",
+        "installs": "5,000,000+",
+        "current_version": "2.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$4.49"
+        ],
+        "interactive_elements": null,
+        "developer": "Imperial Arts Pty Ltd",
+        "developer_email": "imperialproductions@outlook.com",
+        "developer_url": "https://imperialarts.000webhostapp.com/privacy.html",
+        "developer_address": "1/14 Barber avenue, Eastlakes,\npostal code 2018\nAustralia.",
+        "app_id": "com.impp.truck.simulator.rescueexcavator",
+        "url": "https://play.google.com/store/apps/details?id=com.impp.truck.simulator.rescueexcavator&hl=en&gl=us"
+    },
+    {
+        "title": "Car Scanner ELM OBD2",
+        "icon": "https://lh3.googleusercontent.com/X2HRiBLZzH77P7uCL4dBhbbkrXSYx0YyUIC8CDSxGHDTqidymUtsxhYQJqyQS1_d_LE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25635,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "0vZ",
+        "updated": "July 19, 2019",
+        "size": "47M",
+        "installs": "1,000,000+",
+        "current_version": "1.31.5",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.49",
+            "$5.49"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "0vZ",
+        "developer_email": "wp_soft@outlook.com",
+        "developer_url": "http://carscanner.info",
+        "developer_address": "Russia, Rostov-on-Don, Somewhere street, 18",
+        "app_id": "com.ovz.carscanner",
+        "url": "https://play.google.com/store/apps/details?id=com.ovz.carscanner&hl=en&gl=us"
+    },
+    {
+        "title": "City Taxi Driver Sim 2016: Multiplayer Cab Game 3D",
+        "icon": "https://lh3.googleusercontent.com/NM2UZQdqAdy9Z3l7fcAUfHsVXj1JxskLjinBQ5ECwHvQzGM2YjXywZVDU4it6hPkj-E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18797,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Imperial+Arts+Pty+Ltd",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "1.21",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$2.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Imperial Arts Pty Ltd",
+        "developer_email": "imperialproductions@outlook.com",
+        "developer_url": "https://imperialarts.000webhostapp.com/privacy.html",
+        "developer_address": "1/14 Barber avenue, Eastlakes,\npostal code 2018\nAustralia.",
+        "app_id": "com.impp.citytaxi.simulator.driver",
+        "url": "https://play.google.com/store/apps/details?id=com.impp.citytaxi.simulator.driver&hl=en&gl=us"
+    },
+    {
+        "title": "Offroad SUV Jeep Stunt Drive",
+        "icon": "https://lh3.googleusercontent.com/5_BDpLJAwofmSPGv834MwOc_WFiRTo8ShFNw03gOGf3rPiMLfxJjthf5MSKKFlMwPg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 496,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5254877886363138319",
+        "updated": "July 5, 2019",
+        "size": "79M",
+        "installs": "500,000+",
+        "current_version": "1.1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": null,
+        "developer": "buraq games studio",
+        "developer_email": "Feedback.BuraqStudio786@gmail.com",
+        "developer_url": "http://www.buraqgamesstudio.com",
+        "developer_address": "108 rustam park multan road\nlahore\nPakistan",
+        "app_id": "com.bgs.jeepdriving.stuntracing.suvdriver.offroadstunts",
+        "url": "https://play.google.com/store/apps/details?id=com.bgs.jeepdriving.stuntracing.suvdriver.offroadstunts&hl=en&gl=us"
+    },
+    {
+        "title": "Offroad Bicycle BMX Riding",
+        "icon": "https://lh3.googleusercontent.com/MEUhrbviOe0HRWq7Ucy4fd2nm7CoQqnE20f5L2ofTTz-fvc8Q1IdhRoTQGOlwsisdrI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 287,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5+Years+Ago",
+        "updated": "June 19, 2019",
+        "size": "54M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Mild Violence"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "5 Years Ago",
+        "developer_email": "5year.feedback@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1EK0XhvsytCxFufdS_bGhk-8-cHRqmTXGEFU6B3LvJXU/edit",
+        "developer_address": "United States",
+        "app_id": "com.fya.bicycleriding.offroaddriving.bmxgames.ridingsimulator",
+        "url": "https://play.google.com/store/apps/details?id=com.fya.bicycleriding.offroaddriving.bmxgames.ridingsimulator&hl=en&gl=us"
+    },
+    {
+        "title": "Car Flying Shooting: New Flying Car Simulator 2019",
+        "icon": "https://lh3.googleusercontent.com/TpSds14dMyJ-UyMEaGkeSRhRaVKZKwTawJCVlXwiV0BfNlpdq_trzcmJ3ZIS3HCjERI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 153,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "New+Feature+Games+-+Story+Based+Games",
+        "updated": "May 21, 2019",
+        "size": "58M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Fantasy Violence"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$3.49"
+        ],
+        "interactive_elements": null,
+        "developer": "New Feature Games - Story Based Games",
+        "developer_email": "publisher@games.miczon.com",
+        "developer_url": "http://games.miczon.com/",
+        "developer_address": "\u0928\u0908 \u092b\u093c\u0940\u091a\u0930 \u0917\u0947\u092e\u094d\u0938\n\u0938\u0948\u091f\u0947\u0932\u093e\u0907\u091f \u091f\u093e\u0909\u0928 \u091d\u093e\u0902\u0917",
+        "app_id": "com.flying.car.shooting",
+        "url": "https://play.google.com/store/apps/details?id=com.flying.car.shooting&hl=en&gl=us"
+    },
+    {
+        "title": "Farm Tractor Cargo Driving Simulator 19",
+        "icon": "https://lh3.googleusercontent.com/UxaeKEQPYLtUwFAxE5Ba8yc1IJMiaXq-SirusF7FaHJfUkoXZhaJWmNmVoOU1BJzNNo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/MfpGsBKsvx8",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3687,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Frenzy+Games+Studio",
+        "updated": "May 27, 2019",
+        "size": "50M",
+        "installs": "5,000,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Frenzy Games Studio",
+        "developer_email": "Squadcell.playgames@gmail.com",
+        "developer_url": "http://squadcell.com/frenzygamesstudios-privacypolicy/",
+        "developer_address": null,
+        "app_id": "com.frenzygames.farm.tractor.cargo.transport.drivinig.sim",
+        "url": "https://play.google.com/store/apps/details?id=com.frenzygames.farm.tractor.cargo.transport.drivinig.sim&hl=en&gl=us"
+    },
+    {
+        "title": "Discount Tire",
+        "icon": "https://lh3.googleusercontent.com/csKATL2XE9Me-jl6BzTc1FNSRfTBCsPZ91AiWkyRoF6_yOG4FbbBXaqqWS-DI-psKq7J",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 186,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Reinalt-Thomas+Corporation",
+        "updated": "November 7, 2018",
+        "size": "21M",
+        "installs": "100,000+",
+        "current_version": "1.0.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Reinalt-Thomas Corporation",
+        "developer_email": "dtomniapps@gmail.com",
+        "developer_url": "https://www.discounttire.com",
+        "developer_address": null,
+        "app_id": "com.gpshopper.discounttire",
+        "url": "https://play.google.com/store/apps/details?id=com.gpshopper.discounttire&hl=en&gl=us"
+    },
+    {
+        "title": "CDL Practice Test 2019",
+        "icon": "https://lh3.googleusercontent.com/nrkDYD7gf2Kp2jKb3wcx_Xxw7Shf9yaltBCysyYELNr8p-Hwqwuhgqyj5DEXqoN4IXs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1790,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ABC+E-Learning",
+        "updated": "July 20, 2019",
+        "size": "15M",
+        "installs": "10,000+",
+        "current_version": "1.2.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ABC E-Learning",
+        "developer_email": "abc.elearningapps@gmail.com",
+        "developer_url": "https://abcelearning.github.io/mobileapps/",
+        "developer_address": null,
+        "app_id": "org.drivingprep.cdl",
+        "url": "https://play.google.com/store/apps/details?id=org.drivingprep.cdl&hl=en&gl=us"
+    },
+    {
+        "title": "FIXD - Vehicle Health Monitor",
+        "icon": "https://lh3.googleusercontent.com/3oNaYg2wbFHmCL0TeX2gkyvPYvNaDg4U-Ra-Yb3y6rAjronsCxDPhXBLA1jW_jCAopU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/6mohVjTQ0Pw",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4871,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FIXD",
+        "updated": "July 9, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "FIXD",
+        "developer_email": "support@fixdapp.com",
+        "developer_url": "https://www.fixdapp.com",
+        "developer_address": "75 5th St NW, Atlanta, GA 30308",
+        "app_id": "com.fixdapp.two",
+        "url": "https://play.google.com/store/apps/details?id=com.fixdapp.two&hl=en&gl=us"
+    },
+    {
+        "title": "Extreme Limo Car Gt Stunts 2019",
+        "icon": "https://lh3.googleusercontent.com/PupY56XUitsAA3E5D9iArNEHB2UHvB6iolanC2R3iElhbzgVLo39LkYHoZmqKxZ-p18",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ocVMLTjT50A",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 902,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Frenzy+Games+Studio",
+        "updated": "May 28, 2019",
+        "size": "48M",
+        "installs": "1,000,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Frenzy Games Studio",
+        "developer_email": "Squadcell.playgames@gmail.com",
+        "developer_url": "http://squadcell.com/frenzygamesstudios-privacypolicy/",
+        "developer_address": null,
+        "app_id": "com.frenzygames.fgs.impossible.limo.car.mega.ramp.stunts",
+        "url": "https://play.google.com/store/apps/details?id=com.frenzygames.fgs.impossible.limo.car.mega.ramp.stunts&hl=en&gl=us"
+    },
+    {
+        "title": "Offroad SUV Drive 2019",
+        "icon": "https://lh3.googleusercontent.com/PuGBYy3LJ-cWDe2xVVlDyJ7EmlWtNzBEU4mMXSvKfx0iMQj5golr3eZ6iBJ_zkDAEZ-E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8212,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Frenzy+Games+Studio",
+        "updated": "May 15, 2019",
+        "size": "45M",
+        "installs": "5,000,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Frenzy Games Studio",
+        "developer_email": "Squadcell.playgames@gmail.com",
+        "developer_url": "http://squadcell.com/frenzygamesstudios-privacypolicy/",
+        "developer_address": null,
+        "app_id": "com.frenzygames.fgs.uphill.offroad.suv.drive.simulator",
+        "url": "https://play.google.com/store/apps/details?id=com.frenzygames.fgs.uphill.offroad.suv.drive.simulator&hl=en&gl=us"
+    },
+    {
+        "title": "Train Simulator Games : Train Games",
+        "icon": "https://lh3.googleusercontent.com/os4SEbMOwGa0ZbK1vVBIUeJxtjz1KHVACIO-F7P_EPtm4Pq_pFO49VA7Ptc_0W94wqtl",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33490,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "ALP+GAMES",
+        "updated": "May 17, 2019",
+        "size": "31M",
+        "installs": "10,000,000+",
+        "current_version": "7.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$1.99"
+        ],
+        "interactive_elements": null,
+        "developer": "ALP GAMES",
+        "developer_email": "info.2bitventures@gmail.com",
+        "developer_url": "http://bajakestudios.com/privacy-policy/",
+        "developer_address": null,
+        "app_id": "com.alp.trainsimulatorgames",
+        "url": "https://play.google.com/store/apps/details?id=com.alp.trainsimulatorgames&hl=en&gl=us"
+    },
+    {
+        "title": "Free VIN Check Report & History for Used Cars Tool",
+        "icon": "https://lh3.googleusercontent.com/zKuNjYBSONeJqv30_hW4A3KCoi45PCc8GAuKt-4zN52dcoByTXqBPoQaX4rZUY-B5g",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/y19FcPQyWjU",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4845,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "VINDecoded.com",
+        "updated": "July 20, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "6.4.2.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$24.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "VINDecoded.com",
+        "developer_email": "tech-support@vindecoded.com",
+        "developer_url": "https://vindecoded.com/",
+        "developer_address": "1226 Greenway Dr\nAllen TX, 75013",
+        "app_id": "com.mtsdealersolutions.vindecoded",
+        "url": "https://play.google.com/store/apps/details?id=com.mtsdealersolutions.vindecoded&hl=en&gl=us"
+    },
+    {
+        "title": "Drivemode: Handsfree Messages And Call For Driving",
+        "icon": "https://lh3.googleusercontent.com/cZFLNALeT4vMt-JRmLTcAIO0Mrb1Vnd_pUyXZ40fEFNUxSW_d60fT9Am5q3wBRk2aZE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/LgRS9VlY_zk",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29734,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Drivemode,+Inc.",
+        "updated": "July 17, 2019",
+        "size": "23M",
+        "installs": "1,000,000+",
+        "current_version": "7.5.15",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Drivemode, Inc.",
+        "developer_email": "hi@drivemode.com",
+        "developer_url": "http://drivemode.com",
+        "developer_address": "3039 Broadway, Redwood City, CA 94062 USA",
+        "app_id": "com.drivemode.android",
+        "url": "https://play.google.com/store/apps/details?id=com.drivemode.android&hl=en&gl=us"
+    },
+    {
+        "title": "Used Cars and SUVs For Sale",
+        "icon": "https://lh3.googleusercontent.com/98u8kwDNB3gj7iWPAXB6IY5NRczzItTGB-YUDn7cp_VMNB6ICbRUVDqnfhN54tDVcDw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 500,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fueled+Up+LLC",
+        "updated": "July 11, 2019",
+        "size": "25M",
+        "installs": "100,000+",
+        "current_version": "2.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Fueled Up LLC",
+        "developer_email": "support@suvs.com",
+        "developer_url": "https://suvs.com",
+        "developer_address": "1401 Lavaca St #690\nAustin, TX 78701",
+        "app_id": "com.suvs.usedcarsearch",
+        "url": "https://play.google.com/store/apps/details?id=com.suvs.usedcarsearch&hl=en&gl=us"
+    },
+    {
+        "title": "Micro Mechanic",
+        "icon": "https://lh3.googleusercontent.com/cBgljsMfXYKvcWpkOozjH4EjVyDcMb5qfP0HTQUBXRx45G5G3MB9e9rUYcl8I50S4e8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "2.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 714,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "As+Seen+On+TV,+Inc.",
+        "updated": "August 28, 2018",
+        "size": "29M",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "As Seen On TV, Inc.",
+        "developer_email": "dev@neweasy.com",
+        "developer_url": "https://www.GetMicroMechanic.com",
+        "developer_address": "14105 McCormick Rd\nTampa, FL 33626",
+        "app_id": "com.saritasa.micromechanic",
+        "url": "https://play.google.com/store/apps/details?id=com.saritasa.micromechanic&hl=en&gl=us"
+    },
+    {
+        "title": "Monster Truck Crash Derby : Fearless Stunts 2019",
+        "icon": "https://lh3.googleusercontent.com/9_-7_qczXl4R2fsxwII6g1GkV6xpGAoiwOr2XnuSTEElguegChW6InC7byZIFThkyQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 186,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Extreme+Simulator",
+        "updated": "June 16, 2019",
+        "size": "38M",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$38.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Extreme Simulator",
+        "developer_email": "extremeproductions419@gmail.com",
+        "developer_url": "https://sites.google.com/view/topfreeextremeproductions/home#h.p_D1y234YpXWV3",
+        "developer_address": "House # 419 Bilal Block, Nishter Colony,\nLahore,\nPunjab,\nPakistan",
+        "app_id": "com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019",
+        "url": "https://play.google.com/store/apps/details?id=com.extreme.simulator.monster.truck.crash.derby.fearless.stunts2019&hl=en&gl=us"
+    },
+    {
+        "title": "Engines sounds of the legend cars",
+        "icon": "https://lh3.googleusercontent.com/VIYM8d066fqNgkWMBtdFqlyyDQMi2f_XKdyHDw2AUVesCK_t0n_vgY1PjNHPgRc0XyI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28792,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9138875341513456260",
+        "updated": "October 26, 2018",
+        "size": "29M",
+        "installs": "500,000+",
+        "current_version": "1.1.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ready Square",
+        "developer_email": "developer@readysquare.com",
+        "developer_url": "http://readysquare.com",
+        "developer_address": "ul. Bitwy pod Studziankami 8/89\n33-100 Tarn\u00f3w\nPoland",
+        "app_id": "air.com.readysquare.carssounds",
+        "url": "https://play.google.com/store/apps/details?id=air.com.readysquare.carssounds&hl=en&gl=us"
+    },
+    {
+        "title": "MetroSMART Ride",
+        "icon": "https://lh3.googleusercontent.com/oRPkkL51dm5flcZJj4VRJV0i6m0_E1JLKg5WuDCbQoDM9j1WwPkQno6G8pXWfEYVO8ae",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/CjJThNaFGRo",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 873,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Metro+by+T-Mobile",
+        "updated": "July 2, 2019",
+        "size": "103M",
+        "installs": "100,000+",
+        "current_version": "3.6.1.32",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Metro by T-Mobile",
+        "developer_email": "sud_feedback@t-mobile.com",
+        "developer_url": "http://www.metropcs.com",
+        "developer_address": "3655 131st Ave SE, Bellevue, WA 98006",
+        "app_id": "com.metropcs.metrosmartride",
+        "url": "https://play.google.com/store/apps/details?id=com.metropcs.metrosmartride&hl=en&gl=us"
+    },
+    {
+        "title": "RightTrack by Liberty Mutual",
+        "icon": "https://lh3.googleusercontent.com/KoZGyovNONHsdMKiZtd-BQv_0AQ9-8PnKKQKFiG92dR6ezOLZ5qQ6KZvOR56Yx-MgQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3426,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Liberty+Mutual+Insurance+Company",
+        "updated": "April 18, 2019",
+        "size": "20M",
+        "installs": "100,000+",
+        "current_version": "3.46.97",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Liberty Mutual Insurance Company",
+        "developer_email": "RightTrack@libertymutual.com",
+        "developer_url": "https://www.libertymutual.com/righttrack",
+        "developer_address": null,
+        "app_id": "com.libertymutual.uscm.righttrack",
+        "url": "https://play.google.com/store/apps/details?id=com.libertymutual.uscm.righttrack&hl=en&gl=us"
+    },
+    {
+        "title": "BlueDriver OBD2 Scan Tool",
+        "icon": "https://lh3.googleusercontent.com/FWMNBYSToXrAylkUvmq8Th1ZYc-KgkqGNIbo-NoGjAwp3qB8Jv7V0EjrI90BMgNHLtAO",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/-aHBBIJwnMI",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5333,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4947164804079472463",
+        "updated": "May 6, 2019",
+        "size": "23M",
+        "installs": "500,000+",
+        "current_version": "6.12.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Lemur Vehicle Monitors",
+        "developer_email": "support@bluedriver.com",
+        "developer_url": "http://www.bluedriver.com",
+        "developer_address": "1027 Topsail Rd\nSuite 302\nMount Pearl, NL A1N5E9\nCanada",
+        "app_id": "com.lemurmonitors.bluedriver",
+        "url": "https://play.google.com/store/apps/details?id=com.lemurmonitors.bluedriver&hl=en&gl=us"
+    },
+    {
+        "title": "Free VIN Report for Used Cars",
+        "icon": "https://lh3.googleusercontent.com/mZqPhKfXYUbavumf7Ux4JkQVoGQdB9Q0RwK4c98l172h1Go623mCtcNpJya6Fz4-L2Fo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/eiRYa2lWRiU",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4021,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "iSeeCars.com",
+        "updated": "June 12, 2018",
+        "size": "2.4M",
+        "installs": "100,000+",
+        "current_version": "1.37",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "iSeeCars.com",
+        "developer_email": "android@iseecars.com",
+        "developer_url": "https://www.iseecars.com",
+        "developer_address": null,
+        "app_id": "com.iseecars.android.vin",
+        "url": "https://play.google.com/store/apps/details?id=com.iseecars.android.vin&hl=en&gl=us"
+    },
+    {
+        "title": "Speedometers & Sounds of Supercars",
+        "icon": "https://lh3.googleusercontent.com/msA4D2hlemGTYZICMNnMwP_ghhAMbLo9qGpyh2mQAqMoAgMndXMoibuSiFKwm21ddo4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/4vHEfIy1f9s",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 44485,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9138875341513456260",
+        "updated": "May 22, 2018",
+        "size": "25M",
+        "installs": "1,000,000+",
+        "current_version": "2.1.8",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Ready Square",
+        "developer_email": "developer@readysquare.com",
+        "developer_url": "http://readysquare.com",
+        "developer_address": "ul. Bitwy pod Studziankami 8/89\n33-100 Tarn\u00f3w\nPoland",
+        "app_id": "air.com.readysquare.scsm",
+        "url": "https://play.google.com/store/apps/details?id=air.com.readysquare.scsm&hl=en&gl=us"
+    },
+    {
+        "title": "Vesta&VestaSW",
+        "icon": "https://lh3.googleusercontent.com/2EsMXLV7-ScBTDmSi_8fx0VcCCMu8SR9-UMbAymnjGX39dbKNwRA0Cv9E9juhm3zPhA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hQmZdf6WlH0",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1319,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Oppana+Games",
+        "updated": "June 17, 2019",
+        "size": "105M",
+        "installs": "500,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Violence"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$114.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Oppana Games",
+        "developer_email": "oppanagames@gmail.com",
+        "developer_url": "https://www.facebook.com/notes/og/privacy-policy/400234887005186",
+        "developer_address": "630015, Dzerzhinskoko 1/1",
+        "app_id": "com.OppanaGames.Test.Drive.Vesta.Simulator",
+        "url": "https://play.google.com/store/apps/details?id=com.OppanaGames.Test.Drive.Vesta.Simulator&hl=en&gl=us"
+    },
+    {
+        "title": "RumbleOn",
+        "icon": "https://lh3.googleusercontent.com/XXL9NUlWOwj5kwWgWgjmJV0RcxqulqnanT_Ho99YL_yuh7VGsDo4lFKHX3ujyGl6M18E",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hKGljKgsOwc",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 245,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RumbleOn",
+        "updated": "July 17, 2019",
+        "size": "71M",
+        "installs": "100,000+",
+        "current_version": "4.0.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "RumbleOn",
+        "developer_email": "support@rumbleon.com",
+        "developer_url": "https://RumbleOn.com",
+        "developer_address": null,
+        "app_id": "com.halcyontek.rumbleon.login",
+        "url": "https://play.google.com/store/apps/details?id=com.halcyontek.rumbleon.login&hl=en&gl=us"
+    },
+    {
+        "title": "Lamborghini - super car wallpapers",
+        "icon": "https://lh3.googleusercontent.com/IOEbNalkKUg4tHpy4VLzXAcjrarvFtN4qY0hyBhjvFoQTtblhUX7RId9odhDZfWIJhc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TheMrDeveloper",
+        "updated": "April 18, 2019",
+        "size": "5.2M",
+        "installs": "10,000+",
+        "current_version": "1.18.4.19",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TheMrDeveloper",
+        "developer_email": "themrdeveloper@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1gJvGXHt6UofXGMAn6-CmLfapIjIv4LlxUY0qFL6tctk/edit?usp=sharing",
+        "developer_address": "Inonu cad huzur apt no27 d4 uzunkopru/edirne",
+        "app_id": "com.Car.Lamborghini.Wallpapers",
+        "url": "https://play.google.com/store/apps/details?id=com.Car.Lamborghini.Wallpapers&hl=en&gl=us"
+    },
+    {
+        "title": "Sprint Drive\u2122",
+        "icon": "https://lh3.googleusercontent.com/GBBO0EO7Y14Iag8LjBOlVIdj6aNcVM3FJLUTHw4z2ua6TTOoaetqmecna1a63jbCnj0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1685,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sprint",
+        "updated": "June 13, 2019",
+        "size": "12M",
+        "installs": "50,000+",
+        "current_version": "1.2.17",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sprint",
+        "developer_email": "sprintdrivefeedback@sprint.com",
+        "developer_url": "http://www.sprint.com",
+        "developer_address": "6200 Sprint Parkway\nOverland Park, KS 66251",
+        "app_id": "com.sprint.drive",
+        "url": "https://play.google.com/store/apps/details?id=com.sprint.drive&hl=en&gl=us"
+    },
+    {
+        "title": "Modern Driving School Car parking Glory 2019",
+        "icon": "https://lh3.googleusercontent.com/MdGXAGJr1GuAWWCszT0UaGwkrorlXDn1xsJqeDAuptKlhKhmAs74ML4wCND5UoVXUC4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 324,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Gaming+Hell",
+        "updated": "July 23, 2019",
+        "size": "17M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Gaming Hell",
+        "developer_email": "gaminghell43@gmail.com",
+        "developer_url": "https://gaminghell43.blogspot.com/",
+        "developer_address": null,
+        "app_id": "com.gmh.impossible.tracks.crazy.car.parking.games",
+        "url": "https://play.google.com/store/apps/details?id=com.gmh.impossible.tracks.crazy.car.parking.games&hl=en&gl=us"
+    },
+    {
+        "title": "Ultimate City Car Crash 2019: Driving Simulator",
+        "icon": "https://lh3.googleusercontent.com/duKBuYjTcHn4il3iEpvyMmZltu24znIez4aBB-0D_4__29XyC0ctm27d6-xpurZVhw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 911,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "GearsInMotion+Games",
+        "updated": "June 28, 2019",
+        "size": "34M",
+        "installs": "1,000,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$17.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "GearsInMotion Games",
+        "developer_email": "gearsinmotiongames@gmail.com",
+        "developer_url": "https://sites.google.com/view/gearsinmotionprivacypolicy",
+        "developer_address": "Chaman Road G-8 Postal Code 44000 Pakistan",
+        "app_id": "com.gearsinmotion.car.citycrash",
+        "url": "https://play.google.com/store/apps/details?id=com.gearsinmotion.car.citycrash&hl=en&gl=us"
+    },
+    {
+        "title": "Offroad Bike Taxi Driver: Motorcycle Cab Rider",
+        "icon": "https://lh3.googleusercontent.com/facZM4rra_9jOAgul1eMWECdiPJHsYH9RgaXVUhWVJUXMpardS8w3stlLljnkWlDIQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 105,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Desto+Tech+Games",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Desto Tech Games",
+        "developer_email": "destotechgame@gmail.com",
+        "developer_url": "https://destotechgames.blogspot.com/p/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.destotechgames.bike.taxi.sim",
+        "url": "https://play.google.com/store/apps/details?id=com.destotechgames.bike.taxi.sim&hl=en&gl=us"
+    },
+    {
+        "title": "CarMeets - The Ultimate Car Enthusiast App",
+        "icon": "https://lh3.googleusercontent.com/2nm__59kc0Ha1pY9gavlFjHqDms9uHNQD4I-EyB6qt-7KwKJcpAIV76JPenBdhiJQ40",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 339,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "CarMeets,+Inc.",
+        "updated": "July 23, 2019",
+        "size": "19M",
+        "installs": "50,000+",
+        "current_version": "2.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$4.49"
+        ],
+        "interactive_elements": null,
+        "developer": "CarMeets, Inc.",
+        "developer_email": "support@carmeets.app",
+        "developer_url": "http://www.carmeets.app",
+        "developer_address": "7635 118th Ave SE, Newcastle, WA 98056",
+        "app_id": "com.gsd.carmeets",
+        "url": "https://play.google.com/store/apps/details?id=com.gsd.carmeets&hl=en&gl=us"
+    },
+    {
+        "title": "DMV Practice Test 2019",
+        "icon": "https://lh3.googleusercontent.com/wYVxfL28sSRCZbJrXbH-_OEN6o0d6I6U14lh_K2x9lGY_tjS9FHNhF8H_eLgRtwAXqA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/nNNFzkk6Nc4",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2293,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8235669704987837150",
+        "updated": "June 29, 2019",
+        "size": "21M",
+        "installs": "100,000+",
+        "current_version": "5.06",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Elite apps",
+        "developer_email": "support@iexamguru.com",
+        "developer_url": "https://iexamguru.com",
+        "developer_address": "931 Mill Grove Dr,\nNorristown, Pennsylvania",
+        "app_id": "com.iexamguru.dmv_practice_test",
+        "url": "https://play.google.com/store/apps/details?id=com.iexamguru.dmv_practice_test&hl=en&gl=us"
+    },
+    {
+        "title": "City GT Racing Hero Stunt",
+        "icon": "https://lh3.googleusercontent.com/FqqgJVVFmjJhPm2N4p5l9nAkVMiByHf5UDDoaFAP5ivUHkzfiVE8TauXt_QT5d1u0hFz",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 109,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Gig+Big+Games",
+        "updated": "May 29, 2019",
+        "size": "57M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Gig Big Games",
+        "developer_email": "feedbackofgigbig@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1piULHW_dSajPyo1sxb_jttK-mhqeBfUnyY3EYRp_3bk/edit",
+        "developer_address": null,
+        "app_id": "com.gb.carracer.extremeracing.citystunts.drivingsimulator",
+        "url": "https://play.google.com/store/apps/details?id=com.gb.carracer.extremeracing.citystunts.drivingsimulator&hl=en&gl=us"
+    },
+    {
+        "title": "Futuristic Flying Car Racer",
+        "icon": "https://lh3.googleusercontent.com/m3J1heLlftSYUslrR0DX2Q_ztE6QHpJXI30vffgxbEbPUxfXd_CuZDX1MVEiZyOX1w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 360,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7574883588150827079",
+        "updated": "July 10, 2019",
+        "size": "66M",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Violent References"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Gamigos",
+        "developer_email": "feedbackofgamingos@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1taEeMd7j0o1a3O20YPOBpnY0WSCCRciDKy7ssVMwaig/edit",
+        "developer_address": "Poesigatan 12C703 71 \u00d6rebro Sweden",
+        "app_id": "com.gos.flyingdriving.racingchallenge.carshooting",
+        "url": "https://play.google.com/store/apps/details?id=com.gos.flyingdriving.racingchallenge.carshooting&hl=en&gl=us"
+    },
+    {
+        "title": "City Fire Truck Rescue",
+        "icon": "https://lh3.googleusercontent.com/RhOWveGdU_cyEMX3PEFuoaTBQdnlvrKzUZ2wm576OOqyDX0ITYesVL6a7GC_Mw6BxKw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 195,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Game+Tap",
+        "updated": "July 10, 2019",
+        "size": "35M",
+        "installs": "100,000+",
+        "current_version": "0.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Game Tap",
+        "developer_email": "feedback.gametap@gmail.com",
+        "developer_url": "http://gametapstudios.com/privacy.html",
+        "developer_address": "London,\nUnited Kingdom.",
+        "app_id": "com.Gametap.CityFireTruckRescue",
+        "url": "https://play.google.com/store/apps/details?id=com.Gametap.CityFireTruckRescue&hl=en&gl=us"
+    },
+    {
+        "title": "O\u2019Reilly First Call VIN Scan",
+        "icon": "https://lh3.googleusercontent.com/Aj_DA7EbfRgjgCLFe0WzQpi4gwpssGqcVfEcBDCXDGLrP6cqXL7faO1bMYa66oEnTn8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "2.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "O%27Reilly+Auto",
+        "updated": "April 26, 2019",
+        "size": "16M",
+        "installs": "10,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "O'Reilly Auto",
+        "developer_email": "firstcallsupport@oreillyauto.com",
+        "developer_url": "https://firstcallonline.com",
+        "developer_address": null,
+        "app_id": "com.oreillyauto.fco.vinscan",
+        "url": "https://play.google.com/store/apps/details?id=com.oreillyauto.fco.vinscan&hl=en&gl=us"
+    },
+    {
+        "title": "Formula Car Crash Demolition Stunt Arena",
+        "icon": "https://lh3.googleusercontent.com/fUij2vYgo6fVHDKUjv6MF7J5hfQGsgrZf3z98zwwVA_GF5WODkm0ZL6L0cficZk2CRI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5+Years+Ago",
+        "updated": "July 22, 2019",
+        "size": "52M",
+        "installs": "50,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Mild Violence"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "5 Years Ago",
+        "developer_email": "5year.feedback@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1EK0XhvsytCxFufdS_bGhk-8-cHRqmTXGEFU6B3LvJXU/edit",
+        "developer_address": "United States",
+        "app_id": "com.fya.crashstunts.sportscar.damageengine.crashracing",
+        "url": "https://play.google.com/store/apps/details?id=com.fya.crashstunts.sportscar.damageengine.crashracing&hl=en&gl=us"
+    },
+    {
+        "title": "Impossible Robot Bike Extreme Stunts Challenge",
+        "icon": "https://lh3.googleusercontent.com/IJ6os6dKHZ8CyHfcUi5xwD8DU3fOnEOQ1FcScvIgzvQS_hQ84ZYU8yGZ8QZAGJ1s-28",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Kablam+Gaming+Studios",
+        "updated": "July 12, 2019",
+        "size": "Varies with device",
+        "installs": "10,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$6.49",
+            "$16.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Kablam Gaming Studios",
+        "developer_email": "kablamgamestudios@gmail.com",
+        "developer_url": "http://www.ausomatic.com/?page_id=398",
+        "developer_address": "29 Avenue Clamart\nScunthorpe\nUnited Kingdom\nDN15 8EQ",
+        "app_id": "com.kablamgames.impossible.robot.bike.extreme.stunts.challenge",
+        "url": "https://play.google.com/store/apps/details?id=com.kablamgames.impossible.robot.bike.extreme.stunts.challenge&hl=en&gl=us"
+    },
+    {
+        "title": "Crazy Car Impossible Track Racing Simulator",
+        "icon": "https://lh3.googleusercontent.com/2urAzLmNHNF-K5iN8kqrYD3lOVPyut1zF9I4vefr2OJ6sIrx0PnWpIuznmRtTL3l35U",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8367,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Apic+Studio",
+        "updated": "July 25, 2019",
+        "size": "23M",
+        "installs": "10,000,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Apic Studio",
+        "developer_email": "apic.studios65@gmail.com",
+        "developer_url": "https://appicstudios.blogspot.com/2018/10/privacy-policy-appic-studio-we-operates.html",
+        "developer_address": "Mussaffa Abu Dhabi",
+        "app_id": "com.apc.impossible.mega.dangerous.ramp.stunt",
+        "url": "https://play.google.com/store/apps/details?id=com.apc.impossible.mega.dangerous.ramp.stunt&hl=en&gl=us"
+    },
+    {
+        "title": "Missile Attack 2 & Ultimate War - Truck Games",
+        "icon": "https://lh3.googleusercontent.com/lnYEpa_m4KfCk5DjjQfqdQ6YGVwvsdkuqT2zTqj4IpTn9hSGBuWJ1SLQKuzHerD2e5Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 493,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jockey+Games",
+        "updated": "June 1, 2019",
+        "size": "44M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Blood"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jockey Games",
+        "developer_email": "gamesjockey2019@gmail.com",
+        "developer_url": "https://www.facebook.com/Jockey-Games-298308134420638/?modal=admin_todo_tour",
+        "developer_address": "Jockey Games",
+        "app_id": "com.missileattack2.ultimatewar.truckgames.jk",
+        "url": "https://play.google.com/store/apps/details?id=com.missileattack2.ultimatewar.truckgames.jk&hl=en&gl=us"
+    },
+    {
+        "title": "Police Cruise Ship Transport : Driving Simulator",
+        "icon": "https://lh3.googleusercontent.com/KzwW9ynGDayiFIiPjeeJSn7Rk0-jWkPpX8N3Rh6GtvY9O8GT0vs5fUhEasa_oXGD70s5",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 210,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6836129847219805741",
+        "updated": "July 17, 2019",
+        "size": "54M",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Fantasy Violence"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$34.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "play.io",
+        "developer_email": "play.interactive.io@gmail.com",
+        "developer_url": "http://playinteractive.io",
+        "developer_address": "Walton Road, Lahore PK",
+        "app_id": "com.play.io.us.police.cruiseship.driving.simulator",
+        "url": "https://play.google.com/store/apps/details?id=com.play.io.us.police.cruiseship.driving.simulator&hl=en&gl=us"
+    },
+    {
+        "title": "LG MirrorDrive",
+        "icon": "https://lh3.googleusercontent.com/i9nF48sLXT3tUBCPXIeRaYM4QOh4dodnqsmUS_ISWpvlSfNO1VGznNynOLM18gdrgio",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "2.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1332,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6033443741999759446",
+        "updated": "March 18, 2019",
+        "size": "6.3M",
+        "installs": "500,000+",
+        "current_version": "1.2.2.7",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "LG Electronics, Inc.",
+        "developer_email": "app.manager@lge.com",
+        "developer_url": "https://kr.m.lgaccount.com/customer/privacy",
+        "developer_address": null,
+        "app_id": "com.lge.mirrordrive",
+        "url": "https://play.google.com/store/apps/details?id=com.lge.mirrordrive&hl=en&gl=us"
+    },
+    {
+        "title": "Real Camper Van Driving Simulator 2019",
+        "icon": "https://lh3.googleusercontent.com/FALXcAljXpEvTxZewp4v_vnbuhI7S1OpuLrbcvm9_Kq5WYxbuC7GQX73c7ekWateh2kQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Vroom+-+Apps+%26+Games",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000+",
+        "current_version": "1.0.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Blood"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$18.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Vroom - Apps & Games",
+        "developer_email": "youhandleit@gmail.com",
+        "developer_url": "http://www.youhandleit.com/privacy-policy.html",
+        "developer_address": "Lahore, Pakistan",
+        "app_id": "com.yhi.offroad.camper.van.cruiser.truck.driving.simulator",
+        "url": "https://play.google.com/store/apps/details?id=com.yhi.offroad.camper.van.cruiser.truck.driving.simulator&hl=en&gl=us"
+    },
+    {
+        "title": "CDL Practice Test",
+        "icon": "https://lh3.googleusercontent.com/DO-xW3ZstmP3ZRWV3YMy0qSBUVVbJBmLxVALK5r0JRfIxm4FQnUgjKNQggz30C_jT8JO",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 98,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "VZ+Inc.",
+        "updated": "April 29, 2019",
+        "size": "7.0M",
+        "installs": "1,000+",
+        "current_version": "1",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "VZ Inc.",
+        "developer_email": "vzincapps@gmail.com",
+        "developer_url": "http://vzincapps.blogspot.com/2018/01/privacy-policy.html",
+        "developer_address": "Oakland, CA",
+        "app_id": "com.bubblingiso.CDL",
+        "url": "https://play.google.com/store/apps/details?id=com.bubblingiso.CDL&hl=en&gl=us"
+    },
+    {
+        "title": "Used Car Search Pro - iSeeCars",
+        "icon": "https://lh3.googleusercontent.com/j_I0P98ouVwG4nveb9qULkXvWnaqCFauObLp4nrQqtovW2GPCf3KklCGl4ZDwCzr6hI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/pdA8f4Henpc",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1101,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "iSeeCars.com",
+        "updated": "August 29, 2017",
+        "size": "2.3M",
+        "installs": "100,000+",
+        "current_version": "1.81",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "iSeeCars.com",
+        "developer_email": "android@iseecars.com",
+        "developer_url": "https://www.iseecars.com",
+        "developer_address": null,
+        "app_id": "com.iseecars.android.app",
+        "url": "https://play.google.com/store/apps/details?id=com.iseecars.android.app&hl=en&gl=us"
+    },
+    {
+        "title": "CarMax OwnersPlus",
+        "icon": "https://lh3.googleusercontent.com/4PI4zNw1tvTEkRf0RTLBVPVx8vqPrqqqZxoQGmIhZ1guDeEI84FmA8kR9aB2AUYWFTM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 234,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CarMax",
+        "updated": "February 14, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CarMax",
+        "developer_email": "carmaxapps@carmax.com",
+        "developer_url": "http://carmax.com",
+        "developer_address": "CarMax Home Office\nAtt. IT Business Planning\n12800 Tuckahoe Creek Parkway\nRichmond, VA 23238",
+        "app_id": "com.carmax.carmaxowner",
+        "url": "https://play.google.com/store/apps/details?id=com.carmax.carmaxowner&hl=en&gl=us"
+    },
+    {
+        "title": "Car Crash Driving Simulator: Beam Car Jump Arena",
+        "icon": "https://lh3.googleusercontent.com/keFpeH2Jnn11enL0FE4Rc9msBMfSdhsze-xU6DN3-XlOMw6r8-wbJANNlxeKmfAAN8mT",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1366,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Canvas+Illusion",
+        "updated": "April 12, 2019",
+        "size": "43M",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Canvas Illusion",
+        "developer_email": "contct.canvasillusion@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1EwyiZsJk737ThPweVICs2-h5fbuueMzAH0lGpP65ctY/edit?usp=sharing",
+        "developer_address": null,
+        "app_id": "com.canvas.car.crash.beam.car.jump.arena",
+        "url": "https://play.google.com/store/apps/details?id=com.canvas.car.crash.beam.car.jump.arena&hl=en&gl=us"
+    },
+    {
+        "title": "Roav Charger",
+        "icon": "https://lh3.googleusercontent.com/OHjNJgzB22JlgpUiQpHG00640OWA_dSuF9KzdYpJTmTUsgJ3U7_IqZVeOs-ytWewAPo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2074,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Anker",
+        "updated": "May 27, 2019",
+        "size": "18M",
+        "installs": "100,000+",
+        "current_version": "1.2.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Anker",
+        "developer_email": "support@goroav.com",
+        "developer_url": "http://roavcam.goroav.com/privacy.html",
+        "developer_address": null,
+        "app_id": "com.chipsguide.app.roav.fmplayer",
+        "url": "https://play.google.com/store/apps/details?id=com.chipsguide.app.roav.fmplayer&hl=en&gl=us"
+    },
+    {
+        "title": "Boat Trader",
+        "icon": "https://lh3.googleusercontent.com/4h6mZysnjjDVYhJ8qBbZRh_2KG7EILsn1RW76NqQgNcBmNRekTiN-zGwQCrwN_pcrQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 731,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6520417750840843900",
+        "updated": "April 30, 2019",
+        "size": "14M",
+        "installs": "10,000+",
+        "current_version": "1.4.124",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Boats Group LLC",
+        "developer_email": "btappissues@boats.com",
+        "developer_url": "https://www.boattrader.com/",
+        "developer_address": "1221 Brickell Ave, Floor 23, Miami, Fl 33131",
+        "app_id": "com.boatsgroup.boattrader",
+        "url": "https://play.google.com/store/apps/details?id=com.boatsgroup.boattrader&hl=en&gl=us"
+    },
+    {
+        "title": "Underwater Stunts Car Flying Race",
+        "icon": "https://lh3.googleusercontent.com/oQsupsC7fpkyoYopKNUjOJW16xSxDRpIZZt_q7yXthl-bYlLf5K7sdl6mWeMXlSAPq4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 487,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5+Years+Ago",
+        "updated": "July 17, 2019",
+        "size": "60M",
+        "installs": "500,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "5 Years Ago",
+        "developer_email": "5year.feedback@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1EK0XhvsytCxFufdS_bGhk-8-cHRqmTXGEFU6B3LvJXU/edit",
+        "developer_address": "United States",
+        "app_id": "com.fya.flyingcar.watercar.stuntracing.floatingcar",
+        "url": "https://play.google.com/store/apps/details?id=com.fya.flyingcar.watercar.stuntracing.floatingcar&hl=en&gl=us"
+    },
+    {
+        "title": "Mega Ramp Monster Truck Stunts Racer",
+        "icon": "https://lh3.googleusercontent.com/Sp5-NKA4PvruvSYfatHePNcifRDNGzlDl_r8GNQn3r-7Yjg6XzFn7iN1avXBx6cWZucL",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 77,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Gig+Big+Games",
+        "updated": "June 18, 2019",
+        "size": "55M",
+        "installs": "50,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Gig Big Games",
+        "developer_email": "feedbackofgigbig@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1piULHW_dSajPyo1sxb_jttK-mhqeBfUnyY3EYRp_3bk/edit",
+        "developer_address": null,
+        "app_id": "com.gb.toughestmegaramp.grandramp.rampracing.truckdriving",
+        "url": "https://play.google.com/store/apps/details?id=com.gb.toughestmegaramp.grandramp.rampracing.truckdriving&hl=en&gl=us"
+    },
+    {
+        "title": "Formula Car Racing Underground 2: Sports Car Stunt",
+        "icon": "https://lh3.googleusercontent.com/TnMY7AX6AHoOL7uHfNf4WBTHwUueT6vQawS4XC9PmdBgomg7O7jtV2lK2oUcKRJHtw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 89,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "New+Feature+Games+-+Story+Based+Games",
+        "updated": "April 22, 2019",
+        "size": "47M",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.99"
+        ],
+        "interactive_elements": null,
+        "developer": "New Feature Games - Story Based Games",
+        "developer_email": "publisher@games.miczon.com",
+        "developer_url": "http://games.miczon.com/",
+        "developer_address": "\u0928\u0908 \u092b\u093c\u0940\u091a\u0930 \u0917\u0947\u092e\u094d\u0938\n\u0938\u0948\u091f\u0947\u0932\u093e\u0907\u091f \u091f\u093e\u0909\u0928 \u091d\u093e\u0902\u0917",
+        "app_id": "com.formula.car.underground.racer",
+        "url": "https://play.google.com/store/apps/details?id=com.formula.car.underground.racer&hl=en&gl=us"
+    },
+    {
+        "title": "T-Mobile SyncUP DRIVE",
+        "icon": "https://lh3.googleusercontent.com/HfSVS4rDJ-cVw8qYSQRebqCGcP3As9gWggX6voZD_jJsTh7sp1hsRMWXOrrd0UhIBiw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3093,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mojio+Inc.",
+        "updated": "July 2, 2019",
+        "size": "98M",
+        "installs": "500,000+",
+        "current_version": "3.6.1.32",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Mojio Inc.",
+        "developer_email": "sud_feedback@t-mobile.com",
+        "developer_url": "https://www.t-mobile.com/offers/syncup",
+        "developer_address": null,
+        "app_id": "io.moj.mobile.android.motion",
+        "url": "https://play.google.com/store/apps/details?id=io.moj.mobile.android.motion&hl=en&gl=us"
+    },
+    {
+        "title": "Off Road Monster Truck Driving",
+        "icon": "https://lh3.googleusercontent.com/e_ourVyjvSiiVMRVmX8xS_YHYUinaniJW_giVdMhMtnV_5fzgEDwjIPt45jgrAU8kmk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2520,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Million+games",
+        "updated": "June 14, 2019",
+        "size": "54M",
+        "installs": "500,000+",
+        "current_version": "1.8",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$204.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Million games",
+        "developer_email": "support@timuz.com",
+        "developer_url": "http://www.timuz.com",
+        "developer_address": "Hyderabad\nIndia",
+        "app_id": "com.timuzgames.mmxoffroadhillracing",
+        "url": "https://play.google.com/store/apps/details?id=com.timuzgames.mmxoffroadhillracing&hl=en&gl=us"
+    },
+    {
+        "title": "Freestyle Vertical Ramp Skateboard: Skating Games",
+        "icon": "https://lh3.googleusercontent.com/PjA8wS22Nexd36MwlZAJai6_IWVY3nUVyxVAtDNyHfkI_FwlRbFhPc21HYVZhEBQQw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1185,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Trenzy",
+        "updated": "July 24, 2019",
+        "size": "51M",
+        "installs": "100,000+",
+        "current_version": "1.0.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Violence"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Trenzy",
+        "developer_email": "NAVEEDBHAI700@GMAIL.COM",
+        "developer_url": "https://sites.google.com/site/trenzystudiosprivacypolicy/",
+        "developer_address": "Pakistan",
+        "app_id": "com.trnz.skateboard.mega.ramp.games",
+        "url": "https://play.google.com/store/apps/details?id=com.trnz.skateboard.mega.ramp.games&hl=en&gl=us"
+    },
+    {
+        "title": "Beach Emergency Rescue Lifeguard",
+        "icon": "https://lh3.googleusercontent.com/Gy4CJm-zUJlD5j0XnOBAuaRquEy9q6RfWdhwr3Dca8ZcHeb4jHHQKNhueLcBG3rnz2Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 54,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Gig+Big+Games",
+        "updated": "July 11, 2019",
+        "size": "50M",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Gig Big Games",
+        "developer_email": "feedbackofgigbig@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1piULHW_dSajPyo1sxb_jttK-mhqeBfUnyY3EYRp_3bk/edit",
+        "developer_address": null,
+        "app_id": "com.gb.lifeguardhero.beachcoast.rescuemission.lifeguardboat",
+        "url": "https://play.google.com/store/apps/details?id=com.gb.lifeguardhero.beachcoast.rescuemission.lifeguardboat&hl=en&gl=us"
+    },
+    {
+        "title": "PayTollo",
+        "icon": "https://lh3.googleusercontent.com/se-LwdY3AeI4Arxu9HG_2XFBCd5eOnRkMer3BofZJFkk2m3xsyTzUkmFdVvF8Rg57gk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/HXDmsgTXX_w",
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "2.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 57,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PayTollo+Inc.",
+        "updated": "July 18, 2019",
+        "size": "15M",
+        "installs": "10,000+",
+        "current_version": "1.10.11",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PayTollo Inc.",
+        "developer_email": "support@paytollo.com",
+        "developer_url": "http://www.paytollo.com",
+        "developer_address": null,
+        "app_id": "com.paytollo.ptandroid",
+        "url": "https://play.google.com/store/apps/details?id=com.paytollo.ptandroid&hl=en&gl=us"
+    },
+    {
+        "title": "Car Run Racing \ud83d\ude97 Super Car Race",
+        "icon": "https://lh3.googleusercontent.com/wXPY483fnrVTTkOzGM-D0ec5BNCtTQQLbSdZnyaFBa8lv8TyUqiqXFMtJ6QsS6pHO8k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3342,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ace+Viral",
+        "updated": "July 6, 2018",
+        "size": "32M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.4",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ace Viral",
+        "developer_email": "support@aceviral.com",
+        "developer_url": "http://www.AceViral.com",
+        "developer_address": "1 railway terrace\nsunderland\nEngland\nUK",
+        "app_id": "com.aceviral.carrunner",
+        "url": "https://play.google.com/store/apps/details?id=com.aceviral.carrunner&hl=en&gl=us"
+    },
+    {
+        "title": "Ramp Car Stunts Free : Extreme City GT Car Racing",
+        "icon": "https://lh3.googleusercontent.com/u8j8bVY7qHoqXWDP6_5sh4ovX9oDVXGXPYRrFx-FE-3u_ZVnf1lDl14fsjKpTBpnsvk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1603,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Games+Wing",
+        "updated": "June 16, 2019",
+        "size": "40M",
+        "installs": "1,000,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen",
+            "Sexual Themes"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$144.99"
+        ],
+        "interactive_elements": [
+            "Shares Location, In-Game Purchases"
+        ],
+        "developer": "Games Wing",
+        "developer_email": "gameswingstudio@gmail.com",
+        "developer_url": "https://www.freeprivacypolicy.com/privacy/view/cef430a84b54589b00bd82e305b50e33",
+        "developer_address": "\u30d0\u30ea\u30a2\u30bf\u30a6\u30f3\u30e9\u30db\u30fc\u30eb",
+        "app_id": "com.gameswing.impossibletracks.stuntdriving.simulator2",
+        "url": "https://play.google.com/store/apps/details?id=com.gameswing.impossibletracks.stuntdriving.simulator2&hl=en&gl=us"
+    },
+    {
+        "title": "Pick Your Part Garage",
+        "icon": "https://lh3.googleusercontent.com/J8mgQGdBTbYFXiOiWCxzrGVIB5aHIYJUQGS7KhGF_-7sWkbnROZcP8klke7LEvSW5tc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 317,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "LKQ+Corporation",
+        "updated": "May 3, 2019",
+        "size": "33M",
+        "installs": "100,000+",
+        "current_version": "1.2.3.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "LKQ Corporation",
+        "developer_email": "PYPFeedBack@lkqcorp.com",
+        "developer_url": "https://www.lkqpickyourpart.com",
+        "developer_address": null,
+        "app_id": "com.lkqcorp.MobileGarage",
+        "url": "https://play.google.com/store/apps/details?id=com.lkqcorp.MobileGarage&hl=en&gl=us"
+    },
+    {
+        "title": "CDL Practice Test 2019",
+        "icon": "https://lh3.googleusercontent.com/p2GrGMxv6Y4-ksGYCiPwU_xmLa8PzNKytH0WxjWDORZNcGX0_oCQorV31S0DLSdxtAo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 686,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8235669704987837150",
+        "updated": "June 29, 2019",
+        "size": "21M",
+        "installs": "50,000+",
+        "current_version": "4.22",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Elite apps",
+        "developer_email": "support@iexamguru.com",
+        "developer_url": "https://iexamguru.com",
+        "developer_address": "931 Mill Grove Dr,\nNorristown, Pennsylvania",
+        "app_id": "com.iexamguru.cdl_practice_test",
+        "url": "https://play.google.com/store/apps/details?id=com.iexamguru.cdl_practice_test&hl=en&gl=us"
+    },
+    {
+        "title": "Mega Ramp Crash Stunts BMX Bike Racing Challenge",
+        "icon": "https://lh3.googleusercontent.com/CAY2af2zJxlmnLM3vWHNOV-4rZ1HGDtScT5e9Hy1dAM6II7IEiJOV9Cei05ipel72A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 437,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7305210486871450980",
+        "updated": "May 10, 2019",
+        "size": "66M",
+        "installs": "500,000+",
+        "current_version": "1.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Violent References"
+        ],
+        "iap_range": [
+            "$10.99",
+            "$35.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Virtual Sim Games",
+        "developer_email": "virtualgame3d@gmail.com",
+        "developer_url": "http://virtualsimulator.games/privacy.html",
+        "developer_address": "USA",
+        "app_id": "com.virtualsim.mega.ramp.bmx.bike.racing",
+        "url": "https://play.google.com/store/apps/details?id=com.virtualsim.mega.ramp.bmx.bike.racing&hl=en&gl=us"
+    },
+    {
+        "title": "Car Driving: GT Stunts Racing 2",
+        "icon": "https://lh3.googleusercontent.com/RmooXI3hveQBRkvBt3efRm9JmBYMAUP5ThH_F-hqOv841oWh696Hq3Eq0kbBBWDxBa_a",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3031,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Avengers+Academy",
+        "updated": "May 24, 2019",
+        "size": "53M",
+        "installs": "1,000,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Avengers Academy",
+        "developer_email": "gamepixel16@gmail.com",
+        "developer_url": "http://gamepixelsstudio.com",
+        "developer_address": "2-1/A Shahid Colony, Street No.1, Lahore",
+        "app_id": "com.aa.Car.Driving.GT.Stunts.Racing2",
+        "url": "https://play.google.com/store/apps/details?id=com.aa.Car.Driving.GT.Stunts.Racing2&hl=en&gl=us"
+    },
+    {
+        "title": "Impossible Hill Car Drive 2019",
+        "icon": "https://lh3.googleusercontent.com/9_gOTVvELhmh6GF24kP7TBQZStOE4wFQlBWlLpz4de2sXBRYjIVs6_Q833C_asSelQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1824,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Frenzy+Games+Studio",
+        "updated": "January 30, 2019",
+        "size": "55M",
+        "installs": "1,000,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Frenzy Games Studio",
+        "developer_email": "Squadcell.playgames@gmail.com",
+        "developer_url": "http://squadcell.com/frenzygamesstudios-privacypolicy/",
+        "developer_address": null,
+        "app_id": "com.frenzygames.fgs.impossible.hill.car.drive.simulator.tracks",
+        "url": "https://play.google.com/store/apps/details?id=com.frenzygames.fgs.impossible.hill.car.drive.simulator.tracks&hl=en&gl=us"
+    }
+]

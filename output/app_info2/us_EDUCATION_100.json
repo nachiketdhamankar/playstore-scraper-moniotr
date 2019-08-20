@@ -1,0 +1,4486 @@
+[
+    {
+        "title": "Duolingo: Learn Languages Free",
+        "icon": "https://lh3.googleusercontent.com/KIs1LWkxfs9S-dTmp7fIGny1V9Y8RJz9i34hBk6vqL5AEFFbs2pUW6YtHH8xs6HBbA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7892018,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6957685454452609502",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$95.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Duolingo",
+        "developer_email": "android@duolingo.com",
+        "developer_url": "https://www.duolingo.com/",
+        "developer_address": "Duolingo\n5900 Penn Avenue\nPittsburgh PA 15206",
+        "app_id": "com.duolingo",
+        "url": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=us"
+    },
+    {
+        "title": "ABCmouse.com",
+        "icon": "https://lh3.googleusercontent.com/O4XbcESYczPA2zYZ_SpI5nD68IZcPx3dz0fNQO-N1WKLpPq9lQit-AGW4d3V7oDZAhEP",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 58126,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Age+of+Learning,+Inc.",
+        "updated": "July 9, 2019",
+        "size": "62M",
+        "installs": "10,000,000+",
+        "current_version": "7.19.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Age of Learning, Inc.",
+        "developer_email": "support@abcmouse.com",
+        "developer_url": "http://www.abcmouse.com",
+        "developer_address": "101 North Brand Blvd, 8th Floor\nGlendale, CA 91203",
+        "app_id": "mobi.abcmouse.academy_goo",
+        "url": "https://play.google.com/store/apps/details?id=mobi.abcmouse.academy_goo&hl=en&gl=us"
+    },
+    {
+        "title": "Remind: School Communication",
+        "icon": "https://lh3.googleusercontent.com/U88JU4wTlQMVxefAL-DtadxuIu7gTTV_DJwuikhtNiY8dokof7pV7eFpCo15OVg8G20",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 149649,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Remind101",
+        "updated": "July 22, 2019",
+        "size": "24M",
+        "installs": "10,000,000+",
+        "current_version": "10.2.3.36081",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Remind101",
+        "developer_email": "contact@remind.com",
+        "developer_url": "https://www.remind.com",
+        "developer_address": null,
+        "app_id": "com.remind101",
+        "url": "https://play.google.com/store/apps/details?id=com.remind101&hl=en&gl=us"
+    },
+    {
+        "title": "PBS KIDS Video",
+        "icon": "https://lh3.googleusercontent.com/VZg-xhpTGpMMxBO29XoKNCqYgm-D-H--2YJOyl5r_eyO6w6YBxw-r3i1bEG4eOl1DoJX",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38370,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8332149447945516079",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PBS KIDS",
+        "developer_email": "help@pbs.org",
+        "developer_url": "https://pbskids.org/apps",
+        "developer_address": "2100 Crystal Drive\nArlington, VA 22202",
+        "app_id": "org.pbskids.video",
+        "url": "https://play.google.com/store/apps/details?id=org.pbskids.video&hl=en&gl=us"
+    },
+    {
+        "title": "Yousician -  Learn Guitar, Piano, Bass & Ukulele",
+        "icon": "https://lh3.googleusercontent.com/_guPX0UdwfwdpBYuHgBQsboW3MrkIqdoOFTYRxVTrznMwDmtcqNhpuLDvthX8es3Bg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/sbweNfdL5-k",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 260695,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6667084469034700808",
+        "updated": "July 23, 2019",
+        "size": "101M",
+        "installs": "10,000,000+",
+        "current_version": "3.12.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$19.99",
+            "$179.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Yousician Ltd.",
+        "developer_email": "support@yousician.zendesk.com",
+        "developer_url": "http://www.yousician.com",
+        "developer_address": "Siltasaarenkatu 16\n00530 Helsinki\nFinland",
+        "app_id": "com.yousician.yousician",
+        "url": "https://play.google.com/store/apps/details?id=com.yousician.yousician&hl=en&gl=us"
+    },
+    {
+        "title": "Star Walk 2 Free - Identify Stars in the Night Sky",
+        "icon": "https://lh3.googleusercontent.com/wxJbDhA1WTbK2lRriShrcu-AzWkYnnPczef6n1gFhgfnoZLNLJ0RrpV69TJeLhn616Uf",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/1BZ3VhB4WaE",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 136235,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8260185806738829255",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Vito Technology",
+        "developer_email": "support@vitotechnology.com",
+        "developer_url": "http://www.vitotechnology.com",
+        "developer_address": "Gellertstra\u00dfe 32, 22301 Hamburg, Germany",
+        "app_id": "com.vitotechnology.StarWalk2Free",
+        "url": "https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free&hl=en&gl=us"
+    },
+    {
+        "title": "PlantNet Plant Identification",
+        "icon": "https://lh3.googleusercontent.com/RgeckTz7A_3ElRZMXQuR2BfIIqpgJP-nj_sL9G9XnZZ9mv1ROG2Pj-t66H7t_5P9XSLU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/W_cBqaPfRFE",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 71864,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "plantnet-project.org",
+        "updated": "July 30, 2019",
+        "size": "16M",
+        "installs": "5,000,000+",
+        "current_version": "3.0.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "plantnet-project.org",
+        "developer_email": "contact@plantnet-project.org",
+        "developer_url": "https://plantnet.org/",
+        "developer_address": null,
+        "app_id": "org.plantnet",
+        "url": "https://play.google.com/store/apps/details?id=org.plantnet&hl=en&gl=us"
+    },
+    {
+        "title": "Pinkfong Baby Shark",
+        "icon": "https://lh3.googleusercontent.com/cnuim6rIyoRTV6RDuLK7JTjcIUCpEUwx1jv7JGZy3kDFR6QcSL0ZuWW9aE3KQMA13lk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/jLI4nmi_exA",
+        "category": [
+            "EDUCATION",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17800,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5316747288696116828",
+        "updated": "June 27, 2019",
+        "size": "26M",
+        "installs": "10,000,000+",
+        "current_version": "21",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "SMARTSTUDY PINKFONG",
+        "developer_email": "cs@smartstudy.co.kr",
+        "developer_url": "http://www.smartstudy.co.kr/",
+        "developer_address": "\uc11c\uc6b8\uc2dc \uc11c\ucd08\uad6c \uba85\ub2ec\ub85c94 \uc2a4\ub9c8\ud2b8\uc2a4\ud130\ub514",
+        "app_id": "kr.co.smartstudy.babyshark_android_googlemarket",
+        "url": "https://play.google.com/store/apps/details?id=kr.co.smartstudy.babyshark_android_googlemarket&hl=en&gl=us"
+    },
+    {
+        "title": "SkyView\u00ae Lite",
+        "icon": "https://lh3.googleusercontent.com/PpPV2Ug-Cr05xLKQdZJoA9quSanR3Y6L1TtL80ppJgIpRkIU6v_H0UJoDR4VCE4m38RQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29457,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Terminal+Eleven",
+        "updated": "June 6, 2019",
+        "size": "51M",
+        "installs": "5,000,000+",
+        "current_version": "3.6.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Terminal Eleven",
+        "developer_email": "contact@terminaleleven.com",
+        "developer_url": "http://www.terminaleleven.com",
+        "developer_address": "7901 Florence Ave NE\nAlbuquerque, NM\n87114\nUSA",
+        "app_id": "com.t11.skyviewfree",
+        "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en&gl=us"
+    },
+    {
+        "title": "Toca Kitchen",
+        "icon": "https://lh3.googleusercontent.com/nhPQcLEUtGcNYdBc1_FVzZT-Oi9qhzEf6O92gn5w8gv03Xb4Qr1GeN-LZ5hMggFZ2Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/6qrs58oyNSk",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 265503,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8567646723268777320",
+        "updated": "June 29, 2017",
+        "size": "93M",
+        "installs": "10,000,000+",
+        "current_version": "1.1.7-play",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Toca Boca",
+        "developer_email": "support@tocaboca.com",
+        "developer_url": "http://www.tocaboca.com",
+        "developer_address": "Lumaparksv\u00e4gen 9\n120 31 Stockholm\nSweden",
+        "app_id": "com.tocaboca.tocakitchen",
+        "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocakitchen&hl=en&gl=us"
+    },
+    {
+        "title": "PowerSchool Mobile",
+        "icon": "https://lh3.googleusercontent.com/i4p3vIr3o7_V3oHyFN8y4Y8LNroWdYA2JWb6oScYKC2X-LJy9KInAvyk89DcjLhl51M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20022,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PowerSchool+Group+LLC",
+        "updated": "April 24, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "1.1.8",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PowerSchool Group LLC",
+        "developer_email": "mobile.support@powerschool.com",
+        "developer_url": "http://www.powerschool.com/powerschool-mobile/",
+        "developer_address": null,
+        "app_id": "com.powerschool.portal",
+        "url": "https://play.google.com/store/apps/details?id=com.powerschool.portal&hl=en&gl=us"
+    },
+    {
+        "title": "ClassDojo",
+        "icon": "https://lh3.googleusercontent.com/FUzIQanDvPv3Gl_4qmOWr74en-f16P-WKOeXTEu2LUvIEYvTeZ9USEf4O0FrH8tvCA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 179897,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "ClassDojo",
+        "updated": "July 22, 2019",
+        "size": "28M",
+        "installs": "10,000,000+",
+        "current_version": "4.62.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ClassDojo",
+        "developer_email": "hello@classdojo.com",
+        "developer_url": "http://www.classdojo.com",
+        "developer_address": "735 Tehama Street\nSan Francisco CA 94103\nUnited States",
+        "app_id": "com.classdojo.android",
+        "url": "https://play.google.com/store/apps/details?id=com.classdojo.android&hl=en&gl=us"
+    },
+    {
+        "title": "Elevate - Brain Training Games",
+        "icon": "https://lh3.googleusercontent.com/CG4ayrzpkNSwiILF90CfvgjeIGYeTJcjusOnFw-8AF-IT3ZZKE-axArJZeqQjnAMaSY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/iQBTKgyOqi4",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 290835,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5218712489829190437",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$159.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Elevate Labs",
+        "developer_email": "hello@elevateapp.com",
+        "developer_url": "http://elevateapp.com",
+        "developer_address": "1479 Folsom Street",
+        "app_id": "com.wonder",
+        "url": "https://play.google.com/store/apps/details?id=com.wonder&hl=en&gl=us"
+    },
+    {
+        "title": "PictureThis - Flower & Plant Identification",
+        "icon": "https://lh3.googleusercontent.com/Qu60t0nBywdFhytxSSy2Qc2UEEYTT7G8fJ4NCOGtzARzdKjlZU9kgwVZ9kJExhbsww",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/kDmimS9-Qn8",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18947,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Glority+Software+Limited",
+        "updated": "July 26, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Glority Software Limited",
+        "developer_email": "support@picturethisai.com",
+        "developer_url": "https://www.picturethisai.com/",
+        "developer_address": "B2019 368 Liuhe Road Binjiang District, Hangzhou, ZHEJIANG",
+        "app_id": "cn.danatech.xingseus",
+        "url": "https://play.google.com/store/apps/details?id=cn.danatech.xingseus&hl=en&gl=us"
+    },
+    {
+        "title": "HOMER - Proven Learn-to-Read Program for Kids 2-8",
+        "icon": "https://lh3.googleusercontent.com/1wBXm40NA3a6MeZBZp34DhoPAuAkmA4j0m22DBVjYDyBr-15UJMJ-9hQxjxFmo0uIA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 769,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7824476488888653707",
+        "updated": "July 2, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "1.11.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Homer Learning",
+        "developer_email": "support@homerapp.com",
+        "developer_url": "https://learnwithhomer.com",
+        "developer_address": "460 PARK AVE S FL 4\nNEW YORK NY 10016-7315",
+        "app_id": "com.learnwithhomer.webapp",
+        "url": "https://play.google.com/store/apps/details?id=com.learnwithhomer.webapp&hl=en&gl=us"
+    },
+    {
+        "title": "WordBit Ingl\u00e9s (pantalla bloqueada)",
+        "icon": "https://lh3.googleusercontent.com/fVlAsLUkkWQ1IGJCVq1DZTpyhNNFhUDEcDhnuRBByMebSg1V497_GbrRDDjpocYgUIo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XQll4-cz_kI",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25710,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7875597118855651989",
+        "updated": "July 17, 2019",
+        "size": "29M",
+        "installs": "5,000,000+",
+        "current_version": "1.3.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "WordBit",
+        "developer_email": "contact+enes@wordbit.net",
+        "developer_url": "https://wordbitinfo.tumblr.com/post/162350665785/notice",
+        "developer_address": null,
+        "app_id": "net.wordbit.enes",
+        "url": "https://play.google.com/store/apps/details?id=net.wordbit.enes&hl=en&gl=us"
+    },
+    {
+        "title": "Campus Parent",
+        "icon": "https://lh3.googleusercontent.com/M9MkfGzqozKYF6dCmL7AUkdgTy35CxZPER5idpoEG6vzP_rHv1kzK0Hqdl720EJwPsU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/RZgpU7_5QCc",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "1.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1332,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Infinite+Campus,+Inc.",
+        "updated": "July 15, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "1.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Infinite Campus, Inc.",
+        "developer_email": "mobilesupport@infinitecampus.com",
+        "developer_url": "https://www.infinitecampus.com/audience/parents-students",
+        "developer_address": null,
+        "app_id": "com.infinitecampus.parent.campusportalhybrid",
+        "url": "https://play.google.com/store/apps/details?id=com.infinitecampus.parent.campusportalhybrid&hl=en&gl=us"
+    },
+    {
+        "title": "CuriosityStream - Watch Documentaries Online",
+        "icon": "https://lh3.googleusercontent.com/cYGvPzBLrr-yGHr4Oq9m269H1Hf5UI_F8zIed8BkWKllfM61IzumCd3zBchEsVrPZqY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4833,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "CuriosityStream+Inc.",
+        "updated": "July 27, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "3.4.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$119.99"
+        ],
+        "interactive_elements": null,
+        "developer": "CuriosityStream Inc.",
+        "developer_email": "help@curiositystream.com",
+        "developer_url": "https://curiositystream.com",
+        "developer_address": "8484 Georgia Ave, Suite 700 | Silver Spring, MD 20910",
+        "app_id": "com.curiosity.curiositystream",
+        "url": "https://play.google.com/store/apps/details?id=com.curiosity.curiositystream&hl=en&gl=us"
+    },
+    {
+        "title": "Campus Student",
+        "icon": "https://lh3.googleusercontent.com/1C3Dx7QQaq-em1Xu_mZZf7scpLUIRYqDGP8uTTRh-psQM9irz6WzvNDs3QZR93F_WHFz",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/RZgpU7_5QCc",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1181,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Infinite+Campus,+Inc.",
+        "updated": "July 15, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "1.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Infinite Campus, Inc.",
+        "developer_email": "mobilesupport@infinitecampus.com",
+        "developer_url": "https://www.infinitecampus.com/audience/parents-students",
+        "developer_address": null,
+        "app_id": "com.infinitecampus.student.campusportalhybrid",
+        "url": "https://play.google.com/store/apps/details?id=com.infinitecampus.student.campusportalhybrid&hl=en&gl=us"
+    },
+    {
+        "title": "Curso de Ingles Gratis",
+        "icon": "https://lh3.googleusercontent.com/lAsJgDKVpvyulR7zHvfnCaKpdcLvtcsZNEwnd73LAozeEtNU7pV_OdaXzpJgU21Qfhs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Bj3VgFgfHT4",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 194128,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6684316096098574230",
+        "updated": "July 24, 2019",
+        "size": "6.0M",
+        "installs": "5,000,000+",
+        "current_version": "3.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MejorCurso",
+        "developer_email": "info@completocursodeingles.com",
+        "developer_url": "http://www.completocursodeingles.com",
+        "developer_address": null,
+        "app_id": "curso.d.ingles.gratis",
+        "url": "https://play.google.com/store/apps/details?id=curso.d.ingles.gratis&hl=en&gl=us"
+    },
+    {
+        "title": "Kahoot!",
+        "icon": "https://lh3.googleusercontent.com/MwUx33sJkK-l_5nnqOXzzb7_Oe111efhp7gliPA2g9ya3ipKDboo3xVVyEAEELjl4CQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/DfPi6-Mv2Ro",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 65932,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5643238107618943124",
+        "updated": "July 11, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$239.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Kahoot!",
+        "developer_email": "hello@kahoot.com",
+        "developer_url": "https://kahoot.com",
+        "developer_address": "Tordenskiolds gate 6\n0160 OSLO\nNorway",
+        "app_id": "no.mobitroll.kahoot.android",
+        "url": "https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&hl=en&gl=us"
+    },
+    {
+        "title": "Correct Spelling - english language grammar free",
+        "icon": "https://lh3.googleusercontent.com/cN2C8dDQ-TDuMuWm1d1CpnNEboVzLWEKMbjl-4lIU572biP7_CwHTowBfr-I9FZf9WY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8757,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "sirovaribuz",
+        "updated": "May 24, 2019",
+        "size": "6.1M",
+        "installs": "500,000+",
+        "current_version": "4.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "sirovaribuz",
+        "developer_email": "suppsupperter@gmail.com",
+        "developer_url": "http://correctspelling.icu",
+        "developer_address": null,
+        "app_id": "com.logitash.correctspelling",
+        "url": "https://play.google.com/store/apps/details?id=com.logitash.correctspelling&hl=en&gl=us"
+    },
+    {
+        "title": "Peak \u2013 Brain Games & Training",
+        "icon": "https://lh3.googleusercontent.com/8Qryae0aF92oDRAaRGadq9VhYP9LzUbbUJzx9NWxIqrrzu6hv08GcTmh-0Y-y2Dk7A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 341058,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Peaklabs",
+        "updated": "July 27, 2019",
+        "size": "72M",
+        "installs": "10,000,000+",
+        "current_version": "3.29.18",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$149.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Peaklabs",
+        "developer_email": "support@peak.net",
+        "developer_url": "http://www.peak.net",
+        "developer_address": "Peak\n120 Holborn\nEC1N 2TD",
+        "app_id": "com.brainbow.peak.app",
+        "url": "https://play.google.com/store/apps/details?id=com.brainbow.peak.app&hl=en&gl=us"
+    },
+    {
+        "title": "Star Tracker - Mobile Sky Map & Stargazing guide",
+        "icon": "https://lh3.googleusercontent.com/tavGfvtLAsRGXP4F2aZiDBeQcW7A7AnOBbznnAB0b6xSvOfrmOBvd555MUflM6-h4b9k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/vlos2KqdEEA",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 26111,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "PYOPYO+Studio",
+        "updated": "July 28, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$2.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "PYOPYO Studio",
+        "developer_email": "shenji.pan@gmail.com",
+        "developer_url": "https://sites.google.com/site/pyopyostudioapp/",
+        "developer_address": "Lane 1858, SanQuan Road, BaoShan district\nShanghai, China, 200443",
+        "app_id": "com.PYOPYO.StarTracker",
+        "url": "https://play.google.com/store/apps/details?id=com.PYOPYO.StarTracker&hl=en&gl=us"
+    },
+    {
+        "title": "PlantSnap - Identify Plants, Flowers, Trees & More",
+        "icon": "https://lh3.googleusercontent.com/umDqosYCxcx6_keLuJ3MJ53w1CTN0BFOXqMk0ZLhb5tTQL-g0onw79nBILj2SyqpxA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/uzChlF0fJ3o",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 63366,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6099002949709376719",
+        "updated": "July 30, 2019",
+        "size": "37M",
+        "installs": "10,000,000+",
+        "current_version": "2.02.13",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$19.99"
+        ],
+        "interactive_elements": null,
+        "developer": "PlantSnap, Inc.",
+        "developer_email": "support@plantsnap.net",
+        "developer_url": "https://www.plantsnap.com",
+        "developer_address": "PO Box 3740\nTelluride, CO 81435",
+        "app_id": "com.fws.plantsnap2",
+        "url": "https://play.google.com/store/apps/details?id=com.fws.plantsnap2&hl=en&gl=us"
+    },
+    {
+        "title": "Miga Town: My TV Shows",
+        "icon": "https://lh3.googleusercontent.com/dH7-C2EXjb-fqGCaO_eFARohz3b1duHmlMbPcNL4khZM4HPN5Jv8eSWAtrjFmOiYIT4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/glK2YwwQss8",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3907,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8307876062402593836",
+        "updated": "July 26, 2019",
+        "size": "41M",
+        "installs": "500,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd.",
+        "developer_email": "Support@xihegame.com",
+        "developer_url": "http://www.miga-kids.com",
+        "developer_address": "Middle Of Huangpu Road, No. 149, The Second Floor Of The 64 Tian",
+        "app_id": "com.miga.mytvshows",
+        "url": "https://play.google.com/store/apps/details?id=com.miga.mytvshows&hl=en&gl=us"
+    },
+    {
+        "title": "Noggin Preschool Learning Games & Videos for Kids",
+        "icon": "https://lh3.googleusercontent.com/HNLfrn7q6RSl9UZvczYS78CGUwEx6Vb4MA-jZKacv-7cK9Bo3MnFL8VXIMovpVmq1Wo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/YynFN6AgJGw",
+        "category": [
+            "EDUCATION",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4303,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Nickelodeon",
+        "updated": "July 17, 2019",
+        "size": "46M",
+        "installs": "1,000,000+",
+        "current_version": "4.0.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Nickelodeon",
+        "developer_email": "support@noggin.com",
+        "developer_url": "http://www.noggin.com/help",
+        "developer_address": "1515 Broadway\nNew York, NY 10036",
+        "app_id": "com.nick.noggin",
+        "url": "https://play.google.com/store/apps/details?id=com.nick.noggin&hl=en&gl=us"
+    },
+    {
+        "title": "Beauty Coloring Book 1",
+        "icon": "https://lh3.googleusercontent.com/oa47wD9h41KmgqwRmwL_87bliOSDnN8iHjQM6wYFENnGCoWTHpRBd6RtO6Oowxi7ovXF",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6695,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6797847443053504970",
+        "updated": "July 19, 2019",
+        "size": "49M",
+        "installs": "5,000,000+",
+        "current_version": "1.3.1",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "forqan smart tech",
+        "developer_email": "forqan.tech@gmail.com",
+        "developer_url": "https://www.facebook.com/pages/Forqan-Smart-Tech/398958303521529?fref=ts",
+        "developer_address": "Tamra, 30811, Israel",
+        "app_id": "com.forqan.tech.BeautyColoring",
+        "url": "https://play.google.com/store/apps/details?id=com.forqan.tech.BeautyColoring&hl=en&gl=us"
+    },
+    {
+        "title": "Babbel \u2013 Learn Languages",
+        "icon": "https://lh3.googleusercontent.com/3k_wxROcHqgK91QFJqTm1QmSBDbDu1gU82WvW43tlOQl9KI-0LNfEz8v-BzwGYii2YlK",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 392806,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6066251638635097876",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$12.95",
+            "$83.40"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Babbel",
+        "developer_email": "support-mobile@babbel.com",
+        "developer_url": "https://pl.babbel.com",
+        "developer_address": "Lesson Nine GmbH\nMax-Beer-Str. 2\n10119 Berlin\nGERMANY",
+        "app_id": "com.babbel.mobile.android.en",
+        "url": "https://play.google.com/store/apps/details?id=com.babbel.mobile.android.en&hl=en&gl=us"
+    },
+    {
+        "title": "Rosetta Stone: Learn Languages",
+        "icon": "https://lh3.googleusercontent.com/tpPQ3IibUX3EYrbQAVXmtOVJ73-_1-IRlSsnBEgVRgEO8uPK19qgGFsMDr_NXe4NkQY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 202014,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8104400011369756806",
+        "updated": "July 23, 2019",
+        "size": "31M",
+        "installs": "5,000,000+",
+        "current_version": "5.12.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Rosetta Stone Ltd",
+        "developer_email": "customerrelations@rosettastone.com",
+        "developer_url": "http://www.rosettastone.com/privacy",
+        "developer_address": "135 W Market Street\nHarrisonburg, VA 22801",
+        "app_id": "air.com.rosettastone.mobile.CoursePlayer",
+        "url": "https://play.google.com/store/apps/details?id=air.com.rosettastone.mobile.CoursePlayer&hl=en&gl=us"
+    },
+    {
+        "title": "Google Classroom",
+        "icon": "https://lh3.googleusercontent.com/EWlUGGW-f_7Ny8z7oKGCBhsNL_GkSFsmAxdVx0rz4dmRTxlDZohHjQi_cLljBeWg_Rb0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 99912,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://classroom.google.com/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.classroom",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en&gl=us"
+    },
+    {
+        "title": "Quizlet: Learn Languages & Vocab with Flashcards",
+        "icon": "https://lh3.googleusercontent.com/TNIOiuUvNkBqEJ1YpGftwuMQEKO-nKpI94tgiZtQhcFskh5f2tK34z1T8_TSofFUrXk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/4J5DclaKCi8",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 291175,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7999369250220694465",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$35.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Quizlet Inc.",
+        "developer_email": "androidsupport@quizlet.com",
+        "developer_url": "https://quizlet.com",
+        "developer_address": "501 2nd Street, Suite 500\nSan Francisco, CA 94107",
+        "app_id": "com.quizlet.quizletandroid",
+        "url": "https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid&hl=en&gl=us"
+    },
+    {
+        "title": "Draw.ai - Learn to Draw & Coloring",
+        "icon": "https://lh3.googleusercontent.com/jPV9efHytBrJ1fRbqkNmS6mUFpgKR5vJdIzWTQXoYjo5mGNxl59PTDBsdyqICPuE84E",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/jtsQL_KPrMs",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19005,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Color+Apps+For+Free",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$5.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Color Apps For Free",
+        "developer_email": "color.app.feedback@hotmail.com",
+        "developer_url": "https://sites.google.com/view/colorappsforfree",
+        "developer_address": "TONK IN ST CHEUNG SHA  WAN KLN HONG KONG",
+        "app_id": "com.draw.ai.learn.to.draw",
+        "url": "https://play.google.com/store/apps/details?id=com.draw.ai.learn.to.draw&hl=en&gl=us"
+    },
+    {
+        "title": "Starfall Free & Member",
+        "icon": "https://lh3.googleusercontent.com/TTG4vWgw9f1NwUJ_xJ10UscNncr29_qaqeFE3KKSTgG31FE-zAlNhBpXMP13Jyg0w2M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21247,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Starfall+Education+Foundation",
+        "updated": "November 7, 2017",
+        "size": "41M",
+        "installs": "5,000,000+",
+        "current_version": "1.35.23",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Starfall Education Foundation",
+        "developer_email": "helpdesk@starfall.com",
+        "developer_url": "http://more.starfall.com",
+        "developer_address": "PO BOX 359\nBoulder, CO\n80306",
+        "app_id": "air.com.starfall.more",
+        "url": "https://play.google.com/store/apps/details?id=air.com.starfall.more&hl=en&gl=us"
+    },
+    {
+        "title": "Photomath",
+        "icon": "https://lh3.googleusercontent.com/E_kpq1HGn5WU2P4S2yu0BwrPEHqiA-VBh2R7qoIjPFXdNvKA0A-8zi0RzRslUtEOnUvA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/T41t8zfjVng",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1184325,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8492011720422545772",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Photomath, Inc.",
+        "developer_email": "support@photomath.net",
+        "developer_url": "https://photomath.net",
+        "developer_address": "20 E 3rd Ave.\nSan Mateo, CA 94401",
+        "app_id": "com.microblink.photomath",
+        "url": "https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en&gl=us"
+    },
+    {
+        "title": "Khan Academy",
+        "icon": "https://lh3.googleusercontent.com/wr5KhcPHfYGPiVQcAHgP4zVDTVOZU7OwwUy74jsTcAKQ6r1X1NyITJnjgQXzcovmIQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 104499,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Khan+Academy",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Khan Academy",
+        "developer_email": "androidfeedback@khanacademy.org",
+        "developer_url": "https://www.khanacademy.org",
+        "developer_address": null,
+        "app_id": "org.khanacademy.android",
+        "url": "https://play.google.com/store/apps/details?id=org.khanacademy.android&hl=en&gl=us"
+    },
+    {
+        "title": "Pinkfong Singing Phone",
+        "icon": "https://lh3.googleusercontent.com/nk3P1qR6cTcJ86onNTgEuTWS3VKhmzHl5hHlOla-e9f6XTWuAwQTC04VIHfQreEq4eI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hIhpEbIU5No",
+        "category": [
+            "EDUCATION",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9206,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5316747288696116828",
+        "updated": "June 28, 2019",
+        "size": "33M",
+        "installs": "5,000,000+",
+        "current_version": "23",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "SMARTSTUDY PINKFONG",
+        "developer_email": "cs@smartstudy.co.kr",
+        "developer_url": "http://www.smartstudy.co.kr/",
+        "developer_address": "\uc11c\uc6b8\uc2dc \uc11c\ucd08\uad6c \uba85\ub2ec\ub85c94 \uc2a4\ub9c8\ud2b8\uc2a4\ud130\ub514",
+        "app_id": "kr.co.smartstudy.singingphone_android_googlemarket",
+        "url": "https://play.google.com/store/apps/details?id=kr.co.smartstudy.singingphone_android_googlemarket&hl=en&gl=us"
+    },
+    {
+        "title": "Calculator+",
+        "icon": "https://lh3.googleusercontent.com/ujsanO32ho3dtIqdlrvUDBBc6uys2nAaUJIF0zvloBW9nifb5udLpFUl4bJqWPt-CZw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20467,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "BiaoMobi+Team",
+        "updated": "July 17, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "BiaoMobi Team",
+        "developer_email": "lightapp_help@hotmail.com",
+        "developer_url": "http://www.enlightpower.club/policy.calculator.html",
+        "developer_address": null,
+        "app_id": "cal.photo.math.calculator.plus.calculate.scan",
+        "url": "https://play.google.com/store/apps/details?id=cal.photo.math.calculator.plus.calculate.scan&hl=en&gl=us"
+    },
+    {
+        "title": "Calculator Pro 2019",
+        "icon": "https://lh3.googleusercontent.com/m-QhrgFBLTWiSmlQ_FZ3J-u3Uab5jh0FIY539TOG29YEgR60sz0nqOZc_N38unJIrp7f",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5912,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PERFECT+APPS",
+        "updated": "July 11, 2019",
+        "size": "10M",
+        "installs": "500,000+",
+        "current_version": "1.1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PERFECT APPS",
+        "developer_email": "wyattxavier764@outlook.com",
+        "developer_url": "http://www.ratemaths.co/calcu_privacypolicy.html",
+        "developer_address": null,
+        "app_id": "calculas.rate.math.easy.calcd_hybrid",
+        "url": "https://play.google.com/store/apps/details?id=calculas.rate.math.easy.calcd_hybrid&hl=en&gl=us"
+    },
+    {
+        "title": "Canvas Student",
+        "icon": "https://lh3.googleusercontent.com/2_M-EEPXb2xTMQSTZpSUefHR3TjgOCsawM3pjVG47jI-BrHoXGhKBpdEHeLElT95060B",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 65564,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Instructure",
+        "updated": "July 1, 2019",
+        "size": "47M",
+        "installs": "1,000,000+",
+        "current_version": "6.5.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Instructure",
+        "developer_email": "mobilesupport@instructure.com",
+        "developer_url": "http://www.canvaslms.com/",
+        "developer_address": null,
+        "app_id": "com.instructure.candroid",
+        "url": "https://play.google.com/store/apps/details?id=com.instructure.candroid&hl=en&gl=us"
+    },
+    {
+        "title": "Miga Town: My Vacation",
+        "icon": "https://lh3.googleusercontent.com/usiodbKqVJAoXSWPY1vJbeubjSfDP8qN2V3Uw3yFBH4qi9ie2sPwRjWno59sj9UyoeE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/AR-JuJIdIG8",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11947,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8307876062402593836",
+        "updated": "April 10, 2019",
+        "size": "45M",
+        "installs": "1,000,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd.",
+        "developer_email": "Support@xihegame.com",
+        "developer_url": "http://www.xihegame.com",
+        "developer_address": "Middle Of Huangpu Road, No. 149, The Second Floor Of The 64 Tian",
+        "app_id": "com.miga.myvacation",
+        "url": "https://play.google.com/store/apps/details?id=com.miga.myvacation&hl=en&gl=us"
+    },
+    {
+        "title": "ISS HD Live: Live Earth View",
+        "icon": "https://lh3.googleusercontent.com/YTXT8e4TXfWcg828PxDsxUnCCHOyQUCpK9qjhtx48-SzhlzmVxkWJIrIe-kLR1J4oA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/d3D6M--DNVc",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 174501,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9096572556712560706",
+        "updated": "May 19, 2019",
+        "size": "6.1M",
+        "installs": "5,000,000+",
+        "current_version": "5.4.6",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "VKL Apps",
+        "developer_email": "contact@vklapps.com",
+        "developer_url": "https://www.isshdlive.com",
+        "developer_address": "09080500, 1580",
+        "app_id": "com.nicedayapps.iss_free",
+        "url": "https://play.google.com/store/apps/details?id=com.nicedayapps.iss_free&hl=en&gl=us"
+    },
+    {
+        "title": "Sago Mini World",
+        "icon": "https://lh3.googleusercontent.com/Et4anJPuJ8L0hh_cmKYCXlrOXQbVtQ2sTNeN2qSMOmRl9s910Ov6yec_jmsuWMkgUw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/px0ONML7vxU",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4500,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6600704821286067966",
+        "updated": "June 24, 2019",
+        "size": "55M",
+        "installs": "500,000+",
+        "current_version": "1.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Sago Mini",
+        "developer_email": "worldsupport@sagomini.com",
+        "developer_url": "https://sagomini.com/world",
+        "developer_address": "487 Adelaide St. W., Suite 301\nToronto, ON\nM5V 1T4\nCanada",
+        "app_id": "com.sagosago.World.googleplay",
+        "url": "https://play.google.com/store/apps/details?id=com.sagosago.World.googleplay&hl=en&gl=us"
+    },
+    {
+        "title": "iNaturalist",
+        "icon": "https://lh3.googleusercontent.com/PNeMw1vW90QC-_dliDaCCKc4bG4ahk2tnxGt4B4OKz7PjclZeZ0F0h6JBcYFS3swUH4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2769,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "iNaturalist",
+        "updated": "July 7, 2019",
+        "size": "22M",
+        "installs": "500,000+",
+        "current_version": "1.11.30",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "iNaturalist",
+        "developer_email": "help@inaturalist.org",
+        "developer_url": "http://www.inaturalist.org",
+        "developer_address": null,
+        "app_id": "org.inaturalist.android",
+        "url": "https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=en&gl=us"
+    },
+    {
+        "title": "SoloLearn: Learn to Code for Free",
+        "icon": "https://lh3.googleusercontent.com/6E112cbsqydvxECh-HmlXvOG5SGXCco4jv_aXZMeMKErNEsDA06Niq7p8CULJ40_6r7G",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 378963,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8092475488373003589",
+        "updated": "July 9, 2019",
+        "size": "9.1M",
+        "installs": "5,000,000+",
+        "current_version": "2.5.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$47.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "SoloLearn",
+        "developer_email": "info@sololearn.com",
+        "developer_url": "http://www.sololearn.com",
+        "developer_address": "5020 Franklin Drive, Suite 100\nPleasanton, CA 94588",
+        "app_id": "com.sololearn",
+        "url": "https://play.google.com/store/apps/details?id=com.sololearn&hl=en&gl=us"
+    },
+    {
+        "title": "ClassTag Parent Teacher Communication App",
+        "icon": "https://lh3.googleusercontent.com/JEJAHPmRA2yPqshcKEwSE408tH_cKLYuDqonEuLUlfXCn9HsGwnMNEgaN9_xejBFxBQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 191,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ClassTag",
+        "updated": "June 11, 2019",
+        "size": "22M",
+        "installs": "100,000+",
+        "current_version": "1.19.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ClassTag",
+        "developer_email": "support@classtag.com",
+        "developer_url": "https://classtag.com",
+        "developer_address": "235 W 48th St\nAPT 43C\nNew York, NY 10036",
+        "app_id": "com.classtag",
+        "url": "https://play.google.com/store/apps/details?id=com.classtag&hl=en&gl=us"
+    },
+    {
+        "title": "TED",
+        "icon": "https://lh3.googleusercontent.com/w_bxOqm2p2BntxtMt_MQqwxRJhI4MQR0cu-Gn_oKkd9UXGG3FH8S2xRTkx9vtArBcp8l",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 193057,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TED+Conferences+LLC",
+        "updated": "July 10, 2019",
+        "size": "18M",
+        "installs": "10,000,000+",
+        "current_version": "4.5.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TED Conferences LLC",
+        "developer_email": "contact+android@ted.com",
+        "developer_url": "http://support.ted.com",
+        "developer_address": "TED Conferences LLC\n330 Hudson Street, 11th floor\nNew York, NY 10013",
+        "app_id": "com.ted.android",
+        "url": "https://play.google.com/store/apps/details?id=com.ted.android&hl=en&gl=us"
+    },
+    {
+        "title": "Unicorn Icepop - Ice Popsicles Mania",
+        "icon": "https://lh3.googleusercontent.com/hrXKROOQAtOYcsLPJAWCRnriOlY-VIBwQiI_P7hATdAYXSlESTtUiFmV1DkYWIPv8g",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/tZc3ZzhXDRU",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1752,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FunPop",
+        "updated": "May 29, 2019",
+        "size": "87M",
+        "installs": "1,000,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FunPop",
+        "developer_email": "funpopmedia@gmail.com",
+        "developer_url": "http://www.funpop.com.cn/",
+        "developer_address": "No.1 Dongsan Road ErxianqiaoChenghua Zone",
+        "app_id": "com.funpop.android_icepop",
+        "url": "https://play.google.com/store/apps/details?id=com.funpop.android_icepop&hl=en&gl=us"
+    },
+    {
+        "title": "Princess Cake Bakery- Frost Cakes Baking Salon",
+        "icon": "https://lh3.googleusercontent.com/q1l5NoMh9ytIbhcCsx6TCQUGCIHh3vi2UyxgdERfHzLC69EBO-EMaVQ_lLMQHLRHIP0",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/69vBQS-DNo4",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2171,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FunPop",
+        "updated": "April 16, 2019",
+        "size": "50M",
+        "installs": "1,000,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FunPop",
+        "developer_email": "funpopmedia@gmail.com",
+        "developer_url": "http://www.funpop.com.cn/",
+        "developer_address": "No.1 Dongsan Road ErxianqiaoChenghua Zone",
+        "app_id": "com.funpop.android_princesscake",
+        "url": "https://play.google.com/store/apps/details?id=com.funpop.android_princesscake&hl=en&gl=us"
+    },
+    {
+        "title": "Ice Cream Cone Cupcake-Bakery Food Game",
+        "icon": "https://lh3.googleusercontent.com/d9R8iUlhC27yimGGtHZoh62GXOZcw_sIC5yZKFKAa_a7BABPm1yRQ-WDo6zy7RmGRo0",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/_DD64LHr7TA",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 115,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FunPop",
+        "updated": "July 25, 2019",
+        "size": "79M",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FunPop",
+        "developer_email": "funpopmedia@gmail.com",
+        "developer_url": "http://www.funpop.com.cn/",
+        "developer_address": "No.1 Dongsan Road ErxianqiaoChenghua Zone",
+        "app_id": "com.funpop.android_conecupcake",
+        "url": "https://play.google.com/store/apps/details?id=com.funpop.android_conecupcake&hl=en&gl=us"
+    },
+    {
+        "title": "Grasshopper: Learn to Code for Free",
+        "icon": "https://lh3.googleusercontent.com/hgsynSpY_B8MhFTeYaE4WCA4oWeKpra-ksvXtlbVqahJRVqKdQHxs8C8mZi8lvr7rgs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15996,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Area+120",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.17.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Area 120",
+        "developer_email": "area120-contact@google.com",
+        "developer_url": "http://grasshopper.codes",
+        "developer_address": null,
+        "app_id": "com.area120.grasshopper",
+        "url": "https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=en&gl=us"
+    },
+    {
+        "title": "Skyward Mobile Access",
+        "icon": "https://lh3.googleusercontent.com/4Ct_Tcxy3QD2mVSV_u8y1_kXFcgUYmNrNXMV8Cj4Z1ttzDpcdoQqrDiAbgvBYSu_NyA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/28-rzffepAs",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16550,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Skyward,+Inc",
+        "updated": "June 28, 2019",
+        "size": "26M",
+        "installs": "1,000,000+",
+        "current_version": "1.13.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Skyward, Inc",
+        "developer_email": "appsupport@skyward.com",
+        "developer_url": "http://www.skyward.com/MoreInfo/page.ashx/MobileAccess",
+        "developer_address": null,
+        "app_id": "com.skyward.mobileaccess",
+        "url": "https://play.google.com/store/apps/details?id=com.skyward.mobileaccess&hl=en&gl=us"
+    },
+    {
+        "title": "Miga Town: My Store",
+        "icon": "https://lh3.googleusercontent.com/7zipJa9g6JgVNosaPu-g3WoUTmNyibgI0bnO3IE6DOgmiVn0qN1X9Ouxo_ZEFk875O8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hUfk-B_qquI",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8466,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8307876062402593836",
+        "updated": "April 9, 2019",
+        "size": "55M",
+        "installs": "1,000,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd.",
+        "developer_email": "Support@xihegame.com",
+        "developer_url": "http://www.miga-kids.com",
+        "developer_address": "Middle Of Huangpu Road, No. 149, The Second Floor Of The 64 Tian",
+        "app_id": "com.miga.mystore",
+        "url": "https://play.google.com/store/apps/details?id=com.miga.mystore&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Shark TV : Pinkfong Kids' Songs & Stories",
+        "icon": "https://lh3.googleusercontent.com/t2jk40Nd9nwPgY4B_Qc2Z-PbvPSa2hU39VHd4tnRm0SKgOFhX-GnQdk16cabKHG_-7WY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/5ThwxDOzeBc",
+        "category": [
+            "EDUCATION",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6945,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5316747288696116828",
+        "updated": "May 21, 2019",
+        "size": "34M",
+        "installs": "1,000,000+",
+        "current_version": "37",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "SMARTSTUDY PINKFONG",
+        "developer_email": "cs@smartstudy.co.kr",
+        "developer_url": "http://about.pinkfong.com/about/",
+        "developer_address": "\uc11c\uc6b8\uc2dc \uc11c\ucd08\uad6c \uba85\ub2ec\ub85c94 \uc2a4\ub9c8\ud2b8\uc2a4\ud130\ub514",
+        "app_id": "kr.co.smartstudy.pinkfongtv_android_googlemarket",
+        "url": "https://play.google.com/store/apps/details?id=kr.co.smartstudy.pinkfongtv_android_googlemarket&hl=en&gl=us"
+    },
+    {
+        "title": "Khan Academy Kids: Free educational games & books",
+        "icon": "https://lh3.googleusercontent.com/_P3yL895hkYGDsuhPWUo4cqc5l7qE_VPEdoa_o0FQZLgyOvADiCGq37hiZhMqxSwuwo3",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/yqZfM2W6tSQ",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2669,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Khan+Academy",
+        "updated": "July 16, 2019",
+        "size": "143M",
+        "installs": "500,000+",
+        "current_version": "2.6",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Khan Academy",
+        "developer_email": "khankids@khanacademy.org",
+        "developer_url": "http://khankids.org",
+        "developer_address": null,
+        "app_id": "org.khankids.android",
+        "url": "https://play.google.com/store/apps/details?id=org.khankids.android&hl=en&gl=us"
+    },
+    {
+        "title": "TO-FU Oh!SUSHI",
+        "icon": "https://lh3.googleusercontent.com/4WAQR7862vH-cejw6HW2uCA1TStiAz2C-SwhmNXlqxzsmVeSTVaQilCdSGz3o1-9Pg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/P-BQ40S2O-o",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 84757,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4923511704223195335",
+        "updated": "February 11, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "2.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$4.49"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "SMART EDUCATION, LTD.",
+        "developer_email": "support@smarteducation.jp",
+        "developer_url": "http://smarteducation.jp",
+        "developer_address": "\u6771\u4eac\u90fd\u54c1\u5ddd\u533a\u897f\u4e94\u53cd\u75302-4-2 \u6771\u6d77\u30d3\u30eb",
+        "app_id": "jp.smarteducation.tofusushi",
+        "url": "https://play.google.com/store/apps/details?id=jp.smarteducation.tofusushi&hl=en&gl=us"
+    },
+    {
+        "title": "Miga Town: My Fire Station",
+        "icon": "https://lh3.googleusercontent.com/hxPadju83euTINjeWNrrIqe3HB3MKtAZDK69t-32i0LHKRDRwqR5lXg4yHvfp1ph6w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NSwHTmCNxpI",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3631,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8307876062402593836",
+        "updated": "June 19, 2019",
+        "size": "42M",
+        "installs": "500,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd.",
+        "developer_email": "support@xihegame.com",
+        "developer_url": "http://www.miga-kids.com",
+        "developer_address": "Middle Of Huangpu Road, No. 149, The Second Floor Of The 64 Tian",
+        "app_id": "com.miga.myfirestation",
+        "url": "https://play.google.com/store/apps/details?id=com.miga.myfirestation&hl=en&gl=us"
+    },
+    {
+        "title": "Mermaids",
+        "icon": "https://lh3.googleusercontent.com/uUuPisw6jzoYCPMGaJr0AGAqtwnNHzHJYIDs-koc3aMtm-ZVV7GSV7TOUHJ2kyjvlDkY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19563,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8734356468512982273",
+        "updated": "July 26, 2019",
+        "size": "44M",
+        "installs": "10,000,000+",
+        "current_version": "12.8.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$21.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Coloring Games",
+        "developer_email": "info@2-monkeys.nl",
+        "developer_url": "https://www.facebook.com/coloringkidsclub",
+        "developer_address": "Geert Grootestraat 1\n7411 GS Deventer\nThe Netherlands",
+        "app_id": "com.coloring.mermaids",
+        "url": "https://play.google.com/store/apps/details?id=com.coloring.mermaids&hl=en&gl=us"
+    },
+    {
+        "title": "Aeries Mobile Portal",
+        "icon": "https://lh3.googleusercontent.com/1I6fHlg7IVHMx-WMPlXTrZJfzXBqnf3D25CspbSDeoNSw22FolKVeaessJ-wymuf8lM-",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1569,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Aeries+Software+%28Eagle%29",
+        "updated": "July 26, 2019",
+        "size": "31M",
+        "installs": "100,000+",
+        "current_version": "2.2.9",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Aeries Software (Eagle)",
+        "developer_email": "support@aeries.com",
+        "developer_url": "http://www.aeries.com/",
+        "developer_address": "1065 N. PacifiCenter Drive\nSuite 400\nAnaheim, CA 92806",
+        "app_id": "com.aeries.mobileportal",
+        "url": "https://play.google.com/store/apps/details?id=com.aeries.mobileportal&hl=en&gl=us"
+    },
+    {
+        "title": "The Tips Neighbor Alpha 4 Pro",
+        "icon": "https://lh3.googleusercontent.com/U-Z_DETj7Ar3aoIGJFFvHTaIXogoCj8o0rGGe37PphBHalT2SjsSTXhRAPSyJyvJHw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 86,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "tepar+saja",
+        "updated": "July 18, 2019",
+        "size": "15M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "tepar saja",
+        "developer_email": "quequedort@gmail.com",
+        "developer_url": "https://teparsaja.blogspot.com/2019/07/privacy-policy-tepar-saja.html",
+        "developer_address": null,
+        "app_id": "com.tipsnghbor.proalphaseries",
+        "url": "https://play.google.com/store/apps/details?id=com.tipsnghbor.proalphaseries&hl=en&gl=us"
+    },
+    {
+        "title": "Unicorn Frost Cakes - Rainbow Cake Bakery Games",
+        "icon": "https://lh3.googleusercontent.com/3VC3mu6a3iEnox2iaSD8zwqtIKYIwOmT_RrqgHSoWFqWSsjgms5F8r2pafCKGlgdwQU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/-R_OJUK6CN4",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2703,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FunPop",
+        "updated": "May 29, 2019",
+        "size": "82M",
+        "installs": "1,000,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FunPop",
+        "developer_email": "funpopmedia@gmail.com",
+        "developer_url": "http://www.funpop.com.cn/",
+        "developer_address": "No.1 Dongsan Road ErxianqiaoChenghua Zone",
+        "app_id": "com.funpop.android_unicorncake",
+        "url": "https://play.google.com/store/apps/details?id=com.funpop.android_unicorncake&hl=en&gl=us"
+    },
+    {
+        "title": "Calculator Plus",
+        "icon": "https://lh3.googleusercontent.com/OmCzyrCW7mpVC4oMlH2iQclV4brBB1p4EObE5BH-rLmQP275jPJVf5cX7vqEUKsFKok",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37861,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jedimobi",
+        "updated": "July 11, 2019",
+        "size": "11M",
+        "installs": "5,000,000+",
+        "current_version": "1.4.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jedimobi",
+        "developer_email": "contact@jedimobi.com",
+        "developer_url": "http://www.developertech.online/ca4/policy.html",
+        "developer_address": "60 PAYA LEBAR ROAD #09-26 PAYA LEBAR SQUARE Singapore",
+        "app_id": "multi.function.scientific.calculate.photomath.calculator",
+        "url": "https://play.google.com/store/apps/details?id=multi.function.scientific.calculate.photomath.calculator&hl=en&gl=us"
+    },
+    {
+        "title": "Epic!: Kids\u2019 Books, Audiobooks, & Learning Videos",
+        "icon": "https://lh3.googleusercontent.com/5SMjf9P-exPdZYc5YaZfXlsLkzRaj1sxnRg3THJnLxVTh_RwbzWbhkX4S39dvY8ly74",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Hc8Z_iA_HZE",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29108,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8120985476826283671",
+        "updated": "July 20, 2019",
+        "size": "18M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.6",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$71.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Epic! Creations Inc",
+        "developer_email": "support@getepic.com",
+        "developer_url": "https://www.getepic.com",
+        "developer_address": "702 Marshall St #280\nRedwood City, CA\n94063",
+        "app_id": "com.getepic.Epic",
+        "url": "https://play.google.com/store/apps/details?id=com.getepic.Epic&hl=en&gl=us"
+    },
+    {
+        "title": "Udemy - Online Courses",
+        "icon": "https://lh3.googleusercontent.com/VyIvp4Wl7DOFnIcsxrIw0pq43zUd8Yb4n96DpDRDrSsBkxIodDMMDfQk4XunNT5oDJ7Z",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/24rVqO6G4xQ",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 153578,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Udemy",
+        "updated": "July 22, 2019",
+        "size": "10M",
+        "installs": "5,000,000+",
+        "current_version": "5.9.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$209.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Udemy",
+        "developer_email": "android@udemy.com",
+        "developer_url": "http://www.udemy.com",
+        "developer_address": "600 Harrison St 3rd Floor San Francisco California 94107",
+        "app_id": "com.udemy.android",
+        "url": "https://play.google.com/store/apps/details?id=com.udemy.android&hl=en&gl=us"
+    },
+    {
+        "title": "Princess Home Cleaning \u2013 House Clean Games",
+        "icon": "https://lh3.googleusercontent.com/LNuS8H03eRd3a_Wn7kJlqrpVVzBgUQyKApH0LCs2d6bgfjLmhs1lCJH0HwYCxeTC1UKt",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/s0vUilFjyTA",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9398,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FunPop",
+        "updated": "July 10, 2019",
+        "size": "53M",
+        "installs": "1,000,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FunPop",
+        "developer_email": "funpopmedia@gmail.com",
+        "developer_url": "http://www.funpop.com.cn/",
+        "developer_address": "No.1 Dongsan Road ErxianqiaoChenghua Zone",
+        "app_id": "com.funpop.android_princessclean",
+        "url": "https://play.google.com/store/apps/details?id=com.funpop.android_princessclean&hl=en&gl=us"
+    },
+    {
+        "title": "Miga Town: My Pets",
+        "icon": "https://lh3.googleusercontent.com/Mgt7GuOYhM3MsPjM7JgQ2CoHf4_O1sivtIRD0ER8n0M-iqoDz15iVYThGNrFC2GrTw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2zhsXNtsXqg",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6947,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8307876062402593836",
+        "updated": "April 9, 2019",
+        "size": "55M",
+        "installs": "1,000,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd.",
+        "developer_email": "Support@xihegame.com",
+        "developer_url": "http://www.xihegame.com",
+        "developer_address": "Middle Of Huangpu Road, No. 149, The Second Floor Of The 64 Tian",
+        "app_id": "com.miga.mypets",
+        "url": "https://play.google.com/store/apps/details?id=com.miga.mypets&hl=en&gl=us"
+    },
+    {
+        "title": "StudentVUE",
+        "icon": "https://lh3.googleusercontent.com/43vg9yqJ6keUxcLmlhILmpAGVG5q1XTpKtkUDMiggTWvzD7j_vi8bdqRI23dWnEy7A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6279,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Edupoint+Education+Systems",
+        "updated": "July 30, 2019",
+        "size": "2.9M",
+        "installs": "500,000+",
+        "current_version": "5.3.31",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Edupoint Education Systems",
+        "developer_email": "edupoint.android@gmail.com",
+        "developer_url": "http://edupoint.com",
+        "developer_address": null,
+        "app_id": "com.FreeLance.StudentVUE",
+        "url": "https://play.google.com/store/apps/details?id=com.FreeLance.StudentVUE&hl=en&gl=us"
+    },
+    {
+        "title": "Blackboard",
+        "icon": "https://lh3.googleusercontent.com/dkv3YKx6QFkf1ox4IouqrEAXzR5R71iEQxTfLk30OglO6gVi-2Ck-zwM7h7Ucs0Rmw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 39187,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Blackboard+Inc.",
+        "updated": "July 22, 2019",
+        "size": "63M",
+        "installs": "1,000,000+",
+        "current_version": "4.3.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Blackboard Inc.",
+        "developer_email": "CCoEmBaaSPD@blackboard.com",
+        "developer_url": "https://help.blackboard.com/Blackboard_App/Student",
+        "developer_address": "1111 19th Street NW, 9th Floor\nWashington, DC 20036",
+        "app_id": "com.blackboard.android.bbstudent",
+        "url": "https://play.google.com/store/apps/details?id=com.blackboard.android.bbstudent&hl=en&gl=us"
+    },
+    {
+        "title": "ParentVUE",
+        "icon": "https://lh3.googleusercontent.com/HalPv8bQ1kNDuKg_VYiCEzXZpkd5pZ-ct8hNsCCfF7qujl0KzHNeEz2_zJ2Q1u-BABhg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1260,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Edupoint+Education+Systems",
+        "updated": "July 10, 2019",
+        "size": "4.4M",
+        "installs": "100,000+",
+        "current_version": "5.2.7",
+        "required_android_version": "3.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Edupoint Education Systems",
+        "developer_email": "edupoint.android@gmail.com",
+        "developer_url": "http://edupoint.com",
+        "developer_address": null,
+        "app_id": "com.FreeLance.ParentVUE",
+        "url": "https://play.google.com/store/apps/details?id=com.FreeLance.ParentVUE&hl=en&gl=us"
+    },
+    {
+        "title": "Vocabulary Builder",
+        "icon": "https://lh3.googleusercontent.com/odlisBNE5RrOlXGRnKM-drAMU8tTcSq5ibKZRd4fn0XxXXnjIsgD8RV6kF7RhMo_JTY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4948,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Rishabh",
+        "updated": "September 18, 2017",
+        "size": "3.0M",
+        "installs": "1,000,000+",
+        "current_version": "5.1.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Rishabh",
+        "developer_email": "rishabhk147@gmail.com",
+        "developer_url": "http://rishabhk.com/rishabh/vocabulary_builder/privacy_policy.html",
+        "developer_address": "A-306, Grexter Elysian, Bangalore, 560037",
+        "app_id": "com.rishabhk.vocabbuilder",
+        "url": "https://play.google.com/store/apps/details?id=com.rishabhk.vocabbuilder&hl=en&gl=us"
+    },
+    {
+        "title": "Multiplication Table IQ / Times Tables",
+        "icon": "https://lh3.googleusercontent.com/FOqO4WNV6Z8GzfsabyHnLB6Vm43KTY5qmScRVt-DrNQL4mEBpHhI0I2rKljItCdsK4Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13634,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8381242180722924728",
+        "updated": "July 10, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HONETi",
+        "developer_email": "office@honeti.com",
+        "developer_url": "https://www.honeti.com/",
+        "developer_address": "HONETi\n80-299 Gda\u0144sk\nul. Mi\u0119dzygwiezdna 2/2\nPoland",
+        "app_id": "com.honeti.multiplication",
+        "url": "https://play.google.com/store/apps/details?id=com.honeti.multiplication&hl=en&gl=us"
+    },
+    {
+        "title": "Bible App for Kids: Interactive Audio & Stories",
+        "icon": "https://lh3.googleusercontent.com/DaP712q_P-ayHZ5MpqmzvCOwxhGAsTXI7WjcMwHZyqJadtDuCnWS6TlnZTYRI-7VBJ0",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/97YQAoCjpcs",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 214974,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Life.Church",
+        "updated": "May 30, 2019",
+        "size": "53M",
+        "installs": "10,000,000+",
+        "current_version": "2.25",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Life.Church",
+        "developer_email": "kidsbible@youversion.com",
+        "developer_url": "http://bible.com/kids",
+        "developer_address": null,
+        "app_id": "com.bible.kids",
+        "url": "https://play.google.com/store/apps/details?id=com.bible.kids&hl=en&gl=us"
+    },
+    {
+        "title": "Deepstash - Self Improvement, Motivation & Care",
+        "icon": "https://lh3.googleusercontent.com/8fAVwwcn1rcywMLqUwxmpBeVpfq1L5mgEViiTvjRSvP6Hf2p2GLX7FULeCU3rsNSuw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1384,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6838038566629563073",
+        "updated": "July 19, 2019",
+        "size": "8.2M",
+        "installs": "100,000+",
+        "current_version": "1.13.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Deepstash",
+        "developer_email": "hello@deepstash.com",
+        "developer_url": "https://deepstash.com",
+        "developer_address": "2035 Sunset Lake Road, Suite B-2\nNewark, Delaware 19702\nUSA",
+        "app_id": "com.deepstash",
+        "url": "https://play.google.com/store/apps/details?id=com.deepstash&hl=en&gl=us"
+    },
+    {
+        "title": "Mathway",
+        "icon": "https://lh3.googleusercontent.com/FCMEORLhwFpdp0NpgdjkDatyAB3SIN8C29m2Cmm935oY45z45pm_gDH_nbMdmTsmRg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/AXccl_0TUxk",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 94073,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6431727159568786626",
+        "updated": "July 30, 2019",
+        "size": "44M",
+        "installs": "5,000,000+",
+        "current_version": "3.3.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$149.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Mathway",
+        "developer_email": "support@mathway.com",
+        "developer_url": "https://www.mathway.com",
+        "developer_address": "Mathway\n4647 Saucon Creek Rd\nCenter Valley, PA 18034",
+        "app_id": "com.bagatrix.mathway.android",
+        "url": "https://play.google.com/store/apps/details?id=com.bagatrix.mathway.android&hl=en&gl=us"
+    },
+    {
+        "title": "Famous Street Food Maker \u2013 Yummy Carnivals Treats",
+        "icon": "https://lh3.googleusercontent.com/sXdr-0-LWAO8DheXo0lfJamtNjlaYp5Nqvm4Hc5JesvRH_w_ZW_W2x6U3wwq_Dg-u4k8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/EAUIARu99mo",
+        "category": [
+            "EDUCATION",
+            "FAMILY_CREATE"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2236,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FunPop",
+        "updated": "April 25, 2019",
+        "size": "51M",
+        "installs": "1,000,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FunPop",
+        "developer_email": "funpopmedia@gmail.com",
+        "developer_url": "http://www.funpop.com.cn/",
+        "developer_address": "No.1 Dongsan Road ErxianqiaoChenghua Zone",
+        "app_id": "com.funpop.android_streetfood",
+        "url": "https://play.google.com/store/apps/details?id=com.funpop.android_streetfood&hl=en&gl=us"
+    },
+    {
+        "title": "Cook Donut Maker - Unicorn Food Baking Games",
+        "icon": "https://lh3.googleusercontent.com/-R28GQtXfMhigNYhyCZmmQVWAm3Rrm7_5vNlqp-cX36rOzbjvbBpW496HXse3kMndoI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/U7yzg24JVTM",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1260,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FunPop",
+        "updated": "April 16, 2019",
+        "size": "75M",
+        "installs": "1,000,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FunPop",
+        "developer_email": "funpopmedia@gmail.com",
+        "developer_url": "http://www.funpop.com.cn/",
+        "developer_address": "No.1 Dongsan Road ErxianqiaoChenghua Zone",
+        "app_id": "com.funpop.android_donut",
+        "url": "https://play.google.com/store/apps/details?id=com.funpop.android_donut&hl=en&gl=us"
+    },
+    {
+        "title": "Grants.gov",
+        "icon": "https://lh3.googleusercontent.com/Li8VMgyjeXqikuCODSna8pGXgkQ1-FMoGf10Qce11XpIgxdFpsLJnTf79eiHOjLUJZ8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/0hlTPl_FrFM",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 226,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Official+Grants.gov+App",
+        "updated": "April 5, 2019",
+        "size": "11M",
+        "installs": "100,000+",
+        "current_version": "2.0.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Official Grants.gov App",
+        "developer_email": "support@grants.gov",
+        "developer_url": "https://www.grants.gov/web/grants/support.html",
+        "developer_address": null,
+        "app_id": "com.mobile_grants",
+        "url": "https://play.google.com/store/apps/details?id=com.mobile_grants&hl=en&gl=us"
+    },
+    {
+        "title": "Miga Town: My Apartment",
+        "icon": "https://lh3.googleusercontent.com/seAZmBfhnmDJBTFBCUfIcRyH-LOAQG0XPHNG0QcOFfJN3PxDBVEXIgILNnKXZnbXew",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/gHpcYnguqP4",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 397,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8307876062402593836",
+        "updated": "July 30, 2019",
+        "size": "42M",
+        "installs": "50,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd.",
+        "developer_email": "Support@xihegame.com",
+        "developer_url": "https://miga-kids.com/",
+        "developer_address": "Middle Of Huangpu Road, No. 149, The Second Floor Of The 64 Tian",
+        "app_id": "com.miga.myapartment",
+        "url": "https://play.google.com/store/apps/details?id=com.miga.myapartment&hl=en&gl=us"
+    },
+    {
+        "title": "Niv Bible Free Download -New International Version",
+        "icon": "https://lh3.googleusercontent.com/YBKB6ORR5enpF1WrsUrjeRnhnJa_QIaiNDVSG-E0S76JCyOaTHR2Y0L5_rpYHly_Ig",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8367,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bible+International+Version+Ltd.",
+        "updated": "July 30, 2019",
+        "size": "19M",
+        "installs": "500,000+",
+        "current_version": "5.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bible International Version Ltd.",
+        "developer_email": "BibleltdInternationalltd@gmail.com",
+        "developer_url": "https://bibleprivacy.blogspot.com/2018/10/bible-privacy-policy.html",
+        "developer_address": "10400",
+        "app_id": "com.andromo.dev712412.app759186",
+        "url": "https://play.google.com/store/apps/details?id=com.andromo.dev712412.app759186&hl=en&gl=us"
+    },
+    {
+        "title": "Learn Korean, Learn Japanese, Chinese - LingoDeer",
+        "icon": "https://lh3.googleusercontent.com/z1Ry7krk6GNAm3UAw9PC4Fcv3shGTJNOB_MoUkV49wHir57Jc9fFJRUjSaX64Zq7wvQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/jC7GIjDXuBw",
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 303975,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5137006670632982516",
+        "updated": "July 30, 2019",
+        "size": "33M",
+        "installs": "5,000,000+",
+        "current_version": "2.37",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$89.99"
+        ],
+        "interactive_elements": null,
+        "developer": "LingoDeer - Learn Languages with fun",
+        "developer_email": "support@lingodeer.com",
+        "developer_url": "http://www.lingodeer.com",
+        "developer_address": "No. 21 Building, LangYuan Vintage, ChaoYang, Beijing",
+        "app_id": "com.lingodeer",
+        "url": "https://play.google.com/store/apps/details?id=com.lingodeer&hl=en&gl=us"
+    },
+    {
+        "title": "Miga Town: My Hospital",
+        "icon": "https://lh3.googleusercontent.com/7PpVJY_jFPaMRhy1G2AR3TxaE2qhAW-eF4nH-gSFtATGsIYuNUlwxtyJEVFiqGHJ6lGB",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/YetNGw_uDE8",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8177,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8307876062402593836",
+        "updated": "October 31, 2018",
+        "size": "40M",
+        "installs": "1,000,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd.",
+        "developer_email": "xihe@xihegame.com",
+        "developer_url": "http://www.xihegame.com",
+        "developer_address": "Middle Of Huangpu Road, No. 149, The Second Floor Of The 64 Tian",
+        "app_id": "com.miga.myhospital",
+        "url": "https://play.google.com/store/apps/details?id=com.miga.myhospital&hl=en&gl=us"
+    },
+    {
+        "title": "IXL",
+        "icon": "https://lh3.googleusercontent.com/KXdJB5aXz-u9QcPLnXrqSj-uxE15o3Hokft77hU5fiDFUbwucHbqrYGGPtkah90hxw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10524,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "IXL+Learning",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "IXL Learning",
+        "developer_email": "support@ixl.com",
+        "developer_url": "https://www.ixl.com/",
+        "developer_address": null,
+        "app_id": "com.ixl.ixlmath",
+        "url": "https://play.google.com/store/apps/details?id=com.ixl.ixlmath&hl=en&gl=us"
+    },
+    {
+        "title": "Lumosity: #1 Brain Games & Cognitive Training App",
+        "icon": "https://lh3.googleusercontent.com/MrYF2bh1BuqkzlWeWVKmrMZKfo0AyvVtO-OwaeB4cPFPtZBcJ3e5ibYPB19Ew5NR6ian",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/qyqDJzfO-hY",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 240287,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8250834151905755045",
+        "updated": "July 11, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Lumos Labs, Inc.",
+        "developer_email": "info@lumosity.com",
+        "developer_url": "http://www.lumosity.com",
+        "developer_address": "140 New Montgomery Street\nFloor 19 - Android Team\nSan Francisco, CA 94105",
+        "app_id": "com.lumoslabs.lumosity",
+        "url": "https://play.google.com/store/apps/details?id=com.lumoslabs.lumosity&hl=en&gl=us"
+    },
+    {
+        "title": "brightwheel: Preschool & Child Care Management App",
+        "icon": "https://lh3.googleusercontent.com/M7kwSOP3PbU2rzz0xtDejXe859yxx6yKwnyGzcR5UN6K515QBlQoMMCRDQsuSSpIXjqj",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ykj6vgz2Brs",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1522,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "brightwheel",
+        "updated": "July 5, 2019",
+        "size": "15M",
+        "installs": "100,000+",
+        "current_version": "4.5.5.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "brightwheel",
+        "developer_email": "support@mybrightwheel.com",
+        "developer_url": "https://www.mybrightwheel.com",
+        "developer_address": null,
+        "app_id": "co.kidcasa.app",
+        "url": "https://play.google.com/store/apps/details?id=co.kidcasa.app&hl=en&gl=us"
+    },
+    {
+        "title": "Google Arts & Culture",
+        "icon": "https://lh3.googleusercontent.com/0yIxsU6mBbX1aXXWw9kmv3xu_rduwb1HO3byPuawf2Uophei8s7Xgxu4FdjOc_Bi488",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/bp4oa7MHg88",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 32419,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 17, 2019",
+        "size": "16M",
+        "installs": "5,000,000+",
+        "current_version": "7.2.15",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info, Shares Location"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "ci-feedback@googlegroups.com",
+        "developer_url": "https://www.google.com/culturalinstitute/beta",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.cultural",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.cultural&hl=en&gl=us"
+    },
+    {
+        "title": "Picture English Dictionary - 24 Languages 5M Pics",
+        "icon": "https://lh3.googleusercontent.com/b5p-f8j9amS4fY0bp2JrR8JzdaHYCSWKj1dXfgpmc92Nv1pljOGkRcycru4BH4IkgdIK",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/84QPTPZEGME",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19592,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9119797059737882959",
+        "updated": "July 16, 2019",
+        "size": "47M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.56",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Wafour Corporation",
+        "developer_email": "wafour.study@gmail.com",
+        "developer_url": "http://wafour.com",
+        "developer_address": "\uc11c\uc6b8\uc2dc \uc11c\ucd08\uad6c \ubc18\ud3ec\ub300\ub85c 30\uae38 81",
+        "app_id": "com.wafour.wapiceng",
+        "url": "https://play.google.com/store/apps/details?id=com.wafour.wapiceng&hl=en&gl=us"
+    },
+    {
+        "title": "Hatch Baby Animal- Hatch Egg Spa Salon",
+        "icon": "https://lh3.googleusercontent.com/B9p7TYDrQ_Ik3gx78FND4ZsGzutdNVuFfJ3FSFEnlMywzluryGy2velNvJRSZpxv6mE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/dVSIqC8VLY8",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2058,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FunPop",
+        "updated": "April 16, 2019",
+        "size": "82M",
+        "installs": "1,000,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FunPop",
+        "developer_email": "funpopmedia@gmail.com",
+        "developer_url": "http://www.funpop.com.cn/",
+        "developer_address": "No.1 Dongsan Road ErxianqiaoChenghua Zone",
+        "app_id": "com.funpop.android_hatch",
+        "url": "https://play.google.com/store/apps/details?id=com.funpop.android_hatch&hl=en&gl=us"
+    },
+    {
+        "title": "Babbel \u2013 Learn Spanish",
+        "icon": "https://lh3.googleusercontent.com/HE0C_KfSDGQhyvRM78-AYdhSBx2p1tJJYlrSXB1sueL0aABajtN1uR6qB4z17eHYo6CH",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/YLYQSiPcfJo",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 64829,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6066251638635097876",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$12.95",
+            "$83.40"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Babbel",
+        "developer_email": "support-mobile@babbel.com",
+        "developer_url": "https://www.babbel.com",
+        "developer_address": "Lesson Nine GmbH\nMax-Beer-Str. 2\n10119 Berlin\nGERMANY",
+        "app_id": "com.babbel.mobile.android.es",
+        "url": "https://play.google.com/store/apps/details?id=com.babbel.mobile.android.es&hl=en&gl=us"
+    },
+    {
+        "title": "Miga Town",
+        "icon": "https://lh3.googleusercontent.com/zgssozTt2dKao8UC851CKIxELlTeuvvBTlFUK0oJPE7wLCdFEqgFqNS03lDhyVJoPg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xQdEisdOQlc",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20766,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8307876062402593836",
+        "updated": "September 6, 2018",
+        "size": "34M",
+        "installs": "1,000,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "XiHe Digital (GuangZhou) Technology Co., Ltd.",
+        "developer_email": "xihe@xihegame.com",
+        "developer_url": "http://www.xihegame.com",
+        "developer_address": "Middle Of Huangpu Road, No. 149, The Second Floor Of The 64 Tian",
+        "app_id": "com.miga.mytown",
+        "url": "https://play.google.com/store/apps/details?id=com.miga.mytown&hl=en&gl=us"
+    },
+    {
+        "title": "Listen & Learn English from Spanish",
+        "icon": "https://lh3.googleusercontent.com/VRBeCKweV8phZOzHg3s3SVNGC2P0MMj8QkayqmtO_10R4Oyh4MY01ClbUvFiRcoMZw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1631,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Portalis",
+        "updated": "July 29, 2019",
+        "size": "6.1M",
+        "installs": "100,000+",
+        "current_version": "27.0.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Portalis",
+        "developer_email": "rooseveltquraishirum@gmail.com",
+        "developer_url": "http://portalispv.blogspot.com/2018/09/users-privacy-policy-is-important-to-us.html",
+        "developer_address": null,
+        "app_id": "com.listeneng.sp",
+        "url": "https://play.google.com/store/apps/details?id=com.listeneng.sp&hl=en&gl=us"
+    },
+    {
+        "title": "Learn Spanish Free",
+        "icon": "https://lh3.googleusercontent.com/qrp8HG5njbqLWXIKucxlxle3Wy5xVNzSU1OqZSyzyLoMgiKwMXVX9Bm9Prz9lU1Rh6w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/IrpFCLPgsVQ",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3400,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6754087684353088714",
+        "updated": "June 21, 2019",
+        "size": "5.3M",
+        "installs": "500,000+",
+        "current_version": "7.02",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Best Spanish Course",
+        "developer_email": "mejoresappsdelmarket@gmail.com",
+        "developer_url": "http://www.cursodeinglesenusa.com",
+        "developer_address": null,
+        "app_id": "free.learn.spanish",
+        "url": "https://play.google.com/store/apps/details?id=free.learn.spanish&hl=en&gl=us"
+    },
+    {
+        "title": "Socratic - Math Answers & Homework Help",
+        "icon": "https://lh3.googleusercontent.com/WO-AOEz0sJzJRVQDFRvS47MDcB83ahIvkJ2eObOQH23UwMo6YgwpiprpH5mfkAI1xQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 59722,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Socratic",
+        "updated": "June 7, 2018",
+        "size": "5.4M",
+        "installs": "5,000,000+",
+        "current_version": "1.8.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Socratic",
+        "developer_email": "android@socratic.org",
+        "developer_url": "https://socratic.org",
+        "developer_address": null,
+        "app_id": "org.socratic.android",
+        "url": "https://play.google.com/store/apps/details?id=org.socratic.android&hl=en&gl=us"
+    },
+    {
+        "title": "Spanish to English Speaking: Aprende Ingl\u00e9s R\u00e1pido",
+        "icon": "https://lh3.googleusercontent.com/n7r-O8WSOunJ2ZZzitWG9XEY2wmQTYHf0hKHZ3D9PoiUl2ZFwcanUOSpsF-WvC6R_A",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/8iDpahBMk6Y",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4691,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4814983875887845538",
+        "updated": "July 11, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "44.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "DevelopItNowadays Solutions",
+        "developer_email": "audience.ensured@yahoo.com",
+        "developer_url": "http://www.develop-it-nowadays.com/p/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.developitnowadays.spanishtoenglish",
+        "url": "https://play.google.com/store/apps/details?id=com.developitnowadays.spanishtoenglish&hl=en&gl=us"
+    },
+    {
+        "title": "Mimo: Learn to Code",
+        "icon": "https://lh3.googleusercontent.com/4EbbMw6TnleJPtv4rc2C-8NVle1c9xxRkGfPLBzdqosNT61Fk7ag-TYXcVadm8V8uA4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NWNC0xP2Mjw",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 75454,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5836148544871025856",
+        "updated": "July 24, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.8",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$79.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Mimohello GmbH",
+        "developer_email": "support@getmimo.com",
+        "developer_url": "https://getmimo.com",
+        "developer_address": "Schanzstra\u00dfe 14/1.1\n1150 Wien\nAustria, Europe",
+        "app_id": "com.getmimo",
+        "url": "https://play.google.com/store/apps/details?id=com.getmimo&hl=en&gl=us"
+    },
+    {
+        "title": "Pinkfong Best Kids Songs",
+        "icon": "https://lh3.googleusercontent.com/AODWKurDXE4ZJx9s_97XUuFosuGew2GYrTfjNLfOrz68h9EXs2SPU1Q2sC-13-x4iUQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/THE7VkqY8nw",
+        "category": [
+            "EDUCATION",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 39435,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5316747288696116828",
+        "updated": "November 21, 2018",
+        "size": "27M",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$31.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "SMARTSTUDY PINKFONG",
+        "developer_email": "cs@smartstudy.co.kr",
+        "developer_url": "http://about.pinkfong.com/about/",
+        "developer_address": "\uc11c\uc6b8\uc2dc \uc11c\ucd08\uad6c \uba85\ub2ec\ub85c94 \uc2a4\ub9c8\ud2b8\uc2a4\ud130\ub514",
+        "app_id": "kr.co.smartstudy.bodlebookiapfree_us_android_googlemarket",
+        "url": "https://play.google.com/store/apps/details?id=kr.co.smartstudy.bodlebookiapfree_us_android_googlemarket&hl=en&gl=us"
+    },
+    {
+        "title": "Crystals Guide",
+        "icon": "https://lh3.googleusercontent.com/fBfPIT1pRWKiaE2gaYJ2KmqtDmh5uT-TZKnpqOnMcYdpVRye9eKVMoDX4h4lAgA_ZKY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 222,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "apptodo12",
+        "updated": "April 3, 2019",
+        "size": "12M",
+        "installs": "50,000+",
+        "current_version": "1.18",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "apptodo12",
+        "developer_email": "jakewoodardj@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1isCzqzWBAgGxIA9jOdbxkl5WT2z3ZWNHLeLeQwi83cc/edit",
+        "developer_address": null,
+        "app_id": "com.vrits.andrewgemshop",
+        "url": "https://play.google.com/store/apps/details?id=com.vrits.andrewgemshop&hl=en&gl=us"
+    },
+    {
+        "title": "Snow Cone Dessert- Unicorn Snow Cone Party",
+        "icon": "https://lh3.googleusercontent.com/CRkHs0KTdCB_15F-Cd-t531vAhCpVc5bnERKdXub28-6jLhVQxbrWtmYwqPXhMa-b8FL",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/g7NqwBCIau0",
+        "category": [
+            "EDUCATION",
+            "FAMILY_PRETEND"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 266,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FunPop",
+        "updated": "July 5, 2019",
+        "size": "66M",
+        "installs": "100,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FunPop",
+        "developer_email": "funpopmedia@gmail.com",
+        "developer_url": "http://www.funpop.com.cn/",
+        "developer_address": "No.1 Dongsan Road ErxianqiaoChenghua Zone",
+        "app_id": "com.funpop.android_snowcone",
+        "url": "https://play.google.com/store/apps/details?id=com.funpop.android_snowcone&hl=en&gl=us"
+    },
+    {
+        "title": "Dogo - Your Dog's Favourite Training App",
+        "icon": "https://lh3.googleusercontent.com/hC4tfaPWy3w9-dcGDxpX3HQbrrbGjfF94PdUNoT4v_b1iQJDAT5LX-PBoLkgpQrdo0Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40254,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Dogo",
+        "updated": "July 29, 2019",
+        "size": "7.8M",
+        "installs": "500,000+",
+        "current_version": "2.2.12",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$7.49",
+            "$79.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Dogo",
+        "developer_email": "info@dogo.app",
+        "developer_url": "http://www.dogo.app",
+        "developer_address": "Markgrafenstra\u00dfe 12-14\n10969 Berlin\nGermany",
+        "app_id": "app.dogo.com.dogo_android",
+        "url": "https://play.google.com/store/apps/details?id=app.dogo.com.dogo_android&hl=en&gl=us"
+    },
+    {
+        "title": "Jurassic World Facts",
+        "icon": "https://lh3.googleusercontent.com/KdxK0CXRy49TxqEWSiKO6mlaB7N8z7PNF1Z8EkYnElF8lNrAl7JsCZZHVT5caTZp8g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EDUCATION",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10617,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mattel",
+        "updated": "May 6, 2019",
+        "size": "31M",
+        "installs": "1,000,000+",
+        "current_version": "1.7",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mattel",
+        "developer_email": "service@mattel.com",
+        "developer_url": "http://www.mattel.com",
+        "developer_address": "333 Continental Blvd.  El Segundo, CA 90245",
+        "app_id": "com.mattel.jurassicworld2",
+        "url": "https://play.google.com/store/apps/details?id=com.mattel.jurassicworld2&hl=en&gl=us"
+    },
+    {
+        "title": "Drivers Ed: US Driving Test 2019 Free",
+        "icon": "https://lh3.googleusercontent.com/vSrGwt43iIVyzH3wKv0vlfZyl5dytlFzHA-73yWKxTW-bOpx896NcshxVCvzqnN6bug",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hvDLwSNvd0U",
+        "category": [
+            "EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 350,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6250558401774233464",
+        "updated": "April 30, 2019",
+        "size": "8.6M",
+        "installs": "100,000+",
+        "current_version": "1.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Iteration Mobile & Vialsoft Apps",
+        "developer_email": "support@iteration-mobile.com",
+        "developer_url": "http://www.iteration-mobile.com",
+        "developer_address": "c/Valparaiso n\u00ba2. 28941 Madrid",
+        "app_id": "com.vialsoft.driversedfreemium",
+        "url": "https://play.google.com/store/apps/details?id=com.vialsoft.driversedfreemium&hl=en&gl=us"
+    }
+]

@@ -1,0 +1,4311 @@
+[
+    {
+        "title": "GoodRx Drug Prices and Coupons",
+        "icon": "https://lh3.googleusercontent.com/adTvAepSBlgoDyBCzJaMJxK-D8tsqqbzEjSCpDGPtnrZEQC8I7F8oWnD2NwhbWfSuMU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/9qkXs768JKY",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 102471,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GoodRx",
+        "updated": "July 24, 2019",
+        "size": "13M",
+        "installs": "5,000,000+",
+        "current_version": "5.8.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GoodRx",
+        "developer_email": "info@goodrx.com",
+        "developer_url": "http://www.goodrx.com",
+        "developer_address": null,
+        "app_id": "com.goodrx",
+        "url": "https://play.google.com/store/apps/details?id=com.goodrx&hl=en&gl=us"
+    },
+    {
+        "title": "MyChart",
+        "icon": "https://lh3.googleusercontent.com/YPtBGr6THchfNi4KIo9P4A5TePEia_daTtMtsqwsURjYqngsLCRV1-NUah09z0kcBXs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24041,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Epic+Systems+Corporation",
+        "updated": "May 9, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Epic Systems Corporation",
+        "developer_email": "MyChartMobileSupport@epic.com",
+        "developer_url": "http://www.epic.com",
+        "developer_address": null,
+        "app_id": "epic.mychart.android",
+        "url": "https://play.google.com/store/apps/details?id=epic.mychart.android&hl=en&gl=us"
+    },
+    {
+        "title": "K Health | Free Personal Healthcare",
+        "icon": "https://lh3.googleusercontent.com/A7zRpUhKaWPpsrqF1qY6kk2HFPSl26-SozhPE4nCIEOX4i28nZf6SiivfF1yPfImM3w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3O3zGFwhs1s",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3419,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "K+Health",
+        "updated": "July 10, 2019",
+        "size": "56M",
+        "installs": "500,000+",
+        "current_version": "2.5.4700",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "K Health",
+        "developer_email": "feedback@khealth.ai",
+        "developer_url": "https://www.khealth.ai",
+        "developer_address": null,
+        "app_id": "ai.kanghealth",
+        "url": "https://play.google.com/store/apps/details?id=ai.kanghealth&hl=en&gl=us"
+    },
+    {
+        "title": "FollowMyHealth\u00ae",
+        "icon": "https://lh3.googleusercontent.com/1YN9d1sbpXT9ne95CggmlDcOJtaRtgd9_DALcwyQYdcJx4I5iA4lTAVlJY4uhbkqM6UR",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 105715,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Allscripts+Healthcare+Solutions+Inc",
+        "updated": "May 23, 2019",
+        "size": "40M",
+        "installs": "1,000,000+",
+        "current_version": "19.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Allscripts Healthcare Solutions Inc",
+        "developer_email": "fmhmobilefeedback@allscripts.com",
+        "developer_url": "https://followmyhealth.desk.com/",
+        "developer_address": null,
+        "app_id": "com.jardogs.fmhmobile",
+        "url": "https://play.google.com/store/apps/details?id=com.jardogs.fmhmobile&hl=en&gl=us"
+    },
+    {
+        "title": "Aetna Health",
+        "icon": "https://lh3.googleusercontent.com/lH2PBKuVXg80Ylc1n203IgggRvnEcfvlEvPaIh-6l5eaSpVF_srFFs4NqcQhyWgiczM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 992,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Aetna+Life+Insurance+Company",
+        "updated": "June 26, 2019",
+        "size": "42M",
+        "installs": "100,000+",
+        "current_version": "3.4.0-prod",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Aetna Life Insurance Company",
+        "developer_email": "AetnaHealth-AppSupport@aetna.com",
+        "developer_url": "http://www.aetna.com",
+        "developer_address": null,
+        "app_id": "com.aetna.aetnahealth",
+        "url": "https://play.google.com/store/apps/details?id=com.aetna.aetnahealth&hl=en&gl=us"
+    },
+    {
+        "title": "Ovia Pregnancy Tracker: Baby Due Date Countdown",
+        "icon": "https://lh3.googleusercontent.com/drrc7SCkb4C4R-UmKHGVq2Sx-Nkrj8YI_KPpZQ6pbN5Z6dry24NQyIwcluzd7swRV6A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 121465,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ovia+Health",
+        "updated": "July 12, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ovia Health",
+        "developer_email": "support@oviahealth.com",
+        "developer_url": "https://www.oviahealth.com",
+        "developer_address": null,
+        "app_id": "com.ovuline.pregnancy",
+        "url": "https://play.google.com/store/apps/details?id=com.ovuline.pregnancy&hl=en&gl=us"
+    },
+    {
+        "title": "Teladoc",
+        "icon": "https://lh3.googleusercontent.com/RXL7nY0qIxg_G6d-PKRsvL9QetCQ73AznMmmvzoPX9n1F6zaJh8T0vsOfqPcNZ6LZA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16984,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Teladoc,+Inc.",
+        "updated": "May 24, 2019",
+        "size": "22M",
+        "installs": "500,000+",
+        "current_version": "3.22",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Teladoc, Inc.",
+        "developer_email": "crmail@teladoc.com",
+        "developer_url": "http://www.teladoc.com",
+        "developer_address": null,
+        "app_id": "com.teladoc.members",
+        "url": "https://play.google.com/store/apps/details?id=com.teladoc.members&hl=en&gl=us"
+    },
+    {
+        "title": "BioLife Plasma Services",
+        "icon": "https://lh3.googleusercontent.com/UAwXw05lsZaTt1MH232YI56dD24Js5-1e_j-Qv5buBbEEuweRT0psARsIxj8Lf9pQr7L",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1854,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Shire+Pharmaceuticals",
+        "updated": "April 9, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "1.4.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Shire Pharmaceuticals",
+        "developer_email": "BiolifeMarketingAndCommunications.US@shire.com",
+        "developer_url": "http://www.biolifeplasma.com",
+        "developer_address": "300 Shire Way\nLexington, MA  02421",
+        "app_id": "com.shire.biolife",
+        "url": "https://play.google.com/store/apps/details?id=com.shire.biolife&hl=en&gl=us"
+    },
+    {
+        "title": "PsyTests",
+        "icon": "https://lh3.googleusercontent.com/lDecD84o4Cam-ueEvP54Xq1VX_jMO-c5ovsdMwFzTz3HEze5W_Oo4dLa_4sp94sMFGY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 41233,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Psique+Apps",
+        "updated": "July 11, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "3.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Psique Apps",
+        "developer_email": "psiqueapps@gmail.com",
+        "developer_url": "http://psicotests.net/tyc.html",
+        "developer_address": "Nueva York 3835",
+        "app_id": "ar.com.fennoma.psicotest",
+        "url": "https://play.google.com/store/apps/details?id=ar.com.fennoma.psicotest&hl=en&gl=us"
+    },
+    {
+        "title": "Moodpath - Depression & Anxiety Test",
+        "icon": "https://lh3.googleusercontent.com/eBFHYQ8Ri1K8OUaQm41tyXVZyb2EJ5U0cMzWCFhv8wt65AEk3Yoqum_WuXDFpBKOqXk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14822,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Moodpath",
+        "updated": "July 15, 2019",
+        "size": "26M",
+        "installs": "500,000+",
+        "current_version": "2.1.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$6.49",
+            "$84.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Moodpath",
+        "developer_email": "info@moodpath.de",
+        "developer_url": "https://mymoodpath.com",
+        "developer_address": "Friedelstra\u00dfe 27\n12047 Berlin\nGermany",
+        "app_id": "de.moodpath.android",
+        "url": "https://play.google.com/store/apps/details?id=de.moodpath.android&hl=en&gl=us"
+    },
+    {
+        "title": "myAir\u2122 for Air10\u2122 by ResMed",
+        "icon": "https://lh3.googleusercontent.com/NlgAwaMlzTzd7Dr-nnodxWs9oIM8yJA0-gcMTqKOKsFrwF3cfu0magb_7sxwb7QeTuY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1258,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ResMed",
+        "updated": "June 5, 2019",
+        "size": "44M",
+        "installs": "100,000+",
+        "current_version": "1.9.0.247.9",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ResMed",
+        "developer_email": "myairsupport@resmed.com",
+        "developer_url": "http://resmed.com/myAir",
+        "developer_address": null,
+        "app_id": "com.resmed.myair",
+        "url": "https://play.google.com/store/apps/details?id=com.resmed.myair&hl=en&gl=us"
+    },
+    {
+        "title": "Anthem Anywhere",
+        "icon": "https://lh3.googleusercontent.com/EjlYSJesmeRljCqfSAamCJqcMZrF1YlxZWw9tncnTAmtGZRG7rQ8EWc8aYXAH4BS9mw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3589,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Anthem+%26+Affiliates",
+        "updated": "July 19, 2019",
+        "size": "34M",
+        "installs": "500,000+",
+        "current_version": "8.0.318",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Anthem & Affiliates",
+        "developer_email": "mobile_support@wellpoint.com",
+        "developer_url": "https://www.anthem.com/health-insurance/customer-care/care-overview",
+        "developer_address": "5800 Northampton Blvd\nNorfolk, VA 23502",
+        "app_id": "com.wellpoint.consumer.ABCBS",
+        "url": "https://play.google.com/store/apps/details?id=com.wellpoint.consumer.ABCBS&hl=en&gl=us"
+    },
+    {
+        "title": "Pregnancy Week By Week",
+        "icon": "https://lh3.googleusercontent.com/XEk53hEYWH6k7AlK7rlpPHDnUl3SE-Kz9kRHvYmVMSsrslb7gU97tx-oEKzGaRfLlQo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 148714,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5094777365301165062",
+        "updated": "July 10, 2019",
+        "size": "12M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.36",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$100.00"
+        ],
+        "interactive_elements": null,
+        "developer": "Amila",
+        "developer_email": "developers.amila@gmail.com",
+        "developer_url": "http://amila.io",
+        "developer_address": "203-119 Madison Ave S, Kitchener, ON N2G 3M4",
+        "app_id": "com.easymobs.pregnancy",
+        "url": "https://play.google.com/store/apps/details?id=com.easymobs.pregnancy&hl=en&gl=us"
+    },
+    {
+        "title": "OptumRx",
+        "icon": "https://lh3.googleusercontent.com/1Y2aOOQD6scAuKbU8LdBj3B2cRGvZwls3vRq8-Y90NupQ8KCjOnsOTLca4PWG98wVVc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4054,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Optum+Inc.",
+        "updated": "July 8, 2019",
+        "size": "43M",
+        "installs": "100,000+",
+        "current_version": "2.21.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Optum Inc.",
+        "developer_email": "ORxAppSupport@Optum.com",
+        "developer_url": "https://wem.optum.com/content/odin/en/optum/public/rx-contact-us.html",
+        "developer_address": null,
+        "app_id": "com.optum.rx",
+        "url": "https://play.google.com/store/apps/details?id=com.optum.rx&hl=en&gl=us"
+    },
+    {
+        "title": "Blood Donor",
+        "icon": "https://lh3.googleusercontent.com/k0lGoWfw-kMoOBIexkhqZUsqG21TcIRfBd1P3cOmoU8ru4Y1Xs9h6jJDCzCFAoDeiw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5669,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "American+Red+Cross",
+        "updated": "July 1, 2019",
+        "size": "19M",
+        "installs": "500,000+",
+        "current_version": "1.8.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "American Red Cross",
+        "developer_email": "customercare@redcross.org",
+        "developer_url": "http://www.redcross.org",
+        "developer_address": "2025 E Street, NW\nWashington, DC 2000",
+        "app_id": "com.cube.arc.blood",
+        "url": "https://play.google.com/store/apps/details?id=com.cube.arc.blood&hl=en&gl=us"
+    },
+    {
+        "title": "Doctor On Demand",
+        "icon": "https://lh3.googleusercontent.com/5K_-kBHMCajSv9wJuehOOBkIN687TIsR7kyYR_pxn8HK16SUZhkOLW4O8biaYqZRbQA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/VRA5RVGeRC8",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24726,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Doctor+On+Demand,+Inc",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "3.36.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Doctor On Demand, Inc",
+        "developer_email": "support@doctorondemand.com",
+        "developer_url": "http://www.doctorondemand.com/contact",
+        "developer_address": null,
+        "app_id": "com.doctorondemand.android.patient",
+        "url": "https://play.google.com/store/apps/details?id=com.doctorondemand.android.patient&hl=en&gl=us"
+    },
+    {
+        "title": "Zocdoc Find A Doctor & Book On Demand Appointments",
+        "icon": "https://lh3.googleusercontent.com/lyIVdhVXtXGKTSdH9sBy1ZvRcPCki0hMu_0T10AC8x22N5hvZ11lVSioe5pkf1FJYMg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/c0a9NjCiqJ0",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6641,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Zocdoc,+Inc.",
+        "updated": "July 18, 2019",
+        "size": "9.9M",
+        "installs": "500,000+",
+        "current_version": "3.31.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Zocdoc, Inc.",
+        "developer_email": "service@zocdoc.com",
+        "developer_url": "http://www.zocdoc.com",
+        "developer_address": null,
+        "app_id": "com.zocdoc.android",
+        "url": "https://play.google.com/store/apps/details?id=com.zocdoc.android&hl=en&gl=us"
+    },
+    {
+        "title": "RxSaver by RetailMeNot: Drug Coupons & Discounts",
+        "icon": "https://lh3.googleusercontent.com/1TsqtQ2HG7ZtM9y_d3yGo5srxSvFeIY3U1NQ53Fz3qVhXwLIc_ORzQpMcHh00HOI1A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2141,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RetailMeNot+Inc.",
+        "updated": "June 5, 2019",
+        "size": "6.6M",
+        "installs": "100,000+",
+        "current_version": "3.1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "RetailMeNot Inc.",
+        "developer_email": "support@rxsaver.com",
+        "developer_url": "https://rxsaver.retailmenot.com/",
+        "developer_address": null,
+        "app_id": "com.lowestmed.android",
+        "url": "https://play.google.com/store/apps/details?id=com.lowestmed.android&hl=en&gl=us"
+    },
+    {
+        "title": "PulsePoint Respond",
+        "icon": "https://lh3.googleusercontent.com/7_SMsQt34q_BgtRVZgx3f5GYqc8A0wnrMxdOQ15FbX6AVN58AMjLfAIWyVm2wN-ZgQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/S_1MVUc-aqc",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10967,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PulsePoint+Foundation",
+        "updated": "July 23, 2019",
+        "size": "13M",
+        "installs": "500,000+",
+        "current_version": "4.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PulsePoint Foundation",
+        "developer_email": "support@pulsepoint.org",
+        "developer_url": "https://www.pulsepoint.org",
+        "developer_address": null,
+        "app_id": "mobi.firedepartment",
+        "url": "https://play.google.com/store/apps/details?id=mobi.firedepartment&hl=en&gl=us"
+    },
+    {
+        "title": "Ovia Fertility: Ovulation & Period Tracker",
+        "icon": "https://lh3.googleusercontent.com/4svJ-FGhFLL2kg733QZQYGP021TADn2ok8JobQ8bAquWRxJnSKtIES3GTd6_GvYePAU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61222,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ovia+Health",
+        "updated": "July 2, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ovia Health",
+        "developer_email": "support@oviahealth.com",
+        "developer_url": "https://www.oviahealth.com",
+        "developer_address": null,
+        "app_id": "com.ovuline.fertility",
+        "url": "https://play.google.com/store/apps/details?id=com.ovuline.fertility&hl=en&gl=us"
+    },
+    {
+        "title": "1800 Contacts - Lens Store",
+        "icon": "https://lh3.googleusercontent.com/oIfmb-5toBR0zPRZxN4omzuaUQD2fCJx1QCoeZfTYrM4uLKN1I5orUgSFYPma9grQgc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25349,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "1-800+CONTACTS",
+        "updated": "July 19, 2019",
+        "size": "28M",
+        "installs": "1,000,000+",
+        "current_version": "8.3.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "1-800 CONTACTS",
+        "developer_email": "mobile.help@1800contacts.com",
+        "developer_url": "http://www.1800contacts.com",
+        "developer_address": null,
+        "app_id": "com.contacts1800.ecomapp",
+        "url": "https://play.google.com/store/apps/details?id=com.contacts1800.ecomapp&hl=en&gl=us"
+    },
+    {
+        "title": "FreeStyle LibreLink - US",
+        "icon": "https://lh3.googleusercontent.com/6WHg1eqWdF0Xj5p7UGoxBP5kkXkDfMG0xzO_GUsLTJBkX4hj_0Rdj58MnLA7oPh-Xg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 273,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Abbott+Diabetes+Care+Inc.",
+        "updated": "June 6, 2019",
+        "size": "26M",
+        "installs": "10,000+",
+        "current_version": "2.2.1",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Abbott Diabetes Care Inc.",
+        "developer_email": "support@abbottdiabetes.com",
+        "developer_url": "https://www.FreeStyleLibre.us",
+        "developer_address": null,
+        "app_id": "com.freestylelibre.app.us",
+        "url": "https://play.google.com/store/apps/details?id=com.freestylelibre.app.us&hl=en&gl=us"
+    },
+    {
+        "title": "OneTouch Reveal",
+        "icon": "https://lh3.googleusercontent.com/ce5k3aBNMdUT3xJhH3hhahVcVuJmV3LhsvtTQkvNd6-2NQCYD9VgG5nnbZE-vuoNICw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11771,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "LifeScan+Europe,+a+division+of+Cilag+GmbH+Intl.",
+        "updated": "July 10, 2019",
+        "size": "48M",
+        "installs": "1,000,000+",
+        "current_version": "4.3.1",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "LifeScan Europe, a division of Cilag GmbH Intl.",
+        "developer_email": "reveal@lifescan.com",
+        "developer_url": "https://onetouchreveal.com/mobile-privacy/",
+        "developer_address": "965 Chesterbrook Blvd.\nChesterbrook, PA 19087",
+        "app_id": "com.lifescan.reveal",
+        "url": "https://play.google.com/store/apps/details?id=com.lifescan.reveal&hl=en&gl=us"
+    },
+    {
+        "title": "My Calendar - Period Tracker",
+        "icon": "https://lh3.googleusercontent.com/gRCdQ0MFqqvvgmWD1M7JqktZh1ZUHBFbxWIZGcotIZpU8zW0Obcb_pErzWmALwIS44Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 205483,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6197543456908830701",
+        "updated": "December 23, 2018",
+        "size": "12M",
+        "installs": "5,000,000+",
+        "current_version": "6.1.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "SimpleInnovation",
+        "developer_email": "feedback@period-tracker.com",
+        "developer_url": "http://period-tracker.com",
+        "developer_address": "340 S LEMON AVE #3324\nWalnut, CA 91789",
+        "app_id": "com.lbrc.PeriodCalendar",
+        "url": "https://play.google.com/store/apps/details?id=com.lbrc.PeriodCalendar&hl=en&gl=us"
+    },
+    {
+        "title": "Delta Dental",
+        "icon": "https://lh3.googleusercontent.com/Wq4PPh6kWS9TvoQ_KUILO6WvAGQoKLGNiZyKfrXpbY2KhCt5F-3kK0iiI4OxHDWKDoM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1244,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Delta+Dental+Plans+Association",
+        "updated": "June 10, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "4.6.6",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Delta Dental Plans Association",
+        "developer_email": "support@deltadental.com",
+        "developer_url": "https://www.deltadental.com",
+        "developer_address": null,
+        "app_id": "com.deltadental.HealthApp",
+        "url": "https://play.google.com/store/apps/details?id=com.deltadental.HealthApp&hl=en&gl=us"
+    },
+    {
+        "title": "CVS Caremark",
+        "icon": "https://lh3.googleusercontent.com/SQADI2u-iNhz17WrfZ4t0r_5j_41DnmcSYq_0lwtkj2VdANF0y3tRHUGu_YLkjykfQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4632,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CVS+Caremark",
+        "updated": "July 19, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "4.57",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CVS Caremark",
+        "developer_email": "caremark.mobiledev@gmail.com",
+        "developer_url": "https://m.caremark.com",
+        "developer_address": null,
+        "app_id": "com.caremark.caremark",
+        "url": "https://play.google.com/store/apps/details?id=com.caremark.caremark&hl=en&gl=us"
+    },
+    {
+        "title": "MyQuest for Patients",
+        "icon": "https://lh3.googleusercontent.com/3WK1YAM7sVsOLTUH2Elj8OBKXC6cilBsYLOAr7WB_GT0I_475XjOKyYkcUBBbc0hgnw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4425,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Quest+Diagnostics+Incorporated",
+        "updated": "March 13, 2018",
+        "size": "16M",
+        "installs": "100,000+",
+        "current_version": "2.17",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Quest Diagnostics Incorporated",
+        "developer_email": "myquestsupport@questdiagnostics.com",
+        "developer_url": "https://myquest.questdiagnostics.com/",
+        "developer_address": null,
+        "app_id": "com.myquest",
+        "url": "https://play.google.com/store/apps/details?id=com.myquest&hl=en&gl=us"
+    },
+    {
+        "title": "Banfield Pet Hospital",
+        "icon": "https://lh3.googleusercontent.com/YQRvyfTb_C4eTMoQnR9olCUR3Z7pR8DO1-EZFDFpWLvQ7nhVIQIQsRzt7cg8_xroAYaf",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2244,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Banfield+Pet+Hospital",
+        "updated": "July 19, 2019",
+        "size": "40M",
+        "installs": "100,000+",
+        "current_version": "1.2.11",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Banfield Pet Hospital",
+        "developer_email": "BanfieldWebSupport@Banfield.com",
+        "developer_url": "http://www.banfield.com",
+        "developer_address": null,
+        "app_id": "com.banfield.bpht",
+        "url": "https://play.google.com/store/apps/details?id=com.banfield.bpht&hl=en&gl=us"
+    },
+    {
+        "title": "ScriptSave WellRx Rx Discounts",
+        "icon": "https://lh3.googleusercontent.com/9yNqY594wnIYtIZNGFFYbR3xmA5iefqkRKVr567UOTMpo9PBDjaVqEi6-1JCk5Vww3g",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/cW3UgWPNFro",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 854,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Medical+Security+Card+Company,+LLC.",
+        "updated": "June 27, 2019",
+        "size": "89M",
+        "installs": "100,000+",
+        "current_version": "3.7.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Medical Security Card Company, LLC.",
+        "developer_email": "customercare@wellrx.com",
+        "developer_url": "http://www.wellrx.pharmacy",
+        "developer_address": "4911 E Broadway Blvd\nTucson, AZ\n85711",
+        "app_id": "com.wellrx",
+        "url": "https://play.google.com/store/apps/details?id=com.wellrx&hl=en&gl=us"
+    },
+    {
+        "title": "Epocrates",
+        "icon": "https://lh3.googleusercontent.com/Dr5LRyCYoy76FWVaTXimpThKK2Cra6ypiHdX51n_jjRr5-TDq2qJVjrZv4cN_5cHd44",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xNnZfve9u1U",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24362,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Epocrates,+Inc.",
+        "updated": "July 16, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$16.99",
+            "$174.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Epocrates, Inc.",
+        "developer_email": "support@epocrates.com",
+        "developer_url": "http://www.epocrates.com",
+        "developer_address": "800 W Cesar Chavez St, Austin, TX 78701",
+        "app_id": "com.epocrates",
+        "url": "https://play.google.com/store/apps/details?id=com.epocrates&hl=en&gl=us"
+    },
+    {
+        "title": "mySugr - Diabetes App & Blood Sugar Tracker",
+        "icon": "https://lh3.googleusercontent.com/ENDrdMBpnUtPyCwdXO36nMEUJv3TMAVpOoEZnXLHtXZgEyUwLXHXno_Pb4FCXQLz9knq",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30183,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "mySugr+GmbH",
+        "updated": "July 15, 2019",
+        "size": "50M",
+        "installs": "1,000,000+",
+        "current_version": "3.61.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$27.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "mySugr GmbH",
+        "developer_email": "support@mysugr.com",
+        "developer_url": "http://mysugr.com/",
+        "developer_address": "Trattnerhof 1/5 OG\n1010 Vienna\nAustria",
+        "app_id": "com.mysugr.android.companion",
+        "url": "https://play.google.com/store/apps/details?id=com.mysugr.android.companion&hl=en&gl=us"
+    },
+    {
+        "title": "HealtheLife",
+        "icon": "https://lh3.googleusercontent.com/Vo2Mcv9nYNkSQxUkz0yH_bTKrbQ7oU2e27twu3epUIHvxJlL_TgiQd0z81a5ndoAWQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 515,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Cerner+Corporation",
+        "updated": "July 11, 2019",
+        "size": "9.8M",
+        "installs": "100,000+",
+        "current_version": "2.8.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Cerner Corporation",
+        "developer_email": "healthelife@cerner.com",
+        "developer_url": "http://www.cerner.com/",
+        "developer_address": null,
+        "app_id": "com.cerner.iris.play",
+        "url": "https://play.google.com/store/apps/details?id=com.cerner.iris.play&hl=en&gl=us"
+    },
+    {
+        "title": "ClearCareGo Caregiver",
+        "icon": "https://lh3.googleusercontent.com/RQ2ebtIsI2zoAuG-G-k1npEnUV4OUQyizOCzf_uyB-zDxeOQ5lMoznOEXT9g4wnKvw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5923,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ClearCare+Online,+Inc.",
+        "updated": "July 18, 2019",
+        "size": "15M",
+        "installs": "100,000+",
+        "current_version": "2.2.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ClearCare Online, Inc.",
+        "developer_email": "app@clearcareonline.com",
+        "developer_url": "http://www.clearcareonline.com",
+        "developer_address": null,
+        "app_id": "com.clearcare.clearcareconnect",
+        "url": "https://play.google.com/store/apps/details?id=com.clearcare.clearcareconnect&hl=en&gl=us"
+    },
+    {
+        "title": "WebMD: Check Symptoms, Find Doctors, & Rx Savings",
+        "icon": "https://lh3.googleusercontent.com/OZU0JcJOWc9Cq_D33HYZTo3hGF5P22A6KzCpte11WvKgfee0mktVnNWVWlhy7qT49SE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62693,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "WebMD,+LLC",
+        "updated": "July 17, 2019",
+        "size": "32M",
+        "installs": "5,000,000+",
+        "current_version": "6.13.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "WebMD, LLC",
+        "developer_email": "android@webmd.net",
+        "developer_url": "http://www.webmd.com",
+        "developer_address": null,
+        "app_id": "com.webmd.android",
+        "url": "https://play.google.com/store/apps/details?id=com.webmd.android&hl=en&gl=us"
+    },
+    {
+        "title": "Pregnancy Tracker: Baby Due Date Calculator",
+        "icon": "https://lh3.googleusercontent.com/I3SIB8Rg7osGkaoJBM85MXjjtVVo1Oft9AXPXnQFIBkN9NgqjdQ5vmxkTdkfMZ5Lmg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 130588,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Mobile+Dimension+LLC",
+        "updated": "July 19, 2019",
+        "size": "71M",
+        "installs": "1,000,000+",
+        "current_version": "2.7.11.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$3.49"
+        ],
+        "interactive_elements": null,
+        "developer": "Mobile Dimension LLC",
+        "developer_email": "help@pregnancytracker.app",
+        "developer_url": "http://www.pregnancytracker.app",
+        "developer_address": "105005 \u041c\u043e\u0441\u043a\u0432\u0430 \u0443\u043b \u0411\u0430\u0443\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u0434\u043e\u043c 7 \u0441\u0442\u04401",
+        "app_id": "ru.mobiledimension.kbr",
+        "url": "https://play.google.com/store/apps/details?id=ru.mobiledimension.kbr&hl=en&gl=us"
+    },
+    {
+        "title": "DreamMapper",
+        "icon": "https://lh3.googleusercontent.com/HruVJi5T9PncHRq0DPzdqjBBcxu4JBQN-ZZhGP2U_de_QSq8cjG6BnJRv9VJoMI_2Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15349,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Philips+Respironics",
+        "updated": "June 19, 2019",
+        "size": "9.2M",
+        "installs": "500,000+",
+        "current_version": "2.20",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Philips Respironics",
+        "developer_email": "dreammapper.support@philips.com",
+        "developer_url": "https://www.usa.philips.com/healthcare/solutions/sleep",
+        "developer_address": null,
+        "app_id": "com.philips.sleepmapper.root",
+        "url": "https://play.google.com/store/apps/details?id=com.philips.sleepmapper.root&hl=en&gl=us"
+    },
+    {
+        "title": "Pill Reminder & Medication Tracker - MyTherapy",
+        "icon": "https://lh3.googleusercontent.com/JBj8XfGyElODz2Dny91IpGy1sc1LFeUXwAyQTIepU9vpLebTn-x38QjPxWJznwOtgFNN",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Vdy0xR0u9HE",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33989,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MyTherapy+%F0%9F%92%8A%E2%8F%B0",
+        "updated": "June 24, 2019",
+        "size": "17M",
+        "installs": "1,000,000+",
+        "current_version": "3.53.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MyTherapy \ud83d\udc8a\u23f0",
+        "developer_email": "support@mytherapyapp.com",
+        "developer_url": "https://www.mytherapyapp.com",
+        "developer_address": null,
+        "app_id": "eu.smartpatient.mytherapy",
+        "url": "https://play.google.com/store/apps/details?id=eu.smartpatient.mytherapy&hl=en&gl=us"
+    },
+    {
+        "title": "Nurx - Birth Control and PrEP",
+        "icon": "https://lh3.googleusercontent.com/nG1HKVSEnIshApG9BV34y8mf3ZVyETq-xseIdeMVUP2laYP-RV67fW8zbIU1-ODTyA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 88,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Propel+Network",
+        "updated": "April 19, 2019",
+        "size": "3.0M",
+        "installs": "10,000+",
+        "current_version": "1.0.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Propel Network",
+        "developer_email": "support@nurx.co",
+        "developer_url": "https://www.nurx.com/",
+        "developer_address": "Propel Network LLC\n9450 SW Gemini Dr. #38105\nBeaverton OR 97008",
+        "app_id": "com.nurx",
+        "url": "https://play.google.com/store/apps/details?id=com.nurx&hl=en&gl=us"
+    },
+    {
+        "title": "Brilliant Distinctions\u00ae",
+        "icon": "https://lh3.googleusercontent.com/sQrgLZnJyk17ReSMv3rXNYF5sLtp6PPzHawFQMpiY-Oyl9DHuH-zcqElHo4c44H158E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 489,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Allergan,+Inc.",
+        "updated": "March 12, 2019",
+        "size": "50M",
+        "installs": "100,000+",
+        "current_version": "3.0.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Allergan, Inc.",
+        "developer_email": "healthehorizons@gmail.com",
+        "developer_url": "http://www.allergan.com",
+        "developer_address": null,
+        "app_id": "com.allergan.bd.bdmobileapp",
+        "url": "https://play.google.com/store/apps/details?id=com.allergan.bd.bdmobileapp&hl=en&gl=us"
+    },
+    {
+        "title": "Drugs.com Medication Guide",
+        "icon": "https://lh3.googleusercontent.com/hPbxJhnceggrITJpS-iqh-UDVqPWgWKIsQGBPL9AFnjSfKi9jm_VpOIvijhbupeO5A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18873,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Drugs.com",
+        "updated": "June 13, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Drugs.com",
+        "developer_email": "apps@drugs.com",
+        "developer_url": "https://www.drugs.com",
+        "developer_address": "P.O. Box 302-739\nNorth Harbour\nAuckland 0751\nNew Zealand",
+        "app_id": "com.drugscom.app",
+        "url": "https://play.google.com/store/apps/details?id=com.drugscom.app&hl=en&gl=us"
+    },
+    {
+        "title": "Castlight Mobile",
+        "icon": "https://lh3.googleusercontent.com/88xqKdwfgX-GihY7BeaeUtcAP7Wu58DQqiEhEjsfNRE2IKs7wvWTRLi62h2Rl-_Ccy1O",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1302,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Castlight+Health",
+        "updated": "June 15, 2019",
+        "size": "40M",
+        "installs": "100,000+",
+        "current_version": "5.2.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Castlight Health",
+        "developer_email": "support@castlighthealth.com",
+        "developer_url": "http://www.castlighthealth.com/",
+        "developer_address": null,
+        "app_id": "com.castlight.clh.view",
+        "url": "https://play.google.com/store/apps/details?id=com.castlight.clh.view&hl=en&gl=us"
+    },
+    {
+        "title": "Accredo",
+        "icon": "https://lh3.googleusercontent.com/ZQ_MeocMIaRPqJf23InJLtQs5GJajNeU_vMj2JSlObqyL8CfQvRSfeie2QD85e_UJ7yw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 113,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Accredo+Health+Group,+Inc",
+        "updated": "July 12, 2019",
+        "size": "9.6M",
+        "installs": "5,000+",
+        "current_version": "2.1.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Accredo Health Group, Inc",
+        "developer_email": "accredoapp@accredo.com",
+        "developer_url": "http://accredo.com",
+        "developer_address": null,
+        "app_id": "com.accredohealth.accredo",
+        "url": "https://play.google.com/store/apps/details?id=com.accredohealth.accredo&hl=en&gl=us"
+    },
+    {
+        "title": "LabCorp | Patient",
+        "icon": "https://lh3.googleusercontent.com/qBdjt3-_6BQQSoue3WshrPpw0HOuxFOowgF2RFumUJzxv1SEPQtkIHzlxReGGMEEWQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 166,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Laboratory+Corporation+of+America+Holdings/LabCorp",
+        "updated": "July 15, 2019",
+        "size": "33M",
+        "installs": "50,000+",
+        "current_version": "1.3.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Laboratory Corporation of America Holdings/LabCorp",
+        "developer_email": "PPProductTeam@Labcorp.com",
+        "developer_url": "https://www.labcorp.com",
+        "developer_address": null,
+        "app_id": "com.labcorp.patientportal",
+        "url": "https://play.google.com/store/apps/details?id=com.labcorp.patientportal&hl=en&gl=us"
+    },
+    {
+        "title": "Ada - Your Health Guide",
+        "icon": "https://lh3.googleusercontent.com/U9kSLw_2drEjEKcg4fJjZXkv5dGLZHUQvgX-A4EUZvwRGbl12ODLA0Xb9iHKR4IGaw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 190494,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ada+Health",
+        "updated": "July 23, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "2.45.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ada Health",
+        "developer_email": "hello@ada.com",
+        "developer_url": "http://www.ada.com",
+        "developer_address": "Ada Health GmbH\nKarl-Liebknecht-Stra\u00dfe 1\n10178 Berlin\nGermany",
+        "app_id": "com.ada.app",
+        "url": "https://play.google.com/store/apps/details?id=com.ada.app&hl=en&gl=us"
+    },
+    {
+        "title": "Xray Scanner",
+        "icon": "https://lh3.googleusercontent.com/udMsSIgZtUnIS-_RlsSN6qhugLYJloUyR2tmC1XPeQY0dIcaSaUSYVjMONxGWRvKeeK3",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 661,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "leovsstella",
+        "updated": "September 18, 2018",
+        "size": "16M",
+        "installs": "100,000+",
+        "current_version": "2.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "leovsstella",
+        "developer_email": "leo.jojo@msa.hinet.net",
+        "developer_url": "https://www.facebook.com/appslists?ref=ts&fref=ts",
+        "developer_address": "\u82d7\u6817\u5e02\u4e2d\u6b63\u8def1\u865f",
+        "app_id": "idv.stella.xray",
+        "url": "https://play.google.com/store/apps/details?id=idv.stella.xray&hl=en&gl=us"
+    },
+    {
+        "title": "NYU Langone Health",
+        "icon": "https://lh3.googleusercontent.com/WFMnXmnz47ObJwFo9299KvLK6SaRcQIcnF6THBtHPVw4vES2Lr_zaw175WpoRIyPz4LI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 331,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NYU+Langone+Health",
+        "updated": "July 22, 2019",
+        "size": "21M",
+        "installs": "50,000+",
+        "current_version": "1.9.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "NYU Langone Health",
+        "developer_email": "webteam@nyumc.org",
+        "developer_url": "http://www.nyulangone.org",
+        "developer_address": null,
+        "app_id": "org.nyulmc.clinical.mychart",
+        "url": "https://play.google.com/store/apps/details?id=org.nyulmc.clinical.mychart&hl=en&gl=us"
+    },
+    {
+        "title": "Doximity - Medical Network",
+        "icon": "https://lh3.googleusercontent.com/0y3Pa9DORqnG2lrV35tO3-pjnkYuhd2y31aR6tzDKMmJ96NDbHm5vGddNkAxpMkwAImE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1387,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6583053408641093772",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "50,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Doximity, Inc.",
+        "developer_email": "support@doximity.com",
+        "developer_url": "http://www.doximity.com",
+        "developer_address": null,
+        "app_id": "com.doximity.doximitydroid",
+        "url": "https://play.google.com/store/apps/details?id=com.doximity.doximitydroid&hl=en&gl=us"
+    },
+    {
+        "title": "Mayo Clinic",
+        "icon": "https://lh3.googleusercontent.com/jgTqCpc93Q4dqm5V2mrhQyS0J0ikyP0yB1t-ZxODRtCHVSC2IqMQGFwXu63HtHDCPw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4688,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mayo+Clinic",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mayo Clinic",
+        "developer_email": "mcmobileapps@mayo.edu",
+        "developer_url": "http://www.mayoclinic.org",
+        "developer_address": null,
+        "app_id": "com.mayoclinic.patient",
+        "url": "https://play.google.com/store/apps/details?id=com.mayoclinic.patient&hl=en&gl=us"
+    },
+    {
+        "title": "Hello Belly: Pregnancy Tracker and Baby Tips",
+        "icon": "https://lh3.googleusercontent.com/y6KqDiXM1xUv61SIQGsvJQVWgAZ2xDLUQhhiosdTrr28--v3vyVfbO9pJkT2VPorEpY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/aOE9tWViFnY",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1884,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8393270052415845608",
+        "updated": "July 24, 2019",
+        "size": "69M",
+        "installs": "100,000+",
+        "current_version": "2.8.28",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "HelloBaby Inc",
+        "developer_email": "hello@babyalbum.com",
+        "developer_url": "http://belly.babyalbum.com",
+        "developer_address": "855 Brannan St, San Francisco, California",
+        "app_id": "com.babyalbum.hellobelly",
+        "url": "https://play.google.com/store/apps/details?id=com.babyalbum.hellobelly&hl=en&gl=us"
+    },
+    {
+        "title": "Ovia Parenting: Baby Tracker, Breastfeeding Timer",
+        "icon": "https://lh3.googleusercontent.com/JNrc-UPzrYb5-0xhxnxVLhK7h5bk5hbervJH9EMPkuADKsj5GK6j3I4RWOXioc5bKg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8007,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ovia+Health",
+        "updated": "July 2, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Ovia Health",
+        "developer_email": "support@oviahealth.com",
+        "developer_url": "https://www.oviahealth.com",
+        "developer_address": null,
+        "app_id": "com.ovuline.parenting",
+        "url": "https://play.google.com/store/apps/details?id=com.ovuline.parenting&hl=en&gl=us"
+    },
+    {
+        "title": "Blood Pressure",
+        "icon": "https://lh3.googleusercontent.com/oBa5C_KwLO3x192VqLPDY36FXsoZ0h7nm1VuyXls-6L5UrjHzf1CXfpdgmuebJxlZ-M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38615,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5815239504306297457",
+        "updated": "July 24, 2019",
+        "size": "8.6M",
+        "installs": "5,000,000+",
+        "current_version": "4.4.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.39",
+            "$5.49"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Klimaszewski Szymon",
+        "developer_email": "myheart@klimaszewski.mobi",
+        "developer_url": "http://www.klimaszewski.mobi/help/introduction",
+        "developer_address": "Szymon Klimaszewski\nWita Stwosza 16\n50-148 Wroc\u0142aw",
+        "app_id": "com.szyk.myheart",
+        "url": "https://play.google.com/store/apps/details?id=com.szyk.myheart&hl=en&gl=us"
+    },
+    {
+        "title": "NRSNG - NCLEX Prep & Nursing",
+        "icon": "https://lh3.googleusercontent.com/-NrZx1_88Yy--aXlHULSGVmK5fJNaTCQ6QlNJ3jSCP32mXddZZgVBTb6wp8z1EwwGsuk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 367,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7981459689821211761",
+        "updated": "June 27, 2019",
+        "size": "5.2M",
+        "installs": "50,000+",
+        "current_version": "3.0.5a",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "NRSNG.com",
+        "developer_email": "contact@nrsng.com",
+        "developer_url": "https://www.nrsng.com",
+        "developer_address": "PO Box 933\nAllen, TX 75013",
+        "app_id": "com.nrsng.academygo",
+        "url": "https://play.google.com/store/apps/details?id=com.nrsng.academygo&hl=en&gl=us"
+    },
+    {
+        "title": "Planned Parenthood Direct\u2120",
+        "icon": "https://lh3.googleusercontent.com/Foo6_iSHQv-Uj6wI5KUr-QbGoIfvZRRFBZHhZY-L1Q7plqCzdrNLrHSEnUMDj9qWdTnH",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 147,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Planned+Parenthood+Federation+of+America",
+        "updated": "July 10, 2019",
+        "size": "49M",
+        "installs": "10,000+",
+        "current_version": "1.430",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Planned Parenthood Federation of America",
+        "developer_email": "franklin.rosado@ppfa.org",
+        "developer_url": "http://plannedparenthooddirect.org",
+        "developer_address": null,
+        "app_id": "com.ppfa.direct",
+        "url": "https://play.google.com/store/apps/details?id=com.ppfa.direct&hl=en&gl=us"
+    },
+    {
+        "title": "Baritastic - Bariatric Tracker",
+        "icon": "https://lh3.googleusercontent.com/fsOUV3d5SglrO0g0oF_Y1i1XnnNfEgFBhhjbrbDDA0fjreLB07yz18-huXnsWRz2GmI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/CsFvsC8NJ8U",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7629,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "BariApps",
+        "updated": "April 24, 2019",
+        "size": "13M",
+        "installs": "100,000+",
+        "current_version": "1.3.227",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "BariApps",
+        "developer_email": "info@bariapps.com",
+        "developer_url": "http://www.bariapps.com",
+        "developer_address": null,
+        "app_id": "com.baritastic.view",
+        "url": "https://play.google.com/store/apps/details?id=com.baritastic.view&hl=en&gl=us"
+    },
+    {
+        "title": "MDLIVE: Talk to a Doctor 24/7",
+        "icon": "https://lh3.googleusercontent.com/GCHwksatV4CC4fa1wUoueJIfuVVWq0nqHVgyYhEnjilJCa35bKaMBA6FuDFJgje0aBw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 875,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MDLIVE+Inc",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "MDLIVE Inc",
+        "developer_email": "androidsupport@mdlive.com",
+        "developer_url": "http://www.mdlive.com",
+        "developer_address": null,
+        "app_id": "com.mdlive.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.mdlive.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Phonak Remote",
+        "icon": "https://lh3.googleusercontent.com/ibZmIsy5cAgvXAv5XuxuTRBe4kDH908RgqogJBFCeB9RS7SR1UZnFbE0cxpkFB6uicE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 595,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sonova+AG",
+        "updated": "March 18, 2019",
+        "size": "11M",
+        "installs": "100,000+",
+        "current_version": "2.1.2",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sonova AG",
+        "developer_email": "apps@sonova.com",
+        "developer_url": "https://www.phonak.com/us/en/hearing-aids/apps/phonak-remote-app.html",
+        "developer_address": "Laubisruetistrasse 28\nCH-8712 Staefa\nSwitzerland",
+        "app_id": "com.sonova.phonak.rcapp",
+        "url": "https://play.google.com/store/apps/details?id=com.sonova.phonak.rcapp&hl=en&gl=us"
+    },
+    {
+        "title": "MyUPMC",
+        "icon": "https://lh3.googleusercontent.com/vAyEWarNkknl4VFsft8OvXyZegyNCoFi7MTtDGr3aEZJj7UI2ynZ-USzYAGa3VibTuBP",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 251,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "UPMC",
+        "updated": "July 11, 2019",
+        "size": "39M",
+        "installs": "50,000+",
+        "current_version": "2.5.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "UPMC",
+        "developer_email": "MyUPMC_Feedback@upmc.edu",
+        "developer_url": "https://myupmc.upmc.com",
+        "developer_address": null,
+        "app_id": "com.upmc.enterprises.myupmc",
+        "url": "https://play.google.com/store/apps/details?id=com.upmc.enterprises.myupmc&hl=en&gl=us"
+    },
+    {
+        "title": "Contractions",
+        "icon": "https://lh3.googleusercontent.com/v7mES4Ln8eVK3GA5z6I_Q_KsF4utOb-VtKhMWYvJablbER3qf2yeN5_vQnmedA-HvHqV",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1354,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5094777365301165062",
+        "updated": "June 15, 2019",
+        "size": "3.1M",
+        "installs": "100,000+",
+        "current_version": "1.1.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Amila",
+        "developer_email": "developers.amila@gmail.com",
+        "developer_url": "https://amila.io/apps/contractions/privacy.html",
+        "developer_address": "203-119 Madison Ave S, Kitchener, ON N2G 3M4",
+        "app_id": "com.amila.contractioncounter",
+        "url": "https://play.google.com/store/apps/details?id=com.amila.contractioncounter&hl=en&gl=us"
+    },
+    {
+        "title": "LiveHealth Online Mobile",
+        "icon": "https://lh3.googleusercontent.com/d3ghf8w7Y9H6-wnvou7N4L5liVjiSkz55WThEq_cXJuWDv1i7cJmt734c5J8y_yDgCs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2464,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "American+Well",
+        "updated": "July 15, 2019",
+        "size": "46M",
+        "installs": "100,000+",
+        "current_version": "11.3.5.000_00",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "American Well",
+        "developer_email": "help@livehealthonline.com",
+        "developer_url": "http://www.livehealthonline.com",
+        "developer_address": null,
+        "app_id": "com.americanwell.android.member.wellpoint",
+        "url": "https://play.google.com/store/apps/details?id=com.americanwell.android.member.wellpoint&hl=en&gl=us"
+    },
+    {
+        "title": "GoodRx Gold - Pharmacy Discount Card",
+        "icon": "https://lh3.googleusercontent.com/oXx69PNsoZJH4XpYSDWahjfBkr1_voz5DrQ1w_LqCuQ7V-GfBYO_KF-4ettwMr916zjn",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 85,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GoodRx",
+        "updated": "July 5, 2017",
+        "size": "1.4M",
+        "installs": "50,000+",
+        "current_version": "1.0.1",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GoodRx",
+        "developer_email": "android@goodrx.com",
+        "developer_url": "https://gold.goodrx.com",
+        "developer_address": null,
+        "app_id": "com.goodrx.gold",
+        "url": "https://play.google.com/store/apps/details?id=com.goodrx.gold&hl=en&gl=us"
+    },
+    {
+        "title": "Dexcom G6",
+        "icon": "https://lh3.googleusercontent.com/MOqvFbzCQR7nz8B8dLFN8zmXG_GivIYS_TIU6EHzTAxFHS2fzfsh8xowb1oP7o8Ptgfi",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1141,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Dexcom",
+        "updated": "May 13, 2019",
+        "size": "21M",
+        "installs": "50,000+",
+        "current_version": "1.4.1.1",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Dexcom",
+        "developer_email": "appsupport@dexcom.com",
+        "developer_url": "http://www.dexcom.com/support",
+        "developer_address": null,
+        "app_id": "com.dexcom.g6",
+        "url": "https://play.google.com/store/apps/details?id=com.dexcom.g6&hl=en&gl=us"
+    },
+    {
+        "title": "Blood Pressure Checker Diary : BP Info History Log",
+        "icon": "https://lh3.googleusercontent.com/tt4s1-1SJYDPNqVTYbJxRV8NlM3R480Ttc4M7YirS5pcnkv55Brnq6Q9RrUbGXvcUkYX",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1417,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Free+App+Arena",
+        "updated": "March 13, 2019",
+        "size": "6.9M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Free App Arena",
+        "developer_email": "mahadjuttt@gmail.com",
+        "developer_url": "https://sites.google.com/view/freeapparena",
+        "developer_address": null,
+        "app_id": "com.hypertensionDiary.DailyBloodPressureTracker",
+        "url": "https://play.google.com/store/apps/details?id=com.hypertensionDiary.DailyBloodPressureTracker&hl=en&gl=us"
+    },
+    {
+        "title": "Full Code - Emergency Medicine Simulation",
+        "icon": "https://lh3.googleusercontent.com/xkvyAiufrdp2mCrKcYv_6foihuOq7Q07mdAyvgJljOID02uCDTSuu_hhfQwbCD8VJg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 263,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Minerva+Medical+Simulation,+Inc.",
+        "updated": "July 20, 2019",
+        "size": "69M",
+        "installs": "10,000+",
+        "current_version": "2.2",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$95.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Minerva Medical Simulation, Inc.",
+        "developer_email": "contact@minerva-medical.com",
+        "developer_url": "https://full-code.com",
+        "developer_address": "8 Faneuil Hall Marketplace\n3rd Floor\nBoston, MA 02109",
+        "app_id": "com.minerva_medical.minerva",
+        "url": "https://play.google.com/store/apps/details?id=com.minerva_medical.minerva&hl=en&gl=us"
+    },
+    {
+        "title": "KrogerRxSC",
+        "icon": "https://lh3.googleusercontent.com/mVgt3TlVCqZbjXQlvZ75Kxt2GNVqwXqvkE_POoDRZRsH9334jM5G9GjXDH6Mke3KcQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 69,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GoodRx",
+        "updated": "August 15, 2018",
+        "size": "1.4M",
+        "installs": "50,000+",
+        "current_version": "1.0.1",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GoodRx",
+        "developer_email": "android@goodrx.com",
+        "developer_url": "https://www.krogersc.com/",
+        "developer_address": null,
+        "app_id": "com.goodrx.krogerrxsc",
+        "url": "https://play.google.com/store/apps/details?id=com.goodrx.krogerrxsc&hl=en&gl=us"
+    },
+    {
+        "title": "Patient Portal",
+        "icon": "https://lh3.googleusercontent.com/DiPLCeUSc9S8uLuJ3s0rkX4a_kGt8XEjGsQZBIxbhlZBaIk_G9vGQIxT0swdVD3GLg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 120,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NextGen+Healthcare",
+        "updated": "October 25, 2016",
+        "size": "1.2M",
+        "installs": "50,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "NextGen Healthcare",
+        "developer_email": "webteam@nextgen.com",
+        "developer_url": "https://www.nextgen.com/",
+        "developer_address": null,
+        "app_id": "com.nextmd.nextgenpp",
+        "url": "https://play.google.com/store/apps/details?id=com.nextmd.nextgenpp&hl=en&gl=us"
+    },
+    {
+        "title": "BCBSM",
+        "icon": "https://lh3.googleusercontent.com/bltt-5_7Hhcm8mCXF9g_m-tigBOigmXJ3P2VFlEOM6AoxtosXAm-vdVYP8Lzw-9P6Uc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 416,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Blue+Cross+and+Blue+Shield+of+Michigan",
+        "updated": "May 20, 2019",
+        "size": "49M",
+        "installs": "100,000+",
+        "current_version": "4.2.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Blue Cross and Blue Shield of Michigan",
+        "developer_email": "mobileapp@bcbsm.com",
+        "developer_url": "http://bcbsm.com/appsupport",
+        "developer_address": null,
+        "app_id": "com.bcbsm.mmaprod",
+        "url": "https://play.google.com/store/apps/details?id=com.bcbsm.mmaprod&hl=en&gl=us"
+    },
+    {
+        "title": "ReSound Smart 3D",
+        "icon": "https://lh3.googleusercontent.com/Q2tAnPXJO3JzyrMUSAsf12hQy5TbgJPjbiL46SddS6Rjfbue6L0XYCuthbsxTIpKo84",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1147,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GN+Resound",
+        "updated": "March 20, 2019",
+        "size": "81M",
+        "installs": "100,000+",
+        "current_version": "1.4.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GN Resound",
+        "developer_email": "appsupport@resound.com",
+        "developer_url": "http://www.gnresound.com",
+        "developer_address": "GN ReSound A/S\nLautrupbjerg 7\nDK-2750 Ballerup\nDenmark",
+        "app_id": "dk.resound.smart3d",
+        "url": "https://play.google.com/store/apps/details?id=dk.resound.smart3d&hl=en&gl=us"
+    },
+    {
+        "title": "BCBSTX",
+        "icon": "https://lh3.googleusercontent.com/np0kcVUalA8ZThsryx4_-2GoKtY4r6asKCcdCx4aUtTIjVAu3olMeMqCJ7GoIZCG8g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 968,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Blue+Cross+and+Blue+Shield+of+Texas",
+        "updated": "July 18, 2019",
+        "size": "16M",
+        "installs": "100,000+",
+        "current_version": "4.10.2",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Blue Cross and Blue Shield of Texas",
+        "developer_email": "appfeedback@bcbstx.com",
+        "developer_url": "http://www.bcbstx.com/mobile",
+        "developer_address": null,
+        "app_id": "com.hcsc.android.providerfindertx",
+        "url": "https://play.google.com/store/apps/details?id=com.hcsc.android.providerfindertx&hl=en&gl=us"
+    },
+    {
+        "title": "Migraine Buddy - The Migraine and Headache tracker",
+        "icon": "https://lh3.googleusercontent.com/tYmZiUStfQbczkaaoqMSkvGB8WrNVrD3fssJpwqKrW03EmUnsFRd5DaFccYuHvxk99Lj",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33625,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Healint",
+        "updated": "June 17, 2019",
+        "size": "33M",
+        "installs": "1,000,000+",
+        "current_version": "29.2.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Healint",
+        "developer_email": "jenny@healint.com",
+        "developer_url": "http://www.migrainebuddy.com",
+        "developer_address": "#02-01, 100 Pasir Panjang Road\n118518 Singapore",
+        "app_id": "com.healint.migraineapp",
+        "url": "https://play.google.com/store/apps/details?id=com.healint.migraineapp&hl=en&gl=us"
+    },
+    {
+        "title": "Amwell: Doctor Visits 24/7",
+        "icon": "https://lh3.googleusercontent.com/zcWp62gzxZraOtPG2cSCsFTALxCpzVIyyw3WPTIrgY3LQ6pq3hFiySTuwWsQbiY51Qah",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/CfAhcbx9d9E",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6558,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "American+Well",
+        "updated": "July 24, 2019",
+        "size": "61M",
+        "installs": "500,000+",
+        "current_version": "11.4.2.000_00",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "American Well",
+        "developer_email": "mobileapp.contact@americanwell.com",
+        "developer_url": "http://www.americanwell.com",
+        "developer_address": null,
+        "app_id": "com.americanwell.android.member.amwell",
+        "url": "https://play.google.com/store/apps/details?id=com.americanwell.android.member.amwell&hl=en&gl=us"
+    },
+    {
+        "title": "Imprivata ID",
+        "icon": "https://lh3.googleusercontent.com/ZjbD6uPtbyQFnqq-z7bX9eu9kkvNTpKag5GlnBosd0tTxfJaDdnh22J7olpEBcOLrPT_",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "1.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 110,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Imprivata,+Inc",
+        "updated": "March 14, 2019",
+        "size": "5.8M",
+        "installs": "50,000+",
+        "current_version": "6.2.0.100",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Imprivata, Inc",
+        "developer_email": "support@imprivata.com",
+        "developer_url": "http://www.imprivata.com/imprivata-confirm-id",
+        "developer_address": null,
+        "app_id": "com.imprivata.imprivataid",
+        "url": "https://play.google.com/store/apps/details?id=com.imprivata.imprivataid&hl=en&gl=us"
+    },
+    {
+        "title": "MEDITECH MHealth",
+        "icon": "https://lh3.googleusercontent.com/kU0vh9LranjWIJueejpyyklJNLlGt6Qc64fF0w0tZlNXMsllOy-wtRD85TSsUwZamZ4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/mCXVUIXWyHI",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 100,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Medical+Information+Technology,+Inc.",
+        "updated": "March 18, 2019",
+        "size": "3.1M",
+        "installs": "50,000+",
+        "current_version": "1.9.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Medical Information Technology, Inc.",
+        "developer_email": "android-developer-group@meditech.com",
+        "developer_url": "https://home.meditech.com/en/d/mobileappssupport/pages/mhealthsupport.htm",
+        "developer_address": null,
+        "app_id": "com.meditech.PatientPhm",
+        "url": "https://play.google.com/store/apps/details?id=com.meditech.PatientPhm&hl=en&gl=us"
+    },
+    {
+        "title": "EASE Applications Messaging",
+        "icon": "https://lh3.googleusercontent.com/DzF72q7ebLvdMFHrqNjQZo1qJSQgrg42a1phD9IB9XJY0kzDmQMiP0JQ5WRc65y_GD4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/-No2YAeQte4",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 172,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "EASE+Applications%E2%84%A2",
+        "updated": "January 2, 2019",
+        "size": "54M",
+        "installs": "50,000+",
+        "current_version": "5.0.6",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "EASE Applications\u2122",
+        "developer_email": "support@easeapplications.com",
+        "developer_url": "http://www.easeapplications.com",
+        "developer_address": "3660 Maguire Blvd Suite 200 Orlando, Florida 32803",
+        "app_id": "com.easeapplications.receiver",
+        "url": "https://play.google.com/store/apps/details?id=com.easeapplications.receiver&hl=en&gl=us"
+    },
+    {
+        "title": "BD Diabetes Care:  24/7 Diabetes Assistant & Log",
+        "icon": "https://lh3.googleusercontent.com/6c4P6EzSnr1ZK1Af1nS1MLW8YXGsr0l1HddT52uLb06amjW9d68KAyaoY5Lpr65VDB63",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "BD+-+Digital+Health",
+        "updated": "June 5, 2019",
+        "size": "59M",
+        "installs": "10,000+",
+        "current_version": "1.13.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "BD - Digital Health",
+        "developer_email": "BDBriight@bd.com",
+        "developer_url": "https://www.bd.com/dcapp",
+        "developer_address": null,
+        "app_id": "com.bd.dh.briight",
+        "url": "https://play.google.com/store/apps/details?id=com.bd.dh.briight&hl=en&gl=us"
+    },
+    {
+        "title": "VitusVet: Pet Health Care App",
+        "icon": "https://lh3.googleusercontent.com/cjjPwlebtwaTeon7Htu2mownT5hj3DAlW9-Axl5F2fKUAAyEqpWEeDQDbBDyEmthfg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Q9UEYYXCY2Y",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5046,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "VitusVet",
+        "updated": "June 7, 2019",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "3.9.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "VitusVet",
+        "developer_email": "support@vitusvet.com",
+        "developer_url": "http://www.vitusvet.com",
+        "developer_address": "9250 Bendix Rd\nColumbia MD 21045",
+        "app_id": "com.vitusvet.android",
+        "url": "https://play.google.com/store/apps/details?id=com.vitusvet.android&hl=en&gl=us"
+    },
+    {
+        "title": "myVCA",
+        "icon": "https://lh3.googleusercontent.com/MV1Wbqtb2ZNX9CK0yUOtImzDqSPnUhfTIbMCCwOapMTtq4K70wP_8yekV7Ginoimd7M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 383,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "VCA,+Inc.",
+        "updated": "June 27, 2019",
+        "size": "Varies with device",
+        "installs": "50,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "VCA, Inc.",
+        "developer_email": "myVCAhelp@vca.com",
+        "developer_url": "https://vcahospitals.com/vca-care-club",
+        "developer_address": null,
+        "app_id": "com.vca.careclub",
+        "url": "https://play.google.com/store/apps/details?id=com.vca.careclub&hl=en&gl=us"
+    },
+    {
+        "title": "BP Journal - Blood Pressure Diary",
+        "icon": "https://lh3.googleusercontent.com/yAkqvbQo_apkEJJXW-uYs6p2w6W4Wm8jh6ybG61Vog05_quujLlwletnVj_J4oSzHqrN",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/nrrh6Ulk0WY",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1530,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Jason+O",
+        "updated": "July 25, 2019",
+        "size": "29M",
+        "installs": "50,000+",
+        "current_version": "1.1.11",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Jason O",
+        "developer_email": "support@portalgroove.com",
+        "developer_url": "http://bp-journal.firebaseapp.com",
+        "developer_address": "Kuala Lumpur, Malaysia",
+        "app_id": "com.portalgroove.bpjournal",
+        "url": "https://play.google.com/store/apps/details?id=com.portalgroove.bpjournal&hl=en&gl=us"
+    },
+    {
+        "title": "Publix Pharmacy",
+        "icon": "https://lh3.googleusercontent.com/FqkrZvOUZGNneID-hrYs8WllAHC1fwuFxTbDzLTYCAz4BMneS5uDJmFsWtW1CSA7kkg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/b2LZkWQRBcE",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 510,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9080371205220331041",
+        "updated": "June 11, 2019",
+        "size": "37M",
+        "installs": "100,000+",
+        "current_version": "2.3.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Publix Super Markets Inc.",
+        "developer_email": "webadmin@publix.com",
+        "developer_url": "https://corporate.publix.com/contact",
+        "developer_address": null,
+        "app_id": "com.publix.pharmacyonline",
+        "url": "https://play.google.com/store/apps/details?id=com.publix.pharmacyonline&hl=en&gl=us"
+    },
+    {
+        "title": "Blink Health Rx - Best Discount Pharmacy Prices",
+        "icon": "https://lh3.googleusercontent.com/WKR4zGro37wUmmFM-r73d82IJ6rroZRALtfPwsrg7pZ2HsBlAlrnjHXDseQsNKH91A",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/7eCdMdH0bQE",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7917,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Blink+Health",
+        "updated": "June 20, 2019",
+        "size": "29M",
+        "installs": "100,000+",
+        "current_version": "2.0.65",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Blink Health",
+        "developer_email": "info@blinkhealth.com",
+        "developer_url": "http://www.blinkhealth.com",
+        "developer_address": null,
+        "app_id": "com.blinkhealth.blinkandroid",
+        "url": "https://play.google.com/store/apps/details?id=com.blinkhealth.blinkandroid&hl=en&gl=us"
+    },
+    {
+        "title": "PetPage",
+        "icon": "https://lh3.googleusercontent.com/3DtAk6rZnLdKHFwdplCgkJiJ0QR0rPfgwO4fUnOk1K0ST4u0xGbx1xqCHU0j-UD-lEgI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 125,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AllyDVM",
+        "updated": "May 1, 2019",
+        "size": "3.3M",
+        "installs": "50,000+",
+        "current_version": "1.15.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "AllyDVM",
+        "developer_email": "support@allydvm.com",
+        "developer_url": "http://www.allydvm.com",
+        "developer_address": null,
+        "app_id": "com.allydvm.comet",
+        "url": "https://play.google.com/store/apps/details?id=com.allydvm.comet&hl=en&gl=us"
+    },
+    {
+        "title": "Sutter Health My Health Online",
+        "icon": "https://lh3.googleusercontent.com/8_CQ-uwSwCO1tzLX0kiQpO_blmRFKhVvuoZB3OyBnUNHRiPKfWqONqah4oeirCnwbOA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Pqdm28Rh3TY",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 340,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sutter+Health",
+        "updated": "April 25, 2019",
+        "size": "39M",
+        "installs": "100,000+",
+        "current_version": "8.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Sutter Health",
+        "developer_email": "webmaster@sutterhealth.org",
+        "developer_url": "http://sutterhealth.org",
+        "developer_address": null,
+        "app_id": "org.sutterhealth.myhealthonline",
+        "url": "https://play.google.com/store/apps/details?id=org.sutterhealth.myhealthonline&hl=en&gl=us"
+    },
+    {
+        "title": "TigerConnect - Clinical Solutions",
+        "icon": "https://lh3.googleusercontent.com/ZiHYOU70OrBSPYIKVW5OilChbzC9ehzOX3kqyOUygsXxMDr2zTNal01VWv1tRegbeg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4934,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TigerText,+Inc.",
+        "updated": "July 25, 2019",
+        "size": "49M",
+        "installs": "500,000+",
+        "current_version": "8.5.679",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "TigerText, Inc.",
+        "developer_email": "prosupport@tigerconnect.com",
+        "developer_url": "http://www.tigerconnect.com",
+        "developer_address": null,
+        "app_id": "com.tigertext",
+        "url": "https://play.google.com/store/apps/details?id=com.tigertext&hl=en&gl=us"
+    },
+    {
+        "title": "Blood Pressure Log - MyDiary",
+        "icon": "https://lh3.googleusercontent.com/AyLm-_TpO1GOAmi5AKQnILsCXvh1cacumnumYW6WMzOgQT956K_SX3uPEcrGe4E6oDQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10633,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Dr+Tomasz+Jan+Zlamaniec",
+        "updated": "January 24, 2019",
+        "size": "4.4M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.3",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Dr Tomasz Jan Zlamaniec",
+        "developer_email": "info@mydiary-bloodpressure.com",
+        "developer_url": "http://mydiary-bloodpressure.com/",
+        "developer_address": "30 St Lukes Court\nHatfield, AL10 0FD\nUnited Kingdom",
+        "app_id": "com.zlamanit.blood.pressure",
+        "url": "https://play.google.com/store/apps/details?id=com.zlamanit.blood.pressure&hl=en&gl=us"
+    },
+    {
+        "title": "UpToDate for Android",
+        "icon": "https://lh3.googleusercontent.com/3wd1KjbgZpmS6ya09i62jvkRzRXPoEGWSMldomWiUbiNfEecTtBi-ZO2tbv_cdo9Rdg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6806,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wolters+Kluwer+Health+%7C+UpToDate",
+        "updated": "June 3, 2019",
+        "size": "5.4M",
+        "installs": "1,000,000+",
+        "current_version": "3.14.1-6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Wolters Kluwer Health | UpToDate",
+        "developer_email": "support@uptodate.com",
+        "developer_url": "http://www.uptodate.com/home/uptodate-mobile-access",
+        "developer_address": null,
+        "app_id": "com.uptodate.android",
+        "url": "https://play.google.com/store/apps/details?id=com.uptodate.android&hl=en&gl=us"
+    },
+    {
+        "title": "Pill Reminder & Medication Tracker - Medisafe",
+        "icon": "https://lh3.googleusercontent.com/vD1dTDEFNEiPJBdwUnz3WS2sVKFwXQevwOc7X2O73q1qyHZJPJyatKXrHEb-br6HPSM",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/4S8mBD38YYU",
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 187850,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4633965556977420998",
+        "updated": "July 23, 2019",
+        "size": "53M",
+        "installs": "1,000,000+",
+        "current_version": "8.60.08120",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Medisafe\u00ae \ud83d\udc8a\u23f0",
+        "developer_email": "support@medisafe.com",
+        "developer_url": "https://www.medisafeapp.com/",
+        "developer_address": "364 Boylston St, Boston, MA, 02116\n(888) 289-5236",
+        "app_id": "com.medisafe.android.client",
+        "url": "https://play.google.com/store/apps/details?id=com.medisafe.android.client&hl=en&gl=us"
+    },
+    {
+        "title": "BCBSIL",
+        "icon": "https://lh3.googleusercontent.com/4KFQY0Nfpow-KohHKs_4yKAMnKwHb8MM2aA85g5_IziTtXHPuHxeYWaqvNOfnbznBpM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 854,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Blue+Cross+and+Blue+Shield+of+Illinois",
+        "updated": "July 18, 2019",
+        "size": "16M",
+        "installs": "100,000+",
+        "current_version": "4.10.2",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Blue Cross and Blue Shield of Illinois",
+        "developer_email": "appfeedback@bcbsil.com",
+        "developer_url": "http://www.bcbsil.com/mobile",
+        "developer_address": null,
+        "app_id": "com.hcsc.android.providerfinderil",
+        "url": "https://play.google.com/store/apps/details?id=com.hcsc.android.providerfinderil&hl=en&gl=us"
+    },
+    {
+        "title": "Medscape",
+        "icon": "https://lh3.googleusercontent.com/DHsn5m0iPY9OHap91ig9bfcf6oR2APnPhSK_t-lO15pysHSenLtfsl0BVSbufmLelrLh",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 53869,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "WebMD,+LLC",
+        "updated": "July 22, 2019",
+        "size": "35M",
+        "installs": "5,000,000+",
+        "current_version": "6.2.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "WebMD, LLC",
+        "developer_email": "MedscapeMemberServices@webmd.net",
+        "developer_url": "http://www.medscape.com",
+        "developer_address": null,
+        "app_id": "com.medscape.android",
+        "url": "https://play.google.com/store/apps/details?id=com.medscape.android&hl=en&gl=us"
+    },
+    {
+        "title": "Blood Pressure Diary",
+        "icon": "https://lh3.googleusercontent.com/sbffPS9L1t2yQqzEor-3mhrHQYMWWDlwTlp3n0zS3uaswD7fmaqSX-bHhmrDBxJ1m8Sy",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9225,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Health+%26+Fitness+AI+Lab",
+        "updated": "February 8, 2019",
+        "size": "2.1M",
+        "installs": "100,000+",
+        "current_version": "0.1.13",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Health & Fitness AI Lab",
+        "developer_email": "bluefish12390@gmail.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "com.bluefish.bloodpressure",
+        "url": "https://play.google.com/store/apps/details?id=com.bluefish.bloodpressure&hl=en&gl=us"
+    },
+    {
+        "title": "Oticon ON",
+        "icon": "https://lh3.googleusercontent.com/FJjTiIEBGr7QWSkvIKGWdWJPaDIZOdr9CkPWtXepFEil3CHKJ4cqPrQ9fQigbHLEv1SA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "2.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1483,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Oticon+A/S",
+        "updated": "February 22, 2019",
+        "size": "21M",
+        "installs": "100,000+",
+        "current_version": "1.10.0(6582)",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Oticon A/S",
+        "developer_email": "contact-us@oticon.com",
+        "developer_url": "http://www.oticon.global",
+        "developer_address": null,
+        "app_id": "com.oticon.remotecontrol",
+        "url": "https://play.google.com/store/apps/details?id=com.oticon.remotecontrol&hl=en&gl=us"
+    },
+    {
+        "title": "Body Temperature Check : Thermometer Fever Tracker",
+        "icon": "https://lh3.googleusercontent.com/LV37OrBKVJqb8KNOyD95fzvQKgm0qgvIUaJiFZn4azJ5CjKlEu30cJ4jH5tcDhOWvA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 217,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Evolution+Cause+Apps",
+        "updated": "June 29, 2019",
+        "size": "7.2M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Evolution Cause Apps",
+        "developer_email": "evolutioncauseapps@gmail.com",
+        "developer_url": "https://sites.google.com/view/evolutioncauseapps/home",
+        "developer_address": null,
+        "app_id": "com.bodytemperaturechecker.loggertrackerdiary",
+        "url": "https://play.google.com/store/apps/details?id=com.bodytemperaturechecker.loggertrackerdiary&hl=en&gl=us"
+    },
+    {
+        "title": "MDCalc Medical Calculator",
+        "icon": "https://lh3.googleusercontent.com/yNDRYk9DVQw7lt-6zp325yP_K0P0lvDu65QzaqZeVi6EtS1EHlPnWMOJ6dwxQu2nO0s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1159,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MD+Aware,+LLC",
+        "updated": "May 22, 2019",
+        "size": "52M",
+        "installs": "100,000+",
+        "current_version": "1.0.23",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MD Aware, LLC",
+        "developer_email": "team@mdcalc.com",
+        "developer_url": "https://www.mdcalc.com/",
+        "developer_address": null,
+        "app_id": "com.mdaware.mdcalc",
+        "url": "https://play.google.com/store/apps/details?id=com.mdaware.mdcalc&hl=en&gl=us"
+    },
+    {
+        "title": "Dexcom Follow",
+        "icon": "https://lh3.googleusercontent.com/Paynv8bnFIEkl8qxkAtlmedLRXkZcQS7cWU7MI2zGUiU9z86i6kZXl7njR_HrqcHRfEP",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1223,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Dexcom",
+        "updated": "May 15, 2019",
+        "size": "18M",
+        "installs": "100,000+",
+        "current_version": "4.0.2.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Dexcom",
+        "developer_email": "appsupport@dexcom.com",
+        "developer_url": "http://www.dexcom.com/customer-care/contact-us",
+        "developer_address": null,
+        "app_id": "com.dexcom.follow",
+        "url": "https://play.google.com/store/apps/details?id=com.dexcom.follow&hl=en&gl=us"
+    },
+    {
+        "title": "BCBSM Online Visits",
+        "icon": "https://lh3.googleusercontent.com/D0Gd2jWDDfgvxlKibkbIbTEuj_07vGXkKK2stZLbEyq4bfJc_ZsUewsmwQAgrvJrndYF",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 541,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Blue+Cross+and+Blue+Shield+of+Michigan",
+        "updated": "July 19, 2019",
+        "size": "49M",
+        "installs": "10,000+",
+        "current_version": "11.3.5.000_00",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Blue Cross and Blue Shield of Michigan",
+        "developer_email": "mbryson@bcbsm.com",
+        "developer_url": "http://www.bcbsm.com",
+        "developer_address": null,
+        "app_id": "com.bcbsm.android.bcmi.onlinevisit",
+        "url": "https://play.google.com/store/apps/details?id=com.bcbsm.android.bcmi.onlinevisit&hl=en&gl=us"
+    },
+    {
+        "title": "MyMethodist",
+        "icon": "https://lh3.googleusercontent.com/_u2D7ogfInGqjI2eZrORIFm9lo1jNbTQ3dDdsZGyw-brGeG61sNhWuTkkgXozKVmwLWW",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Houston+Methodist",
+        "updated": "July 17, 2019",
+        "size": "32M",
+        "installs": "10,000+",
+        "current_version": "1.1.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Houston Methodist",
+        "developer_email": "appsupport@houstonmethodist.org",
+        "developer_url": "http://www.houstonmethodist.org",
+        "developer_address": "6565 Fannin St,\nHouston, TX 77030",
+        "app_id": "org.houstonmethodist.methodistmobile",
+        "url": "https://play.google.com/store/apps/details?id=org.houstonmethodist.methodistmobile&hl=en&gl=us"
+    },
+    {
+        "title": "Pill Identifier and Drug list",
+        "icon": "https://lh3.googleusercontent.com/4xPv3dC-V0OFxStXVI7yR6Z1lIYhZOylOT31cUkq1ukjweZxlh__T9pCY7nI43oev7k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 634,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mobixed+LLC",
+        "updated": "March 7, 2019",
+        "size": "17M",
+        "installs": "100,000+",
+        "current_version": "4.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mobixed LLC",
+        "developer_email": "mobixed@gmail.com",
+        "developer_url": "http://www.Mobixed.com",
+        "developer_address": "13901 Visions Drive\nLa Mirada, CA 90638",
+        "app_id": "com.PillIdentifierandDrugList.app",
+        "url": "https://play.google.com/store/apps/details?id=com.PillIdentifierandDrugList.app&hl=en&gl=us"
+    },
+    {
+        "title": "Blood Pressure Analyze",
+        "icon": "https://lh3.googleusercontent.com/7fAFhcmXmuzCOanagOi6ml_T17QILH7VbZxO4YIGkBFxxp3Nrustv4EJsI_RomLMrew",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 496,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sunny+Flashing",
+        "updated": "April 13, 2019",
+        "size": "4.0M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sunny Flashing",
+        "developer_email": "sunnyflashing@gmail.com",
+        "developer_url": "http://ni1955832-3.web03.nitrado.hosting/policy/",
+        "developer_address": null,
+        "app_id": "com.sunnyflashing.bloodpressureanalyze",
+        "url": "https://play.google.com/store/apps/details?id=com.sunnyflashing.bloodpressureanalyze&hl=en&gl=us"
+    },
+    {
+        "title": "Kardia",
+        "icon": "https://lh3.googleusercontent.com/WYIp8_w9gWcg_cnDiCWX_WgVxTp9w6ZrEkCVUxN-EBQOYVOcnsXtJ5c7Sipwd8bqv8g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2721,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AliveCor+Inc.",
+        "updated": "July 17, 2019",
+        "size": "83M",
+        "installs": "100,000+",
+        "current_version": "5.7.2-0c96099e3",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "AliveCor Inc.",
+        "developer_email": "support@alivecor.com",
+        "developer_url": "http://www.alivecor.com",
+        "developer_address": "444 Castro street\nSuite 600\nMountain View,  CA 94041",
+        "app_id": "com.alivecor.aliveecg",
+        "url": "https://play.google.com/store/apps/details?id=com.alivecor.aliveecg&hl=en&gl=us"
+    },
+    {
+        "title": "Healthy Benefits Plus",
+        "icon": "https://lh3.googleusercontent.com/gmeBuJFIdRA4ECI_PvofbqdRJAXMmdfEGxog9JYL9hpyxmBlVRyyXllscsmSAft7OEPq",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 239,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Solutran,+Inc.",
+        "updated": "April 30, 2019",
+        "size": "25M",
+        "installs": "10,000+",
+        "current_version": "1.0.9",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Solutran, Inc.",
+        "developer_email": "support@healthybenefitsplus.com",
+        "developer_url": "https://healthybenefitsplus.com/",
+        "developer_address": null,
+        "app_id": "com.solutran.otc",
+        "url": "https://play.google.com/store/apps/details?id=com.solutran.otc&hl=en&gl=us"
+    },
+    {
+        "title": "Stanford Health Care MyHealth",
+        "icon": "https://lh3.googleusercontent.com/oZ_tktTxBZGGPKQ1F1q_AxP5-g018W3FuIgDTDsyp6e2vgqPkBjPTk39MY2ah-4PbBo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 424,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Stanford+Health+Care",
+        "updated": "July 3, 2019",
+        "size": "10M",
+        "installs": "50,000+",
+        "current_version": "3.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Stanford Health Care",
+        "developer_email": "HelpDesk3-3333@stanfordhealthcare.org",
+        "developer_url": "http://www.stanfordhealthcare.org",
+        "developer_address": null,
+        "app_id": "org.stanfordhealthcare.myhealth",
+        "url": "https://play.google.com/store/apps/details?id=org.stanfordhealthcare.myhealth&hl=en&gl=us"
+    },
+    {
+        "title": "MyMercy",
+        "icon": "https://lh3.googleusercontent.com/HIViid8y8jwWxw8o6zSlWuo7FJM6dOnUJsrgevnywDWnxIwJUrQLaoPIgH9kgZrjKno",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 454,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mercy",
+        "updated": "April 10, 2019",
+        "size": "41M",
+        "installs": "100,000+",
+        "current_version": "8.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mercy",
+        "developer_email": "mymercyapp@gmail.com",
+        "developer_url": "https://www.mercy.net",
+        "developer_address": null,
+        "app_id": "net.mercy.mymercy",
+        "url": "https://play.google.com/store/apps/details?id=net.mercy.mymercy&hl=en&gl=us"
+    }
+]

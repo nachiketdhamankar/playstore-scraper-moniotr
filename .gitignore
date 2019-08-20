@@ -1,0 +1,7 @@
+/.ipynb_checkpoints/
+
+Pipfile
+
+*.lock
+
+*.pyc

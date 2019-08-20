@@ -1,0 +1,4472 @@
+[
+    {
+        "title": "Messenger \u2013 Text and Video Chat for Free",
+        "icon": "https://lh3.googleusercontent.com/rkBi-WHAI-dzkAIYjGBSMUToUoi6SWKoy9Fu7QybFb6KVOJweb51NNzokTtjod__MzA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 67832928,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Facebook",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$399.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Facebook",
+        "developer_email": "android-support@fb.com",
+        "developer_url": "https://www.facebook.com/games/fbmessenger_android/",
+        "developer_address": "1 Hacker Way\nMenlo Park, CA 94025",
+        "app_id": "com.facebook.orca",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=us"
+    },
+    {
+        "title": "WhatsApp Messenger",
+        "icon": "https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 93545002,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "WhatsApp+Inc.",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "WhatsApp Inc.",
+        "developer_email": "android@support.whatsapp.com",
+        "developer_url": "http://www.whatsapp.com/",
+        "developer_address": "1601 Willow Road\nMenlo Park, CA 94025",
+        "app_id": "com.whatsapp",
+        "url": "https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=us"
+    },
+    {
+        "title": "TextNow: Free Texting & Calling App",
+        "icon": "https://lh3.googleusercontent.com/ZfKZlSBUSyrWni4pPEBNhmFVkafq7bw7vgDvmtuRU6XHL7o-lG95y0VM45af9nG_UKs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Di80LVNE-ps",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 616742,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8273134989898180729",
+        "updated": "July 29, 2019",
+        "size": "38M",
+        "installs": "50,000,000+",
+        "current_version": "6.35.0.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "TextNow, Inc.",
+        "developer_email": "community@textnow.com",
+        "developer_url": "http://www.textnow.com",
+        "developer_address": "Suite 200 - 420 Wes Graham Way\nWaterloo, ON\nN2L 0J6\nCanada",
+        "app_id": "com.enflick.android.TextNow",
+        "url": "https://play.google.com/store/apps/details?id=com.enflick.android.TextNow&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger Lite: Free Calls & Messages",
+        "icon": "https://lh3.googleusercontent.com/sla2xxbP2QLGJxZhSB8sfc4DTKRwRot2zI4WkMzLAq_CY6-PeGGNneMTT-SqlQKhLGtx",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2800238,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Facebook",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "63.0.1.12.238",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Facebook",
+        "developer_email": "android-support@fb.com",
+        "developer_url": "https://m.facebook.com/policy.php",
+        "developer_address": "1 Hacker Way\nMenlo Park, CA 94025",
+        "app_id": "com.facebook.mlite",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.mlite&hl=en&gl=us"
+    },
+    {
+        "title": "Discord - Chat for Gamers",
+        "icon": "https://lh3.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 649405,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Discord+Inc.",
+        "updated": "July 30, 2019",
+        "size": "53M",
+        "installs": "50,000,000+",
+        "current_version": "9.3.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Discord Inc.",
+        "developer_email": "support@discordapp.com",
+        "developer_url": "https://discordapp.com",
+        "developer_address": null,
+        "app_id": "com.discord",
+        "url": "https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=us"
+    },
+    {
+        "title": "Quick SMS Launcher: Emoji, Customize Chat",
+        "icon": "https://lh3.googleusercontent.com/fpJwupJ_a44rduDXwqRsRNxpdqr6DeRDgjQWs1gHM9ivElkjSbc_OKNrKIieFAy3JB-5",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 186941,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8443677975547023839",
+        "updated": "July 30, 2019",
+        "size": "22M",
+        "installs": "10,000,000+",
+        "current_version": "1.0.16",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Sunspot Widgets.",
+        "developer_email": "sunspotwidgets@outlook.com",
+        "developer_url": "http://4b476b137ea454436f5e0d3d20daef8c-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.home.sms.messages.emoji",
+        "url": "https://play.google.com/store/apps/details?id=com.home.sms.messages.emoji&hl=en&gl=us"
+    },
+    {
+        "title": "Yahoo Mail \u2013 Organized Email",
+        "icon": "https://lh3.googleusercontent.com/QZsK7tygLmx-GPwsUfIP5etowhcZHJm-j1IbY36p4IJMN5u6rpsjPw7bXZWZk-LjrR1U",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/EenyDijkxlg",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4697588,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5536369398281991413",
+        "updated": "July 26, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Yahoo",
+        "developer_email": "ymail-play-store-feedback@verizonmedia.com",
+        "developer_url": "https://upgrade.mail.yahoo.com/",
+        "developer_address": "701 First Avenue, Sunnyvale, CA 94089-0703, U.S.A",
+        "app_id": "com.yahoo.mobile.client.android.mail",
+        "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail&hl=en&gl=us"
+    },
+    {
+        "title": "Google Duo - High Quality Video Calls",
+        "icon": "https://lh3.googleusercontent.com/l9KG7T3GgFZtvfMeJ_aTsaofrGP8JnmQCPGuDrxhvFAfC-IpXhwGfMGeH2AihVqWBlM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4130796,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/policies/privacy",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.tachyon",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&hl=en&gl=us"
+    },
+    {
+        "title": "Contacts",
+        "icon": "https://lh3.googleusercontent.com/D-haUsSx771Pt4brCyFEJUNKZaC8NUsD2bMB-ZL_yE2LnYdmt3YbgfZwDDM9B-wBHw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 194016,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "3.6.8.256022923",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.android.com/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.contacts",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.contacts&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger Kids \u2013 Safer Messaging and Video Chat",
+        "icon": "https://lh3.googleusercontent.com/BBlLLdJ6ZSl-udJTWHh4YH6NSkYQmjWaqG5RWVsbQ4gkozJxpPgMy0rgQM8p388d8S4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hi73VXIgExs",
+        "category": [
+            "COMMUNICATION",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 27825,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Facebook",
+        "updated": "July 27, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "83.0.0.9.114",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Facebook",
+        "developer_email": "messengerkids-support-android@fb.com",
+        "developer_url": "https://www.facebook.com/help/messenger-app/213724335832452",
+        "developer_address": "1 Hacker Way\nMenlo Park, CA 94025",
+        "app_id": "com.facebook.talk",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.talk&hl=en&gl=us"
+    },
+    {
+        "title": "GroupMe",
+        "icon": "https://lh3.googleusercontent.com/7C5_TvMTP3asZu6qYmGGIwOn_s3SH_sCB0KdBhDXauzgSMsRapwoCeL55V4AKAauBIU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 400795,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "groupme",
+        "updated": "May 30, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "5.37.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$1.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "groupme",
+        "developer_email": "support@groupme.com",
+        "developer_url": "http://groupme.com",
+        "developer_address": "GroupMe\n11 Times Square\n9th Floor\nNew York, NY 10036",
+        "app_id": "com.groupme.android",
+        "url": "https://play.google.com/store/apps/details?id=com.groupme.android&hl=en&gl=us"
+    },
+    {
+        "title": "Ring - Always Home",
+        "icon": "https://lh3.googleusercontent.com/fbIl2IKPAG4_3lNnwsi0qMBTJEgOsIwBUYzrs5_GIRYRBHov_a5eJ0bMxEUNMu67G4Ws",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/vl8sZI5AH4g",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28251,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ring.com",
+        "updated": "July 19, 2019",
+        "size": "95M",
+        "installs": "5,000,000+",
+        "current_version": "3.15.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ring.com",
+        "developer_email": "help@ring.com",
+        "developer_url": "https://ring.com",
+        "developer_address": null,
+        "app_id": "com.ringapp",
+        "url": "https://play.google.com/store/apps/details?id=com.ringapp&hl=en&gl=us"
+    },
+    {
+        "title": "Kik",
+        "icon": "https://lh3.googleusercontent.com/eM5gWdpF7jihE9GmI5xeexqQzCJJg9X91ctpm4yw7XkXKapJgS4ERyV4X_g5tW4fjVYo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2472350,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Kik+Interactive",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Kik Interactive",
+        "developer_email": "support@kik.com",
+        "developer_url": "http://kik.com",
+        "developer_address": "137 Glasgow Street, Unit 525\nKitchener, Ontario\nN2G 4X8 Canada",
+        "app_id": "kik.android",
+        "url": "https://play.google.com/store/apps/details?id=kik.android&hl=en&gl=us"
+    },
+    {
+        "title": "Google Voice",
+        "icon": "https://lh3.googleusercontent.com/bYC5b3iqlamVWBCjGVuoDD4K0lv1q4QDXlpQoGWuFCOQGzHkoAUDNsUUO0Jkfuz7Yw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 196434,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "2019.30.259031463",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/voice",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.googlevoice",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=en&gl=us"
+    },
+    {
+        "title": "Messages",
+        "icon": "https://lh3.googleusercontent.com/udNG8QslDMGl_mcCnmfYy_wHcL6EvIjDtl4JJu_KsprzBnWIJYbQTmPg5fgNPBYRllU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1331443,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/mobile/android/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.messaging",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en&gl=us"
+    },
+    {
+        "title": "Skype - free IM & video calls",
+        "icon": "https://lh3.googleusercontent.com/6Ai75zxhXDR28YuImtzx3J7EjfPoU5Q06B_kQfwYaC2utsJD8cay7rSMZAbUM2tuYaA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10837857,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Skype",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Skype",
+        "developer_email": "skypeuploader@googlemail.com",
+        "developer_url": "http://www.skype.com",
+        "developer_address": "Skype Software S.\u00e0.r.l, 23 \u2013 29 Rives de Clausen, L-2165 Luxembourg",
+        "app_id": "com.skype.raider",
+        "url": "https://play.google.com/store/apps/details?id=com.skype.raider&hl=en&gl=us"
+    },
+    {
+        "title": "Hangouts",
+        "icon": "https://lh3.googleusercontent.com/5puZavg4x2pThSTJgos1sARWoARea7tzr_B8AWEwn2lV05RoXo9M8BM2XwcvwG6nIGc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4136254,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "May 14, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/hangouts/?p=androidhelp",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.talk",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.talk&hl=en&gl=us"
+    },
+    {
+        "title": "Firefox Browser fast & private",
+        "icon": "https://lh3.googleusercontent.com/shH5ALdqmZysSU2F5SF52674W7NFP1xtLBZMuzUR5u6Uotbgql3ATFFFhtkJjBCm4R3i",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3255586,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7083182635971239206",
+        "updated": "July 26, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Unrestricted Internet"
+        ],
+        "developer": "Mozilla",
+        "developer_email": "ffandroidhelp@mozilla.com",
+        "developer_url": "https://support.mozilla.org/mobile",
+        "developer_address": null,
+        "app_id": "org.mozilla.firefox",
+        "url": "https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en&gl=us"
+    },
+    {
+        "title": "Telegram",
+        "icon": "https://lh3.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3871418,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Telegram+FZ-LLC",
+        "updated": "July 7, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Telegram FZ-LLC",
+        "developer_email": "support@telegram.org",
+        "developer_url": "https://telegram.org",
+        "developer_address": "Business Central Towers, Tower A, Office 1003/1004, P.O. Box 501919, Dubai, United Arab Emirates",
+        "app_id": "org.telegram.messenger",
+        "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=us"
+    },
+    {
+        "title": "Privacy Messenger - Private SMS messages, Call app",
+        "icon": "https://lh3.googleusercontent.com/4DLxzHvbkYeRX2vmqmYIPrGPpphPH5M-qGcOU7x4Tdf0vWNS3rH4KZuUx1LRfebnId8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15072,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Melons+Chat+Team",
+        "updated": "July 30, 2019",
+        "size": "25M",
+        "installs": "1,000,000+",
+        "current_version": "5.2.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Melons Chat Team",
+        "developer_email": "hi@melonsapp.com",
+        "developer_url": "http://melonsapp.com",
+        "developer_address": "Room 607 Yen Sheng Centre, 64 Hoi Yuen Road., Kwun Tong",
+        "app_id": "com.melonsapp.privacymessenger",
+        "url": "https://play.google.com/store/apps/details?id=com.melonsapp.privacymessenger&hl=en&gl=us"
+    },
+    {
+        "title": "imo free HD video calls and chat",
+        "icon": "https://lh3.googleusercontent.com/uL2suDkNZWrUR-5n-laPW8KdjdWsJQEI5VKUU9a7GFeL3J_OBFFvEYGGCvpH247zhR0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 96550,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5440031783419136609",
+        "updated": "July 19, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "9.8.000000010765",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "Baby Penguin",
+        "developer_email": "androidfeedback@imoapp.com",
+        "developer_url": "https://imoapp.com",
+        "developer_address": "555 Bryant St. #233 Palo Alto, CA 94301",
+        "app_id": "com.imo.android.imous",
+        "url": "https://play.google.com/store/apps/details?id=com.imo.android.imous&hl=en&gl=us"
+    },
+    {
+        "title": "BOSS Revolution\u00ae - Cheap International Calling",
+        "icon": "https://lh3.googleusercontent.com/tMCIKOjiIfkMJoNhFvaB3ixhOdS6lenCCI2z7emuAxRDN1sPL0iwdPTmUnYZycwGOgE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 98592,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Boss+Revolution",
+        "updated": "July 16, 2019",
+        "size": "60M",
+        "installs": "5,000,000+",
+        "current_version": "4.2.5116",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$24.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Boss Revolution",
+        "developer_email": "bossrevolutionapp@idt.net",
+        "developer_url": "https://www.bossrevolution.com",
+        "developer_address": "IDT Domestic Telecom\n520 Broad Street\nNewark, NJ 07102\nUnited States of America",
+        "app_id": "net.idt.um.android.bossrevapp",
+        "url": "https://play.google.com/store/apps/details?id=net.idt.um.android.bossrevapp&hl=en&gl=us"
+    },
+    {
+        "title": "Talkatone: Free Texts, Calls & Phone Number",
+        "icon": "https://lh3.googleusercontent.com/Ja5Q7SVTL21GoF-etromymA5B2sLpWK4bRn1rd65rmANl2QXcKYVX8eDAN48FFx3rA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 141490,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5029725802241996209",
+        "updated": "July 12, 2019",
+        "size": "21M",
+        "installs": "10,000,000+",
+        "current_version": "6.3.8",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$12.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "Talkatone, Llc",
+        "developer_email": "support@talkatone.com",
+        "developer_url": "http://www.talkatone.com",
+        "developer_address": "525 Almanor Ave\nSuite 200\nSunnyvale, CA 94085",
+        "app_id": "com.talkatone.android",
+        "url": "https://play.google.com/store/apps/details?id=com.talkatone.android&hl=en&gl=us"
+    },
+    {
+        "title": "PlayStation Messages - Check your online friends",
+        "icon": "https://lh3.googleusercontent.com/PZFMFi2mv4CXFJG8VK26HMQO30tR_EYdtyfWhSLno0-EkiWfh9pe7hAXgJYUFLb56Wo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 98169,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5810481673801929430",
+        "updated": "April 25, 2019",
+        "size": "8.6M",
+        "installs": "10,000,000+",
+        "current_version": "18.09.15.11269",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "PlayStation Mobile Inc.",
+        "developer_email": "psapp-contact@hq.scei.sony.co.jp",
+        "developer_url": "http://www.playstation.com/support/",
+        "developer_address": "PlayStation Mobile Inc.\n2207 Bridgepointe Parkway\nSan Mateo, CA 94404\nUnited States",
+        "app_id": "com.playstation.mobilemessenger",
+        "url": "https://play.google.com/store/apps/details?id=com.playstation.mobilemessenger&hl=en&gl=us"
+    },
+    {
+        "title": "Live Mobile Location and GPS Coordinates",
+        "icon": "https://lh3.googleusercontent.com/RHBV9LhP7Nlb7dKU_G6PeSzqwSuQpzfkS-9Qnwf2h50uBm9eeAcMnNOYFMAIHNz33k9q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28133,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TEC+CREATIONS",
+        "updated": "July 30, 2019",
+        "size": "3.9M",
+        "installs": "5,000,000+",
+        "current_version": "2.3.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "TEC CREATIONS",
+        "developer_email": "teccreations21@gmail.com",
+        "developer_url": "http://www.teccreations.co.in/liveprivacypolicy.html",
+        "developer_address": null,
+        "app_id": "livemobilelocationtracker.teccreations",
+        "url": "https://play.google.com/store/apps/details?id=livemobilelocationtracker.teccreations&hl=en&gl=us"
+    },
+    {
+        "title": "Call Free \u2013 Free Call",
+        "icon": "https://lh3.googleusercontent.com/pu4eDpzyLGz18GKeEcK-vQ5t18J-SUqDAkn1eTNzuGa4A3_DiPMR16wl4P-f32hmio4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55381,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Call+Free,+Caller+ID,+Call+Recorder+by+Call+Team",
+        "updated": "July 29, 2019",
+        "size": "21M",
+        "installs": "10,000,000+",
+        "current_version": "1.6.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Call Free, Caller ID, Call Recorder by Call Team",
+        "developer_email": "callfreeteam@gmail.com",
+        "developer_url": "http://callapps.studio/",
+        "developer_address": null,
+        "app_id": "call.free.international.phone.call",
+        "url": "https://play.google.com/store/apps/details?id=call.free.international.phone.call&hl=en&gl=us"
+    },
+    {
+        "title": "Straight Talk My Account",
+        "icon": "https://lh3.googleusercontent.com/cu9PKZ__grlYMwKx9An0nkoi97S5GGs4v0LQ56t2Yq7ulHvDGX8WHmWVKjhXGESPLfWW",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 64702,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Straight+Talk",
+        "updated": "July 26, 2019",
+        "size": "19M",
+        "installs": "5,000,000+",
+        "current_version": "10.1.2",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Straight Talk",
+        "developer_email": "myandroidaccountST@straighttalk.com",
+        "developer_url": "http://www.straighttalk.com",
+        "developer_address": null,
+        "app_id": "com.tracfone.straighttalk.myaccount",
+        "url": "https://play.google.com/store/apps/details?id=com.tracfone.straighttalk.myaccount&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger - Free Texting App",
+        "icon": "https://lh3.googleusercontent.com/h3IosWZOACLxgKJL6YPJiCVgGj5Rp-7_IoIBQA2FYt45xvUeCE__0IUXrXoS7Vc_QtIW",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2824,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Emoji+SMS+Messenger",
+        "updated": "July 28, 2019",
+        "size": "22M",
+        "installs": "500,000+",
+        "current_version": "1.2.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "Mature 17+"
+        ],
+        "interactive_elements": null,
+        "developer": "Emoji SMS Messenger",
+        "developer_email": "topfreeteam@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/137_jUcIDd4qCqBM90yOBybdJu4FiTvSg6zNY8EApDxM/edit?usp=sharing",
+        "developer_address": null,
+        "app_id": "messenger.sms",
+        "url": "https://play.google.com/store/apps/details?id=messenger.sms&hl=en&gl=us"
+    },
+    {
+        "title": "Marco Polo - Video Chat for Busy People",
+        "icon": "https://lh3.googleusercontent.com/R2-tMNKt_B89_JXtJcqXJ16vAqB07Po2x9Gn6J_cB_WakPo1jH3TGk-gZgd1JSR0Wstv",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/_aVpUSZZAXs",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 228466,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Joya+Communications",
+        "updated": "July 29, 2019",
+        "size": "44M",
+        "installs": "10,000,000+",
+        "current_version": "0.232.0",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Joya Communications",
+        "developer_email": "help@marcopolo.me",
+        "developer_url": "http://www.marcopolo.me",
+        "developer_address": "2443 Fillmore St #380-5790\nSan Francisco, CA 94115",
+        "app_id": "co.happybits.marcopolo",
+        "url": "https://play.google.com/store/apps/details?id=co.happybits.marcopolo&hl=en&gl=us"
+    },
+    {
+        "title": "Viber Messenger - Messages, Group Chats & Calls",
+        "icon": "https://lh3.googleusercontent.com/U6w6exKdvzjRC6ypN68s6nvn8OBlNgDOf5ub9xcqvZPAkXXVW153t9KMeD8yeAVlTxw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13036172,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7446565317689230946",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "11.1.1.4",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "Viber Media S.\u00e0 r.l.",
+        "developer_email": "support@viber.com",
+        "developer_url": "http://www.viber.com/",
+        "developer_address": "Viber Media, S.\u00e0 r.l.,\n2, rue des Foss\u00e9, L-1536 Luxembourg, Grand Duchy of Luxembourg.",
+        "app_id": "com.viber.voip",
+        "url": "https://play.google.com/store/apps/details?id=com.viber.voip&hl=en&gl=us"
+    },
+    {
+        "title": "Verizon Messages",
+        "icon": "https://lh3.googleusercontent.com/jvfXwvB7uwJRKHrq3mipLLS2WcEy2L5Zvw1usz2w126C_iRGOB2q9_DgDKC2JDhKKw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/shGZynliLVo",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 567487,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Verizon+-+VZ",
+        "updated": "July 30, 2019",
+        "size": "80M",
+        "installs": "50,000,000+",
+        "current_version": "6.8.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Verizon - VZ",
+        "developer_email": "VerizonMessages@VerizonWireless.com",
+        "developer_url": "http://verizonwireless.com/vzmessages",
+        "developer_address": "One Verizon Way, Basking Ridge, New Jersey",
+        "app_id": "com.verizon.messaging.vzmsgs",
+        "url": "https://play.google.com/store/apps/details?id=com.verizon.messaging.vzmsgs&hl=en&gl=us"
+    },
+    {
+        "title": "Signal Private Messenger",
+        "icon": "https://lh3.googleusercontent.com/l2UcWONe0L_UWIIuD3zTgwNRaW9n6cmJdofaEV2LD6U4Ngg8YiUs2wUD9EU8xo2ne9w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 337489,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Signal+Foundation",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "4.44.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Signal Foundation",
+        "developer_email": "support@signal.org",
+        "developer_url": "https://signal.org",
+        "developer_address": "650 Castro Street, Suite 120-414, Mountain View, California 94041-2055",
+        "app_id": "org.thoughtcrime.securesms",
+        "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en&gl=us"
+    },
+    {
+        "title": "LINE: Free Calls & Messages",
+        "icon": "https://lh3.googleusercontent.com/l-ZZOFGyeKYz3stUbxTECHYnXcRD66C9g0tjiWA_okVIxZyb0E7_esU8LRpq_0LFCu8Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11621305,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4919265583026901892",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$139.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "LINE Corporation",
+        "developer_email": "line-support@line.me",
+        "developer_url": "http://line.me",
+        "developer_address": "\u6771\u4eac\u90fd\u65b0\u5bbf\u533a\u65b0\u5bbf\u56db\u4e01\u76ee1\u756a6\u53f7",
+        "app_id": "jp.naver.line.android",
+        "url": "https://play.google.com/store/apps/details?id=jp.naver.line.android&hl=en&gl=us"
+    },
+    {
+        "title": "Brave Privacy Browser: Fast, free and safe browser",
+        "icon": "https://lh3.googleusercontent.com/v8h4MEDGbDtwKD13-38Jqwh7UgHU7XJ76DSp3yzyF99mwQTDoM8wgDg7apwMulpQgopG",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 106317,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Brave+Software",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "1.1.2",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Brave Software",
+        "developer_email": "support@brave.com",
+        "developer_url": "https://www.brave.com",
+        "developer_address": "Brave Software\n512 Second St., Floor 2\nSan Francisco, CA 94107",
+        "app_id": "com.brave.browser",
+        "url": "https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger for SMS",
+        "icon": "https://lh3.googleusercontent.com/oKoQ7-AJjs6jn2A4c8jqYlSKKxc52MjuvWphYEGK3efdLHgivfZUT-wNjPpo41y0luU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 231922,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "SMS+Messenger",
+        "updated": "July 28, 2019",
+        "size": "21M",
+        "installs": "10,000,000+",
+        "current_version": "2.1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Language"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.80"
+        ],
+        "interactive_elements": null,
+        "developer": "SMS Messenger",
+        "developer_email": "smsmessagefeedback@gmail.com",
+        "developer_url": "https://www.facebook.com/MessagesSMS%20",
+        "developer_address": null,
+        "app_id": "com.link.messages.sms",
+        "url": "https://play.google.com/store/apps/details?id=com.link.messages.sms&hl=en&gl=us"
+    },
+    {
+        "title": "RoboKiller - Stop Spam and Robocalls",
+        "icon": "https://lh3.googleusercontent.com/O2Qp3dV_5o1G--R6eRoiJNrd9ScpbehADjzpQZ1bvZ6zNuRD6XrrRO97f4XyVJ_TSA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20455,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "TelTech+Systems+Inc",
+        "updated": "July 26, 2019",
+        "size": "6.2M",
+        "installs": "1,000,000+",
+        "current_version": "2.5.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$29.99"
+        ],
+        "interactive_elements": null,
+        "developer": "TelTech Systems Inc",
+        "developer_email": "support@robokiller.com",
+        "developer_url": "http://www.robokiller.com",
+        "developer_address": "101 S. Broadway St\nSouth Amboy, NJ 08873",
+        "app_id": "com.robokiller.app",
+        "url": "https://play.google.com/store/apps/details?id=com.robokiller.app&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft Edge",
+        "icon": "https://lh3.googleusercontent.com/TjDAOP-UcX_XOhZtHclsmdNcuIiCF4qKKk6xWss-OEkR56DjrhIfv6JPl0PDRmz83rA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 60468,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 29, 2019",
+        "size": "87M",
+        "installs": "10,000,000+",
+        "current_version": "42.0.2.3811",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "edge_ef@microsoft.com",
+        "developer_url": "https://www.microsoft.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.emmx",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.emmx&hl=en&gl=us"
+    },
+    {
+        "title": "WeChat",
+        "icon": "https://lh3.googleusercontent.com/eOXYfM4C_CJc6hJ9Yxa0q0Xf-O8u03T5af6NdC5vnuYKLnrgsIjEaM4lUK3Mj7gNn7Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5669388,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "WeChat",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "WeChat",
+        "developer_email": "support@wechat.com",
+        "developer_url": "http://www.wechat.com",
+        "developer_address": "2747 Park Blvd., Palo Alto, California, USA, 94306",
+        "app_id": "com.tencent.mm",
+        "url": "https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=us"
+    },
+    {
+        "title": "Google Chrome: Fast & Secure",
+        "icon": "https://lh3.googleusercontent.com/nYhPnY2I-e9rpqnid9u9aAODz4C04OycEGxqHG5vxFnA35OGmLMrrUmhM9eaHKJ7liB-",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15746667,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/chrome/android",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.android.chrome",
+        "url": "https://play.google.com/store/apps/details?id=com.android.chrome&hl=en&gl=us"
+    },
+    {
+        "title": "Xfinity WiFi Hotspots",
+        "icon": "https://lh3.googleusercontent.com/429Uq7WS1g0EK-GUxJFzW1oQNHIbXlimP7ogh4SS-j8WgWOSlkj2p8NoRjCfQ_Pd6HI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40788,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Comcast+Cable+Corporation,+LLC",
+        "updated": "September 17, 2018",
+        "size": "8.6M",
+        "installs": "5,000,000+",
+        "current_version": "5.6.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Comcast Cable Corporation, LLC",
+        "developer_email": "XfinityWiFiProduct_Support@cable.comcast.com",
+        "developer_url": "http://www.xfinity.com/wifi",
+        "developer_address": null,
+        "app_id": "com.comcast.hsf",
+        "url": "https://play.google.com/store/apps/details?id=com.comcast.hsf&hl=en&gl=us"
+    },
+    {
+        "title": "Puffin Web Browser",
+        "icon": "https://lh3.googleusercontent.com/V--tlD-RV2UFoNKK1vVMdy2RNEcWhuROxkjEYUlqx-w1hVzpWAAtmCdcBIZJFo4yJw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3LiFhbliSyg",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 667728,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CloudMosa,+Inc.",
+        "updated": "June 24, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "7.8.2.40664",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location, Unrestricted Internet"
+        ],
+        "developer": "CloudMosa, Inc.",
+        "developer_email": "puffinbrowser+android@cloudmosa.com",
+        "developer_url": "https://www.puffin.com/android/",
+        "developer_address": "20863 Stevens Creek Boulevard, Suite 560\nCupertino, CA 95014",
+        "app_id": "com.cloudmosa.puffinFree",
+        "url": "https://play.google.com/store/apps/details?id=com.cloudmosa.puffinFree&hl=en&gl=us"
+    },
+    {
+        "title": "Opera with free VPN",
+        "icon": "https://lh3.googleusercontent.com/NZDbErMP8ZCNsYDkAUgbP9Dz2QWCk-Z7QPhED6upxKzlabrENJvOZPVnflqpEleuv-Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2875195,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6928237143520558692",
+        "updated": "July 8, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases, Unrestricted Internet"
+        ],
+        "developer": "Opera",
+        "developer_email": "support-opera-android@opera.com",
+        "developer_url": "http://www.opera.com",
+        "developer_address": "Gjerdrums vei 19\nNO-0484 OSLO",
+        "app_id": "com.opera.browser",
+        "url": "https://play.google.com/store/apps/details?id=com.opera.browser&hl=en&gl=us"
+    },
+    {
+        "title": "Free Adblocker Browser - Adblock & Popup Blocker",
+        "icon": "https://lh3.googleusercontent.com/NXgN-xTzwPSpSZYLe3jUo4NYCw_cN9MoxuGWYU71yuYEyT1oUvRhuEIV3mG8yLR_xlM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 277160,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8092039199193866649",
+        "updated": "July 1, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$10.99"
+        ],
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Adblock - Rocketshield Browser Technology Limited",
+        "developer_email": "info@freeadblockerbrowser.com",
+        "developer_url": "http://www.freeadblockerbrowser.com",
+        "developer_address": "Lee Garden One, 33 Hysan Avenue, Causeway Bay, HK",
+        "app_id": "com.hsv.freeadblockerbrowser",
+        "url": "https://play.google.com/store/apps/details?id=com.hsv.freeadblockerbrowser&hl=en&gl=us"
+    },
+    {
+        "title": "Tor Browser",
+        "icon": "https://lh3.googleusercontent.com/riCYzcp6mWqbcIY8lT3tlIpKaIFvRA_twgDjrJpJtWFv4OJnD2tka8iuMhXSJbAzRJ8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/JWII85UlzKw",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3395,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+Tor+Project",
+        "updated": "July 10, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "60.8.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "The Tor Project",
+        "developer_email": "playstore@torproject.org",
+        "developer_url": "https://www.torproject.org",
+        "developer_address": null,
+        "app_id": "org.torproject.torbrowser",
+        "url": "https://play.google.com/store/apps/details?id=org.torproject.torbrowser&hl=en&gl=us"
+    },
+    {
+        "title": "Psiphon Pro - The Internet Freedom VPN",
+        "icon": "https://lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/jTwmcwlkGi0",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 404587,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Psiphon+Inc.",
+        "updated": "July 3, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$119.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases, Unrestricted Internet"
+        ],
+        "developer": "Psiphon Inc.",
+        "developer_email": "psiphon-pro@psiphon.ca",
+        "developer_url": "https://psiphon.ca/",
+        "developer_address": "Canada",
+        "app_id": "com.psiphon3.subscription",
+        "url": "https://play.google.com/store/apps/details?id=com.psiphon3.subscription&hl=en&gl=us"
+    },
+    {
+        "title": "TracFone My Account",
+        "icon": "https://lh3.googleusercontent.com/3IDw0rj3e-iHIQqvSJCwxWIDBohDzziGajatBPDPp2JikLUAB1JXNvPpqflmZZ_8wA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 26331,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TracFone",
+        "updated": "July 26, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "10.1.2",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TracFone",
+        "developer_email": "myandroidaccountTF@tracfone.com",
+        "developer_url": "http://www.tracfone.com",
+        "developer_address": null,
+        "app_id": "com.tracfone.tracfone.myaccount",
+        "url": "https://play.google.com/store/apps/details?id=com.tracfone.tracfone.myaccount&hl=en&gl=us"
+    },
+    {
+        "title": "2ndLine - Second Phone Number",
+        "icon": "https://lh3.googleusercontent.com/St4MFsQQ5X_gW0vbtrgQygauImRrh0V6D8YNrkO0vzfdtyLlp7kxXoDdYg5Byd3BNA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3Du7R_qklZI",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 44386,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8273134989898180729",
+        "updated": "July 29, 2019",
+        "size": "35M",
+        "installs": "5,000,000+",
+        "current_version": "6.35.0.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.49",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TextNow, Inc.",
+        "developer_email": "help@2ndline.co",
+        "developer_url": "http://www.2ndline.co",
+        "developer_address": "Suite 200 - 420 Wes Graham Way\nWaterloo, ON\nN2L 0J6\nCanada",
+        "app_id": "com.enflick.android.tn2ndLine",
+        "url": "https://play.google.com/store/apps/details?id=com.enflick.android.tn2ndLine&hl=en&gl=us"
+    },
+    {
+        "title": "WhatsApp Business",
+        "icon": "https://lh3.googleusercontent.com/ebs6ftYUkOKlDY0M174OpvargwbDyHUVAnO_G5aE0dL5GBQKCtfh3adN5H3ZMThXogDi",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 850370,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "WhatsApp+Inc.",
+        "updated": "July 30, 2019",
+        "size": "25M",
+        "installs": "100,000,000+",
+        "current_version": "2.19.69",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "WhatsApp Inc.",
+        "developer_email": "smb@support.whatsapp.com",
+        "developer_url": "https://www.whatsapp.com/business/",
+        "developer_address": "1601 Willow Road\nMenlo Park, CA 94025",
+        "app_id": "com.whatsapp.w4b",
+        "url": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=us"
+    },
+    {
+        "title": "CallApp: Caller ID, Call Blocker & Call Recorder",
+        "icon": "https://lh3.googleusercontent.com/m1h8dsxef2CaE96KRWO6OvAqJ9s8kKS9myktontz1zBIuBbsi4U2e5eU02u_4lRjIah5",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 539563,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6882074241033486164",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$13.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "CallApp Caller ID Software",
+        "developer_email": "support@callapp.com",
+        "developer_url": "http://callapp.com",
+        "developer_address": "Arlozorov 111, Tel Aviv, Israel",
+        "app_id": "com.callapp.contacts",
+        "url": "https://play.google.com/store/apps/details?id=com.callapp.contacts&hl=en&gl=us"
+    },
+    {
+        "title": "Sound Amplifier",
+        "icon": "https://lh3.googleusercontent.com/nSjXWiR6Th0c1cxYlFy3N9Umlc5HDl7HyNQ2lCBHBZfIkeIWRrNBTyH_sm5sarsO-Gc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1640,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 29, 2019",
+        "size": "4.2M",
+        "installs": "1,000,000+",
+        "current_version": "2.0.259284229",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/policies/privacy",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.accessibility.soundamplifier",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier&hl=en&gl=us"
+    },
+    {
+        "title": "Google Wifi",
+        "icon": "https://lh3.googleusercontent.com/p5kStIWYqFXMhhVKe6TcEb4qvoXnnUlvhKWZjGNK9_U89d1bzkXHslkVrfcJrSMkeVs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/vPqslcwZ8Kk",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18835,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "May 9, 2019",
+        "size": "32M",
+        "installs": "1,000,000+",
+        "current_version": "jetstream-BV10171_RC0008",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "wificare@google.com",
+        "developer_url": "http://google.com/wifi",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.access.wifi.consumer",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.access.wifi.consumer&hl=en&gl=us"
+    },
+    {
+        "title": "Burner - Free Phone Number",
+        "icon": "https://lh3.googleusercontent.com/pJpYNLNItVSEkT7uOIs1MZooO9yHzLr5NdmqyxePdp_l3faWmw2ivzMeSTgh_gCv3onw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/06k5bfTlvBk",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22874,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5919225198905298285",
+        "updated": "June 6, 2019",
+        "size": "25M",
+        "installs": "1,000,000+",
+        "current_version": "4.0.9",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$139.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "developer": "Ad Hoc Labs, Inc",
+        "developer_email": "support@burnerapp.com",
+        "developer_url": "http://burnerapp.com/?utm_source=Google&utm_medium=Play_Store",
+        "developer_address": "2658 Griffith Park Blvd, #134\nLos Angeles, CA 90039",
+        "app_id": "com.adhoclabs.burner",
+        "url": "https://play.google.com/store/apps/details?id=com.adhoclabs.burner&hl=en&gl=us"
+    },
+    {
+        "title": "Caller ID: Dynamic Caller Screen for Phones",
+        "icon": "https://lh3.googleusercontent.com/fJGdq0ZzSFHGGdX6VrUDjXQBsHgcJX_YtS-eNwz6fO7bkw1X5gX_Zt9-fNoon2nBF2U",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 64821,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "LIONMOBI+Style",
+        "updated": "July 9, 2019",
+        "size": "11M",
+        "installs": "10,000,000+",
+        "current_version": "2.7.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Language"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$12.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "LIONMOBI Style",
+        "developer_email": "contact@lionmobi.com",
+        "developer_url": "https://caller.lionmobi.com/privacy.html",
+        "developer_address": "Unit 24 on 6/F, Topsail Plaza, No.11 on Sum Street, Shatin, New Territories, Hongkong",
+        "app_id": "com.hiblock.caller",
+        "url": "https://play.google.com/store/apps/details?id=com.hiblock.caller&hl=en&gl=us"
+    },
+    {
+        "title": "TextMe Up Free Calling & Texts",
+        "icon": "https://lh3.googleusercontent.com/8t_al6ncwnfSSL-0G4OZuNNjn78ShZjHdkslCi6n-py9pYXgDW2BrENxLojZLfmNTNHo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/JVA2-RCpVD8",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55725,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7744106960263623416",
+        "updated": "July 2, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "3.18.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "TextMe, Inc.",
+        "developer_email": "contact@go-text.me",
+        "developer_url": "http://www.textmeup.com",
+        "developer_address": "275 Post St #500\nSan Francisco, CA 94108",
+        "app_id": "com.textmeinc.textme3",
+        "url": "https://play.google.com/store/apps/details?id=com.textmeinc.textme3&hl=en&gl=us"
+    },
+    {
+        "title": "Wear OS by Google Smartwatch (was Android Wear)",
+        "icon": "https://lh3.googleusercontent.com/WmoV-m8b6x16sDRfzebu5b2vstcyBHRrpzCj6ODoh6hGuMa9Gg39EvnOk7z3qMa0_WM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 192777,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Unrestricted Internet"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://support.google.com/wearos",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.wearable.app",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.wearable.app&hl=en&gl=us"
+    },
+    {
+        "title": "Zello PTT Walkie Talkie",
+        "icon": "https://lh3.googleusercontent.com/YZ3l5aj-SY-dTBsMScZ4nNBuSCY1SG_oMYZkZ87emzHH-J_ptd7yHWzGVBmkOBnPD-M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 718624,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Zello+Inc",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Zello Inc",
+        "developer_email": "support@zello.com",
+        "developer_url": "https://zello.com/",
+        "developer_address": "1317 W 6th, Austin TX, 78703",
+        "app_id": "com.loudtalks",
+        "url": "https://play.google.com/store/apps/details?id=com.loudtalks&hl=en&gl=us"
+    },
+    {
+        "title": "All Email Access with call screening",
+        "icon": "https://lh3.googleusercontent.com/XzgzTDaCu1Pl21tgmhgyNC_grDn6knHAW8iO6aEte-Buf-_gJ2AzfL7yXp47z2Qr5hk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/OIhjRN0wvos",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12416,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6445231020892003022",
+        "updated": "July 10, 2019",
+        "size": "8.7M",
+        "installs": "1,000,000+",
+        "current_version": "1.199",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Appsbuyout Dev",
+        "developer_email": "sappalodapps@gmail.com",
+        "developer_url": "http://juridical.calldorado.com/privacy-policy/",
+        "developer_address": "Bagsvaerdvej 90\n2800 Kgs. Lyngby\nDenmark",
+        "app_id": "info.myapp.allemailaccess",
+        "url": "https://play.google.com/store/apps/details?id=info.myapp.allemailaccess&hl=en&gl=us"
+    },
+    {
+        "title": "Mobile Call Number Locator",
+        "icon": "https://lh3.googleusercontent.com/zNhr1jXGspNIlDxwPwj7x7sguSnYTXPbf7idXivE3xiunusx4Mc0LtwNVN8__NJ6wQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 69024,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TEC+CREATIONS",
+        "updated": "June 19, 2019",
+        "size": "3.6M",
+        "installs": "10,000,000+",
+        "current_version": "2.1.7",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TEC CREATIONS",
+        "developer_email": "teccreations21@gmail.com",
+        "developer_url": "http://www.teccreations.co.in/mobilecalprivacypolicy.html",
+        "developer_address": null,
+        "app_id": "com.mobile.truecall.tracker.locator.teccreations",
+        "url": "https://play.google.com/store/apps/details?id=com.mobile.truecall.tracker.locator.teccreations&hl=en&gl=us"
+    },
+    {
+        "title": "Azar",
+        "icon": "https://lh3.googleusercontent.com/LiYMqTwfu8XCKFgsCEXCup5lN-5s1UlTKLzIb5bsrT4rTGa-O111vWiS8GczoaZN6Mw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/w5c28an5oeI",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1331179,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5582869145102839922",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Hyperconnect inc",
+        "developer_email": "help@azarlive.com",
+        "developer_url": "http://azarlive.com",
+        "developer_address": "Zip code 06620, Research & Product Development Center, Hyperconnect inc. Asia Division,\n14, Teheran-ro 63,Gangnamgu,Seoul,Korea",
+        "app_id": "com.azarlive.android",
+        "url": "https://play.google.com/store/apps/details?id=com.azarlive.android&hl=en&gl=us"
+    },
+    {
+        "title": "Caller Name Announcer  : Hands-Free Pro",
+        "icon": "https://lh3.googleusercontent.com/wtqDQq4uwsEdWz33vhDz-88B3Xt1sVLVj29Or6NWQisVmrQ7XBxbVjoXAyy6LouvMEc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30071,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5167898992825061825",
+        "updated": "July 30, 2019",
+        "size": "8.9M",
+        "installs": "5,000,000+",
+        "current_version": "6.11",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "JaredCo",
+        "developer_email": "support@jaredco.com",
+        "developer_url": "http://jaredcompany.com/privacy-statement/",
+        "developer_address": "6010 Tommy Douglas, Montreal, Qc H3X4A6",
+        "app_id": "com.jaredco.calleridannounce",
+        "url": "https://play.google.com/store/apps/details?id=com.jaredco.calleridannounce&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger app - Light & All-in-One",
+        "icon": "https://lh3.googleusercontent.com/d3hPYbFxXJAhHtQOXcUGNnBqu5_O2_-lD55TJkTW0dlBCH7pZmXuoj-NAVPqqjLEX0A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8680,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Palinka+Mob",
+        "updated": "July 23, 2019",
+        "size": "5.3M",
+        "installs": "1,000,000+",
+        "current_version": "9.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Palinka Mob",
+        "developer_email": "palinkaapps@gmail.com",
+        "developer_url": "https://www.mobiburn.com/#/policy?package_name=comm.essagechat.listing",
+        "developer_address": null,
+        "app_id": "comm.essagechat.listing",
+        "url": "https://play.google.com/store/apps/details?id=comm.essagechat.listing&hl=en&gl=us"
+    },
+    {
+        "title": "free video calls and chat",
+        "icon": "https://lh3.googleusercontent.com/iayWFEBJMZLO1yUQlbRKlHLcpBLAyUf2p0RwM_fXIAnsROePcaSqlEdtnbAMmEw7sLI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 604631,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5118391565434634824",
+        "updated": "June 25, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "7.5.2(800371)",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Mail.Ru Group",
+        "developer_email": "support_agent@corp.mail.ru",
+        "developer_url": "http://agent.mail.ru/android",
+        "developer_address": "Russian Federation 125167 Moscow Leningradskiy pr. 39  Build. 79",
+        "app_id": "ru.mail",
+        "url": "https://play.google.com/store/apps/details?id=ru.mail&hl=en&gl=us"
+    },
+    {
+        "title": "Truecaller: Caller ID, block robocalls & spam SMS",
+        "icon": "https://lh3.googleusercontent.com/dzL7UATNj7Xt7OkBjOGFoTvXu6lReEZ4zpiLvlWMwrWhtuodgB-2iz97XqNovZ7SaNk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/J8de8pIYjhw",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10634364,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5383913004303935162",
+        "updated": "July 30, 2019",
+        "size": "44M",
+        "installs": "100,000,000+",
+        "current_version": "10.40.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$249.00"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "True Software Scandinavia AB",
+        "developer_email": "support@truecaller.com",
+        "developer_url": "http://www.truecaller.com/",
+        "developer_address": "Kungsgatan 15\n111 43 Stockholm\nSweden",
+        "app_id": "com.truecaller",
+        "url": "https://play.google.com/store/apps/details?id=com.truecaller&hl=en&gl=us"
+    },
+    {
+        "title": "MyDISH",
+        "icon": "https://lh3.googleusercontent.com/T1pXUfnu6VkYaN_dYb8S45NeBLCFwoUIWzGOXgOzd0h4gwcvzww1jTA8VKoJRYgU6lc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24305,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "DISH+Network+LLC",
+        "updated": "July 11, 2019",
+        "size": "12M",
+        "installs": "1,000,000+",
+        "current_version": "3.20.8",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Adults only 18+",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "DISH Network LLC",
+        "developer_email": "myDishApp@dish.com",
+        "developer_url": "http://www.mydish.com/app/",
+        "developer_address": null,
+        "app_id": "com.dish.mydish",
+        "url": "https://play.google.com/store/apps/details?id=com.dish.mydish&hl=en&gl=us"
+    },
+    {
+        "title": "TalkU Free Calls +Free Texting +International Call",
+        "icon": "https://lh3.googleusercontent.com/xIjPRFE4tQYJWsL0bbJD_B16bIyvoytYM8xnWyuYAOh0gxsqCdmhRp2KZkuc7L_FYGo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 266424,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "TalkU+International+Inc.",
+        "updated": "July 30, 2019",
+        "size": "38M",
+        "installs": "10,000,000+",
+        "current_version": "4.11.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "TalkU International Inc.",
+        "developer_email": "info@talkyou.me",
+        "developer_url": "http://talkyou.me",
+        "developer_address": "440 N Wolfe Rd, Sunnyvale, CA 94085",
+        "app_id": "me.talkyou.app.im",
+        "url": "https://play.google.com/store/apps/details?id=me.talkyou.app.im&hl=en&gl=us"
+    },
+    {
+        "title": "JusTalk - Free Video Calls and Fun Video Chat",
+        "icon": "https://lh3.googleusercontent.com/C-KCc8M94x_6Jp6tdpsbe6F-zZsUyBukG-hllrHadaDGzk7Nc6hVob8Me9T1rdr6jxw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 231008,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7892913269075721495",
+        "updated": "July 29, 2019",
+        "size": "22M",
+        "installs": "10,000,000+",
+        "current_version": "7.4.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Teen",
+            "Violent References, Sexual Themes"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$54.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, In-App Purchases"
+        ],
+        "developer": "JusTalk",
+        "developer_email": "support@justalk.com",
+        "developer_url": "https://justalk.com",
+        "developer_address": "2nd Floor, Huazhi Building, No. 682 Xinhui Road, High Tech Zone, Ningbo",
+        "app_id": "com.juphoon.justalk",
+        "url": "https://play.google.com/store/apps/details?id=com.juphoon.justalk&hl=en&gl=us"
+    },
+    {
+        "title": "Gmail",
+        "icon": "https://lh3.googleusercontent.com/UHU0CNrJ0G9_JLLObJ8tk8LooGEEYpJFd93f4QYMKIGV9C3Zgtv2PpetUFur5lHp1w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5997009,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://support.google.com/mail/bin/topic.py?hl=en&topic=2451697&parent=2451730&ctx=topic",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.gm",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=us"
+    },
+    {
+        "title": "Fake Caller",
+        "icon": "https://lh3.googleusercontent.com/2KaHmLiU2-pOOdBFc_Glkf1JbIe2NgPkB1tPkf0jzLRLxgw47ejDudYT7jld9p-aQTBe",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6580,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Best+Fake+Call+Apps",
+        "updated": "July 11, 2019",
+        "size": "53M",
+        "installs": "500,000+",
+        "current_version": "3.4.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Best Fake Call Apps",
+        "developer_email": "help@fakecallerid.io",
+        "developer_url": "http://fakecallerid.io/privacy",
+        "developer_address": "PO Box 230485\nPortland, OR 97281",
+        "app_id": "tracebust.prank.app",
+        "url": "https://play.google.com/store/apps/details?id=tracebust.prank.app&hl=en&gl=us"
+    },
+    {
+        "title": "Securus Mobile",
+        "icon": "https://lh3.googleusercontent.com/b1NkBZDWnoFJpFI2Ey4zpmNp2oaplL3Z8DoQo1ODGTuR6sEwvhZHnjzz71y05rnnEA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5202,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Securus+Technologies,+Inc",
+        "updated": "July 22, 2019",
+        "size": "19M",
+        "installs": "500,000+",
+        "current_version": "2.7.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Securus Technologies, Inc",
+        "developer_email": "feedback@securustech.net",
+        "developer_url": "http://www.securustech.net",
+        "developer_address": null,
+        "app_id": "com.securus.videoclient",
+        "url": "https://play.google.com/store/apps/details?id=com.securus.videoclient&hl=en&gl=us"
+    },
+    {
+        "title": "Hangouts Dialer - Call Phones",
+        "icon": "https://lh3.googleusercontent.com/cJPlYyfWTt0TbPTHebWK5EH96Izod97f0gJRx8TOXYoGG1C4R250fzVGkB6M7x0O_g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 124288,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "September 2, 2015",
+        "size": "79k",
+        "installs": "10,000,000+",
+        "current_version": "0.1.100944346",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/hangouts/?p=androidhelp",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.hangoutsdialer",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.hangoutsdialer&hl=en&gl=us"
+    },
+    {
+        "title": "YouMail Voicemail & Spam Blocker",
+        "icon": "https://lh3.googleusercontent.com/amRSDFmK4moLnOZ_jr7_hEf1ka6Bhn9TChLfMER7ZYWIGlE9XrIyr74PnKAP2tBLoYCV",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ilqFolT1BYE",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 78966,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "YouMail,+Inc",
+        "updated": "July 1, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "4.3.9c",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "YouMail, Inc",
+        "developer_email": "support@youmail.com",
+        "developer_url": "http://www.youmail.com",
+        "developer_address": "43 Corporate Park, Suite 200\nIrvine, CA 92606",
+        "app_id": "com.youmail.android.vvm",
+        "url": "https://play.google.com/store/apps/details?id=com.youmail.android.vvm&hl=en&gl=us"
+    },
+    {
+        "title": "Samsung Accessory Service",
+        "icon": "https://lh3.googleusercontent.com/FbLbP-YrRpkkK9r9mwfnE6HDpK5wjAN7vdPJvBzSPInSS4qKV4acPGxJ6m2ivDOWaQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5820,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5200379633052405703",
+        "updated": "June 5, 2019",
+        "size": "8.9M",
+        "installs": "10,000,000+",
+        "current_version": "3.1.93.90418",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Samsung Electronics Co.,  Ltd.",
+        "developer_email": "noreply.sec@samsung.com",
+        "developer_url": "http://developer.samsung.com/galaxy#accessory",
+        "developer_address": "129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, 16677, Rep. of KOREA",
+        "app_id": "com.samsung.accessory",
+        "url": "https://play.google.com/store/apps/details?id=com.samsung.accessory&hl=en&gl=us"
+    },
+    {
+        "title": "Hiya - Caller ID & Block",
+        "icon": "https://lh3.googleusercontent.com/0w58zzstVGY4rAbG2IBe7lSW4MHw79a-8v0SOEkHLc7tYe2E6XE6Kdawug6agWgbJg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ybKOuZtFIJU",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 208556,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7752690764035618853",
+        "updated": "July 29, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "9.4.4-6645",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$14.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Hiya",
+        "developer_email": "support@hiya.com",
+        "developer_url": "http://www.hiya.com/",
+        "developer_address": "1301 Fifth Avenue\nSeattle WA 98126",
+        "app_id": "com.webascender.callerid",
+        "url": "https://play.google.com/store/apps/details?id=com.webascender.callerid&hl=en&gl=us"
+    },
+    {
+        "title": "Call Block",
+        "icon": "https://lh3.googleusercontent.com/fS0qIT_iNVZkiOij5SGQo4Zo3HNt_ezHoKv026HafB5TFIKTynLcWQgfVPnjiK5w6A",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/gBlL-RjsgLA",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3606,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5511903698132849539",
+        "updated": "July 25, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.0.251",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sappalodapps Development",
+        "developer_email": "sappalodapps@gmail.com",
+        "developer_url": "http://juridical.calldorado.com/privacy-policy/",
+        "developer_address": "Bagsvaerdvej 90\n2800 Kgs. Lyngby\nDenmark",
+        "app_id": "com.sappalodapps.callblocker",
+        "url": "https://play.google.com/store/apps/details?id=com.sappalodapps.callblocker&hl=en&gl=us"
+    },
+    {
+        "title": "Mr. Number - Caller ID & Spam Protection",
+        "icon": "https://lh3.googleusercontent.com/qZU6NDvSGBps9f_fnDQssrtTBpbIEipeRn0YzthH5O3xbk2HeLOl88gtPKOT7dz5-ig",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 198339,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7752690764035618853",
+        "updated": "July 29, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "9.4.4-6645",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Hiya",
+        "developer_email": "support@hiya.com",
+        "developer_url": "http://mrnumber.com",
+        "developer_address": "1301 Fifth Avenue\nSeattle WA 98126",
+        "app_id": "com.mrnumber.blocker",
+        "url": "https://play.google.com/store/apps/details?id=com.mrnumber.blocker&hl=en&gl=us"
+    },
+    {
+        "title": "Mobile Number Locator & Call Blocker",
+        "icon": "https://lh3.googleusercontent.com/01g7Tb-dlbYHTZih2tjDfCw5q2aVwUwJNp9VI42I6ZoQmMc6tco-Y1YWDA--rTS1XrI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19178,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ShamiTech+Apps",
+        "updated": "July 12, 2019",
+        "size": "7.6M",
+        "installs": "10,000,000+",
+        "current_version": "5.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ShamiTech Apps",
+        "developer_email": "ramsontechs@gmail.com",
+        "developer_url": "https://shaasaapps.blogspot.com/2018/07/privacypolicy.html",
+        "developer_address": null,
+        "app_id": "com.ram.itsl",
+        "url": "https://play.google.com/store/apps/details?id=com.ram.itsl&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger for Messages & Video Chat for Free",
+        "icon": "https://lh3.googleusercontent.com/4szK5cqGs3F-blnmMTNeExYJU8UaIqg9b27NJgUPv6KCm8Td-Y7FGoD64E-pkuLtBg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3038,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8696216234951434473",
+        "updated": "June 24, 2019",
+        "size": "9.2M",
+        "installs": "1,000,000+",
+        "current_version": "1.26",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Messenger : Free Texts and Messages by AppyHigh",
+        "developer_email": "help@appyhigh.com",
+        "developer_url": "https://privacypolicy639727281.wordpress.com/2019/01/18/privacy-policy-messenger-lite/",
+        "developer_address": "Tower-7, Sector-48, Gurgaon",
+        "app_id": "messenger.chat.social.messenger.lite",
+        "url": "https://play.google.com/store/apps/details?id=messenger.chat.social.messenger.lite&hl=en&gl=us"
+    },
+    {
+        "title": "Prank Caller - Prank Call App",
+        "icon": "https://lh3.googleusercontent.com/2W0K0YFtZXNgkHJzlL-e3gPqnfTadiHG5UAt8rb3cAXPWIM55AgaC3YbxxRTz_b9I5M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9346,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6501157056235760909",
+        "updated": "September 21, 2018",
+        "size": "18M",
+        "installs": "500,000+",
+        "current_version": "2.3.6",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Teen",
+            "Sexual Themes"
+        ],
+        "iap_range": [
+            "$5.99",
+            "$31.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Symba Ventures Apps",
+        "developer_email": "hello@prankcaller.io",
+        "developer_url": "https://prankcaller.io",
+        "developer_address": "PO Box 230485\nPortland, OR 97281",
+        "app_id": "prank.caller.io",
+        "url": "https://play.google.com/store/apps/details?id=prank.caller.io&hl=en&gl=us"
+    },
+    {
+        "title": "Opera Mini - fast web browser",
+        "icon": "https://lh3.googleusercontent.com/R0VECQXrD-vXBVJ2QxuhtG5KD4Tj4gzkzv2u64xLmncnwOZk5-kPEu7GWWxpLtXpwgCV",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6235994,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6928237143520558692",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases, Unrestricted Internet"
+        ],
+        "developer": "Opera",
+        "developer_email": "support-mini-android@opera.com",
+        "developer_url": "http://www.opera.com",
+        "developer_address": "Gjerdrums vei 19\nNO-0484 OSLO",
+        "app_id": "com.opera.mini.native",
+        "url": "https://play.google.com/store/apps/details?id=com.opera.mini.native&hl=en&gl=us"
+    },
+    {
+        "title": "WAMR - Recover deleted messages & status download",
+        "icon": "https://lh3.googleusercontent.com/TzV3TRpfx2u9JIrvpuCexvvkK9nCo6E2qBS3qk-e2xSA-1SPOkmIvNr3Jbm0HDyD87A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12497,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "drilens+apps",
+        "updated": "July 15, 2019",
+        "size": "11M",
+        "installs": "5,000,000+",
+        "current_version": "0.8.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "drilens apps",
+        "developer_email": "kurtidrilon.dev+wamr@gmail.com",
+        "developer_url": "https://sites.google.com/view/wamr/privacy",
+        "developer_address": null,
+        "app_id": "com.drilens.wamr",
+        "url": "https://play.google.com/store/apps/details?id=com.drilens.wamr&hl=en&gl=us"
+    },
+    {
+        "title": "Personal stickers for WhatsApp",
+        "icon": "https://lh3.googleusercontent.com/PZVDk_oWnFlm1xwsHypwY40GdZ7sc7AGRXOG9XPPN-WEPYM0sA1i8t6EwYe_DSN_wro",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 122363,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Stukalov",
+        "updated": "June 25, 2019",
+        "size": "2.0M",
+        "installs": "10,000,000+",
+        "current_version": "1.13",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Stukalov",
+        "developer_email": "WaLocalStorageStickers@stukalov.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "com.dstukalov.walocalstoragestickers",
+        "url": "https://play.google.com/store/apps/details?id=com.dstukalov.walocalstoragestickers&hl=en&gl=us"
+    },
+    {
+        "title": "Caller ID  & Call Blocker Free",
+        "icon": "https://lh3.googleusercontent.com/0kfZMR-X0WYpoIMJLqAw2ptzG4OXP7LE060A1eDA7WkAMUQ9evrKZohySClAhOMpqA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Za2bTJZE7jw",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 58323,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Call+Free,+Caller+ID,+Call+Recorder+by+Call+Team",
+        "updated": "July 10, 2019",
+        "size": "10M",
+        "installs": "10,000,000+",
+        "current_version": "1.7.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$5.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Call Free, Caller ID, Call Recorder by Call Team",
+        "developer_email": "bestliferecorder@gmail.com",
+        "developer_url": "http://callapps.studio/callerId.html",
+        "developer_address": null,
+        "app_id": "caller.id.phone.number.block",
+        "url": "https://play.google.com/store/apps/details?id=caller.id.phone.number.block&hl=en&gl=us"
+    },
+    {
+        "title": "Phone Free Call - Global WiFi Calling App",
+        "icon": "https://lh3.googleusercontent.com/vQMtrucUV4x86zuozBQfo4yna8pd4kL_Y04V_VGlIJ-hehwteZVv1DeHTvkL1wlhtQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37613,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Hotspot+VPN%28+Proxy+%26+Security+%29",
+        "updated": "July 22, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Hotspot VPN( Proxy & Security )",
+        "developer_email": "topmobi-inc@hotmail.com",
+        "developer_url": "http://api.wecall.info/freecalls_privacy.html",
+        "developer_address": "\u9999\u6e2f\u4e2d\u74b0\u7687\u540e\u5927\u9053\u4e2d99\u865f",
+        "app_id": "free.call.international.phone.calling",
+        "url": "https://play.google.com/store/apps/details?id=free.call.international.phone.calling&hl=en&gl=us"
+    },
+    {
+        "title": "Orbot: Proxy with Tor",
+        "icon": "https://lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/JWII85UlzKw",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 153536,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+Tor+Project",
+        "updated": "December 14, 2018",
+        "size": "18M",
+        "installs": "10,000,000+",
+        "current_version": "16.0.5-RC-2-tor-0.3.4.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Tor Project",
+        "developer_email": "support@guardianproject.info",
+        "developer_url": "https://guardianproject.info/apps/orbot/",
+        "developer_address": null,
+        "app_id": "org.torproject.android",
+        "url": "https://play.google.com/store/apps/details?id=org.torproject.android&hl=en&gl=us"
+    },
+    {
+        "title": "UC Browser \u2013 Video Downloader, Watch Video Offline",
+        "icon": "https://lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/dRRoKBz3zds",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20070505,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5209823851140033458",
+        "updated": "July 26, 2019",
+        "size": "46M",
+        "installs": "500,000,000+",
+        "current_version": "12.12.5.1189",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Teen",
+            "Violent References, Sexual Themes"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "UCWeb Singapore Pte. Ltd.",
+        "developer_email": "help@idc.ucweb.com",
+        "developer_url": "https://m.ucweb.com",
+        "developer_address": null,
+        "app_id": "com.UCMobile.intl",
+        "url": "https://play.google.com/store/apps/details?id=com.UCMobile.intl&hl=en&gl=us"
+    },
+    {
+        "title": "Bluetooth Auto Connect",
+        "icon": "https://lh3.googleusercontent.com/Nf77qeex2PAQjAg3zTQ0eOvAHe_uacSbPNXgqHlI3KJc_uusrw-iAvRbfSO9cGrKDRjA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23661,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "UniqTec+Inc.",
+        "updated": "February 28, 2019",
+        "size": "1.8M",
+        "installs": "10,000,000+",
+        "current_version": "4.6.2",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "UniqTec Inc.",
+        "developer_email": "info@uniqtec.eu",
+        "developer_url": "http://www.uniqtec.eu/applications/bluetooth-auto-connect.html",
+        "developer_address": "Nekazanka 883/8\n110 00 Praha 1\nCzech Republic",
+        "app_id": "org.myklos.btautoconnect",
+        "url": "https://play.google.com/store/apps/details?id=org.myklos.btautoconnect&hl=en&gl=us"
+    },
+    {
+        "title": "New Stickers For WhatsApp - WAStickerapps Free",
+        "icon": "https://lh3.googleusercontent.com/mlFtILzIoQqhJdoiRJj47m7eBBW47E0Vc_5siY8cuTyEP2Gz57oqUHCauQk_g3FKv_Pv",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 48111,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7706608939148513385",
+        "updated": "July 22, 2019",
+        "size": "14M",
+        "installs": "5,000,000+",
+        "current_version": "1.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Violence, Blood and Gore"
+        ],
+        "iap_range": [
+            "$5.00",
+            "$5.49"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "9D Technology",
+        "developer_email": "9dtech.apps@gmail.com",
+        "developer_url": "https://sites.google.com/view/9dtech/home",
+        "developer_address": "101 Reykjav\u00edk, Iceland",
+        "app_id": "wastickerapps.stickersforwhatsapp",
+        "url": "https://play.google.com/store/apps/details?id=wastickerapps.stickersforwhatsapp&hl=en&gl=us"
+    },
+    {
+        "title": "SmartWatch Sync",
+        "icon": "https://lh3.googleusercontent.com/3zth2Z7V4uxJtoelrEF5opm_nquCLsFvPrOPvfYMpsjqo7Bl0IF7iYeCYpZeQXCyY4o",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "2.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3000,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "myfavoritedev",
+        "updated": "July 8, 2019",
+        "size": "6.9M",
+        "installs": "1,000,000+",
+        "current_version": "5.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "myfavoritedev",
+        "developer_email": "onsoftstudio@gmail.com",
+        "developer_url": "http://smartwatchsync.icu/",
+        "developer_address": null,
+        "app_id": "com.OnSoft.android.BluetoothChat",
+        "url": "https://play.google.com/store/apps/details?id=com.OnSoft.android.BluetoothChat&hl=en&gl=us"
+    },
+    {
+        "title": "Textra SMS",
+        "icon": "https://lh3.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 376108,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Delicious",
+        "updated": "July 24, 2019",
+        "size": "9.2M",
+        "installs": "10,000,000+",
+        "current_version": "4.15",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Delicious",
+        "developer_email": "help@textra.me",
+        "developer_url": "https://textra.me",
+        "developer_address": "Suite 40, Upper Deck\nJones Bay Wharf\n26-32 Pirrama Road\nPyrmont NSW 2009\nAustralia",
+        "app_id": "com.textra",
+        "url": "https://play.google.com/store/apps/details?id=com.textra&hl=en&gl=us"
+    },
+    {
+        "title": "Firefox Focus: The privacy browser",
+        "icon": "https://lh3.googleusercontent.com/uoqToM7l-x3lZNjFOzNkVxEilkKfEzGh9v8BB8b6pP1l9TltE4Sxd1XGJuiksjM4a1s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 50188,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7083182635971239206",
+        "updated": "June 15, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Unrestricted Internet"
+        ],
+        "developer": "Mozilla",
+        "developer_email": "android-marketplace-notices@mozilla.com",
+        "developer_url": "http://www.mozilla.org/",
+        "developer_address": null,
+        "app_id": "org.mozilla.focus",
+        "url": "https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en&gl=us"
+    },
+    {
+        "title": "Line2 - Second Phone Number",
+        "icon": "https://lh3.googleusercontent.com/KFAHUAe4UBq_6i6JDFYAUMNKpdCSaVkQfxiyLL1b1AHi5ZhjieV3SVInw5sAu4NVmbY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/CB1HruqOO7E",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13620,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Line2+Inc.",
+        "updated": "July 1, 2019",
+        "size": "15M",
+        "installs": "1,000,000+",
+        "current_version": "4.1.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.95",
+            "$99.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Line2 Inc.",
+        "developer_email": "developer.android@line2.com",
+        "developer_url": "http://www.line2.com/",
+        "developer_address": "535 Mission St. Suite 1926, San Francisco, CA 94105",
+        "app_id": "com.toktumi.line2",
+        "url": "https://play.google.com/store/apps/details?id=com.toktumi.line2&hl=en&gl=us"
+    },
+    {
+        "title": "Xfinity Connect",
+        "icon": "https://lh3.googleusercontent.com/lqW1CMGZ7s99llnzJlkAFC1-lXRM456wS6jg9j8s8WMAGCVHWHvHnoEiWLTAiSikTug",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 87346,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Comcast+Cable+Communications+Management,+LLC",
+        "updated": "June 25, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "7.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Comcast Cable Communications Management, LLC",
+        "developer_email": "Xfinity_Connect@comcast.com",
+        "developer_url": "http://www.comcast.com/connectapp",
+        "developer_address": null,
+        "app_id": "net.comcast.ottclient",
+        "url": "https://play.google.com/store/apps/details?id=net.comcast.ottclient&hl=en&gl=us"
+    },
+    {
+        "title": "AI Message - Message iOS12",
+        "icon": "https://lh3.googleusercontent.com/ImStoyHC_Am9n_VsMpHGyr2epxTRVF1TwYQE47n3iXwc0cZnIfiHFBe1GeoV4CsapcvT",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/5JVo9tf9OyA",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16572,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6558261298422090713",
+        "updated": "May 17, 2019",
+        "size": "18M",
+        "installs": "100,000+",
+        "current_version": "11.2.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Tomato 5% Studio",
+        "developer_email": "dodanh409@yahoo.com",
+        "developer_url": "https://sites.google.com/site/messageos133/",
+        "developer_address": "Ba Dinh - Ha Noi",
+        "app_id": "com.imessage.text.ios",
+        "url": "https://play.google.com/store/apps/details?id=com.imessage.text.ios&hl=en&gl=us"
+    },
+    {
+        "title": "Phone + Contacts and Calls",
+        "icon": "https://lh3.googleusercontent.com/2PIUrATM2HWB5kASUIokfkbcy96diQhucXjBgn0-IuiMovoCYos9b1Hz2k6y99JhtWA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/1z_6vx6SzKk",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 39722,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9069494661257660111",
+        "updated": "July 12, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "3.7.0",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.62"
+        ],
+        "interactive_elements": null,
+        "developer": "FUG",
+        "developer_email": "caller.fug@gmail.com",
+        "developer_url": "http://www.fug.com.ua",
+        "developer_address": "\u041c\u0430\u043b\u0430\u044f \u041e\u0440\u0434\u044b\u043d\u043a\u0430 \u0443\u043b., 35 \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 2, \u041c\u043e\u0441\u043a\u0432\u0430",
+        "app_id": "v.d.d.answercall",
+        "url": "https://play.google.com/store/apps/details?id=v.d.d.answercall&hl=en&gl=us"
+    },
+    {
+        "title": "Samsung Internet Browser",
+        "icon": "https://lh3.googleusercontent.com/jsx9IGS1_4vW2SdP1BLxnrnC2c3PcMnNi7m7zHXHaDEnw4Ne4k-UtSO8wfZT3xB0IdM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1033953,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5200379633052405703",
+        "updated": "July 26, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Unrestricted Internet"
+        ],
+        "developer": "Samsung Electronics Co.,  Ltd.",
+        "developer_email": "noreply.sec@samsung.com",
+        "developer_url": "http://help.content.samsung.com",
+        "developer_address": "129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, 16677, Rep. of KOREA",
+        "app_id": "com.sec.android.app.sbrowser",
+        "url": "https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser&hl=en&gl=us"
+    },
+    {
+        "title": "AT&T Call Protect",
+        "icon": "https://lh3.googleusercontent.com/sN9zzAxSMH1QmsD7kN26QKlrrRmLVvhhjoBhA_nIwgNakX5Au-EPCTtkIewWSCgrgfsA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/6OpxjQx1B4c",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17654,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AT%26T+Services,+Inc.",
+        "updated": "June 19, 2019",
+        "size": "16M",
+        "installs": "10,000,000+",
+        "current_version": "2.4.0-167",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "AT&T Services, Inc.",
+        "developer_email": "g05043@att.com",
+        "developer_url": "http://att.com/securitycallprotect",
+        "developer_address": "208 S Akard St,\n\nDallas, TX 75202 USA",
+        "app_id": "com.att.callprotect",
+        "url": "https://play.google.com/store/apps/details?id=com.att.callprotect&hl=en&gl=us"
+    },
+    {
+        "title": "Portable Wi-Fi hotspot",
+        "icon": "https://lh3.googleusercontent.com/xSYRwRJ7hlzvjwuBUisRABjBC3oIj_jTvo-ypOVJ1QPyacZSTcqEqo1yU03myaUATA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 145107,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "CORE+TECHNOLOGY",
+        "updated": "September 11, 2018",
+        "size": "2.3M",
+        "installs": "10,000,000+",
+        "current_version": "1.5.2.4-24",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "CORE TECHNOLOGY",
+        "developer_email": "support@core-technology.co.kr",
+        "developer_url": "http://www.core-technology.co.kr",
+        "developer_address": "662, GYEONGIN-RO, GURO-GU, SEOUL, KOREA\n15F, DCUBE OFFICE\n\nCORE TECHNOLOGY\n+82 70 41580895",
+        "app_id": "kr.core.technology.wifi.hotspot",
+        "url": "https://play.google.com/store/apps/details?id=kr.core.technology.wifi.hotspot&hl=en&gl=us"
+    },
+    {
+        "title": "Whitepages People Search",
+        "icon": "https://lh3.googleusercontent.com/RdrlTtyLhL99X_0UllCZSkyg7_tun1lWRygtwfJPFK9GVbBRBsoW7AE2lvjg70c08Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/fa0DA79L7vE",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 56500,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6568719140326217975",
+        "updated": "June 24, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "3.3.21",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$89.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Whitepages",
+        "developer_email": "mobilesupport@whitepages.com",
+        "developer_url": "https://www.whitepages.com",
+        "developer_address": "Whitepages Inc.\n1301 5th Avenue, STE 1600\nSeattle, WA 98101",
+        "app_id": "com.whitepages.search",
+        "url": "https://play.google.com/store/apps/details?id=com.whitepages.search&hl=en&gl=us"
+    },
+    {
+        "title": "Skype Lite - Free Video Call & Chat",
+        "icon": "https://lh3.googleusercontent.com/Tqgy9wddo_e_IegqVDAiYfPcWg0iXESll_DvU2yDfdJQCj-gzWcGOnO9tb_WY-dEUuY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/yh4hHFujU9k",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34856,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Skype",
+        "updated": "March 27, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "1.79.0.1",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Skype",
+        "developer_email": "skypeuploader@googlemail.com",
+        "developer_url": "http://www.skype.com",
+        "developer_address": "Skype Software S.\u00e0.r.l, 23 \u2013 29 Rives de Clausen, L-2165 Luxembourg",
+        "app_id": "com.skype.m2",
+        "url": "https://play.google.com/store/apps/details?id=com.skype.m2&hl=en&gl=us"
+    },
+    {
+        "title": "Voxer Walkie Talkie Messenger",
+        "icon": "https://lh3.googleusercontent.com/HKeyX-nFSz8qHl05cmDJl4CGRFouqXFkVctxgWhBCbPCPgZbJ8Q88FHbux7E4dAOxGU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rX05TcVYQ3Y",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 231230,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "VoxerPro+LLC",
+        "updated": "April 15, 2019",
+        "size": "24M",
+        "installs": "10,000,000+",
+        "current_version": "3.18.19.21086",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "VoxerPro LLC",
+        "developer_email": "support@voxer.com",
+        "developer_url": "http://www.voxer.com",
+        "developer_address": "660 Mission St. Suite 300\nSan Francisco. CA 94105",
+        "app_id": "com.rebelvox.voxer",
+        "url": "https://play.google.com/store/apps/details?id=com.rebelvox.voxer&hl=en&gl=us"
+    }
+]

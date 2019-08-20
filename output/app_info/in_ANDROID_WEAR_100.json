@@ -1,0 +1,4458 @@
+[
+    {
+        "title": "Messenger \u2013 Text and Video Chat for Free",
+        "icon": "https://lh3.googleusercontent.com/rkBi-WHAI-dzkAIYjGBSMUToUoi6SWKoy9Fu7QybFb6KVOJweb51NNzokTtjod__MzA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 67729121,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Facebook",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Facebook",
+        "developer_email": "android-support@fb.com",
+        "developer_url": "https://www.facebook.com/games/fbmessenger_android/",
+        "developer_address": "1 Hacker Way\nMenlo Park, CA 94025",
+        "app_id": "com.facebook.orca",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=in"
+    },
+    {
+        "title": "Spotify: Discover music, podcasts, and playlists",
+        "icon": "https://lh3.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15762941,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Spotify+Ltd.",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "8.5.16.781",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Spotify Ltd.",
+        "developer_email": "android-support@spotify.com",
+        "developer_url": "https://www.spotify.com",
+        "developer_address": "Spotify Ltd\nc/o Goodwille Ltd\nSt James House\n13 Kensington Square\nLondon W8 5HD\nGreat Britain",
+        "app_id": "com.spotify.music",
+        "url": "https://play.google.com/store/apps/details?id=com.spotify.music&hl=en&gl=in"
+    },
+    {
+        "title": "Telegram",
+        "icon": "https://lh3.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3856818,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Telegram+FZ-LLC",
+        "updated": "July 7, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Telegram FZ-LLC",
+        "developer_email": "support@telegram.org",
+        "developer_url": "https://telegram.org",
+        "developer_address": "Business Central Towers, Tower A, Office 1003/1004, P.O. Box 501919, Dubai, United Arab Emirates",
+        "app_id": "org.telegram.messenger",
+        "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=in"
+    },
+    {
+        "title": "Uber",
+        "icon": "https://lh3.googleusercontent.com/qy_wZ92sFQccojEtscg52vtdAQmCIeQ4jsybMPmuML9Or7_SEOyrt0Jn0wyG-l2Fyw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MAPS_AND_NAVIGATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6364888,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7908612043055486674",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Uber Technologies, Inc.",
+        "developer_email": "support@uber.com",
+        "developer_url": "http://www.uber.com",
+        "developer_address": null,
+        "app_id": "com.ubercab",
+        "url": "https://play.google.com/store/apps/details?id=com.ubercab&hl=en&gl=in"
+    },
+    {
+        "title": "Weather radar and live maps - The Weather Channel",
+        "icon": "https://lh3.googleusercontent.com/RV3DftXlA7WUV7w-BpE8zM0X7Y4RQd2vBvZVv6A01DEGb_eXFRjLmUhSqdbqrEl9klI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ypZvKpVq5Sw",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1899748,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5938833519207566184",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Shares Info, Shares Location"
+        ],
+        "interactive_elements": [
+            "Shares Info, Shares Location"
+        ],
+        "developer": "The Weather Channel",
+        "developer_email": "android.support@weather.com",
+        "developer_url": "http://feedback.weather.com/",
+        "developer_address": "1001 Summit Blvd\nBrookhaven, GA 30319",
+        "app_id": "com.weather.Weather",
+        "url": "https://play.google.com/store/apps/details?id=com.weather.Weather&hl=en&gl=in"
+    },
+    {
+        "title": "Naukri.com Job Search",
+        "icon": "https://lh3.googleusercontent.com/n_2OvXGMCLjuxrpE82CitXL_99bKg-jsRl60MW1NwMVAHgK_-stNBJyn-AjMD83qmZU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/wKs-fTXQBgY",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 826430,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "infoedge.com",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "infoedge.com",
+        "developer_email": "android@naukri.com",
+        "developer_url": "http://naukri.com",
+        "developer_address": null,
+        "app_id": "naukriApp.appModules.login",
+        "url": "https://play.google.com/store/apps/details?id=naukriApp.appModules.login&hl=en&gl=in"
+    },
+    {
+        "title": "Messages",
+        "icon": "https://lh3.googleusercontent.com/udNG8QslDMGl_mcCnmfYy_wHcL6EvIjDtl4JJu_KsprzBnWIJYbQTmPg5fgNPBYRllU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1326951,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/mobile/android/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.messaging",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en&gl=in"
+    },
+    {
+        "title": "Quikr \u2013 Search Jobs, Mobiles, Cars, Home Services",
+        "icon": "https://lh3.googleusercontent.com/l5vy1ANtkBFog57kFEGOtPKYH7HDhnUFePivRBa3LbyzgqohMGEMfQOkYCRu-gQgRQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rATiEMmqi6k",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 782112,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4919594609020723282",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "Quikr India Pvt. Ltd.",
+        "developer_email": "mobileapps@quikr.com",
+        "developer_url": "http://www.quikr.com/",
+        "developer_address": null,
+        "app_id": "com.quikr",
+        "url": "https://play.google.com/store/apps/details?id=com.quikr&hl=en&gl=in"
+    },
+    {
+        "title": "Shazam",
+        "icon": "https://lh3.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3522523,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Apple,+Inc.",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Apple, Inc.",
+        "developer_email": "android@apple.com",
+        "developer_url": "http://www.shazam.com",
+        "developer_address": "Apple Inc.\nOne Apple Park Way\nCupertino, CA 95014\nUSA",
+        "app_id": "com.shazam.android",
+        "url": "https://play.google.com/store/apps/details?id=com.shazam.android&hl=en&gl=in"
+    },
+    {
+        "title": "Google Play Music",
+        "icon": "https://lh3.googleusercontent.com/HQm_x5ZH-Y61Ca6Q8_TJLmkROyW4yso6DjRxqBaf3Y7yO1yfAyWkmyB5Cry5GNBx45PI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4051729,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "May 16, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://play.google.com/music/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.music",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.music&hl=en&gl=in"
+    },
+    {
+        "title": "Google Handwriting Input",
+        "icon": "https://lh3.googleusercontent.com/u3HSCgMVYDFPCGhsq0BtLZL66vjnQloig1H3TMkwPCw1fST58RDKM91xnDZtM6RfNGE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 105958,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "August 2, 2018",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/faqs/faq/6188721",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.handwriting.ime",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.handwriting.ime&hl=en&gl=in"
+    },
+    {
+        "title": "Google Fit: Health and Activity Tracking",
+        "icon": "https://lh3.googleusercontent.com/jArSD-kxOa2llPXvqrjRcEJdL4XhjP8-WqEfg9UAlYF8v0qzXAZ0EI5k96l0pf3tDNg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 311498,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 15, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.android.com/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.fitness",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en&gl=in"
+    },
+    {
+        "title": "AccuWeather: Weather Alerts & Live Storm Radar",
+        "icon": "https://lh3.googleusercontent.com/iS1JDAsBL9-_dessIjyaqtSfQl80XGVVnMoaNt1s-TzUydIDu4xId8Chjog3e6etA0k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/oU2mk6hHUnk",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2303559,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "AccuWeather",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "AccuWeather",
+        "developer_email": "support@accuweather.com",
+        "developer_url": "http://www.accuweather.com",
+        "developer_address": "385 Science Park Road\nState College, PA 16803",
+        "app_id": "com.accuweather.android",
+        "url": "https://play.google.com/store/apps/details?id=com.accuweather.android&hl=en&gl=in"
+    },
+    {
+        "title": "Google Keep - Notes and Lists",
+        "icon": "https://lh3.googleusercontent.com/zGDJ3nGGv_QqhHoY6wXI1qvG9eo-bj03HGVreITCkr-BIfVfGEvnczJKsNzgiC57Ds0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 807820,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/?p=notes_main",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.keep",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=in"
+    },
+    {
+        "title": "Wego Flights, Hotels, Travel Deals Booking App",
+        "icon": "https://lh3.googleusercontent.com/X_yD8HfFY0KT7tc9CTz-rf1JC67sS572RzB-sFhtFK1emhpXovuSeWyTqWTAs9vt-g",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/WGH5yCjJgeA",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 107679,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5445025509717706143",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wego.com",
+        "developer_email": "mobile@wego.com",
+        "developer_url": "https://www.wego.com",
+        "developer_address": null,
+        "app_id": "com.wego.android",
+        "url": "https://play.google.com/store/apps/details?id=com.wego.android&hl=en&gl=in"
+    },
+    {
+        "title": "CallApp: Caller ID, Call Blocker & Call Recorder",
+        "icon": "https://lh3.googleusercontent.com/m1h8dsxef2CaE96KRWO6OvAqJ9s8kKS9myktontz1zBIuBbsi4U2e5eU02u_4lRjIah5",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 538563,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6882074241033486164",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, In-App Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "CallApp Caller ID Software",
+        "developer_email": "support@callapp.com",
+        "developer_url": "http://callapp.com",
+        "developer_address": "Arlozorov 111, Tel Aviv, Israel",
+        "app_id": "com.callapp.contacts",
+        "url": "https://play.google.com/store/apps/details?id=com.callapp.contacts&hl=en&gl=in"
+    },
+    {
+        "title": "Calculator",
+        "icon": "https://lh3.googleusercontent.com/FpQXb3fjRebih0ZMiuXK4NuWARD4zyG-5un8UYDoM0ha7IBOE9iqBtZYbxpV2kKB6w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/H8MAEc4FE3c",
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 27586,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5699017451728970123",
+        "updated": "February 7, 2017",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "6.0.10",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Xlythe (Calculator)",
+        "developer_email": "xlythe@gmail.com",
+        "developer_url": "http://xlythe.com",
+        "developer_address": "200 Rector Pl, Apt 4F\nNew York, NY 10280",
+        "app_id": "com.android2.calculator3",
+        "url": "https://play.google.com/store/apps/details?id=com.android2.calculator3&hl=en&gl=in"
+    },
+    {
+        "title": "Easy Voice Recorder",
+        "icon": "https://lh3.googleusercontent.com/dWhFDwsXEsL4nhB3jsvejCsnE7JBqOBLkYOh22wP8fwEx5sOAWyEpb5wr2b9smBocas",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/9Y_cwFx2fY4",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 278378,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8524844809417490477",
+        "updated": "May 28, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Digipom",
+        "developer_email": "support@digipom.com",
+        "developer_url": "http://www.digipom.com/",
+        "developer_address": "Digipom Inc.\n1200 Avenue McGill College Suite 1100\nMontreal, QC H3B 4G7",
+        "app_id": "com.coffeebeanventures.easyvoicerecorder",
+        "url": "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en&gl=in"
+    },
+    {
+        "title": "\u221e Infinity Loop",
+        "icon": "https://lh3.googleusercontent.com/UKkJCxLYVLG4He19hlOvJc886FudDCUrn33nQ3wyYQ_3G7lBem0kzobruHM8i016UPY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/7TxSeoVM7CE",
+        "category": [
+            "GAME_PUZZLE"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 556920,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InfinityGames.io",
+        "updated": "July 5, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "5.99",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "InfinityGames.io",
+        "developer_email": "support@infinitygames.io",
+        "developer_url": "https://www.infinitygames.io",
+        "developer_address": "Rua Alves Redol, 3B\n2675-285, Odivelas\nPortugal",
+        "app_id": "com.balysv.loop",
+        "url": "https://play.google.com/store/apps/details?id=com.balysv.loop&hl=en&gl=in"
+    },
+    {
+        "title": "Weather XL PRO",
+        "icon": "https://lh3.googleusercontent.com/5ezl1ZJf8Cia_zb2jLuK8GwY_LsRKhfgnwTqyUqydzfBjaQ1fC3e6f_7VXO1cS00acGf",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 396329,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6534515373655701527",
+        "updated": "July 5, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "1.4.5.4",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Exovoid S\u00e0rl",
+        "developer_email": "support@exovoid.ch",
+        "developer_url": "http://www.exovoid.ch",
+        "developer_address": "Bois-de-Ban 28\n1066 Epalinges\nSwitzerland",
+        "app_id": "com.exovoid.weather.app",
+        "url": "https://play.google.com/store/apps/details?id=com.exovoid.weather.app&hl=en&gl=in"
+    },
+    {
+        "title": "Weather 14 Days - Meteored",
+        "icon": "https://lh3.googleusercontent.com/xnp4bOz1uV-AzKnEqz1LPNJ4Q3P2GAxFqSfXCanCH0AzEBzUGNqM9VtNU5K_QCxUYVSG",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/UsGlhc2w-PU",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 370651,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8458932010894797678",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Meteored",
+        "developer_email": "support@meteored.com",
+        "developer_url": "http://www.tiempo.com",
+        "developer_address": "C/ Patr\u00f3n, 19\n30893 - Almendricos\nMurcia - Espa\u00f1a",
+        "app_id": "aplicacion.tiempo",
+        "url": "https://play.google.com/store/apps/details?id=aplicacion.tiempo&hl=en&gl=in"
+    },
+    {
+        "title": "Runtastic Results Fitness & Home Workouts",
+        "icon": "https://lh3.googleusercontent.com/NFYkXcCE6zq5OAmxYn4hooLHfy94w4KCCcKJcHbofnzrWgkUnLXa0EfEt5ahdCqBsg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 47201,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8438666261259599516",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Runtastic",
+        "developer_email": "support.android@runtastic.com",
+        "developer_url": "http://www.runtastic.com",
+        "developer_address": "Pluskaufstrasse 7\n4061 Pasching\nAUSTRIA",
+        "app_id": "com.runtastic.android.results.lite",
+        "url": "https://play.google.com/store/apps/details?id=com.runtastic.android.results.lite&hl=en&gl=in"
+    },
+    {
+        "title": "Google",
+        "icon": "https://lh3.googleusercontent.com/DKoidc0T3T1KvYC2stChcX9zwmjKj1pgmg3hXzGBDQXM8RG_7JjgiuS0CLOh8DUa7as",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12014171,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://www.google.com/search/about/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.googlequicksearchbox",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=en&gl=in"
+    },
+    {
+        "title": "Maps - Navigate & Explore",
+        "icon": "https://lh3.googleusercontent.com/MOf9Kxxkj7GvyZlTZOnUzuYv0JAweEhlxJX6gslQvbvlhLK5_bSTK6duxY2xfbBsj43H",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10428172,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://maps.google.com/about/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.maps",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en&gl=in"
+    },
+    {
+        "title": "Full Battery & Theft Alarm",
+        "icon": "https://lh3.googleusercontent.com/uY7YCS5M6ZlMcAFHMfR2vSLM3rb-_j304I-q54Pw7tHfONoTSxMkf6THzIm1KtbHTuk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37222,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Arda+%C3%87UHADARO%C4%9ELU",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Arda \u00c7UHADARO\u011eLU",
+        "developer_email": "developerpextor@gmail.com",
+        "developer_url": "https://www.fullbatterytheftalarm.com",
+        "developer_address": "developerpextor@gmail.com",
+        "app_id": "com.pextor.batterychargeralarm",
+        "url": "https://play.google.com/store/apps/details?id=com.pextor.batterychargeralarm&hl=en&gl=in"
+    },
+    {
+        "title": "Runtastic Running App: Run & Mileage Tracker",
+        "icon": "https://lh3.googleusercontent.com/jD7wcg4J_AfiaVXsmhDQlGZFXo9sMHBMSmt4GI0_wjQEZErE4m9vp4o9IQmIDo4m01g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 902255,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8438666261259599516",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Shares Location, Digital Purchases"
+        ],
+        "developer": "Runtastic",
+        "developer_email": "support.android@runtastic.com",
+        "developer_url": "http://www.runtastic.com",
+        "developer_address": "Pluskaufstrasse 7\n4061 Pasching\nAUSTRIA",
+        "app_id": "com.runtastic.android",
+        "url": "https://play.google.com/store/apps/details?id=com.runtastic.android&hl=en&gl=in"
+    },
+    {
+        "title": "My Location: GPS Maps, Share & Save Locations",
+        "icon": "https://lh3.googleusercontent.com/NhEt2bCw0t-jBvJxn98uGV1L0fU_owlqk3xZhUnInJ7_sH72M6dgbXQ4l32qMJbslGQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/SAefTkUPMXU",
+        "category": [
+            "MAPS_AND_NAVIGATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35917,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5842073697631524762",
+        "updated": "July 4, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Andev",
+        "developer_email": "andev.service@gmail.com",
+        "developer_url": "http://www.places.app",
+        "developer_address": "PO-BOX 17, Tel Aviv, 6100001, Israel",
+        "app_id": "com.location.test",
+        "url": "https://play.google.com/store/apps/details?id=com.location.test&hl=en&gl=in"
+    },
+    {
+        "title": "GPS Tools\u00ae - Find, Measure, Navigate & Explore",
+        "icon": "https://lh3.googleusercontent.com/uO8Yd0bIPciZjkwmnBmN0OIB4dP4X_ReQKiGoTzQVIl73TxWWmERJBFaorMgwcrNLs6Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/w0-SEK-7gb4",
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 54450,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6749335729462274356",
+        "updated": "June 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "3.0.2.4",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "VirtualMaze",
+        "developer_email": "android@virtualmaze.com",
+        "developer_url": "https://gpstools.app",
+        "developer_address": "new 92, st marys road, alwarpet, chennai 600018 India",
+        "app_id": "com.VirtualMaze.gpsutils",
+        "url": "https://play.google.com/store/apps/details?id=com.VirtualMaze.gpsutils&hl=en&gl=in"
+    },
+    {
+        "title": "Any.do: To do list, Calendar, Reminders & Planner",
+        "icon": "https://lh3.googleusercontent.com/WFvDmBvUl1yeik554IAxTGvewZxQv8d8HiRSvDeEJmOvIHAesKOzZ2SubFfm_QfojLU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2nkllLD0x6o",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 326442,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5304780265295461149",
+        "updated": "July 14, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Any.do",
+        "developer_email": "feedback+androidtodo@any.do",
+        "developer_url": "https://www.any.do",
+        "developer_address": "Any.do Inc.\n\n6  Agripas Street, Tel Aviv\n6249106 ISRAEL",
+        "app_id": "com.anydo",
+        "url": "https://play.google.com/store/apps/details?id=com.anydo&hl=en&gl=in"
+    },
+    {
+        "title": "Glide - Video Chat Messenger",
+        "icon": "https://lh3.googleusercontent.com/PRgK-zOIUQ33_5fVIkVcALLzRWQCFlq6FfxLl3pAkn7hte9YMitoHAN78djQP4a9dg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 351742,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4992656828035938217",
+        "updated": "July 15, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Glide\u2009",
+        "developer_email": "support@glide.me",
+        "developer_url": "http://www.glide.me",
+        "developer_address": "5 Shoham St., 5th Flr, Ramat-Gan, Israel, 5251001",
+        "app_id": "com.glidetalk.glideapp",
+        "url": "https://play.google.com/store/apps/details?id=com.glidetalk.glideapp&hl=en&gl=in"
+    },
+    {
+        "title": "Fake Call Screen PRO",
+        "icon": "https://lh3.googleusercontent.com/hdYc_2WUdLzDHtMkOm_slEzMjZS6GpjJT4qU-uHrUtKjYx6My1lTOgbB15iNl1Do-SYZ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Rs5YRQdkOp8",
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1925,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7713713929802184825",
+        "updated": "July 4, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "2.1",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.usefullapps.fakecall",
+        "url": "https://play.google.com/store/apps/details?id=com.usefullapps.fakecall&hl=en&gl=in"
+    },
+    {
+        "title": "Virtual Lighter",
+        "icon": "https://lh3.googleusercontent.com/Q31Wit1xR9aXxCM_hrcikoDUjLPMkb6FjRZRmidrmppPi6AOvXSor3dJEDYFsj6MrSI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/14cq7NQnM54",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29273,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "July 15, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "2.5",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "http://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.apps4you.lighter",
+        "url": "https://play.google.com/store/apps/details?id=com.apps4you.lighter&hl=en&gl=in"
+    },
+    {
+        "title": "Strava: Track Running, Cycling & Swimming",
+        "icon": "https://lh3.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 456107,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Strava+Inc.",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "Strava Inc.",
+        "developer_email": "support@strava.zendesk.com",
+        "developer_url": "https://www.strava.com/",
+        "developer_address": "Strava, Inc\n208 Utah Street\nSan Francisco, CA 94103",
+        "app_id": "com.strava",
+        "url": "https://play.google.com/store/apps/details?id=com.strava&hl=en&gl=in"
+    },
+    {
+        "title": "Mosquito Sound",
+        "icon": "https://lh3.googleusercontent.com/_2FfaU4_LHTf6S7Kzbi1Wpv4PivS6CSDEfP12qG6CBBflYJDHVapBck-hAoZP6iaemA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18935,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7713713929802184825",
+        "updated": "June 27, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.usefullapps.antimosquitoprank",
+        "url": "https://play.google.com/store/apps/details?id=com.usefullapps.antimosquitoprank&hl=en&gl=in"
+    },
+    {
+        "title": "Clock",
+        "icon": "https://lh3.googleusercontent.com/k-K6mdmZJZrJiuMJCHILReDGjMl_2ljzFIz3QLULfKL1q0tWtTcAkc0RDsjg9QEuXYw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 217909,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "android-clock-feedback@google.com",
+        "developer_url": "http://www.google.com/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.deskclock",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en&gl=in"
+    },
+    {
+        "title": "Wear OS by Google Smartwatch (was Android Wear)",
+        "icon": "https://lh3.googleusercontent.com/WmoV-m8b6x16sDRfzebu5b2vstcyBHRrpzCj6ODoh6hGuMa9Gg39EvnOk7z3qMa0_WM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 192056,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Unrestricted Internet"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://support.google.com/wearos",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.wearable.app",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.wearable.app&hl=en&gl=in"
+    },
+    {
+        "title": "Water Drink Reminder",
+        "icon": "https://lh3.googleusercontent.com/XptpJ4SCKSPaPHG7SalVvu1sgqxyVMFYZlX7FP8Zx4ORMm80jWRPCT4lq-jSYjWkD0I",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 553460,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Leap+Fitness+Group",
+        "updated": "June 4, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Leap Fitness Group",
+        "developer_email": "northpark.android@gmail.com",
+        "developer_url": "http://www.northparkapp.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "com.northpark.drinkwater",
+        "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater&hl=en&gl=in"
+    },
+    {
+        "title": "VLC Mobile Remote - PC & Mac",
+        "icon": "https://lh3.googleusercontent.com/OiTMhg6whahuXjckkbPx47YxJCqS4GIrBUJQrLau958RI_dZ239JfIVIpe2nP6PvRRci",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16039,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5977440600079786686",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.2.9",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Adarsh Urs",
+        "developer_email": "adisloppy@live.com",
+        "developer_url": "https://vlcmobileremote.com/",
+        "developer_address": "Bangalore, Karnataka 560038\nIndia",
+        "app_id": "adarshurs.android.vlcmobileremote",
+        "url": "https://play.google.com/store/apps/details?id=adarshurs.android.vlcmobileremote&hl=en&gl=in"
+    },
+    {
+        "title": "Zombie Killing - Call of Killers",
+        "icon": "https://lh3.googleusercontent.com/kgfAs-XQCIoc2UK47MzVZ9eJ5gn-or24VxY3Rb0gBJaXEBOChemhptjDEnNqXkXUAmQh",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "GAME_ARCADE"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 333500,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Italic+Games",
+        "updated": "May 20, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 16+",
+            "Strong Violence"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Italic Games",
+        "developer_email": "contact@italy-games.com",
+        "developer_url": "http://www.italy-games.com/policy.htm",
+        "developer_address": "Start Chambers, Wickham\u2019s Cay II, P. O. Box 2221, Road Town, Tortola, British Virgin Island",
+        "app_id": "com.wjp.zombie",
+        "url": "https://play.google.com/store/apps/details?id=com.wjp.zombie&hl=en&gl=in"
+    },
+    {
+        "title": "Nike Run Club",
+        "icon": "https://lh3.googleusercontent.com/J1z46Zsn3wlC2RSekq_iflMgR2e1ezR9-NH3Mqkc77Ji1k12Yal3w6zrYnGsJs5-Rfs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/S6j-HxnJtOE",
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 858465,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5943102410143165456",
+        "updated": "July 10, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Nike, Inc.",
+        "developer_email": "Nike.googleplaysupport@nike.com",
+        "developer_url": "https://www.nike.com/us/en_us/c/running/nike-run-club",
+        "developer_address": "Nike World Headquarters\nOne Bowerman Drive\nBeaverton, OR 97005",
+        "app_id": "com.nike.plusgps",
+        "url": "https://play.google.com/store/apps/details?id=com.nike.plusgps&hl=en&gl=in"
+    },
+    {
+        "title": "Mega Zoom Camera",
+        "icon": "https://lh3.googleusercontent.com/wXqK5rhMH1LYL30dyogBbPduIKOJVfiE8zkDCLOEJSbHE0k2EvnKObj7hkVkyoIX3AvD",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/cliC9fMKwf8",
+        "category": [
+            "TOOLS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 46883,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "June 4, 2018",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "2.3",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "http://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.usefullapps.megazoomcamera",
+        "url": "https://play.google.com/store/apps/details?id=com.usefullapps.megazoomcamera&hl=en&gl=in"
+    },
+    {
+        "title": "YAZIO Calorie Counter, Nutrition Diary & Diet Plan",
+        "icon": "https://lh3.googleusercontent.com/0lsA4kpphpaGgnA_MC_eNgC7VYtO9oXxblx_TPK8rRjpeWDDf_791wNUh5aOKJkR8Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 195708,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "YAZIO",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "YAZIO",
+        "developer_email": "help@yazio.com",
+        "developer_url": "https://www.yazio.com",
+        "developer_address": "YAZIO GmbH, Kart\u00e4userstr. 13a, 99084 Erfurt, Germany",
+        "app_id": "com.yazio.android",
+        "url": "https://play.google.com/store/apps/details?id=com.yazio.android&hl=en&gl=in"
+    },
+    {
+        "title": "Tattoo Master",
+        "icon": "https://lh3.googleusercontent.com/fw7HX0dLiVLxytHo-STF4NaGiFrTfw8kvRC6PJXcAwa2nn257IvLJtqG02Vayr3WzMTv",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/8_vzmNM1ThE",
+        "category": [
+            "GAME_ARCADE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61847,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "CanaryDroid",
+        "updated": "May 22, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "CanaryDroid",
+        "developer_email": "contact@canadadroid.com",
+        "developer_url": "http://www.canadadroid.com/policy.htm",
+        "developer_address": "Start Chambers, Wickham\u2019s Cay II, P. O. Box 2221, Road Town, Tortola, British Virgin Island",
+        "app_id": "com.qs.tattoo",
+        "url": "https://play.google.com/store/apps/details?id=com.qs.tattoo&hl=en&gl=in"
+    },
+    {
+        "title": "Google Apps Device Policy",
+        "icon": "https://lh3.googleusercontent.com/d6Js0wL6riInBUWbxdN5rJjuu_6uygfs-06-8RVRRhDDKC9D4Hs8ZAevLsguTngc0Vkq",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 67242,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "March 21, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "device-policy-feedback@google.com",
+        "developer_url": "http://support.google.com/mobile/bin/answer.py?hl=en&answer=190930",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.enterprise.dmagent",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.enterprise.dmagent&hl=en&gl=in"
+    },
+    {
+        "title": "Snake On Screen Hissing Joke",
+        "icon": "https://lh3.googleusercontent.com/PflkoJb0_1_Jtww9LOIh51hNEud8V2E57JyouncTqHQ0m4hSX8nyNxZuOpeC830iPA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/SVEmrf-n0l4",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 96184,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "March 14, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.just4fun.snakeonscreen",
+        "url": "https://play.google.com/store/apps/details?id=com.just4fun.snakeonscreen&hl=en&gl=in"
+    },
+    {
+        "title": "Cerberus Personal Safety (Persona)",
+        "icon": "https://lh3.googleusercontent.com/eS4xvgx-xlUf1cy6Hw4jHrmCGnDxnH3CMjK1UHTiKPSfVD0y1T4UuHiyNd4gfcWb7JQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "2.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 536,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5201782097114718926",
+        "updated": "July 20, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "1.2.4",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "LSDroid",
+        "developer_email": "support@cerberusapp.com",
+        "developer_url": "https://www.cerberusapp.com",
+        "developer_address": "Via Porpora 14\n20131 Milano\nItaly",
+        "app_id": "com.lsdroid.cerberus.persona",
+        "url": "https://play.google.com/store/apps/details?id=com.lsdroid.cerberus.persona&hl=en&gl=in"
+    },
+    {
+        "title": "IFTTT",
+        "icon": "https://lh3.googleusercontent.com/vhhwAp79dVX2DQPyTde8CRNSJPhR-INsnATMjTL8YbOt1N86p12YPRz4Ue9nBxkCqfs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Krsl1lCzZJs",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 133761,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8591752306381892167",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "4.0.0",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "IFTTT",
+        "developer_email": "support+android@ifttt.com",
+        "developer_url": "https://ifttt.com",
+        "developer_address": null,
+        "app_id": "com.ifttt.ifttt",
+        "url": "https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=en&gl=in"
+    },
+    {
+        "title": "Multi Calculator",
+        "icon": "https://lh3.googleusercontent.com/b5NRmuohsMka5eO_csR4AyM5Aluc0NzsYegFJEU040ONmw77_ie8spIIULVzoDyN95A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30282,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7694058680077753790",
+        "updated": "July 7, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "1.6.15",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "LemonClip",
+        "developer_email": "jeedoridori@gmail.com",
+        "developer_url": "https://www.facebook.com/MultiCalculator",
+        "developer_address": "104, 2101, 374, Tongil-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, Republic of Korea",
+        "app_id": "com.jee.calc",
+        "url": "https://play.google.com/store/apps/details?id=com.jee.calc&hl=en&gl=in"
+    },
+    {
+        "title": "Driving Route Finder\u2122 - Find GPS Location & Routes",
+        "icon": "https://lh3.googleusercontent.com/pNk_0c8lgSMkHEB_nrV1avQ8xpaSQxJX9jQr6jNAGIYtTaOyF791FQznFgaiXfZpUA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/pgSVRD44tk8",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13071,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6749335729462274356",
+        "updated": "September 16, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.4.0.3",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "VirtualMaze",
+        "developer_email": "android@virtualmaze.com",
+        "developer_url": "http://www.virtualmaze.com",
+        "developer_address": "new 92, st marys road, alwarpet, chennai 600018 India",
+        "app_id": "com.virtualmaze.drivingroutefinder",
+        "url": "https://play.google.com/store/apps/details?id=com.virtualmaze.drivingroutefinder&hl=en&gl=in"
+    },
+    {
+        "title": "myTuner Radio App: FM Radio + Internet Radio Tuner",
+        "icon": "https://lh3.googleusercontent.com/_b__1xKSj-ipkqoVwUFZHRqoExqGxV6Ba-lqlKvVwt5n-orli89i8MFZaAHVuZit1fH2",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Ynb6N1GiYlE",
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 99739,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6873380610601889920",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Mild Swearing"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Appgeneration - Radio FM , AM and  FM Music, News",
+        "developer_email": "help@mytuner.mobi",
+        "developer_url": "https://mytuner-radio.com",
+        "developer_address": "Av da Boavista, 848\n4100-112 Porto",
+        "app_id": "com.appgeneration.itunerfree",
+        "url": "https://play.google.com/store/apps/details?id=com.appgeneration.itunerfree&hl=en&gl=in"
+    },
+    {
+        "title": "Todoist: To-Do List, Tasks & Reminders",
+        "icon": "https://lh3.googleusercontent.com/GK0SwEBVqlFBpRkPjY6y_1go6E6xZzAN0Ivzfgbuf28J4TTOoOsgWnqR4oJ_RhIhsg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/8ZKq0r-g87M",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 176986,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6748661820728732000",
+        "updated": "June 22, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Doist",
+        "developer_email": "support@todoist.com",
+        "developer_url": "http://todoist.com/android",
+        "developer_address": "Doist\n201 Mission Street, Suite 1200\nSan Francisco, CA 94105\nUSA",
+        "app_id": "com.todoist",
+        "url": "https://play.google.com/store/apps/details?id=com.todoist&hl=en&gl=in"
+    },
+    {
+        "title": "Ultimate Alexa - The Voice Assistant",
+        "icon": "https://lh3.googleusercontent.com/4WbdxRjRU8ikML0nvgQOcieYBRvVce9DNNf9NAnGU5tACQQNrZLznmETYpp2f2w0Ow",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1757,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Custom+Solutions",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Custom Solutions",
+        "developer_email": "help@ultimatevoiceassistant.com",
+        "developer_url": "http://www.UltimateVoiceAssistant.com",
+        "developer_address": "125 Buckskin Lane\nStreamwood, IL  60107",
+        "app_id": "com.customsolutions.android.alexa",
+        "url": "https://play.google.com/store/apps/details?id=com.customsolutions.android.alexa&hl=en&gl=in"
+    },
+    {
+        "title": "PhotoWear Photo Watch Face",
+        "icon": "https://lh3.googleusercontent.com/Dt5HQYl0oIcUKY5o6L7kkai7ma9I5D3cDB2Mk0FzX-n1xCK8K_Y_y-YelnBv8rE-Rkat",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Y2hiLxU07w0",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7012,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Sparkistic+LLC",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "4.3.9",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Sparkistic LLC",
+        "developer_email": "support@sparkistic.com",
+        "developer_url": "http://sparkistic.com",
+        "developer_address": "PO BOX 503691\nSAN DIEGO CA 92150-3691",
+        "app_id": "com.sparkistic.photowear",
+        "url": "https://play.google.com/store/apps/details?id=com.sparkistic.photowear&hl=en&gl=in"
+    },
+    {
+        "title": "Compass",
+        "icon": "https://lh3.googleusercontent.com/WuYgbmI08KGBU0RfKSxjXahYhlXh0evwLX9k6K2JpUAYEAs9LjlEBnNFtNWPe6hUrGk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1812,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5504511874958019671",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "R. Apps",
+        "developer_email": "r.apps.feedback@gmail.com",
+        "developer_url": "https://r-apps.wixsite.com/r-apps",
+        "developer_address": "R\u00e9gi Posta \u00fat 56.\n6728, Szeged\nHungary",
+        "app_id": "apps.r.compass",
+        "url": "https://play.google.com/store/apps/details?id=apps.r.compass&hl=en&gl=in"
+    },
+    {
+        "title": "SofaScore - Live Scores, Fixtures & Standings",
+        "icon": "https://lh3.googleusercontent.com/URmaZ6aiFNLOMOL_i9Dq-5mLgdlm2bx6f-aS6mmrdK64-E5hKSH7A3bB-P2Tl_zRxg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2ccmE60Mo4g",
+        "category": [
+            "SPORTS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 336284,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6519401169245062308",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "SofaScore",
+        "developer_email": "support@sofascore.com",
+        "developer_url": "http://www.sofascore.com/news/privacy-policy/",
+        "developer_address": "SofaScore\n3, Triq Sant' Orsola\nVictoria, VCT1777\nMalta",
+        "app_id": "com.sofascore.results",
+        "url": "https://play.google.com/store/apps/details?id=com.sofascore.results&hl=en&gl=in"
+    },
+    {
+        "title": "Facer Watch Faces",
+        "icon": "https://lh3.googleusercontent.com/S_uuQu2pL1-I3f5nv2lnv3DVSJQDlKpCjvgSl-_HtRa0IzaCF_R8dLp7AHpZAu7VsPk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/6dFmzNnd0f8",
+        "category": [
+            "PERSONALIZATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38344,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5837919682648806204",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Little Labs, Inc.",
+        "developer_email": "facer-support@little-labs.com",
+        "developer_url": "https://www.facer.io/",
+        "developer_address": "373 Rose Ave\nVenice, CA 90291",
+        "app_id": "com.jeremysteckling.facerrel",
+        "url": "https://play.google.com/store/apps/details?id=com.jeremysteckling.facerrel&hl=en&gl=in"
+    },
+    {
+        "title": "MR.TIME - Free Watch Face Maker",
+        "icon": "https://lh3.googleusercontent.com/XNlPuUMKNMLRktUIJ7ugyLkETIp36KYr5PcmBI55r0BfPa5eCBnmNXJQblS0AF-dmas",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PERSONALIZATION"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10238,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7311986728602984127",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "6.3.14",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "MR.TIME LAB",
+        "developer_email": "mrtimemaker@apposter.com",
+        "developer_url": "https://mrtimemaker.com/",
+        "developer_address": "2F, J Studio, 28, Donggyo-ro 25-gil, Mapo-gu, Seoul, Republic of Korea, 03993",
+        "app_id": "com.apposter.watchmaker",
+        "url": "https://play.google.com/store/apps/details?id=com.apposter.watchmaker&hl=en&gl=in"
+    },
+    {
+        "title": "Keep Trainer - Workout Trainer & Fitness Coach",
+        "icon": "https://lh3.googleusercontent.com/4TqdfZd6Ey-ADadiuM9TqodesAxYms9dLRrtxJfTC4KjptwLqN0nhsC3sSUGlhLfMyE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 71452,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4929115468943945630",
+        "updated": "March 12, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Keep Inc.",
+        "developer_email": "support@gotokeep.com",
+        "developer_url": "http://www.keepkeep.com",
+        "developer_address": "Dongcheng, Beijing, People\u2019s Republic of China.",
+        "app_id": "com.gotokeep.keep.intl",
+        "url": "https://play.google.com/store/apps/details?id=com.gotokeep.keep.intl&hl=en&gl=in"
+    },
+    {
+        "title": "Virtual Volume Button",
+        "icon": "https://lh3.googleusercontent.com/12poAmEIcyjoH1AWeMkexToR0BZtXx8R-oTmqEkTpn8TwnHKB8ewwbGC8T6uwjYwdGJR",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4025,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Claudio+Chimera",
+        "updated": "November 9, 2018",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "1.5.9",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Claudio Chimera",
+        "developer_email": "claudio.chimera@gmail.com",
+        "developer_url": "http://www.elconet.it/Claudio.Chimera",
+        "developer_address": "Via Andrea Tortora, 124EA5\n84016 - Pagani (SA)\nItaly",
+        "app_id": "it.claudio.chimera.virtualvolume",
+        "url": "https://play.google.com/store/apps/details?id=it.claudio.chimera.virtualvolume&hl=en&gl=in"
+    },
+    {
+        "title": "Lifesum - Diet Plan, Macro Calculator & Food Diary",
+        "icon": "https://lh3.googleusercontent.com/xbF2DUtTeEB7E4wy0hArgj2QoxlufPiXei72K9t_1PdfFmM-ws-zrJAB7ODRwGU8smg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 204601,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Lifesum",
+        "updated": "July 1, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Lifesum",
+        "developer_email": "support@lifesum.com",
+        "developer_url": "http://www.lifesum.com",
+        "developer_address": "Lifesum AB\nValhallav\u00e4gen 117H\n115 31 Stockholm\nSweden",
+        "app_id": "com.sillens.shapeupclub",
+        "url": "https://play.google.com/store/apps/details?id=com.sillens.shapeupclub&hl=en&gl=in"
+    },
+    {
+        "title": "Mouse on Screen Scary Joke",
+        "icon": "https://lh3.googleusercontent.com/8Aiqk8SrqgxFFxoqMMQ6XjMw4HT-d524yDlEPV-EFhhOXHgCHmExPQNisTygtFp0aw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/IA1DwbKvaFs",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43172,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "March 7, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "3.0",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.just4fun.mouseonscreen",
+        "url": "https://play.google.com/store/apps/details?id=com.just4fun.mouseonscreen&hl=en&gl=in"
+    },
+    {
+        "title": "Medical Terminology Dictionary:Search&Vocabulary",
+        "icon": "https://lh3.googleusercontent.com/AMeQcC71pm8XIg6545FEfFZbDP3It74uueUP5b2pHfRVbcf7HoMLwTH6-nUOlNKFaQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MEDICAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15399,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4847793641155972715",
+        "updated": "July 16, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Shares Info, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "Medical Group Soft",
+        "developer_email": "medicalgroupsoft@gmail.com",
+        "developer_url": "https://www.facebook.com/pages/Medical-group-soft/1589939014573976",
+        "developer_address": "194358 Sankt-Peterburg\nstr. Fedora Abramova 8, kv. 65",
+        "app_id": "com.medicalgroupsoft.medical.directorymedtermsmultilang.free",
+        "url": "https://play.google.com/store/apps/details?id=com.medicalgroupsoft.medical.directorymedtermsmultilang.free&hl=en&gl=in"
+    },
+    {
+        "title": "My Passwords - Password Manager",
+        "icon": "https://lh3.googleusercontent.com/s3VLEopo45Q5BzwLttGcXbTvYCP2-jfjWTxosF4wqlLm5YLYo50jQBiRIW3mONLJzw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19638,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6173162408627377904",
+        "updated": "June 30, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Erkan Molla",
+        "developer_email": "android@my-passwords-app.com",
+        "developer_url": "https://www.my-passwords-app.com/",
+        "developer_address": "Bahnhofstr. 9\n71034 B\u00f6blingen\nGermany",
+        "app_id": "com.er.mo.apps.mypasswords",
+        "url": "https://play.google.com/store/apps/details?id=com.er.mo.apps.mypasswords&hl=en&gl=in"
+    },
+    {
+        "title": "Muzei Live Wallpaper",
+        "icon": "https://lh3.googleusercontent.com/h_xnpGDEA94J2-UPWQpvAf48O-9ZaGPWcgcaEwc06XrkIhhLH_arveruc-AmrDAFbM_L",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/cnCK5BP7Mwg",
+        "category": [
+            "PERSONALIZATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 49307,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Roman+Nurik+and+Ian+Lake",
+        "updated": "March 25, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Roman Nurik and Ian Lake",
+        "developer_email": "support@muzei.co",
+        "developer_url": "http://muzei.co",
+        "developer_address": null,
+        "app_id": "net.nurik.roman.muzei",
+        "url": "https://play.google.com/store/apps/details?id=net.nurik.roman.muzei&hl=en&gl=in"
+    },
+    {
+        "title": "Death Date Calculator & Grave Editor",
+        "icon": "https://lh3.googleusercontent.com/1NUH_Cw1MMrMGs93jPMubJJV-kYmMEysNkSrWUN2aR_cOk9e4K-DZrIdf8g07n_r68kp",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/fh9qYbDtD8s",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1342,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "March 5, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.just4funmobile.mydeathdatecalculatorandgraveeditor",
+        "url": "https://play.google.com/store/apps/details?id=com.just4funmobile.mydeathdatecalculatorandgraveeditor&hl=en&gl=in"
+    },
+    {
+        "title": "Google Pinyin Input",
+        "icon": "https://lh3.googleusercontent.com/xhtkIKPa1rn2nox9FGQIxAdv9MlyZUxjlqCpoS7ik4G-l00QKRPRutEdQXrG9Qt6C3E",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/6kQeDV9FYA0",
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 175607,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "December 12, 2018",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/inputtools/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.inputmethod.pinyin",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.pinyin&hl=en&gl=in"
+    },
+    {
+        "title": "Compass Steel 3D",
+        "icon": "https://lh3.googleusercontent.com/f1vzPbKiIsdBeVlUUu9OHNGmGsw8_IdspQ4fqQy1wR9Jzk4WI4zN8HX4-pHEgiWiWRke",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 36801,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SimplyWerx",
+        "updated": "January 8, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SimplyWerx",
+        "developer_email": "feedback@simplywerx.com",
+        "developer_url": "https://sites.google.com/a/simplywerx.com/simplywerx-studios-privacy-policy/",
+        "developer_address": "42 Pasir Panjang Hill\nSingapore 118894\nSINGAPORE",
+        "app_id": "com.simplywerx.compass3d",
+        "url": "https://play.google.com/store/apps/details?id=com.simplywerx.compass3d&hl=en&gl=in"
+    },
+    {
+        "title": "Virtual Water drinking simulator",
+        "icon": "https://lh3.googleusercontent.com/nG-KCTI5I4xuZYq_A-6PfSGKRD1gnEyX1dkqKRirqahH6QGTTb63toOrOWoVq2HfMRJ7",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XSSGFVLHong",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2495,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7713713929802184825",
+        "updated": "July 14, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.1",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.just4fun.virtualwater",
+        "url": "https://play.google.com/store/apps/details?id=com.just4fun.virtualwater&hl=en&gl=in"
+    },
+    {
+        "title": "Fake GPS Location PRO",
+        "icon": "https://lh3.googleusercontent.com/QCJnNfbFwpi6oDQqRgxj_bq_QeCqTzAg7o0k1VpxI7e6Oix8lFDv3dJu2giWQah0Pr0",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/8a0X1qxj2NI",
+        "category": [
+            "MAPS_AND_NAVIGATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11555,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7713713929802184825",
+        "updated": "June 13, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.usefullapps.fakegpslocationpro",
+        "url": "https://play.google.com/store/apps/details?id=com.usefullapps.fakegpslocationpro&hl=en&gl=in"
+    },
+    {
+        "title": "Citymapper - Transit Navigation",
+        "icon": "https://lh3.googleusercontent.com/vi-NYlyPamuq8frdW7sQR9YPxOKaUyPPe3y3OeJk6tuCZfQQGa-g_dShVXBn4YnzPr69",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MAPS_AND_NAVIGATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 74750,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7691438629453514158",
+        "updated": "July 13, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Citymapper Limited",
+        "developer_email": "support@citymapper.com",
+        "developer_url": "http://citymapper.com",
+        "developer_address": null,
+        "app_id": "com.citymapper.app.release",
+        "url": "https://play.google.com/store/apps/details?id=com.citymapper.app.release&hl=en&gl=in"
+    },
+    {
+        "title": "FotMob - Live Soccer Scores",
+        "icon": "https://lh3.googleusercontent.com/6L1u_v2JGG4Rpkh6UuHD8m5xNDMddxUTp6lcO86fgTzJ-SC8Fphgz7CkLZklnS8Dfjs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SPORTS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 469084,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6773510280946221606",
+        "updated": "July 14, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "NorApps AS",
+        "developer_email": "support@fotmob.com",
+        "developer_url": "http://www.fotmob.com",
+        "developer_address": "NorApps AS\nKokstadvegen 23\n5257 Kokstad\nNorway",
+        "app_id": "com.mobilefootie.wc2010",
+        "url": "https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010&hl=en&gl=in"
+    },
+    {
+        "title": "Thermal Camera HD Effect Simulator",
+        "icon": "https://lh3.googleusercontent.com/O8U9IFGmX2QivniodCFNlrKmxwE1L5flhVF36_2VSsdg0mK4kctPd1ycNOkm9gXNDd2W",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ID_1BT8T68E",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23363,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7713713929802184825",
+        "updated": "June 5, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.3",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "http://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.usefullapps.thermalcamera",
+        "url": "https://play.google.com/store/apps/details?id=com.usefullapps.thermalcamera&hl=en&gl=in"
+    },
+    {
+        "title": "Virtual Cola drinking",
+        "icon": "https://lh3.googleusercontent.com/Jh3-BxQsZ2trKkTxF3pAxOs5VhvwaFN2aAeHK2okmybAfRjWu8zBUKe2TM_xK6csVw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Y4KmAVQWNKo",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16858,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "July 2, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.just4fun.virtualcola",
+        "url": "https://play.google.com/store/apps/details?id=com.just4fun.virtualcola&hl=en&gl=in"
+    },
+    {
+        "title": "Android Accessibility Suite",
+        "icon": "https://lh3.googleusercontent.com/xOYJ483_3v0IDiF0HJjE91oZPfxGUokAqFmw_GS1ia94aSHpgJ9CY48OTJgrPDWqIsk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1592579,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "March 26, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://eyes-free.googlecode.com/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.marvin.talkback",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=en&gl=in"
+    },
+    {
+        "title": "Google Japanese Input",
+        "icon": "https://lh3.googleusercontent.com/7ys7YX1iWd6tKCdihynk6lPKgWWPITiGfOHGuoD1Uq2Mx94KhrX7d8BHLuETlYiIbQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3JDJ-Yj3Btg",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 76367,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "February 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.co.jp/intl/ja/ime/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.inputmethod.japanese",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.japanese&hl=en&gl=in"
+    },
+    {
+        "title": "Pulse SMS (Phone/Tablet/Web)",
+        "icon": "https://lh3.googleusercontent.com/EpnWcEdGdcub3ORg8INZWt91lXSJ_wrfTUo66_vLmsDjnV46OnEgI1uq4zOQozPCPkM",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ohGXwX6zKow",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38198,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6337185423976596164",
+        "updated": "July 20, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Klinker Apps, Inc",
+        "developer_email": "luke@klinkerapps.com",
+        "developer_url": "https://messenger.klinkerapps.com",
+        "developer_address": "1218 NE 49th St\nAnkeny, IA 50021",
+        "app_id": "xyz.klinker.messenger",
+        "url": "https://play.google.com/store/apps/details?id=xyz.klinker.messenger&hl=en&gl=in"
+    },
+    {
+        "title": "WatchMaker Watch Faces",
+        "icon": "https://lh3.googleusercontent.com/s5PCli-5S2ylY-du2yKNC0xYcBAZhQBNTmCBRf8JUy76IKgXPIEf8nGSkreFs6zXkLY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/JhzE-heeXuc",
+        "category": [
+            "PERSONALIZATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43699,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8210063275497266236",
+        "updated": "May 15, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "5.4.4",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "androidslide",
+        "developer_email": "admin.androidslide@googlemail.com",
+        "developer_url": "https://getwatchmaker.com/",
+        "developer_address": "Centre Heights, 137 Finchley Rd, London NW3 6JG",
+        "app_id": "slide.watchFrenzy",
+        "url": "https://play.google.com/store/apps/details?id=slide.watchFrenzy&hl=en&gl=in"
+    },
+    {
+        "title": "Transparent Phone Screen HD Simulation",
+        "icon": "https://lh3.googleusercontent.com/t0U4BS3kQSGOq_9qSdpMh7oTY-UeFr-o9wqrsxrHd7EyGNkp4OFE1PO-ys57tcYJ0947",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/MWr1NWGYFE4",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 83805,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7713713929802184825",
+        "updated": "January 17, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.usefullapps.transparentphone",
+        "url": "https://play.google.com/store/apps/details?id=com.usefullapps.transparentphone&hl=en&gl=in"
+    },
+    {
+        "title": "Journey: Diary, Motivational Journal",
+        "icon": "https://lh3.googleusercontent.com/hjrx7iJxJaKm2IRRyOHwmQh-Nk_j_-aJUXqMWasM5b9UNsWYvUw3EgqbuCHL1AdXFfOh",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "LIFESTYLE"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 65533,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8945539023671021149",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Shares Location, Digital Purchases"
+        ],
+        "developer": "Two App Studio Pte. Ltd.",
+        "developer_email": "help@2appstudio.com",
+        "developer_url": "https://journey.cloud",
+        "developer_address": "CoSpace Park, 43 Science Park Rd\nSingapore 117408",
+        "app_id": "com.journey.app",
+        "url": "https://play.google.com/store/apps/details?id=com.journey.app&hl=en&gl=in"
+    },
+    {
+        "title": "Challenger Watch Face",
+        "icon": "https://lh3.googleusercontent.com/kva442Urhs9zT2jPFmZltRIEalGZDHRElZh0l_RssBR36rU-fITwZHyKSk_V9ja82g5N",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/FHoy0mI1ijE",
+        "category": [
+            "PERSONALIZATION"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4113,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "RichFace",
+        "updated": "April 9, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "RichFace",
+        "developer_email": "richface.watch@gmail.com",
+        "developer_url": "http://richface.watch/",
+        "developer_address": "3430 Tulln an der Donau\nAustria",
+        "app_id": "com.watch.richface.challenger",
+        "url": "https://play.google.com/store/apps/details?id=com.watch.richface.challenger&hl=en&gl=in"
+    },
+    {
+        "title": "Foursquare City Guide",
+        "icon": "https://lh3.googleusercontent.com/81tvpT59weJbOGWT9jQ8_9RtcGXKCcVv59BU7Wl6PnS7okIgrS4iTCgwWpPQY2FRKw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "FOOD_AND_DRINK"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 485826,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7953007503920441591",
+        "updated": "July 2, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Foursquare",
+        "developer_email": "support@foursquare.com",
+        "developer_url": "http://foursquare.com/devices/android",
+        "developer_address": null,
+        "app_id": "com.joelapenna.foursquared",
+        "url": "https://play.google.com/store/apps/details?id=com.joelapenna.foursquared&hl=en&gl=in"
+    },
+    {
+        "title": "Compass Steel (No Ads)",
+        "icon": "https://lh3.googleusercontent.com/aU3l7kM7_jqMRzANOGGimMOaI4draFgiR1V_acF91Z3-PPCpx1FshEwq7zgq8zCjK84",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13601,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SimplyWerx",
+        "updated": "September 21, 2017",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SimplyWerx",
+        "developer_email": "feedback@simplywerx.com",
+        "developer_url": "https://sites.google.com/a/simplywerx.com/simplywerx-studios-privacy-policy/",
+        "developer_address": "42 Pasir Panjang Hill\nSingapore 118894\nSINGAPORE",
+        "app_id": "com.simplywerx.compass2d",
+        "url": "https://play.google.com/store/apps/details?id=com.simplywerx.compass2d&hl=en&gl=in"
+    },
+    {
+        "title": "Whistle Phone Finder PRO",
+        "icon": "https://lh3.googleusercontent.com/ZDXDNiu6tju0ztArCrkVEYS7KGM0zvlkU8VBhdnT8l2eYNZw-GdS5zFX5t4Ru7x8Yg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/mZ2tcAjFPR0",
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 60788,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "May 29, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.1",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "http://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.usefullapps.whistlephonefinder",
+        "url": "https://play.google.com/store/apps/details?id=com.usefullapps.whistlephonefinder&hl=en&gl=in"
+    },
+    {
+        "title": "Offline Map Navigation - Live GPS, Locate, Explore",
+        "icon": "https://lh3.googleusercontent.com/OqjXYpeehElGFSy2DTkAxuzGrR8Qev5MbPIkFelpo58guwxJq5efL3dqxZ7UYJE5W63F",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xxy-LoU0RY8",
+        "category": [
+            "MAPS_AND_NAVIGATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 26791,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6749335729462274356",
+        "updated": "May 29, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "1.3.5.0",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "VirtualMaze",
+        "developer_email": "info@virtualmaze.com",
+        "developer_url": "http://virtualmaze.com",
+        "developer_address": "new 92, st marys road, alwarpet, chennai 600018 India",
+        "app_id": "com.virtualmaze.offlinemapnavigationtracker",
+        "url": "https://play.google.com/store/apps/details?id=com.virtualmaze.offlinemapnavigationtracker&hl=en&gl=in"
+    },
+    {
+        "title": "Heart Rate Plus - Pulse & Heart Rate Monitor",
+        "icon": "https://lh3.googleusercontent.com/IXo6vRr68MzIoNQdwscipqoUhpGUCcyGEG6r-CKW71EX-tU_B6VUnEIwSG-K1KhEQ7Tc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/cbD7EvB7rVg",
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16854,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "PVDApps",
+        "updated": "April 16, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "PVDApps",
+        "developer_email": "pvdapps.com@gmail.com",
+        "developer_url": "https://www.facebook.com/HeartRatePlusApp",
+        "developer_address": "92 Nguyen Khanh Toan, Cau Giay, Hanoi, Vietnam",
+        "app_id": "com.dungelin.heartrate",
+        "url": "https://play.google.com/store/apps/details?id=com.dungelin.heartrate&hl=en&gl=in"
+    },
+    {
+        "title": "Lizard in phone funny joke",
+        "icon": "https://lh3.googleusercontent.com/t2wVXB3E_aNDFHDOH_vKE7aGMVySooxmwbH6pcRkmQYSECmyPTEMgafcy4WYzaARu5o",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/aOx_D1K3Sos",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23664,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7713713929802184825",
+        "updated": "June 29, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "3.4",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Horror"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.just4fun.lizardinphone",
+        "url": "https://play.google.com/store/apps/details?id=com.just4fun.lizardinphone&hl=en&gl=in"
+    },
+    {
+        "title": "App in the Air - Travel planner & Flight tracker",
+        "icon": "https://lh3.googleusercontent.com/vM57XIrRfbK6e8YtNcN1KsrCnak_FgrE7urERu13xy2EJvv6WzzCkFmRlLm2cBErLA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/doh0rC4OS0M",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4610,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6141013919453837613",
+        "updated": "July 10, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "App in the Air, Inc.",
+        "developer_email": "support@appintheair.mobi",
+        "developer_url": "http://appintheair.mobi/contacts",
+        "developer_address": "1411 4th Avenue, Seattle, WA 98101",
+        "app_id": "com.aita",
+        "url": "https://play.google.com/store/apps/details?id=com.aita&hl=en&gl=in"
+    },
+    {
+        "title": "Seven - 7 Minute Workout",
+        "icon": "https://lh3.googleusercontent.com/YghIS4tR31fXXRMYTctx_AjR5FMrNIH_4KfQ3XDd2zjiTvNhZC8OCNKCSN-b71CgiQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/FD1xueEHIRc",
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 81745,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6605177127598613526",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Shares Info, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "Perigee AB",
+        "developer_email": "support@perigee.se",
+        "developer_url": "http://www.perigee.se",
+        "developer_address": "Gustav Adolfs Torg 10A\n211 39 Malm\u00f6\nSweden",
+        "app_id": "se.perigee.android.seven",
+        "url": "https://play.google.com/store/apps/details?id=se.perigee.android.seven&hl=en&gl=in"
+    },
+    {
+        "title": "Police siren light & sound simulator",
+        "icon": "https://lh3.googleusercontent.com/IY4z-8nURf7AvsZ3YCOjTWu_Ax73wo3WlwM5RcUqPFAipMNTuuNBxMFi8YqYgSCjtQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XsPYvmuunnk",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18724,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "December 7, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.3",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.apps4you.policesiren",
+        "url": "https://play.google.com/store/apps/details?id=com.apps4you.policesiren&hl=en&gl=in"
+    },
+    {
+        "title": "The Washington Post",
+        "icon": "https://lh3.googleusercontent.com/JDrO88srYGmqrOeyqtT1al3JQD0IKRS-OO7PDMjETiPuDNgCC45wJF8LIBH-QOcTMTE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37332,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "The+Washington+Post",
+        "updated": "July 9, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "The Washington Post",
+        "developer_email": "help@washpost.com",
+        "developer_url": "https://www.washingtonpost.com",
+        "developer_address": "1301 K Street NW, Washington, DC 20071",
+        "app_id": "com.washingtonpost.android",
+        "url": "https://play.google.com/store/apps/details?id=com.washingtonpost.android&hl=en&gl=in"
+    },
+    {
+        "title": "Weather XL PRO Switzerland",
+        "icon": "https://lh3.googleusercontent.com/lszDi_vnIcPpQZBHRhgqy0zU0RPJN-wPvCgyG4YXU8-6AkzU5J6kPAaTYCaZQqDSbMS-",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5793,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6534515373655701527",
+        "updated": "July 5, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "1.4.5.4-ch",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Exovoid S\u00e0rl",
+        "developer_email": "support@exovoid.ch",
+        "developer_url": "http://www.exovoid.ch",
+        "developer_address": "Bois-de-Ban 28\n1066 Epalinges\nSwitzerland",
+        "app_id": "com.exovoid.weather.app.ch",
+        "url": "https://play.google.com/store/apps/details?id=com.exovoid.weather.app.ch&hl=en&gl=in"
+    },
+    {
+        "title": "Six Pack in 30 Days - Abs Workout Lose Belly fat",
+        "icon": "https://lh3.googleusercontent.com/UBVaNWgjn6zv-wcLqigH69GxFPT66i9nnL85b9f7_CIZc6ei8bJVIlQ618BsvRE0pA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2V7K6ea43K4",
+        "category": [
+            "HEALTH_AND_FITNESS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2014,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+Droid+Crew",
+        "updated": "May 16, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Droid Crew",
+        "developer_email": "support@thedroidcrew.com",
+        "developer_url": "https://thedroidcrew.com/privacy.html",
+        "developer_address": null,
+        "app_id": "com.thedroidcrew.sixpackin30days",
+        "url": "https://play.google.com/store/apps/details?id=com.thedroidcrew.sixpackin30days&hl=en&gl=in"
+    },
+    {
+        "title": "Grocery Shopping List - Listonic",
+        "icon": "https://lh3.googleusercontent.com/PBGBqKRtqIsxjCG3rHS_w4VHVYMCewZmkS3ujdAaTgiwo0ABuK2XS8qm3g8FC8K1yFo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 80722,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8816786674298250921",
+        "updated": "May 20, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Listonic - Smart Grocery Shopping",
+        "developer_email": "support@listonic.pl",
+        "developer_url": "https://listonic.com/",
+        "developer_address": "\u017beromskiego 46 4/21\n90-626 \u0141\u00f3d\u017a\nPoland",
+        "app_id": "com.l",
+        "url": "https://play.google.com/store/apps/details?id=com.l&hl=en&gl=in"
+    },
+    {
+        "title": "5217 - time management for increased productivity",
+        "icon": "https://lh3.googleusercontent.com/GcfPMTs_uup77pku1D3-pGyQ7nhfzprmFEh51taVaca1a5iRhvRq6Rs0uS2zzfx9ysg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/h5lDGBB5Sro",
+        "category": [
+            "PRODUCTIVITY"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1149,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8270010790606670648",
+        "updated": "February 17, 2018",
+        "size": "Varies with device",
+        "installs": "50,000+",
+        "current_version": "4.0.1",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Francisco Franco",
+        "developer_email": "franciscofranco.1990@gmail.com",
+        "developer_url": "http://5217.io",
+        "developer_address": "Rua de Negage, LT35, Bloco 1, 1\u00baDTO\n2775-252, Parede\nPortugal",
+        "app_id": "com.franco.timer",
+        "url": "https://play.google.com/store/apps/details?id=com.franco.timer&hl=en&gl=in"
+    },
+    {
+        "title": "Cronosurf Wave watch",
+        "icon": "https://lh3.googleusercontent.com/HW1GxZsjm8SRdKyobqDdnLzsJ-VCQPZzUNbYtO9jc9L5XybXqjDnq6Wk_auqAv0o-dI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PERSONALIZATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4115,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6436823633234900023",
+        "updated": "March 15, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "2.3.0",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "fruit4droid",
+        "developer_email": "fruit4droid@gmail.com",
+        "developer_url": "http://cronosurf.com",
+        "developer_address": "Franziskanerstr. 16\nMunich 81669\nGermany",
+        "app_id": "com.fruit4droid.cronosurf",
+        "url": "https://play.google.com/store/apps/details?id=com.fruit4droid.cronosurf&hl=en&gl=in"
+    },
+    {
+        "title": "Cat Walks in Phone Cute Joke",
+        "icon": "https://lh3.googleusercontent.com/rpYyaadeQYsffbr15Qce57LOVvIEm7YjBR6n5FKAbjw9a0YClcPxjxPAjpfawzsYR2M",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/PJtYleKtCHk",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 87444,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "April 17, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.just4funmobile.catwalksinphone",
+        "url": "https://play.google.com/store/apps/details?id=com.just4funmobile.catwalksinphone&hl=en&gl=in"
+    },
+    {
+        "title": "Feisar Watch Face",
+        "icon": "https://lh3.googleusercontent.com/R5JYN_OpT2_LId-6UNShxetA5jl62eg5IR2dnN3j_4nCwE1hnp-tNFX7bBqIBNYC_D0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PERSONALIZATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 464,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "thema",
+        "updated": "May 19, 2019",
+        "size": "Varies with device",
+        "installs": "50,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "thema",
+        "developer_email": "thema.apps@gmail.com",
+        "developer_url": "http://www.themaapps.com/",
+        "developer_address": "Plaisir\nFRANCE",
+        "app_id": "fr.thema.wear.watch.feisar",
+        "url": "https://play.google.com/store/apps/details?id=fr.thema.wear.watch.feisar&hl=en&gl=in"
+    },
+    {
+        "title": "Mobills Budget",
+        "icon": "https://lh3.googleusercontent.com/C_DMNe7BHT7tQMA7rw_biogleTJXo5V6FfexF0wcSwgVxKKOjB9SAe_pPFzu-OOrj9g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "FINANCE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 183123,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5723502633915819194",
+        "updated": "July 16, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Mobills Inc.",
+        "developer_email": "suporte@mobills.com.br",
+        "developer_url": "http://mobills.com.br",
+        "developer_address": "Rua Costa Barros, 915 Sala 1309",
+        "app_id": "br.com.gerenciadorfinanceiro.controller",
+        "url": "https://play.google.com/store/apps/details?id=br.com.gerenciadorfinanceiro.controller&hl=en&gl=in"
+    },
+    {
+        "title": "Calculator",
+        "icon": "https://lh3.googleusercontent.com/npBJip3T7--pgILAfBopFaHijweLpC0VcDVQegyx9csiFBAUT3WPpXtqljhtoei78Eqa",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/1OgJZxzBnxk",
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1491,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5504511874958019671",
+        "updated": "June 9, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "8.1.0",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "R. Apps",
+        "developer_email": "r.apps.feedback@gmail.com",
+        "developer_url": "https://r-apps.wixsite.com/r-apps",
+        "developer_address": "R\u00e9gi Posta \u00fat 56.\n6728, Szeged\nHungary",
+        "app_id": "apps.r.calculator",
+        "url": "https://play.google.com/store/apps/details?id=apps.r.calculator&hl=en&gl=in"
+    },
+    {
+        "title": "Food Book Recipes, Shopping List",
+        "icon": "https://lh3.googleusercontent.com/gCnMLWHrMlGzK4NbLNFrhVmm7u7Pa73tBE-mO2UGdxCWQj8YNv6xgTEX89e9LkbD-PU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/RDqUMVd0dxo",
+        "category": [
+            "FOOD_AND_DRINK"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1223,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Fitness+Circle",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Fitness Circle",
+        "developer_email": "crisptechno@gmail.com",
+        "developer_url": "http://fitnesscircle.in/",
+        "developer_address": "Hitbytes Technologies\nMulanthuruthy P.O\nErnakulam, Kerala\nINDIA\nPIN : 682314",
+        "app_id": "com.fitnesscircle.foodbook",
+        "url": "https://play.google.com/store/apps/details?id=com.fitnesscircle.foodbook&hl=en&gl=in"
+    }
+]

@@ -1,0 +1,4221 @@
+[
+    {
+        "title": "Ticketmaster\uff0dBuy, Sell Tickets to Concerts, Sports",
+        "icon": "https://lh3.googleusercontent.com/KmWVboPY-BCCfiflJ-AYCPGBv86QLMsXsSpvQksC0DVR8ENV0lh-lwHnXrekpHwbQA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/c58Y5xEdXtM",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 57674,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5712692731004758815",
+        "updated": "July 24, 2019",
+        "size": "16M",
+        "installs": "10,000,000+",
+        "current_version": "1.44.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "Ticketmaster L.L.C.",
+        "developer_email": "mobilefeedback@ticketmaster.com",
+        "developer_url": "http://www.ticketmaster.com",
+        "developer_address": null,
+        "app_id": "com.ticketmaster.mobile.android.na",
+        "url": "https://play.google.com/store/apps/details?id=com.ticketmaster.mobile.android.na&hl=en&gl=us"
+    },
+    {
+        "title": "StubHub - Live Event Tickets",
+        "icon": "https://lh3.googleusercontent.com/c2pLeG3oL4NPaag2kMqJul2Y4CMm9AltcuL7pEK-YSIiUfj2KrnH2hmUreYjXvw9WWco",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/EzZ3pnQfuuE",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55327,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "StubHub",
+        "updated": "July 10, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "7.11.1",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "StubHub",
+        "developer_email": "shAndroidApp@gmail.com",
+        "developer_url": "http://www.stubhub.com",
+        "developer_address": null,
+        "app_id": "com.stubhub",
+        "url": "https://play.google.com/store/apps/details?id=com.stubhub&hl=en&gl=us"
+    },
+    {
+        "title": "Vivid Seats | Event Tickets",
+        "icon": "https://lh3.googleusercontent.com/ZGGMi7-mQlT6769_CZUKHghIlaxoz5PVjjzsuNausSEL-DJYGuBCLcgEakUhYWoo2N4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13250,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Vivid+Seats+LLC",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Vivid Seats LLC",
+        "developer_email": "AndroidApp@vividseats.com",
+        "developer_url": "https://www.vividseats.com",
+        "developer_address": null,
+        "app_id": "com.vividseats.android",
+        "url": "https://play.google.com/store/apps/details?id=com.vividseats.android&hl=en&gl=us"
+    },
+    {
+        "title": "SeatGeek \u2013 Tickets to Sports, Concerts, Broadway",
+        "icon": "https://lh3.googleusercontent.com/8LV_rwkQlb66d6R4M3VhuZve_r7Rr9gtTvYfhuwl2TQje8FoLEmS9ffpz_pFcd5JeQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/AZIx2OqLUJU",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17073,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SeatGeek",
+        "updated": "July 9, 2019",
+        "size": "31M",
+        "installs": "1,000,000+",
+        "current_version": "2019.07.09273",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "SeatGeek",
+        "developer_email": "android-app@seatgeek.com",
+        "developer_url": "http://seatgeek.com",
+        "developer_address": null,
+        "app_id": "com.seatgeek.android",
+        "url": "https://play.google.com/store/apps/details?id=com.seatgeek.android&hl=en&gl=us"
+    },
+    {
+        "title": "Gametime - Tickets to Sports, Concerts, Theater",
+        "icon": "https://lh3.googleusercontent.com/YnZp7Yx4XGw7J4ipuFoL_Yn-hRRBk50ssOlk5hUfQKgPouMEIxcQOdykxyqoNrkS4w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/TUJ7oLHoKyo",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13295,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7945303043090193581",
+        "updated": "May 8, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "11.2.16",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Gametime",
+        "developer_email": "feedback@gametime.co",
+        "developer_url": "https://gametime.co",
+        "developer_address": "799 Market St, San Francisco, CA 94103",
+        "app_id": "com.gametime.gametime",
+        "url": "https://play.google.com/store/apps/details?id=com.gametime.gametime&hl=en&gl=us"
+    },
+    {
+        "title": "TickPick - No Fee Tickets",
+        "icon": "https://lh3.googleusercontent.com/zinq7l3nhQ_IovwEiAcfT7vfjJHvpQlaYbYFhm-oKsoxO5FaFEKEJ4uUqc6Xbk-bMRaP",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/KnDN2IcYjiU",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2939,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TickPick+LLC",
+        "updated": "July 25, 2019",
+        "size": "19M",
+        "installs": "500,000+",
+        "current_version": "4.2.1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TickPick LLC",
+        "developer_email": "support@tickpick.com",
+        "developer_url": "http://www.tickpick.com",
+        "developer_address": null,
+        "app_id": "com.tickpickllc.ceobrien.tickpick",
+        "url": "https://play.google.com/store/apps/details?id=com.tickpickllc.ceobrien.tickpick&hl=en&gl=us"
+    },
+    {
+        "title": "Invitation Card Maker Free by Greetings Island",
+        "icon": "https://lh3.googleusercontent.com/-DXJBzsz8RBfxnJNcGqUoZRg5876VSYV7OlIq1y7y__03x6N0IpL5XQCCX8Y75YoYg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19407,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Greetings+Island",
+        "updated": "April 15, 2019",
+        "size": "22M",
+        "installs": "1,000,000+",
+        "current_version": "1.1.19",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Greetings Island",
+        "developer_email": "support@greetingsisland.com",
+        "developer_url": "https://www.greetingsisland.com",
+        "developer_address": null,
+        "app_id": "com.greetingsisland.sam",
+        "url": "https://play.google.com/store/apps/details?id=com.greetingsisland.sam&hl=en&gl=us"
+    },
+    {
+        "title": "TodayTix \u2013 Theater Tickets",
+        "icon": "https://lh3.googleusercontent.com/Z1KUI11HfjV6J9a-wQmQ02y84WZLQ4coceRYoASphrgmpB32m3x7PRod40VJLRMLn7vg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10087,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TodayTix",
+        "updated": "July 18, 2019",
+        "size": "37M",
+        "installs": "500,000+",
+        "current_version": "2.5.5.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TodayTix",
+        "developer_email": "support@todaytix.com",
+        "developer_url": "http://www.todaytix.com/",
+        "developer_address": null,
+        "app_id": "com.todaytix.TodayTix",
+        "url": "https://play.google.com/store/apps/details?id=com.todaytix.TodayTix&hl=en&gl=us"
+    },
+    {
+        "title": "Sched",
+        "icon": "https://lh3.googleusercontent.com/V7CC3RmGHW3l2rOvHYvf72G2WrAM0Q526BETk5J_I69WTctnWvetmwW2LcP91q9fdNw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 146,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sched+LLC",
+        "updated": "July 4, 2019",
+        "size": "7.6M",
+        "installs": "50,000+",
+        "current_version": "1.7.0-global",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sched LLC",
+        "developer_email": "support@sched.com",
+        "developer_url": "https://sched.com",
+        "developer_address": null,
+        "app_id": "com.sched",
+        "url": "https://play.google.com/store/apps/details?id=com.sched&hl=en&gl=us"
+    },
+    {
+        "title": "GalaxyCon",
+        "icon": "https://lh3.googleusercontent.com/sKLkgY7rbHskIWh4v7jEzCO2-e4vnvNbdmOAD4ofcWhrj49_6zERGk0M1-iCC3IkuQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GrowTix",
+        "updated": "July 9, 2019",
+        "size": "6.6M",
+        "installs": "1,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GrowTix",
+        "developer_email": "sandy@superconventions.com",
+        "developer_url": "https://galaxycon.com",
+        "developer_address": null,
+        "app_id": "com.GalaxyCon.growtix",
+        "url": "https://play.google.com/store/apps/details?id=com.GalaxyCon.growtix&hl=en&gl=us"
+    },
+    {
+        "title": "QuakeCon: Year of DOOM",
+        "icon": "https://lh3.googleusercontent.com/cI3YoiER6K31iTvR0vJiBxM0se9M4ns3NDxYPfgVqQOmuh_PeOc4eZcHWB0MlTUqxrg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "5.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bethesda+Softworks+LLC",
+        "updated": "July 23, 2019",
+        "size": "22M",
+        "installs": "500+",
+        "current_version": "2.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bethesda Softworks LLC",
+        "developer_email": "help@bethsoft.com",
+        "developer_url": "https://www.quakecon.org/",
+        "developer_address": "Bethesda Softworks LLC\n1370 Piccard Drive, Suite 120\nRockville, MD 28050",
+        "app_id": "com.bethsoft.Quakecon",
+        "url": "https://play.google.com/store/apps/details?id=com.bethsoft.Quakecon&hl=en&gl=us"
+    },
+    {
+        "title": "JW Event",
+        "icon": "https://lh3.googleusercontent.com/srOorHMNjSPYaAfJXR5v9yOLHizYanO23kmQ_OheMadZEHWLzVZHXq-zli0ZiQxEfwk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1158,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jehovah%27s+Witnesses",
+        "updated": "July 18, 2019",
+        "size": "15M",
+        "installs": "100,000+",
+        "current_version": "3.2.3",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jehovah's Witnesses",
+        "developer_email": "support@jwevent.org",
+        "developer_url": "https://www.jw2019.org",
+        "developer_address": "1 Kings Dr\nTuxedo Park, NY 10987",
+        "app_id": "org.jw.jwevent",
+        "url": "https://play.google.com/store/apps/details?id=org.jw.jwevent&hl=en&gl=us"
+    },
+    {
+        "title": "Police Lights",
+        "icon": "https://lh3.googleusercontent.com/EyiMCmbP0_IT9jKzVAiCVYFTQyIrX0ntK68tRiosIKMZqxvZGblWjAyQEwa4WzH44GQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 293,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7562197840432606874",
+        "updated": "March 15, 2017",
+        "size": "3.2M",
+        "installs": "100,000+",
+        "current_version": "2.1",
+        "required_android_version": "2.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Chic Apps",
+        "developer_email": "chic2024@gmail.com",
+        "developer_url": "https://duperchic.wixsite.com/chic-apps/policy",
+        "developer_address": "Rua Caxiu, 398 - Cidade Antonio\nS\u00c3O PAULO - SP\nCidade Antonio\nS\u00c3O PAULO - SP\n08225-330\nBrazil",
+        "app_id": "com.chic.policelights",
+        "url": "https://play.google.com/store/apps/details?id=com.chic.policelights&hl=en&gl=us"
+    },
+    {
+        "title": "VRChat Anime Avatars",
+        "icon": "https://lh3.googleusercontent.com/OYtltRbKDUyYrUuuM1qrxHXS6-DkbTm5hgMYmoNOPya2T9USy4rJR0nybBVow2c8Bzc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 249,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Igor+Josanu",
+        "updated": "April 4, 2019",
+        "size": "4.4M",
+        "installs": "50,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Igor Josanu",
+        "developer_email": "igorjosanu911@gmail.com",
+        "developer_url": "https://jeatpet.appsppbest.eu/files/vravatar/Privacy_new/PrivacyPolicy.html",
+        "developer_address": null,
+        "app_id": "com.vrchat.anime.avatars.online",
+        "url": "https://play.google.com/store/apps/details?id=com.vrchat.anime.avatars.online&hl=en&gl=us"
+    },
+    {
+        "title": "klik Event App",
+        "icon": "https://lh3.googleusercontent.com/YWQhe4A9Ko1hlNTYOgZm31QxNXp_yg8Ytlnyk8m36y6zkixpj130ZxnUTSI0bC6JYhM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "klik+by+PixMob",
+        "updated": "May 9, 2019",
+        "size": "2.5M",
+        "installs": "10,000+",
+        "current_version": "1.1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "klik by PixMob",
+        "developer_email": "support@klik.co",
+        "developer_url": "https://klik.co",
+        "developer_address": null,
+        "app_id": "com.pixmob.klik.event_app_android",
+        "url": "https://play.google.com/store/apps/details?id=com.pixmob.klik.event_app_android&hl=en&gl=us"
+    },
+    {
+        "title": "Red Robin Events",
+        "icon": "https://lh3.googleusercontent.com/rk9aRdiPwNtD0rqJwAbOkP4Pxh7z5-QJ1ErkMpIXmfEKrF7pBHoYGfpBs2yNf3QiKzU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Red+Robin+International,+Inc.",
+        "updated": "December 20, 2018",
+        "size": "57M",
+        "installs": "10,000+",
+        "current_version": "5.38",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Red Robin International, Inc.",
+        "developer_email": "hkredrobin@gmail.com",
+        "developer_url": "https://www.redrobin.com/",
+        "developer_address": "6312 S. Fiddlers Green Circle\nSuite 200N\nGreenwood Village, CO 80111",
+        "app_id": "mobile.appcq8cCTCGnF",
+        "url": "https://play.google.com/store/apps/details?id=mobile.appcq8cCTCGnF&hl=en&gl=us"
+    },
+    {
+        "title": "Tail Skins",
+        "icon": "https://lh3.googleusercontent.com/W38Kg1CCy296X8ZMRfQvvpvSecNsUieLxjeAYNMfiKXwYuNRagfUOcqno1K7fNqSw_M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 213,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Mazur+Ilia",
+        "updated": "February 18, 2019",
+        "size": "15M",
+        "installs": "10,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Mazur Ilia",
+        "developer_email": "iliamazur1194@gmail.com",
+        "developer_url": "https://atua.iosdevsupport.biz/files/SkinsIliuha/Privacy_policy.html",
+        "developer_address": null,
+        "app_id": "com.tailskinsear",
+        "url": "https://play.google.com/store/apps/details?id=com.tailskinsear&hl=en&gl=us"
+    },
+    {
+        "title": "Goldstar: Live Event Tickets",
+        "icon": "https://lh3.googleusercontent.com/9M3--k-1qT8cymChrOvSf_hvGswLTT0rgVVkXr17dHhuZMgWT-IofjQ57rAmcp_q-vQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2524,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Goldstar+Events,+LLC",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen",
+            "Suggestive Themes"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Goldstar Events, LLC",
+        "developer_email": "help@goldstar.com",
+        "developer_url": "https://www.goldstar.com",
+        "developer_address": null,
+        "app_id": "com.goldstar",
+        "url": "https://play.google.com/store/apps/details?id=com.goldstar&hl=en&gl=us"
+    },
+    {
+        "title": "EA PLAY",
+        "icon": "https://lh3.googleusercontent.com/pDJX3junbFNNhxusB2Scb34yO0eHVJY2CkWGmCrPdlFGzEzzKKp7smAeFZiyLqcMRg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 124,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6605125519975771237",
+        "updated": "May 22, 2019",
+        "size": "32M",
+        "installs": "10,000+",
+        "current_version": "1.1.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ELECTRONIC ARTS",
+        "developer_email": "help@eamobile.com",
+        "developer_url": "http://www.ea.com/android",
+        "developer_address": "Geneva, Switzerland",
+        "app_id": "com.ea.gp.eaplay",
+        "url": "https://play.google.com/store/apps/details?id=com.ea.gp.eaplay&hl=en&gl=us"
+    },
+    {
+        "title": "Days  Left (countdown timer)",
+        "icon": "https://lh3.googleusercontent.com/Z14f1NARY_KBXb3n4mcwhqYFeRjFohr3gks2s3BsZQQBwRoQfs2x0H7jKfZoYsAQN0tZ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/mdeSffYp-CU",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8649,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Evgeny+Karavashkin",
+        "updated": "June 25, 2018",
+        "size": "4.9M",
+        "installs": "500,000+",
+        "current_version": "2.19",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Evgeny Karavashkin",
+        "developer_email": "e.karavashkin@googlemail.com",
+        "developer_url": "https://github.com/Karavanych/articleMaze/blob/master/PrivacyDaysLeft",
+        "developer_address": "624090, Russia ,Sverdlovskaya oblast, Verhniya Pishma, Mashinostroiteley 2a, 141",
+        "app_id": "draziw.leftday.widget",
+        "url": "https://play.google.com/store/apps/details?id=draziw.leftday.widget&hl=en&gl=us"
+    },
+    {
+        "title": "MyWed \u2764\ufe0f Wedding Planner with Checklist and Budget",
+        "icon": "https://lh3.googleusercontent.com/DRqAq8pThXeVbNdtajmC3GxpuF4syU-XEWuQQ_zKk-GIT6ikTwpcKN5JBIlala0DoA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3684,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Wedding+App",
+        "updated": "June 16, 2019",
+        "size": "14M",
+        "installs": "100,000+",
+        "current_version": "1.15.40",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$5.99",
+            "$8.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Wedding App",
+        "developer_email": "info@mywed.app",
+        "developer_url": "https://mywed.app/legal/privacy/",
+        "developer_address": "Belarus, Minsk, Prityckogo str., 97",
+        "app_id": "app.mywed.android",
+        "url": "https://play.google.com/store/apps/details?id=app.mywed.android&hl=en&gl=us"
+    },
+    {
+        "title": "Strobe Light",
+        "icon": "https://lh3.googleusercontent.com/65mJ2GoNH-JdVw2gwq0MBrvQDCnbZwpHZikzMkK6L96mIqLpN8vgCwoFcPJ1TbkAN44",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 952,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7562197840432606874",
+        "updated": "September 28, 2018",
+        "size": "1.9M",
+        "installs": "100,000+",
+        "current_version": "2.3",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Chic Apps",
+        "developer_email": "chic2024@gmail.com",
+        "developer_url": "https://duperchic.wixsite.com/chic-apps/policy",
+        "developer_address": "Rua Caxiu, 398 - Cidade Antonio\nS\u00c3O PAULO - SP\nCidade Antonio\nS\u00c3O PAULO - SP\n08225-330\nBrazil",
+        "app_id": "com.chic.ledstrobo",
+        "url": "https://play.google.com/store/apps/details?id=com.chic.ledstrobo&hl=en&gl=us"
+    },
+    {
+        "title": "Discotech: VIP bottle service, guestlists, tickets",
+        "icon": "https://lh3.googleusercontent.com/Z285kA2sMvWqqVb6Od3CZ0fW4SBpTg-PzDZBIgJ60mjCRdi0zEFTMaQaqULkbxhJPQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 995,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Discotech,+Inc.",
+        "updated": "July 22, 2019",
+        "size": "9.3M",
+        "installs": "50,000+",
+        "current_version": "3.6.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone",
+            "Alcohol Reference"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Discotech, Inc.",
+        "developer_email": "info@discotech.me",
+        "developer_url": "http://www.discotech.me",
+        "developer_address": null,
+        "app_id": "me.discotech",
+        "url": "https://play.google.com/store/apps/details?id=me.discotech&hl=en&gl=us"
+    },
+    {
+        "title": "Event Portal for Eventbrite",
+        "icon": "https://lh3.googleusercontent.com/CZyI-Sr5L-OVqPSoSRmRTqpiRiF35b5Ku_An7Um11wyMT1KGzUwsjXLdjJo0MOkcwJfP",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Powered+by+Entegy",
+        "updated": "May 29, 2019",
+        "size": "4.8M",
+        "installs": "10,000+",
+        "current_version": "1.0.13",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Powered by Entegy",
+        "developer_email": "poweredby@entegy.com.au",
+        "developer_url": "https://entegy.com.au/",
+        "developer_address": null,
+        "app_id": "au.com.entegy.ebportal",
+        "url": "https://play.google.com/store/apps/details?id=au.com.entegy.ebportal&hl=en&gl=us"
+    },
+    {
+        "title": "Navigate Gaylord Hotels App",
+        "icon": "https://lh3.googleusercontent.com/Zkmr6wWftGZdxUMTWHJ6Ii38YTGLjnYzWuVBv5Eg77Co8Fiw9LuF-K1LZFoqBIv2vWRd",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "1.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 129,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Meeting+Play",
+        "updated": "February 4, 2019",
+        "size": "11M",
+        "installs": "10,000+",
+        "current_version": "1.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Meeting Play",
+        "developer_email": "joe.s@meetingplay.com",
+        "developer_url": "http://www.MeetingPlay.com",
+        "developer_address": null,
+        "app_id": "com.meetingplay.gaylordwayfinding",
+        "url": "https://play.google.com/store/apps/details?id=com.meetingplay.gaylordwayfinding&hl=en&gl=us"
+    },
+    {
+        "title": "Expo Pass",
+        "icon": "https://lh3.googleusercontent.com/xn2LDYINMk-IYsge2r7mS3P3rfuDlBhFdD-AAvz2bcCfZMsjWVVGLLnHHVzVyYOP9w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Expo,+Inc.",
+        "updated": "March 22, 2019",
+        "size": "32M",
+        "installs": "5,000+",
+        "current_version": "2.7.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Expo, Inc.",
+        "developer_email": "info@expopass.com",
+        "developer_url": "https://www.expopass.com",
+        "developer_address": null,
+        "app_id": "io.expopass.expo",
+        "url": "https://play.google.com/store/apps/details?id=io.expopass.expo&hl=en&gl=us"
+    },
+    {
+        "title": "Cannabis Business Summit",
+        "icon": "https://lh3.googleusercontent.com/0rrYaJb9a6Kqn9otAJ4K9zrJjtXTmPtNu1VOwday4tnZlsWXxvTmqeW8rWPP7Q0jIQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "a2z,+Inc.",
+        "updated": "July 2, 2019",
+        "size": "14M",
+        "installs": "100+",
+        "current_version": "19.4.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "a2z, Inc.",
+        "developer_email": "appsupport@a2zinc.net",
+        "developer_url": "https://www.cannabisbusinesssummit.com/attend/faqs",
+        "developer_address": null,
+        "app_id": "a2z.Mobile.Event5643",
+        "url": "https://play.google.com/store/apps/details?id=a2z.Mobile.Event5643&hl=en&gl=us"
+    },
+    {
+        "title": "Ticket Club - No Fee Tickets to Events",
+        "icon": "https://lh3.googleusercontent.com/_76Rljv6DdgsqDi7yhMCt2F0pp2kU_2SSvhQXYxtLkIA4V-41zQrLg5QPD6gO3a9UcE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ticket+Club",
+        "updated": "April 27, 2019",
+        "size": "52M",
+        "installs": "10,000+",
+        "current_version": "1.0.13",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ticket Club",
+        "developer_email": "customersupport@ticketclub.com",
+        "developer_url": "https://www.ticketclub.com/",
+        "developer_address": null,
+        "app_id": "com.ticketlite.Ticketclub",
+        "url": "https://play.google.com/store/apps/details?id=com.ticketlite.Ticketclub&hl=en&gl=us"
+    },
+    {
+        "title": "SIGGRAPH 2019",
+        "icon": "https://lh3.googleusercontent.com/Tv0ixdumOb6T85ZofxR27nG8dqlrkkHp6obLl2h3FQC_GXpSXJ0r01_hTLYl_3Yp9C3u",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 113,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Eventbase+Technology,+Inc.",
+        "updated": "May 15, 2019",
+        "size": "35M",
+        "installs": "5,000+",
+        "current_version": "2.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Eventbase Technology, Inc.",
+        "developer_email": "mobileapp@siggraph.org",
+        "developer_url": "https://s2019.siggraph.org/contact-us/",
+        "developer_address": "1280 Homer St.\nVancouver, BC\nCanada\nV6B 2Y5",
+        "app_id": "com.acm.siggraph",
+        "url": "https://play.google.com/store/apps/details?id=com.acm.siggraph&hl=en&gl=us"
+    },
+    {
+        "title": "Halo: Outpost",
+        "icon": "https://lh3.googleusercontent.com/Hc98i-maSPDKtIlw_zG4-prEQzQfUnaRyLwdLs7f4qVrbj6J1nu7cbenmHo-8mPDCFrf",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Herschend+Live,+LLC",
+        "updated": "July 18, 2019",
+        "size": "51M",
+        "installs": "1,000+",
+        "current_version": "19.07.17.15.21",
+        "required_android_version": "8.0 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Fantasy Violence"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Herschend Live, LLC",
+        "developer_email": "bhardman@hfecorp.com",
+        "developer_url": "https://halooutpostdiscovery.com",
+        "developer_address": null,
+        "app_id": "com.herschend.halooutpost",
+        "url": "https://play.google.com/store/apps/details?id=com.herschend.halooutpost&hl=en&gl=us"
+    },
+    {
+        "title": "FAN GURU: Events, Conventions, Communities, Fandom",
+        "icon": "https://lh3.googleusercontent.com/_VIa1l5N2rAN6ItkEFdlTuuMDts4lJktnc_9mCTNWB01OIkNsbccMInwTOjPSdU3re0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 287,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fan+Guru",
+        "updated": "July 22, 2019",
+        "size": "55M",
+        "installs": "10,000+",
+        "current_version": "1.9.1",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Fan Guru",
+        "developer_email": "support@fan.guru",
+        "developer_url": "https://www.fan.guru",
+        "developer_address": null,
+        "app_id": "guru.fan.app",
+        "url": "https://play.google.com/store/apps/details?id=guru.fan.app&hl=en&gl=us"
+    },
+    {
+        "title": "Bridebook - The Wedding Planning App",
+        "icon": "https://lh3.googleusercontent.com/vIwkJRTO5D556HiWSkxiF86b-lOszcN3eLSGP6gtCmt6SkbmoRaYjyNTWANnBB_uSg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 599,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bridebook",
+        "updated": "June 17, 2019",
+        "size": "5.6M",
+        "installs": "100,000+",
+        "current_version": "1.9.28",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Bridebook",
+        "developer_email": "hello@bridebook.co.uk",
+        "developer_url": "https://bridebook.co.uk",
+        "developer_address": "Bridebook Towers,\n25 Nutford Place,\nLondon,\nW1H 5YQ",
+        "app_id": "com.bridebook.mobileapp",
+        "url": "https://play.google.com/store/apps/details?id=com.bridebook.mobileapp&hl=en&gl=us"
+    },
+    {
+        "title": "Impossible Track Racing 3D - Stunt Car Race Games",
+        "icon": "https://lh3.googleusercontent.com/WFFfzuTYx2pLihYz0sTOa-Wv-M9ub1cDjZyb1JK2r8SAFqPaQty9HCZTiejm3ZFafM4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 314,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "new+action+style+2019",
+        "updated": "June 24, 2019",
+        "size": "37M",
+        "installs": "500,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Blood"
+        ],
+        "iap_range": [
+            "$3.49",
+            "$13.99"
+        ],
+        "interactive_elements": null,
+        "developer": "new action style 2019",
+        "developer_email": "newactionstyle2019@gmail.com",
+        "developer_url": "https://www.facebook.com/permalink.php?story_fbid=191116411422583&id=191110974756460",
+        "developer_address": "New action style 2019",
+        "app_id": "com.na.impossible.car.racing3d.stunt.car.games",
+        "url": "https://play.google.com/store/apps/details?id=com.na.impossible.car.racing3d.stunt.car.games&hl=en&gl=us"
+    },
+    {
+        "title": "Experience PlayStation",
+        "icon": "https://lh3.googleusercontent.com/EnfvkzvGOvYeU1jYJnV1m0I6gbMSaIj8cuR7NPZAC6gEcRobXJK2d2WhV9WV0iRbGx-F",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2435,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5810481673801929430",
+        "updated": "July 24, 2019",
+        "size": "28M",
+        "installs": "500,000+",
+        "current_version": "3.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PlayStation Mobile Inc.",
+        "developer_email": "psxmobilesupport@playstation.sony.com",
+        "developer_url": "http://www.playstation.com/en-us/home",
+        "developer_address": "PlayStation Mobile Inc.\n2207 Bridgepointe Parkway\nSan Mateo, CA 94404\nUnited States",
+        "app_id": "com.sony.psexp2016",
+        "url": "https://play.google.com/store/apps/details?id=com.sony.psexp2016&hl=en&gl=us"
+    },
+    {
+        "title": "KOC Convention",
+        "icon": "https://lh3.googleusercontent.com/zBa9vgv0tOhC5Hm_i7AIzvKksymUzpNUJdy3u3Z1aaJxmn2Fdx7h1yAntQZ7t7qfGg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hallmark+Omnichannel",
+        "updated": "July 11, 2019",
+        "size": "40M",
+        "installs": "100+",
+        "current_version": "5.47.3",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Hallmark Omnichannel",
+        "developer_email": "nikki.meek@hallmark.com",
+        "developer_url": "https://www.hallmark.com",
+        "developer_address": null,
+        "app_id": "mobile.appXHjU5MhNAO",
+        "url": "https://play.google.com/store/apps/details?id=mobile.appXHjU5MhNAO&hl=en&gl=us"
+    },
+    {
+        "title": "Nearify - Discover Events",
+        "icon": "https://lh3.googleusercontent.com/CYx3IJANEy179hrkSj4qfCA7sw2XpO2cjuz3B6pStH74le6s2DzJFWnck_5s35HSouQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ns-H3n9C4TY",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3540,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Nearify",
+        "updated": "April 2, 2019",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "9.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Nearify",
+        "developer_email": "hello@nearify.com",
+        "developer_url": "http://www.nearify.com",
+        "developer_address": null,
+        "app_id": "com.nearify.android",
+        "url": "https://play.google.com/store/apps/details?id=com.nearify.android&hl=en&gl=us"
+    },
+    {
+        "title": "Survival Maps",
+        "icon": "https://lh3.googleusercontent.com/WEYmrMYwJoHivYuBBkFzcBi_afS9Xx2bNc2Ad8cRzyN43eyOLbnwSC6f_LWDIM14qSuc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 56,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Vishnevscaia+Oxana",
+        "updated": "May 22, 2019",
+        "size": "5.9M",
+        "installs": "10,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Vishnevscaia Oxana",
+        "developer_email": "oxanavishnevscaia@gmail.com",
+        "developer_url": "https://bogatii.dartcomit.com/files/Mapsnew/privacy_maps.htm",
+        "developer_address": null,
+        "app_id": "com.survival.maps.redstone",
+        "url": "https://play.google.com/store/apps/details?id=com.survival.maps.redstone&hl=en&gl=us"
+    },
+    {
+        "title": "Bizzabo",
+        "icon": "https://lh3.googleusercontent.com/hIeRI0psbUmrhnhG6ApOR-pGhBdywnQiMI_mvsoa_1Thk6Ds5zmzdDO5Pqe8-2DRnH0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 505,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bizzabo+Ltd.",
+        "updated": "July 17, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "375.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Bizzabo Ltd.",
+        "developer_email": "support@bizzabo.com",
+        "developer_url": "http://www.bizzabo.com",
+        "developer_address": null,
+        "app_id": "com.bizzabo.client",
+        "url": "https://play.google.com/store/apps/details?id=com.bizzabo.client&hl=en&gl=us"
+    },
+    {
+        "title": "HydroVision International 2019",
+        "icon": "https://lh3.googleusercontent.com/-t0WNhbj3JTkEmQ7eUqsHx-a_z9iuf2NpXynCwMsxbLpOID6qFhe4Ibu86O1rSPfEU0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "a2z,+Inc.",
+        "updated": "July 3, 2019",
+        "size": "16M",
+        "installs": "500+",
+        "current_version": "19.4.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "a2z, Inc.",
+        "developer_email": "appsupport@a2zinc.net",
+        "developer_url": "http://www.hydroevent.com/content/hve/en/index.html",
+        "developer_address": null,
+        "app_id": "a2z.Mobile.Event4152",
+        "url": "https://play.google.com/store/apps/details?id=a2z.Mobile.Event4152&hl=en&gl=us"
+    },
+    {
+        "title": "NOVA Mobile App",
+        "icon": "https://lh3.googleusercontent.com/vMsc46_6XtSkXj4rwZvCh_HmaDFD8sBDDgx3hKNQbx7pIzRbX9XLN1_1qWvEbfEPHRaP",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5186183270029982619",
+        "updated": "June 12, 2019",
+        "size": "15M",
+        "installs": "1,000+",
+        "current_version": "4.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Gather Digital",
+        "developer_email": "jon@gatherdigital.com",
+        "developer_url": "http://www.gatherdigital.com",
+        "developer_address": null,
+        "app_id": "org.trynova.gd.novamobile",
+        "url": "https://play.google.com/store/apps/details?id=org.trynova.gd.novamobile&hl=en&gl=us"
+    },
+    {
+        "title": "Countdown by timeanddate.com",
+        "icon": "https://lh3.googleusercontent.com/qNLliHNwxujzsCQuoNCp3BZM_38hArn19ZLbPhvZ9YhVHmrBJI0sXq8ACl32Zd0a2w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1351,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8352391058331202125",
+        "updated": "May 27, 2019",
+        "size": "14M",
+        "installs": "100,000+",
+        "current_version": "1.5.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Time and Date AS",
+        "developer_email": "support@timeanddate.com",
+        "developer_url": "http://www.timeanddate.com/android/countdown/",
+        "developer_address": "Kanalsletta 4\nNO-4033 Stavanger\nNorway",
+        "app_id": "com.timeanddate.countdown",
+        "url": "https://play.google.com/store/apps/details?id=com.timeanddate.countdown&hl=en&gl=us"
+    },
+    {
+        "title": "All Events in City",
+        "icon": "https://lh3.googleusercontent.com/UUrfeR7QRqx1A1q7sikhllVO8M3EFs3UNx7ngcUfzt0HAIZMfA4R8TwRo8vbG_tF64Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XZTFT6ooIIE",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4633,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amitech+Business+Solutions",
+        "updated": "June 14, 2019",
+        "size": "7.2M",
+        "installs": "100,000+",
+        "current_version": "9.4",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Amitech Business Solutions",
+        "developer_email": "contact@allevents.in",
+        "developer_url": "http://allevents.in",
+        "developer_address": null,
+        "app_id": "com.amitech.allevents",
+        "url": "https://play.google.com/store/apps/details?id=com.amitech.allevents&hl=en&gl=us"
+    },
+    {
+        "title": "SRSWC",
+        "icon": "https://lh3.googleusercontent.com/Ayu6Mhw1HqRTV5b6pSsRxZTSNjtHUrGH8PQlSEAqeMLirL7Bpxqd-w7exHTEoRmF7Nw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "5.0",
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sonal+Patel+-+SBCSS",
+        "updated": "July 16, 2019",
+        "size": "8.2M",
+        "installs": "100+",
+        "current_version": "1.7.0-single",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Sonal Patel - SBCSS",
+        "developer_email": "apps@sched.com",
+        "developer_url": "https://srswc.sched.com",
+        "developer_address": null,
+        "app_id": "com.sched.srswc.single",
+        "url": "https://play.google.com/store/apps/details?id=com.sched.srswc.single&hl=en&gl=us"
+    },
+    {
+        "title": "T4T 2019",
+        "icon": "https://lh3.googleusercontent.com/Tv-TMa6iWvnZpOVfDqSqpMEEOHn1yPmsndcmYGddlj_kzmuA2xyZpgAKrfhBP21owSw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "5.0",
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Adam+Phyall+III",
+        "updated": "June 25, 2019",
+        "size": "18M",
+        "installs": "100+",
+        "current_version": "1.6.5-single",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Adam Phyall III",
+        "developer_email": "apps@sched.com",
+        "developer_url": "https://sched.com/privacy",
+        "developer_address": null,
+        "app_id": "com.sched.teachfortomorrow2019.single",
+        "url": "https://play.google.com/store/apps/details?id=com.sched.teachfortomorrow2019.single&hl=en&gl=us"
+    },
+    {
+        "title": "Edmtrain Concerts",
+        "icon": "https://lh3.googleusercontent.com/8UHtM-5Gku6FMVkbm8unlU-dADqrMeG69W-xL-5O9oHpvSudUW4ngKQtBfy-aS7MMbXb",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1308,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "EDM+Train+LLC",
+        "updated": "July 1, 2019",
+        "size": "Varies with device",
+        "installs": "50,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "EDM Train LLC",
+        "developer_email": "info@edmtrain.com",
+        "developer_url": "https://edmtrain.com/",
+        "developer_address": null,
+        "app_id": "com.edmtrain.edmtracks",
+        "url": "https://play.google.com/store/apps/details?id=com.edmtrain.edmtracks&hl=en&gl=us"
+    },
+    {
+        "title": "TeleMapper",
+        "icon": "https://lh3.googleusercontent.com/Wj6YNtQM9BU12OtFBq7oY7MbAcvY7Hg-coSpxhSOOPs5S5aDHZv1hXs5wfwYk1W6NaA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 41,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Estream+inc",
+        "updated": "July 1, 2019",
+        "size": "5.1M",
+        "installs": "10,000+",
+        "current_version": "1.1.28",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "Estream inc",
+        "developer_email": "info@applicantstream.com",
+        "developer_url": "http://ownerville.com/privacypolicy.pdf",
+        "developer_address": null,
+        "app_id": "com.estream.telemapper",
+        "url": "https://play.google.com/store/apps/details?id=com.estream.telemapper&hl=en&gl=us"
+    },
+    {
+        "title": "Hurry - Countdown to Birthday/Vacation (& Widgets)",
+        "icon": "https://lh3.googleusercontent.com/5Hsgdk6KLXc-j9Vs6VWC_CwN0CCicEQG4cq6kLLphCZrwN6nIrLWvb7bQJQ7pu72kQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 972,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8635532423115474166",
+        "updated": "June 20, 2019",
+        "size": "6.1M",
+        "installs": "50,000+",
+        "current_version": "22.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Sam Ruston",
+        "developer_email": "reports@samruston.co.uk",
+        "developer_url": "http://www.samruston.co.uk",
+        "developer_address": "66 Main Street\nRotherham\nS62 7TN\nUnited Kingdom",
+        "app_id": "com.samruston.hurry",
+        "url": "https://play.google.com/store/apps/details?id=com.samruston.hurry&hl=en&gl=us"
+    },
+    {
+        "title": "TransPHL",
+        "icon": "https://lh3.googleusercontent.com/dOqJi0hnVh8jTDHHsqzzR7F2MzqFzRbeEthUgMbYC3dRW7Eq-wZFXJdsuq7-8C-lp2M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NVOLV",
+        "updated": "June 28, 2019",
+        "size": "42M",
+        "installs": "1,000+",
+        "current_version": "1.0.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NVOLV",
+        "developer_email": "hasan@getnvolv.com",
+        "developer_url": "http://nvolv.co",
+        "developer_address": null,
+        "app_id": "com.app.iqvis.nvolv.mazzoni",
+        "url": "https://play.google.com/store/apps/details?id=com.app.iqvis.nvolv.mazzoni&hl=en&gl=us"
+    },
+    {
+        "title": "Happy Birthday Songs",
+        "icon": "https://lh3.googleusercontent.com/YCwAu1S7LZAc--ZCDbnuwuDQF3tqWLvxfYkrHrvqrWZdImd16QjcCZCs-uM0JdYrW1JN",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 267,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Funn+Tech",
+        "updated": "December 5, 2017",
+        "size": "14M",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Funn Tech",
+        "developer_email": "funtech.gps@gmail.com",
+        "developer_url": "https://funprivacypolicy.blogspot.com/2018/07/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.mashaapps.Happy.Birthday.songs.NamePhotooncake",
+        "url": "https://play.google.com/store/apps/details?id=com.mashaapps.Happy.Birthday.songs.NamePhotooncake&hl=en&gl=us"
+    },
+    {
+        "title": "viagogo Tickets",
+        "icon": "https://lh3.googleusercontent.com/uOCKDwj0LrOaF4aCrOkAcIh_aqrNQfzzSIOEXVNIM8gADozycCQXM626QhSg4dHxVv_D",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1145,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "viagogo",
+        "updated": "May 8, 2018",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "2.1.4-release",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "viagogo",
+        "developer_email": "ticketexchangeapps@viagogo.com",
+        "developer_url": "http://www.viagogo.com",
+        "developer_address": null,
+        "app_id": "com.viagogo.consumer.viagogo.playstore",
+        "url": "https://play.google.com/store/apps/details?id=com.viagogo.consumer.viagogo.playstore&hl=en&gl=us"
+    },
+    {
+        "title": "Character Sheet (3.5)",
+        "icon": "https://lh3.googleusercontent.com/O9nNImsYMRqki_dD-bw9TwVnKGPP1Ehcj40gPfYVNehDe_km0FNyvHKBGgFaFdBxyLo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 127,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "arejaybee",
+        "updated": "May 2, 2017",
+        "size": "2.0M",
+        "installs": "10,000+",
+        "current_version": "1.72",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "arejaybee",
+        "developer_email": "arejaybee95@gmail.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "com.tester.arejay.tester1",
+        "url": "https://play.google.com/store/apps/details?id=com.tester.arejay.tester1&hl=en&gl=us"
+    },
+    {
+        "title": "Magic Money - a better way to pay and play",
+        "icon": "https://lh3.googleusercontent.com/3lUqTIt2idAF71BrsFhKJeXxZuJDLBwSlRdZS3ge92O2HotI99dc48SJO9PNaqohoMg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 44,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MagicMoney+LLC",
+        "updated": "April 22, 2019",
+        "size": "18M",
+        "installs": "10,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MagicMoney LLC",
+        "developer_email": "support@magicmoney.com",
+        "developer_url": "http://www.magicmoney.com",
+        "developer_address": "6171 Gulf of Mexico Drive\nSuite 105\nLongboat Key, FL 34228",
+        "app_id": "com.app.magicmoneyguest",
+        "url": "https://play.google.com/store/apps/details?id=com.app.magicmoneyguest&hl=en&gl=us"
+    },
+    {
+        "title": "UNATION - Events Near Me, Buy & Sell Tickets",
+        "icon": "https://lh3.googleusercontent.com/9cwMrjuilbBa_gNe4z5kfaQ6fyGLjjq1fCFAHstti1DJKt8kaaupOBIK2mhdbCaGnko",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/FzJlXZQyqbg",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 102,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "UNATION,+INC.",
+        "updated": "July 19, 2019",
+        "size": "15M",
+        "installs": "50,000+",
+        "current_version": "2.9.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "UNATION, INC.",
+        "developer_email": "hi@unation.com",
+        "developer_url": "https://www.unation.com/",
+        "developer_address": null,
+        "app_id": "com.unation.app",
+        "url": "https://play.google.com/store/apps/details?id=com.unation.app&hl=en&gl=us"
+    },
+    {
+        "title": "IAVM Events",
+        "icon": "https://lh3.googleusercontent.com/8A5SwCUryqRxxd3e8i_RAAQxrz3g_Uyq06gzMjasHfzcqvRb0MzjxzEnchB72hoVxw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "1.0",
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "a2z,+Inc.",
+        "updated": "July 3, 2019",
+        "size": "13M",
+        "installs": "100+",
+        "current_version": "19.4.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "a2z, Inc.",
+        "developer_email": "appsupport@a2zinc.net",
+        "developer_url": "https://www.iavm.org/contact-us",
+        "developer_address": null,
+        "app_id": "a2z.Mobile.Event5518",
+        "url": "https://play.google.com/store/apps/details?id=a2z.Mobile.Event5518&hl=en&gl=us"
+    },
+    {
+        "title": "Eventleaf Guide",
+        "icon": "https://lh3.googleusercontent.com/5q02QBpAL1y1XiN0Q7sXFKfwaMe9dUTooQSwPvIz2HxX2fxycOEJKAQrf1QDezJqls4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "5.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jolly+Technologies+Inc",
+        "updated": "April 17, 2019",
+        "size": "26M",
+        "installs": "1,000+",
+        "current_version": "3.0.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jolly Technologies Inc",
+        "developer_email": "support@eventleaf.com",
+        "developer_url": "http://www.eventleaf.com",
+        "developer_address": "1510 Fashion Island Blvd. #102\nSan Mateo, CA 94404",
+        "app_id": "com.eventleaf.guide",
+        "url": "https://play.google.com/store/apps/details?id=com.eventleaf.guide&hl=en&gl=us"
+    },
+    {
+        "title": "TicketSwap - Buy, Sell Tickets",
+        "icon": "https://lh3.googleusercontent.com/gkf4MldTxVlPt-eq85NZsKuQkiRorMw2G5hoQsM6cMUa74sx7CHv_IdjnRHwIMTk5p7z",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2528,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TicketSwap",
+        "updated": "June 26, 2019",
+        "size": "17M",
+        "installs": "500,000+",
+        "current_version": "19.06.974",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "TicketSwap",
+        "developer_email": "info@ticketswap.com",
+        "developer_url": "https://www.ticketswap.com",
+        "developer_address": null,
+        "app_id": "com.ticketswap.ticketswap",
+        "url": "https://play.google.com/store/apps/details?id=com.ticketswap.ticketswap&hl=en&gl=us"
+    },
+    {
+        "title": "eBay Open 2018",
+        "icon": "https://lh3.googleusercontent.com/Pum0gxD2CezfR_FNxwefq9cRf0X2Ikh-XkB50afTNk5ItjHstncbowJLInzzu2OabLI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 71,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6005619443614255030",
+        "updated": "July 17, 2018",
+        "size": "20M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "eBay Mobile",
+        "developer_email": "craison@wearesparks.com",
+        "developer_url": "http://ebayopen.com",
+        "developer_address": null,
+        "app_id": "com.ebay.ebayopen",
+        "url": "https://play.google.com/store/apps/details?id=com.ebay.ebayopen&hl=en&gl=us"
+    },
+    {
+        "title": "EMBC 2019",
+        "icon": "https://lh3.googleusercontent.com/Ba8HIfKQTPLi9EdkCt094u8jxDBCds6azqbriehUjs3mBcKf-9sR23zKsuhVTGBreg4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "1.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "InfoVaya",
+        "updated": "July 25, 2019",
+        "size": "28M",
+        "installs": "500+",
+        "current_version": "1.0.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "InfoVaya",
+        "developer_email": "helpdesk@delfys.com",
+        "developer_url": "http://www.infovaya.com",
+        "developer_address": null,
+        "app_id": "gr.softweb.embc2019",
+        "url": "https://play.google.com/store/apps/details?id=gr.softweb.embc2019&hl=en&gl=us"
+    },
+    {
+        "title": "ComplexCon",
+        "icon": "https://lh3.googleusercontent.com/apaBV1Y037gprd9zpgGRA6jKMdl4YNk20ESuPkBo3t2zhohaTRF8dkU3j4KWcM9NXWs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/U8erTNMSIHg",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 36,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Complex+Media,+Inc.",
+        "updated": "July 20, 2019",
+        "size": "28M",
+        "installs": "5,000+",
+        "current_version": "3.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Complex Media, Inc.",
+        "developer_email": "info@complex.com",
+        "developer_url": "https://www.complexcon.com",
+        "developer_address": "229 West 43rd Street,\n10th floor\nNew York, NY 10036",
+        "app_id": "com.complex.complexcon",
+        "url": "https://play.google.com/store/apps/details?id=com.complex.complexcon&hl=en&gl=us"
+    },
+    {
+        "title": "Event Planner - Guests, To-do, Budget Management",
+        "icon": "https://lh3.googleusercontent.com/ixsgJMHsjCw2bBg60DivPtvTU1jP8Z8oj5wWibY5dANADlak2WBOCkFDrpAC9udSvq0H",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Visionary+Labs",
+        "updated": "July 17, 2019",
+        "size": "4.5M",
+        "installs": "1,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Visionary Labs",
+        "developer_email": "visionarylabs19@gmail.com",
+        "developer_url": "http://porkier-attributes.000webhostapp.com/",
+        "developer_address": null,
+        "app_id": "com.vlabs.eventplanner",
+        "url": "https://play.google.com/store/apps/details?id=com.vlabs.eventplanner&hl=en&gl=us"
+    },
+    {
+        "title": "Event Tickets Center",
+        "icon": "https://lh3.googleusercontent.com/vPtFkaUjl_JzO7EB_AeL61ylgUgwJaZbfcPHyIuumUCjmAczRkXwPq3Q-kyBdW0mYw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 99,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Event+Tickets+Center+-+ETC",
+        "updated": "February 15, 2019",
+        "size": "2.9M",
+        "installs": "10,000+",
+        "current_version": "10.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Event Tickets Center - ETC",
+        "developer_email": "appsupport@eventticketscenter.com",
+        "developer_url": "https://www.eventticketscenter.com",
+        "developer_address": "5401 South Kirkman Road Suite 310\nOrlando, Florida\n32819",
+        "app_id": "com.xcr.android.eventticketscenter",
+        "url": "https://play.google.com/store/apps/details?id=com.xcr.android.eventticketscenter&hl=en&gl=us"
+    },
+    {
+        "title": "LaneOne",
+        "icon": "https://lh3.googleusercontent.com/rFa-arOum7iJlFM8-vvsDtl6J50ZD2L78GteyCs4uzMygLyUpbfV8kDzWGYGR-qOSg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "5.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "LaneOne",
+        "updated": "May 10, 2019",
+        "size": "9.0M",
+        "installs": "5,000+",
+        "current_version": "1.5.7 Build: 782",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "LaneOne",
+        "developer_email": "support@laneone.com",
+        "developer_url": "http://laneone.com",
+        "developer_address": "594 Howard St #201\nSan Francisco, CA, 94105",
+        "app_id": "com.laneone.consumer",
+        "url": "https://play.google.com/store/apps/details?id=com.laneone.consumer&hl=en&gl=us"
+    },
+    {
+        "title": "Pinnacle EMS",
+        "icon": "https://lh3.googleusercontent.com/h02VsF6yS62Pz8Vc1i-qjkNciXYpMw543H2YtfeSC9y_UvJs7wIrVWzfmiCLVUMeUao",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pinnacle+EMS",
+        "updated": "June 18, 2019",
+        "size": "42M",
+        "installs": "50+",
+        "current_version": "5.46.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Pinnacle EMS",
+        "developer_email": "sconroy@fitchassoc.com",
+        "developer_url": "https://www.fitchassoc.com",
+        "developer_address": null,
+        "app_id": "mobile.appW0Ns3sYFBV",
+        "url": "https://play.google.com/store/apps/details?id=mobile.appW0Ns3sYFBV&hl=en&gl=us"
+    },
+    {
+        "title": "Antiochian Archdiocese Convention 2019",
+        "icon": "https://lh3.googleusercontent.com/OGzQEbPz_hraA2DslBKVubr9tN1O2t4yKRYn2dC-m3MkjcDluq5kITMnYpFeW7TfKcs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "5.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Rapid",
+        "updated": "July 17, 2019",
+        "size": "24M",
+        "installs": "100+",
+        "current_version": "1.0.2",
+        "required_android_version": "2.3.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Rapid",
+        "developer_email": "jdhultink@gmail.com",
+        "developer_url": "https://ac2019gr.org",
+        "developer_address": "1730 Cleveland Ave Sw Wyoming MI 49509",
+        "app_id": "com.rapidappdevelopment.ac2019",
+        "url": "https://play.google.com/store/apps/details?id=com.rapidappdevelopment.ac2019&hl=en&gl=us"
+    },
+    {
+        "title": "Lucky Block Maps",
+        "icon": "https://lh3.googleusercontent.com/4C0s_A-Q4DRDgK0qZVt_bFe8KzHgzFzh1ax1eDIlUZFo9mZPPUuXeM-sxDf_0P-lNg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Vishnevscaia+Oxana",
+        "updated": "May 28, 2019",
+        "size": "6.0M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Vishnevscaia Oxana",
+        "developer_email": "oxanavishnevscaia@gmail.com",
+        "developer_url": "https://bogatii.dartcomit.com/files/Mapsnew/privacy_maps.htm",
+        "developer_address": null,
+        "app_id": "com.lucky.block.maps.race",
+        "url": "https://play.google.com/store/apps/details?id=com.lucky.block.maps.race&hl=en&gl=us"
+    },
+    {
+        "title": "Wedding Planner & Organizer, Guest Checklists",
+        "icon": "https://lh3.googleusercontent.com/UE5gjKd4vmGdm9qgO-RRQSKIrVxVKPpo81ycO_Rx4CGxI9ua3HjdqsKKhYDoPvwdKog",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 89,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "MS+International",
+        "updated": "May 23, 2019",
+        "size": "6.3M",
+        "installs": "10,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "MS International",
+        "developer_email": "msdeveloper0291@gmail.com",
+        "developer_url": "https://msdeveloper0291.000webhostapp.com/",
+        "developer_address": null,
+        "app_id": "com.msint.weddingplanner",
+        "url": "https://play.google.com/store/apps/details?id=com.msint.weddingplanner&hl=en&gl=us"
+    },
+    {
+        "title": "Govx",
+        "icon": "https://lh3.googleusercontent.com/8O0EUlSsRAIbAldnyAyFW5Lpu61pTC5meIkukqc0ox29870HbMxSnbxF0AmwZlfaFa-o",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Busabout+Operations",
+        "updated": "April 29, 2019",
+        "size": "83M",
+        "installs": "1,000+",
+        "current_version": "1.3",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Busabout Operations",
+        "developer_email": "developers@visyon360.com",
+        "developer_url": "https://www.mcit.gov.sa/en/page/99091",
+        "developer_address": null,
+        "app_id": "com.visyon.govx",
+        "url": "https://play.google.com/store/apps/details?id=com.visyon.govx&hl=en&gl=us"
+    },
+    {
+        "title": "Event Planner (Party Planning)",
+        "icon": "https://lh3.googleusercontent.com/xP7yd4zAPvXJVAAFtZpFMxeO0AxorcjRxLm9HIwMWZaRlP2p4reijbAeNUUy6WgBJXTW",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 580,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "mMobile+App",
+        "updated": "May 24, 2018",
+        "size": "2.6M",
+        "installs": "100,000+",
+        "current_version": "1.1.6",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "mMobile App",
+        "developer_email": "support@mmobile-app.com",
+        "developer_url": "https://mmobile-app.com/index.php/home/event-planner",
+        "developer_address": "Bucharest, Romania, Str. Anton Bacalbasa, nr. 5, bl. 55, sc. 1, ap. 39, postal code: 041924",
+        "app_id": "com.mmobile.app.event",
+        "url": "https://play.google.com/store/apps/details?id=com.mmobile.app.event&hl=en&gl=us"
+    },
+    {
+        "title": "CUE Live",
+        "icon": "https://lh3.googleusercontent.com/iFSN9CI2B0R_tITie-eWMbu_1W4f31jxkkbhDdUE5bw0ZNtKDlFS4M22qSug6hTAfw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ork4Q4eoUg4",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CUE+Audio",
+        "updated": "June 5, 2019",
+        "size": "9.6M",
+        "installs": "10,000+",
+        "current_version": "2.4.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CUE Audio",
+        "developer_email": "jameson@cueaudio.com",
+        "developer_url": "http://cueaudio.com",
+        "developer_address": null,
+        "app_id": "com.cueaudio.cue",
+        "url": "https://play.google.com/store/apps/details?id=com.cueaudio.cue&hl=en&gl=us"
+    },
+    {
+        "title": "SD Chislic Festival",
+        "icon": "https://lh3.googleusercontent.com/iV9tPCwmZzvmnfTbJx-ppjwlEdF7jLVsviE6qWgLQnd4qmSzIRAIurS5_Jb8-NYLrYI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "5.0",
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Shoutem,+Inc.",
+        "updated": "July 5, 2019",
+        "size": "38M",
+        "installs": "50+",
+        "current_version": "5.64.13",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Shoutem, Inc.",
+        "developer_email": "tabitha@thefreemancourier.com",
+        "developer_url": "https://www.sdchislicfestival.com",
+        "developer_address": "-",
+        "app_id": "hr.apps.n207408237",
+        "url": "https://play.google.com/store/apps/details?id=hr.apps.n207408237&hl=en&gl=us"
+    },
+    {
+        "title": "Quake & Volcanoes: 3D Globe of Volcanic Eruptions",
+        "icon": "https://lh3.googleusercontent.com/gUghJ05a5CIA7lSCxlz9zHJB_lB0sGeDmuvHOl_kd7IViSX8W29ko5UBCHfYyPSfSc4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1377,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6677587029913822659",
+        "updated": "May 23, 2019",
+        "size": "7.5M",
+        "installs": "100,000+",
+        "current_version": "1.2.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "\ud83c\udf2a SP-Apps",
+        "developer_email": "abdjfaqih@gmail.com",
+        "developer_url": "http://www.sp-apps.com",
+        "developer_address": "Amman - Jordan\nPO box 925946\npostal code 11190",
+        "app_id": "spapps.com.earthquake",
+        "url": "https://play.google.com/store/apps/details?id=spapps.com.earthquake&hl=en&gl=us"
+    },
+    {
+        "title": "2019 All Star",
+        "icon": "https://lh3.googleusercontent.com/Qx5pe7WKQcZVpjErjT8HpAXBYNVKSrwDxLpEEe_8tUZOKjGGp_i_S3oj7eWG-sxvlA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "5.0",
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SEI+Technologies",
+        "updated": "July 20, 2019",
+        "size": "11M",
+        "installs": "100+",
+        "current_version": "1.0.45",
+        "required_android_version": "4.4W and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "SEI Technologies",
+        "developer_email": "programming@sei-mi.com",
+        "developer_url": "https://www.sei-mi.com/policy.html",
+        "developer_address": null,
+        "app_id": "com.seimi.compass.p145",
+        "url": "https://play.google.com/store/apps/details?id=com.seimi.compass.p145&hl=en&gl=us"
+    },
+    {
+        "title": "TicketFire - Tickets to Sports, Concerts, Theater",
+        "icon": "https://lh3.googleusercontent.com/Eq7quAPl4XukIJZ7JaV9tcgu0C8aSwIaDgNITZ--BAuLwRa49a0FT01X3MciDRoWMQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/j84EXJRUbbE",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 83,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ticketfire",
+        "updated": "June 11, 2019",
+        "size": "23M",
+        "installs": "10,000+",
+        "current_version": "6.2.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Ticketfire",
+        "developer_email": "contact@ticketfire.com",
+        "developer_url": "https://ticketfire.com",
+        "developer_address": "1275 Kinnear Rd, Columbus, OH 43212",
+        "app_id": "com.ticketfire.android",
+        "url": "https://play.google.com/store/apps/details?id=com.ticketfire.android&hl=en&gl=us"
+    },
+    {
+        "title": "Path to Growth - Macy's",
+        "icon": "https://lh3.googleusercontent.com/lE13Q-qWGHUTgGcMbx4jkyag83pN7J583XNHVB2y7-mJ1lkVGWkWNWh6ja9Kjxq5a7hq",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "George+P.+Johnson+GmbH",
+        "updated": "March 1, 2019",
+        "size": "5.9M",
+        "installs": "10,000+",
+        "current_version": "2.2.0.10",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "George P. Johnson GmbH",
+        "developer_email": "publicapps@gpj.com",
+        "developer_url": "https://www.macys.com/?cm_sp=navigation-_-top_nav-_-macys_icon",
+        "developer_address": null,
+        "app_id": "com.gpj.macys",
+        "url": "https://play.google.com/store/apps/details?id=com.gpj.macys&hl=en&gl=us"
+    },
+    {
+        "title": "2019 CA MTSS PLI",
+        "icon": "https://lh3.googleusercontent.com/X4pnpMbpC2onOP5EtTLeXCRSmrVoO5L_ETLecBRfdMrUQfKmTT6VB63DnnaKWbnhVJ0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Orange+County+Superintendent+of+Schools",
+        "updated": "June 11, 2019",
+        "size": "38M",
+        "installs": "100+",
+        "current_version": "5.46.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Orange County Superintendent of Schools",
+        "developer_email": "mmartinez@ocde.us",
+        "developer_url": "https://www.ocde.us",
+        "developer_address": null,
+        "app_id": "mobile.appYwofFAFdG7",
+        "url": "https://play.google.com/store/apps/details?id=mobile.appYwofFAFdG7&hl=en&gl=us"
+    },
+    {
+        "title": "Birthdays & Other Events",
+        "icon": "https://lh3.googleusercontent.com/D_hYUZrayK4cS2wMMVjiI75gTV2W5Fk-aLYTDqW_qgvebsoqeYQha3_a49ZURYXup78",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 893,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InterZnak",
+        "updated": "April 22, 2019",
+        "size": "4.0M",
+        "installs": "50,000+",
+        "current_version": "1.90",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "InterZnak",
+        "developer_email": "vasil32@gmail.com",
+        "developer_url": "http://interznak.ru/policy/birthdays/",
+        "developer_address": "Russia, 127081, Moscow, Do vostrebovaniya, Bazhenov V.M.\n(P.S.: please, email me if you sent me letter)",
+        "app_id": "my.birthdayreminder",
+        "url": "https://play.google.com/store/apps/details?id=my.birthdayreminder&hl=en&gl=us"
+    },
+    {
+        "title": "Birthday Countdown",
+        "icon": "https://lh3.googleusercontent.com/EYeCTDQ-YbJe24KEIkdlU6bC7WHXErsxIHHUuqm5jHQwNjBNGMEk1bkDVrljPI9GRA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "5.0",
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Teconica+Hub",
+        "updated": "April 10, 2019",
+        "size": "6.1M",
+        "installs": "500+",
+        "current_version": "1.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Teconica Hub",
+        "developer_email": "teconicahub@gmail.com",
+        "developer_url": "http://teconicahubpp.blogspot.com/",
+        "developer_address": null,
+        "app_id": "thm.countdown.birthday",
+        "url": "https://play.google.com/store/apps/details?id=thm.countdown.birthday&hl=en&gl=us"
+    },
+    {
+        "title": "Find Events, Expo, Conference, Workshop to attend!",
+        "icon": "https://lh3.googleusercontent.com/k4feIoIZM4gTLubRmJRyk3tQeXsDYfQkDFnUdcs-VZynoety12zBQVQiwHrQRWMVrA8u",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1284,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6959162256766858229",
+        "updated": "July 25, 2019",
+        "size": "13M",
+        "installs": "100,000+",
+        "current_version": "3.4.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "10times.com",
+        "developer_email": "android@10times.com",
+        "developer_url": "https://10times.com",
+        "developer_address": "3rd Floor, Fusion Square, 5a & 5b, Sector 126, Noida, 201313",
+        "app_id": "com.tentimes",
+        "url": "https://play.google.com/store/apps/details?id=com.tentimes&hl=en&gl=us"
+    },
+    {
+        "title": "FIG Events",
+        "icon": "https://lh3.googleusercontent.com/iA76GmrzAWw9TNUlKOwUe1xST2h2NUVM49XzVoxVan7ZMiQr4SH85tHhZxws66VoDKI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Farmers+Group+Inc",
+        "updated": "September 5, 2018",
+        "size": "Varies with device",
+        "installs": "1,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Farmers Group Inc",
+        "developer_email": "iFarmersSupport@farmersinsurance.com",
+        "developer_url": "http://www.farmers.com",
+        "developer_address": null,
+        "app_id": "me.doubledutch.kbtmx.farmersevents",
+        "url": "https://play.google.com/store/apps/details?id=me.doubledutch.kbtmx.farmersevents&hl=en&gl=us"
+    },
+    {
+        "title": "Strobe",
+        "icon": "https://lh3.googleusercontent.com/bQCaLmvSsWS63VZtG3kY6V9P6NQ4_B7AZp7X6TeBfchlwiKXjrO9AsROUdxUzT68OTBs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 771,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5840664117349588017",
+        "updated": "September 22, 2018",
+        "size": "2.8M",
+        "installs": "100,000+",
+        "current_version": "2.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "\ud83d\udc8e Chic Apps \ud83d\udc8e",
+        "developer_email": "chic.message@gmail.com",
+        "developer_url": "https://duperchic.wixsite.com/chic-apps",
+        "developer_address": "Rua Caxiu, 398 - Cidade Antonio\nS\u00c3O PAULO - SP\nCidade Antonio\nS\u00c3O PAULO - SP\n08225-330\nBrazil",
+        "app_id": "com.chic.colorstrobeflashlight",
+        "url": "https://play.google.com/store/apps/details?id=com.chic.colorstrobeflashlight&hl=en&gl=us"
+    },
+    {
+        "title": "Helper Helper",
+        "icon": "https://lh3.googleusercontent.com/HTvhuiOcM1aFQBgQUGpIOPiHII-_L3FYFceT3VJxif_S7Kny1IhqpW_Y89OspXswsZXS",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Helper+Helper",
+        "updated": "May 20, 2019",
+        "size": "6.1M",
+        "installs": "10,000+",
+        "current_version": "5.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Helper Helper",
+        "developer_email": "info@helperhelper.us",
+        "developer_url": "http://www.helperhelper.us",
+        "developer_address": null,
+        "app_id": "us.helperhelper",
+        "url": "https://play.google.com/store/apps/details?id=us.helperhelper&hl=en&gl=us"
+    },
+    {
+        "title": "GoFan",
+        "icon": "https://lh3.googleusercontent.com/oj7pxZ5HVTblQtdKf2Odj_VphOui-Z_kY19V3l0D5cJUqbmBhhBgfveX4aHbssCMwT7L",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "1.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 63,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Huddle,+Inc",
+        "updated": "March 2, 2018",
+        "size": "4.2M",
+        "installs": "10,000+",
+        "current_version": "3.12.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Huddle, Inc",
+        "developer_email": "service@gofan.co",
+        "developer_url": "http://gofan.co",
+        "developer_address": "HUDDLE, INC.,\n6445 SHILOH ROAD,\nALPHARETTA, UNITED STATES",
+        "app_id": "com.huddleinc.GoFan",
+        "url": "https://play.google.com/store/apps/details?id=com.huddleinc.GoFan&hl=en&gl=us"
+    },
+    {
+        "title": "MeetApp Go",
+        "icon": "https://lh3.googleusercontent.com/P4R1cdwJMFk5_HsY1y8mt3l_8Wl5l-B2xALTfGVlXaZOBeBG49ARIh7JJgvILTBhZXfP",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6166991346549604593",
+        "updated": "July 1, 2019",
+        "size": "42M",
+        "installs": "5,000+",
+        "current_version": "3.93",
+        "required_android_version": "2.3.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MeetApp Events",
+        "developer_email": "marcus@meetappevent.com",
+        "developer_url": "https://meetappevent.com",
+        "developer_address": null,
+        "app_id": "com.meetappevent.meetappgo",
+        "url": "https://play.google.com/store/apps/details?id=com.meetappevent.meetappgo&hl=en&gl=us"
+    },
+    {
+        "title": "INCOSE Events",
+        "icon": "https://lh3.googleusercontent.com/kwW9CLSrvzxpCNE2HcJSDlRpdM9wHe15iAXpiaNNdyzA9TawMdWuoW7tMBddl1ACsw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Conflr",
+        "updated": "July 12, 2019",
+        "size": "19M",
+        "installs": "500+",
+        "current_version": "2019.7.2.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Conflr",
+        "developer_email": "app@conflr.com",
+        "developer_url": "http://www.conflr.com/APP",
+        "developer_address": "44 rue Jasmin\n81370 St Sulpice\nFrance",
+        "app_id": "com.conflr.incoseevents",
+        "url": "https://play.google.com/store/apps/details?id=com.conflr.incoseevents&hl=en&gl=us"
+    },
+    {
+        "title": "L\u1ecbch \u00c2m D\u01b0\u01a1ng Vi\u1ec7t Nam",
+        "icon": "https://lh3.googleusercontent.com/VotK98FshpK48yfyR2ahyAkSrT4P4wEqEjl8-RcHmjdnK5XgwrRM0mzhf8nqGJr79Soz",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tarot+%26+Tuvi",
+        "updated": "July 12, 2019",
+        "size": "9.8M",
+        "installs": "500+",
+        "current_version": "1.0.4",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tarot & Tuvi",
+        "developer_email": "zeroq1102@gmail.com",
+        "developer_url": "https://sites.google.com/view/lchmdngvitnam/trang-ch%E1%BB%A7",
+        "developer_address": null,
+        "app_id": "com.amlich.hoangdao.sukien",
+        "url": "https://play.google.com/store/apps/details?id=com.amlich.hoangdao.sukien&hl=en&gl=us"
+    },
+    {
+        "title": "Norwex Conferences",
+        "icon": "https://lh3.googleusercontent.com/yR8Lqnz6KA0B8m3hDE-Kt3rCGG655Hu0r38_3I1p2c16tkom3fXTuWeICwzGPr2Dwn8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Norwex+IT",
+        "updated": "June 20, 2019",
+        "size": "35M",
+        "installs": "500+",
+        "current_version": "5.47",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Norwex IT",
+        "developer_email": "bcomer@norwex.com",
+        "developer_url": "https://norwex.biz/",
+        "developer_address": "800 Bethel Road\nSuite 100\nCoppell, Texas 75109",
+        "app_id": "mobile.appZ9sRj61x2F",
+        "url": "https://play.google.com/store/apps/details?id=mobile.appZ9sRj61x2F&hl=en&gl=us"
+    },
+    {
+        "title": "ChemEd 2019",
+        "icon": "https://lh3.googleusercontent.com/zz8PTQJMps_Ct0Y7bQh47Ys9e1F8eP8KmhnzmGaFYjBmaE-w35iPonReYaRx5289lLwF",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "North+Central+College",
+        "updated": "June 5, 2019",
+        "size": "7.6M",
+        "installs": "100+",
+        "current_version": "1.6.1-single",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "North Central College",
+        "developer_email": "apps@sched.com",
+        "developer_url": "https://chemed2019.sched.com/",
+        "developer_address": null,
+        "app_id": "com.sched.chemed2019.single",
+        "url": "https://play.google.com/store/apps/details?id=com.sched.chemed2019.single&hl=en&gl=us"
+    },
+    {
+        "title": "TCDRS Annual Conference",
+        "icon": "https://lh3.googleusercontent.com/XCz4NO5zag4jZoyfZkDJowloyhCmYYymBh2z6XDcg5DWp18wYTIvuOg7Ka3TSSzb_60F",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TCDRS",
+        "updated": "June 28, 2019",
+        "size": "60M",
+        "installs": "100+",
+        "current_version": "5.47.3",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TCDRS",
+        "developer_email": "kellyl@tcdrs.org",
+        "developer_url": "http://www.TCDRS.org",
+        "developer_address": null,
+        "app_id": "mobile.appNN35i9tg41",
+        "url": "https://play.google.com/store/apps/details?id=mobile.appNN35i9tg41&hl=en&gl=us"
+    },
+    {
+        "title": "Smash Tournament Browser",
+        "icon": "https://lh3.googleusercontent.com/WgNPHuGW_9dQcFc6v0w_qTp6pnvNzWPr2zxfFsPEaW7yHGhFl6IMAenhWx23mp6ylknJ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Marshall+Gordon",
+        "updated": "July 24, 2018",
+        "size": "10M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Marshall Gordon",
+        "developer_email": "marshallngordon@gmail.com",
+        "developer_url": "https://smash.gg/about/privacy",
+        "developer_address": null,
+        "app_id": "com.marshallgordon.smashgg",
+        "url": "https://play.google.com/store/apps/details?id=com.marshallgordon.smashgg&hl=en&gl=us"
+    },
+    {
+        "title": "Wendy's Meetings",
+        "icon": "https://lh3.googleusercontent.com/7s0oAyUeWpt3xFKdeymQjRhMJrROD533U4fdXvN2qsvQDkGkIhB98VKoxXvH-w1hGIPC",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "1.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 66,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wendy%27s+Meetings",
+        "updated": "May 9, 2019",
+        "size": "31M",
+        "installs": "10,000+",
+        "current_version": "5.45",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Wendy's Meetings",
+        "developer_email": "chelci.fauss-johnson@wendys.com",
+        "developer_url": "https://www.wendys.com",
+        "developer_address": null,
+        "app_id": "mobile.appH9uFcRyHQF",
+        "url": "https://play.google.com/store/apps/details?id=mobile.appH9uFcRyHQF&hl=en&gl=us"
+    },
+    {
+        "title": "Live Football WorldCup & Sports Live Tv Streaming",
+        "icon": "https://lh3.googleusercontent.com/Maxlg--hkWN9IEcO7UsGn0U_stPSotNsFaO68m9abbx_6CUasejAyEytXgaslPNCoGI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 702,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Eolo-Sports",
+        "updated": "December 24, 2018",
+        "size": "13M",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Eolo-Sports",
+        "developer_email": "sellingdreambox@gmail.com",
+        "developer_url": "http://www.smileiptv.com/privacy-policy/",
+        "developer_address": "Via macalle 20\nSeregno",
+        "app_id": "com.football.world.com",
+        "url": "https://play.google.com/store/apps/details?id=com.football.world.com&hl=en&gl=us"
+    },
+    {
+        "title": "Birdays \u2013 Birthday reminder",
+        "icon": "https://lh3.googleusercontent.com/v7DhoGIgelIJzTVO9a3YdzfuxohIdTse2qhpCi0mSGkoPf5rbMv9oy8m6zSC4qT-XFE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3816,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7167505373655907425",
+        "updated": "December 14, 2017",
+        "size": "5.9M",
+        "installs": "100,000+",
+        "current_version": "1.5.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Evgeny Timofeev",
+        "developer_email": "birdaysapp@gmail.com",
+        "developer_url": "https://cdn.rawgit.com/Djonique/Birdays/380ec8cc/PRIVACY%20POLICY.html",
+        "developer_address": "Novocherkassk",
+        "app_id": "com.djonique.birdays",
+        "url": "https://play.google.com/store/apps/details?id=com.djonique.birdays&hl=en&gl=us"
+    },
+    {
+        "title": "Plan It Out - Event Planner",
+        "icon": "https://lh3.googleusercontent.com/sWAtfPenCuXPIqQTvgNwRsd4riAq9rt1x2bKmIaMN5lMRNmjJ4eCArSlB_nROksYkrfw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Akshit+Sehgal",
+        "updated": "July 8, 2019",
+        "size": "6.3M",
+        "installs": "1,000+",
+        "current_version": "1.2.6",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Akshit Sehgal",
+        "developer_email": "akshitsehgal95@gmail.com",
+        "developer_url": "http://akshitsehgal.com",
+        "developer_address": null,
+        "app_id": "com.productions.akshitsehgal.planitouteventplanner",
+        "url": "https://play.google.com/store/apps/details?id=com.productions.akshitsehgal.planitouteventplanner&hl=en&gl=us"
+    },
+    {
+        "title": "Shortlist \u2013 Tickets to Music, Concerts, & Shows",
+        "icon": "https://lh3.googleusercontent.com/4SN3RMfCJssxSc0bk5FOMoLFi5_Lfnx1hgjelQZe5TxGX1biZHppe4TtRRMz1fkiWnyh",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5712692731004758815",
+        "updated": "October 22, 2017",
+        "size": "6.3M",
+        "installs": "1,000+",
+        "current_version": "1.0.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Ticketmaster L.L.C.",
+        "developer_email": "contact@shortlistconcerts.com",
+        "developer_url": "http://shortlistconcerts.com",
+        "developer_address": null,
+        "app_id": "com.tmsdurham.shortlist",
+        "url": "https://play.google.com/store/apps/details?id=com.tmsdurham.shortlist&hl=en&gl=us"
+    },
+    {
+        "title": "Color Therapy",
+        "icon": "https://lh3.googleusercontent.com/qrzi2P3Q_7W7d7Dzp8L5plDwhxUoV3p-sClv2P-ppx6q2hRVFJ-kMdoj8fQzPxcRIET_",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rT-qN2nvCwg",
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Durenis+Apps",
+        "updated": "March 17, 2019",
+        "size": "57M",
+        "installs": "1,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Durenis Apps",
+        "developer_email": "durenisapps@gmail.com",
+        "developer_url": null,
+        "developer_address": "ISTANBUL/TURKIYE",
+        "app_id": "com.durenis.coltherapy",
+        "url": "https://play.google.com/store/apps/details?id=com.durenis.coltherapy&hl=en&gl=us"
+    },
+    {
+        "title": "sEATz",
+        "icon": "https://lh3.googleusercontent.com/SGlnUwl9TIt1MjmVKde2ntufCeeEVOidLih5schMzUs7kFvtxToOeoStgA7_-DVtng",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Rivalry+Technologies+LLC+Apps",
+        "updated": "December 5, 2018",
+        "size": "16M",
+        "installs": "1,000+",
+        "current_version": "1.71",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen",
+            "Alcohol Reference"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Rivalry Technologies LLC Apps",
+        "developer_email": "info@seatzapp.com",
+        "developer_url": "http://seatzapp.com",
+        "developer_address": null,
+        "app_id": "com.seatz_mvp",
+        "url": "https://play.google.com/store/apps/details?id=com.seatz_mvp&hl=en&gl=us"
+    },
+    {
+        "title": "Holiday Calendar",
+        "icon": "https://lh3.googleusercontent.com/uODerp9v0OEZa21UFnI7cwrH8imKtm8nhma4VODIFkUybdKDbW3ZDx3pM2OqJyCnOAO_",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 375,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "RothApp",
+        "updated": "July 24, 2019",
+        "size": "7.2M",
+        "installs": "10,000+",
+        "current_version": "2.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "RothApp",
+        "developer_email": "phearoth.app@gmail.com",
+        "developer_url": "https://holidaycalendarpro.blogspot.com/2019/03/holiday-calendar-privacy-policy.html",
+        "developer_address": "#10, St 196, 7 Makara, Phnom Penh, 12250, Cambodia",
+        "app_id": "com.angkormobi.ukcalendar",
+        "url": "https://play.google.com/store/apps/details?id=com.angkormobi.ukcalendar&hl=en&gl=us"
+    },
+    {
+        "title": "Shifting Retail Events",
+        "icon": "https://lh3.googleusercontent.com/905JtW_04WZVvHNfOsylL426_KPoKfWdUPvooLK7CTkqt2InzNMujUY6uv7qbG1UpSQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Modere",
+        "updated": "September 18, 2018",
+        "size": "2.8M",
+        "installs": "500+",
+        "current_version": "1.0.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Modere",
+        "developer_email": "dedek@modere.com",
+        "developer_url": "http://www.modere.com",
+        "developer_address": null,
+        "app_id": "com.modere.shiftingretailevents",
+        "url": "https://play.google.com/store/apps/details?id=com.modere.shiftingretailevents&hl=en&gl=us"
+    },
+    {
+        "title": "ASNT Events",
+        "icon": "https://lh3.googleusercontent.com/pBMDqi4v-1bww22kqRAbRoSsspk-MYWD9858iuEpGyOYaX5LTITBt400QmT6In_BWQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5186183270029982619",
+        "updated": "October 23, 2018",
+        "size": "15M",
+        "installs": "1,000+",
+        "current_version": "1.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Gather Digital",
+        "developer_email": "jon@gatherdigital.com",
+        "developer_url": "http://www.gatherdigital.com",
+        "developer_address": null,
+        "app_id": "org.asnt.gd.events",
+        "url": "https://play.google.com/store/apps/details?id=org.asnt.gd.events&hl=en&gl=us"
+    },
+    {
+        "title": "QuickBooks Connect",
+        "icon": "https://lh3.googleusercontent.com/DGKvc3uclw9HWg72WnkqxR42f2QGfj0WMjB5r7pKOm4vJ9LWvrziAY5c47q3De3gx3cW",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "EVENTS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7987416923533646496",
+        "updated": "April 10, 2019",
+        "size": "21M",
+        "installs": "5,000+",
+        "current_version": "1.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Intuit Inc",
+        "developer_email": "support@qbconnectevents.com",
+        "developer_url": "http://www.intuit.com",
+        "developer_address": "7535 Torrey Santa Fe Road\nSan Diego, CA 92129",
+        "app_id": "com.tapcrowd.intuitapp300000812",
+        "url": "https://play.google.com/store/apps/details?id=com.tapcrowd.intuitapp300000812&hl=en&gl=us"
+    }
+]

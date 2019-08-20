@@ -1,0 +1,4434 @@
+[
+    {
+        "title": "Pregnancy Tracker + Countdown to Baby Due Date",
+        "icon": "https://lh3.googleusercontent.com/7C9ySnqm1JCZrFyinUs2kiLkR8scZadYjGu6GjWy_zwSjP8KBmjLpbIQN7ULV8aaIcY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/28KHDshg2G8",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 870295,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "BabyCenter",
+        "updated": "June 28, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "BabyCenter",
+        "developer_email": "customerservice@babycenter.com",
+        "developer_url": "http://www.babycenter.com",
+        "developer_address": null,
+        "app_id": "com.babycenter.pregnancytracker",
+        "url": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker&hl=en&gl=us"
+    },
+    {
+        "title": "My Family - Family Locator",
+        "icon": "https://lh3.googleusercontent.com/W3wW1DUjqRj2ZvQzCc07ckuJURDGD2lG0AEbavHdNyQnLpmOd8BmfPGK3uh5YF6V_Ps",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 872,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Friendzy+Limited",
+        "updated": "July 2, 2019",
+        "size": "13M",
+        "installs": "100,000+",
+        "current_version": "1.4.27",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$8.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "Friendzy Limited",
+        "developer_email": "support@friendzy.tech",
+        "developer_url": "http://friendzy.tech/MyFamily/",
+        "developer_address": "75 Prodromou, Oneworld Parkview House, 4th floor\nNicosia\nCyprus",
+        "app_id": "family.tracker.my",
+        "url": "https://play.google.com/store/apps/details?id=family.tracker.my&hl=en&gl=us"
+    },
+    {
+        "title": "Live Camera Translator",
+        "icon": "https://lh3.googleusercontent.com/7gpzeuF2IHK2vWJtJfgAU_TOKa6eWt0YdGem4vuOQGu3PzCSOSmE9JpF7iaABEnrcw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Cldownloader",
+        "updated": "July 15, 2019",
+        "size": "5.3M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Cldownloader",
+        "developer_email": "clarindownloader@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1_WNwtSNsv3QXkKiMhXGCVwpLpEpuYS78VyPq86GxPZE/edit",
+        "developer_address": null,
+        "app_id": "com.live.translator.conversor.plus",
+        "url": "https://play.google.com/store/apps/details?id=com.live.translator.conversor.plus&hl=en&gl=us"
+    },
+    {
+        "title": "Pregnancy +",
+        "icon": "https://lh3.googleusercontent.com/FUWnSyQx6nj0zENolF-dUtD7hPmF8qCFu6CuaXY2PNNV7o8jX07PZUDuB1B3L-6yzMWz",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 442753,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6809109784060370658",
+        "updated": "June 10, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Health & Parenting",
+        "developer_email": "support@health-and-parenting.com",
+        "developer_url": "http://www.health-and-parenting.com",
+        "developer_address": "Philips Centre\nGuildford Business Park Rd\nGuildford GU2 8XG\nUnited Kingdom",
+        "app_id": "com.hp.pregnancy.lite",
+        "url": "https://play.google.com/store/apps/details?id=com.hp.pregnancy.lite&hl=en&gl=us"
+    },
+    {
+        "title": "Find My Kids: Child GPS-watch & Phone Tracker",
+        "icon": "https://lh3.googleusercontent.com/_592yozY5UpdCxns36X-Ne2LxKMOzNgQDCyW0O6oQkrTrusXVd4bDbOg6_jpFWwyDzA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 65785,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6976318052361578107",
+        "updated": "July 24, 2019",
+        "size": "23M",
+        "installs": "5,000,000+",
+        "current_version": "1.9.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$69.99"
+        ],
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "GEO TRACK TECHNOLOGIES INC",
+        "developer_email": "support@findmykids.org",
+        "developer_url": "https://findmykids.org",
+        "developer_address": "8 The Green, Ste A, Dover, DE, 19901",
+        "app_id": "org.findmykids.app",
+        "url": "https://play.google.com/store/apps/details?id=org.findmykids.app&hl=en&gl=us"
+    },
+    {
+        "title": "FamilyAlbum - Easy Photo & Video Sharing",
+        "icon": "https://lh3.googleusercontent.com/9VBaYhJbPEqU0lQEOfVjOYWdue3CkjrnTbTu5z_n3sifby8xpo0KbeZ-2vyrIf2jUw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XFwrY8ANUfI",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 60516,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6810769518504152980",
+        "updated": "July 16, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "mixi, Inc.",
+        "developer_email": "support@mitene.us",
+        "developer_url": "https://mitene.us/",
+        "developer_address": "\u6771\u4eac\u90fd\u6e0b\u8c37\u533a\u67711-2-20 \u4f4f\u53cb\u4e0d\u52d5\u7523\u6e0b\u8c37\u30d5\u30a1\u30fc\u30b9\u30c8\u30bf\u30ef\u30fc7F",
+        "app_id": "us.mitene",
+        "url": "https://play.google.com/store/apps/details?id=us.mitene&hl=en&gl=us"
+    },
+    {
+        "title": "AppClose - the #1 co-parenting app",
+        "icon": "https://lh3.googleusercontent.com/Ak5_wINfmwcHve_qXy_mEugm_7tSkUmphnkcNUt5HqPtFpl7dludIIUaw7lXmrBoqag",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 593,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AppClose,+Inc",
+        "updated": "July 4, 2019",
+        "size": "11M",
+        "installs": "100,000+",
+        "current_version": "3.0.59",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "AppClose, Inc",
+        "developer_email": "talktous@appclose.com",
+        "developer_url": "https://appclose.com/",
+        "developer_address": "600 Congress Ave., 14th Floor\nAustin Texas 78701",
+        "app_id": "com.appclose.androidapp",
+        "url": "https://play.google.com/store/apps/details?id=com.appclose.androidapp&hl=en&gl=us"
+    },
+    {
+        "title": "Daniel Tiger for Parents",
+        "icon": "https://lh3.googleusercontent.com/DZ4BSCbPZu0RYsRlgrFo1-r7OVBPXXAEHcB03GUKYxHzKHmFXVCO77FedBdEjOvtgvw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ZU_v2Ie2Bao",
+        "category": [
+            "PARENTING",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 390,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8332149447945516079",
+        "updated": "May 16, 2019",
+        "size": "33M",
+        "installs": "500,000+",
+        "current_version": "1.3.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PBS KIDS",
+        "developer_email": "AndroidApp@pbs.org",
+        "developer_url": "http://pbskids.org/apps",
+        "developer_address": "2100 Crystal Drive\nArlington, VA 22202",
+        "app_id": "org.pbskids.danieltigerforparents",
+        "url": "https://play.google.com/store/apps/details?id=org.pbskids.danieltigerforparents&hl=en&gl=us"
+    },
+    {
+        "title": "Parental Control - Screen Time & Location Tracker",
+        "icon": "https://lh3.googleusercontent.com/RudUM1P-WeYwzILEKkLqFTh-awT1zSlPg0d46YOC-80DFn5bkGVhjYqEyO-1wNvhAq5h",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/KYLGyHHDB5s",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35746,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9201210272811934140",
+        "updated": "July 19, 2019",
+        "size": "12M",
+        "installs": "1,000,000+",
+        "current_version": "3.11.21",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.52",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Screen Time Labs",
+        "developer_email": "support@screentimelabs.com",
+        "developer_url": "https://screentimelabs.com",
+        "developer_address": "Engine Shed, Station Approach, Bristol BS1 6QH",
+        "app_id": "com.screentime.rc",
+        "url": "https://play.google.com/store/apps/details?id=com.screentime.rc&hl=en&gl=us"
+    },
+    {
+        "title": "Speech Blubs: Language Therapy",
+        "icon": "https://lh3.googleusercontent.com/vbt3WWyAQ2FBvtj8PzryNNrv6lAgUmxTAIFm_AEwVRzr5FCnLeAeI9T3y7RreZqVhS-G",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ck8nnnxXr0U",
+        "category": [
+            "PARENTING",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 422,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6189401587933183852",
+        "updated": "July 11, 2019",
+        "size": "62M",
+        "installs": "100,000+",
+        "current_version": "2.0.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Blub Blub Inc.",
+        "developer_email": "hi@blubblub.org",
+        "developer_url": "https://speechblubs.com",
+        "developer_address": "3500 South DuPont Highway, Dover, County of Kent, Delaware 19901",
+        "app_id": "org.blubblub.app.speechblubs",
+        "url": "https://play.google.com/store/apps/details?id=org.blubblub.app.speechblubs&hl=en&gl=us"
+    },
+    {
+        "title": "Amazon FreeTime \u2013 Kids\u2019 Videos, Books, & TV shows",
+        "icon": "https://lh3.googleusercontent.com/7qKP6c3A_8zEuGZTByPMrBT3HUrkKhKO2V23D2-1VJJOlZE7wNH0mP9j_nVqrZVnCNg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3468,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "February 12, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "FreeTimeApp-aosp_v2.17_Build-1.0.212002.0.30911",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "feedback-amazon-app-android@amazon.com",
+        "developer_url": "https://www.amazon.com/gp/product/B01I499BNA/?ref=FTU_AND_GPS",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "com.amazon.tahoe",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.tahoe&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Tracker - Newborn Feeding, Diaper, Sleep Log",
+        "icon": "https://lh3.googleusercontent.com/2mPGobAXoK_eQqvqS6RfTBug1v8AnEeUevuFSNhDqRUzTo_bp16d4J9pqC0noDHXt1Hu",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17649,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "NIGHP+SOFTWARE",
+        "updated": "June 2, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "2.08",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "NIGHP SOFTWARE",
+        "developer_email": "babytracker@nighp.com",
+        "developer_url": "http://nighp.com/babytracker_android",
+        "developer_address": "29/F.,Guangdong Investment Tower,\n148 Connaught Road Central,\nHong Kong",
+        "app_id": "com.nighp.babytracker_android",
+        "url": "https://play.google.com/store/apps/details?id=com.nighp.babytracker_android&hl=en&gl=us"
+    },
+    {
+        "title": "S'moresUp - Best Chores App",
+        "icon": "https://lh3.googleusercontent.com/EpGvaKIvnHqDVIuwhPY7X0SukQO1bdsnQiFkEm9v1DMvezPL4s0zw3NOVq9hKk6-Zg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 183,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Rotation+5,+LLC",
+        "updated": "July 20, 2019",
+        "size": "13M",
+        "installs": "10,000+",
+        "current_version": "2.07.19",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Rotation 5, LLC",
+        "developer_email": "allthingsparenting@smoresup.com",
+        "developer_url": "https://www.smoresup.com",
+        "developer_address": null,
+        "app_id": "com.rotation5.smoresup",
+        "url": "https://play.google.com/store/apps/details?id=com.rotation5.smoresup&hl=en&gl=us"
+    },
+    {
+        "title": "Baby tracker - feeding, sleep and diaper",
+        "icon": "https://lh3.googleusercontent.com/dDfFm-1VhhUGfTWQ_vaxnQQ9Z1pApmha4lWufchGCSPfSkRTKvL0eTTRBFn9JHiwRbYh",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34200,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5094777365301165062",
+        "updated": "July 24, 2019",
+        "size": "5.5M",
+        "installs": "500,000+",
+        "current_version": "1.0.62",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Amila",
+        "developer_email": "developers.amila@gmail.com",
+        "developer_url": "http://amila.io",
+        "developer_address": "203-119 Madison Ave S, Kitchener, ON N2G 3M4",
+        "app_id": "com.amila.parenting",
+        "url": "https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en&gl=us"
+    },
+    {
+        "title": "Game & Toys Family Funny Review",
+        "icon": "https://lh3.googleusercontent.com/VC5tikNpidYANOChhv3zEQVIU6Uh6i514Vsp_uMqtnDmNVWNQ9o2TbcZ4XsUzkqkJQE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 102,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Family+Video+Gaming",
+        "updated": "December 26, 2018",
+        "size": "8.7M",
+        "installs": "10,000+",
+        "current_version": "0.0.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Family Video Gaming",
+        "developer_email": "chymkhongcanh123@gmail.com",
+        "developer_url": "https://toyreviewvideo.blogspot.com/2018/09/privacy-policy-of-toys.html?fbclid=IwAR1O-OlpdlcBAZR3plo0iwRiGNBQPaKM-Jii3vbgAFnLmv6HN-0DvCJrqNs",
+        "developer_address": null,
+        "app_id": "com.grdhmae.gameandtoysfamilyfunny",
+        "url": "https://play.google.com/store/apps/details?id=com.grdhmae.gameandtoysfamilyfunny&hl=en&gl=us"
+    },
+    {
+        "title": "Panda Bubbles Hunter",
+        "icon": "https://lh3.googleusercontent.com/Pbgur7NLpsHqlF0d1Doz2WaUXEDcxlIzndcdry_3Gl0SLt_AnQ1CGXdGYB9ZePC-nPQz",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2903,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "GIG+Entertainment",
+        "updated": "June 11, 2019",
+        "size": "36M",
+        "installs": "1,000,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$29.99"
+        ],
+        "interactive_elements": null,
+        "developer": "GIG Entertainment",
+        "developer_email": "freedomgxmason@gmail.com",
+        "developer_url": "https://sites.google.com/view/gigenter/home",
+        "developer_address": null,
+        "app_id": "com.obikecoco.bubbleshootergame.pandaFirefox",
+        "url": "https://play.google.com/store/apps/details?id=com.obikecoco.bubbleshootergame.pandaFirefox&hl=en&gl=us"
+    },
+    {
+        "title": "Kidazzler - Private Access Portal",
+        "icon": "https://lh3.googleusercontent.com/9w48x4b_WbJN-TQkOp-VPL7YMxlhgBp4hju5e3exqsdL43rCVC5nPm81L1HnrIqOzSo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 91,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Kidazzler",
+        "updated": "July 7, 2019",
+        "size": "21M",
+        "installs": "10,000+",
+        "current_version": "1.12.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Kidazzler",
+        "developer_email": "info@kidazzler.com",
+        "developer_url": "https://kidazzler.com/",
+        "developer_address": null,
+        "app_id": "com.kidazzler.app",
+        "url": "https://play.google.com/store/apps/details?id=com.kidazzler.app&hl=en&gl=us"
+    },
+    {
+        "title": "BabySparks - Development Activities and Milestones",
+        "icon": "https://lh3.googleusercontent.com/qgZ3UtbJDxrhMyzC4cMAErnhRt7L8gphFnObLl4GsWb_2U8fVDOQObY1d54EQcTZmQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4791,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "BabySparks",
+        "updated": "July 10, 2019",
+        "size": "60M",
+        "installs": "1,000,000+",
+        "current_version": "2.2.37",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$37.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "BabySparks",
+        "developer_email": "info@babysparks.com",
+        "developer_url": "http://www.babysparks.com",
+        "developer_address": "1201 Orange Street #600\nWilmington, DE 19899",
+        "app_id": "com.babysparks.babysparks",
+        "url": "https://play.google.com/store/apps/details?id=com.babysparks.babysparks&hl=en&gl=us"
+    },
+    {
+        "title": "iPhone Monitoring: SaferKid Parental Control App",
+        "icon": "https://lh3.googleusercontent.com/VaoP9D4E5Q-Y_s6yxkLSg3cwU6PsTOPM1DTBb9w16inaBFxAApNDGfItzJIdRZPdbOk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 78,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "SaferKid,+Inc.",
+        "updated": "June 16, 2019",
+        "size": "7.9M",
+        "installs": "10,000+",
+        "current_version": "1.0.26",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$139.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "SaferKid, Inc.",
+        "developer_email": "support@saferkid.com",
+        "developer_url": "https://www.saferkid.com",
+        "developer_address": "590 Lipoa Parkway, Suite 110\nKihei, HI 96753",
+        "app_id": "com.saferkid.parentapp",
+        "url": "https://play.google.com/store/apps/details?id=com.saferkid.parentapp&hl=en&gl=us"
+    },
+    {
+        "title": "Find My Kids - GPS Tracker",
+        "icon": "https://lh3.googleusercontent.com/B2N7IrE4VfXn_wVvKWO7G1tWDrNrdnYyQuFP3kM-carIZkM8OzR0YVRyWcPy5fgGJ-0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15045,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Family+Safety+Production",
+        "updated": "April 19, 2019",
+        "size": "40M",
+        "installs": "1,000,000+",
+        "current_version": "18.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$69.99"
+        ],
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "Family Safety Production",
+        "developer_email": "feedback@lready.org",
+        "developer_url": "http://www.lready.org",
+        "developer_address": "539 Bryant St\nSuite 402\nSan Francisco CA",
+        "app_id": "com.fsp.android.g",
+        "url": "https://play.google.com/store/apps/details?id=com.fsp.android.g&hl=en&gl=us"
+    },
+    {
+        "title": "T-Mobile\u00ae FamilyMode\u2122",
+        "icon": "https://lh3.googleusercontent.com/5pbaUEsftMShFfJbz1u-970qT_xK8QdK4ytPQ8U-o4Aqi_lJRtDGyv8rMYH3nPyHk1Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "2.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 740,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "T-Mobile+USA",
+        "updated": "June 6, 2019",
+        "size": "22M",
+        "installs": "100,000+",
+        "current_version": "1.0.11.198",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "T-Mobile USA",
+        "developer_email": "GooglePlaySupport@T-Mobile.com",
+        "developer_url": "http://t-mobile.com",
+        "developer_address": "12920 SE 38th St, Bellevue, WA 98006",
+        "app_id": "com.tmobile.familycontrols",
+        "url": "https://play.google.com/store/apps/details?id=com.tmobile.familycontrols&hl=en&gl=us"
+    },
+    {
+        "title": "Hatch Baby Rest",
+        "icon": "https://lh3.googleusercontent.com/N4Eq1KfE5j3AifsveMREhS2y3l4WdtcYNML98wg0CXrSIgcgoWXsTjlQLqy3xOb5vbk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1684,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hatch+Baby",
+        "updated": "June 24, 2019",
+        "size": "Varies with device",
+        "installs": "50,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hatch Baby",
+        "developer_email": "support@hatchbaby.com",
+        "developer_url": "http://www.hatchbaby.com",
+        "developer_address": null,
+        "app_id": "com.hatchbaby.rest",
+        "url": "https://play.google.com/store/apps/details?id=com.hatchbaby.rest&hl=en&gl=us"
+    },
+    {
+        "title": "UrbanSitter - Find a Local Caregiver You Can Trust",
+        "icon": "https://lh3.googleusercontent.com/Rh5ltVuVYnF7CZLK-ffjGuzk5a-XDBj_YnuqXb1jyoeRpSaGHC-f__KjXkANB4x1ib0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1348,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4694825267105963856",
+        "updated": "July 19, 2019",
+        "size": "22M",
+        "installs": "100,000+",
+        "current_version": "6.10.1(3423)",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "UrbanSitter Inc.",
+        "developer_email": "playstore@urbansitter.com",
+        "developer_url": "https://www.urbansitter.com/",
+        "developer_address": null,
+        "app_id": "com.urbansitter.android",
+        "url": "https://play.google.com/store/apps/details?id=com.urbansitter.android&hl=en&gl=us"
+    },
+    {
+        "title": "Glow Baby: Track Newborn Baby & Toddler Milestones",
+        "icon": "https://lh3.googleusercontent.com/LdJRwFOJ1Ix1JjguuPbvqls_fYOa2s5-ZKWZAcqfGJJQx98nhgvnp677JMHyVvv9-z8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7936,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5645706041873155457",
+        "updated": "July 25, 2019",
+        "size": "21M",
+        "installs": "100,000+",
+        "current_version": "2.1.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Glow Inc",
+        "developer_email": "info@glowing.com",
+        "developer_url": "https://glowing.com",
+        "developer_address": "140 2nd Street, 3rd Floor, San Francisco, CA 94105",
+        "app_id": "com.glow.android.baby",
+        "url": "https://play.google.com/store/apps/details?id=com.glow.android.baby&hl=en&gl=us"
+    },
+    {
+        "title": "Pregnancy Tracker.",
+        "icon": "https://lh3.googleusercontent.com/lxunLdi2qpP0LwNNXYq_cL3zGdifK7-0riMspQ3nPiKb4QXkrOOUN_NEDp06UOnoMw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/9ttfHQkGOGM",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21968,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5645706041873155457",
+        "updated": "July 25, 2019",
+        "size": "11M",
+        "installs": "500,000+",
+        "current_version": "3.3.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Glow Inc",
+        "developer_email": "info@glowing.com",
+        "developer_url": "https://glowing.com",
+        "developer_address": "140 2nd Street, 3rd Floor, San Francisco, CA 94105",
+        "app_id": "com.glow.android.nurture",
+        "url": "https://play.google.com/store/apps/details?id=com.glow.android.nurture&hl=en&gl=us"
+    },
+    {
+        "title": "Contraction Timer",
+        "icon": "https://lh3.googleusercontent.com/IqaV6qAsnQRvy87jGg-TYeHX-JP-5GmWj5FsKq-ikBzW3HircYlOTC6bbhSx03R8TT4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4104,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "James+Ots",
+        "updated": "March 10, 2015",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "James Ots",
+        "developer_email": "android@jamesots.com",
+        "developer_url": "http://jamesots.com/android",
+        "developer_address": "187 Winsford Avenue\nAllesley Park\nCoventry\nCV5 9NG\nUNITED KINGDOM",
+        "app_id": "com.jamesots.android.contractiontimer",
+        "url": "https://play.google.com/store/apps/details?id=com.jamesots.android.contractiontimer&hl=en&gl=us"
+    },
+    {
+        "title": "Forest Story",
+        "icon": "https://lh3.googleusercontent.com/e9dO2JSxHzgJIpG3agw8XIjNOtizeKjh1OJh_tdGbUmd9QY5Bjunrk-lGL_ZbRMuAg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 530,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "OKGO",
+        "updated": "February 16, 2019",
+        "size": "20M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$19.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "OKGO",
+        "developer_email": "okliu666sz@gmail.com",
+        "developer_url": "https://sites.google.com/site/ferrblast/",
+        "developer_address": null,
+        "app_id": "com.powergirdcar.flowerblast.forestStory",
+        "url": "https://play.google.com/store/apps/details?id=com.powergirdcar.flowerblast.forestStory&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Names",
+        "icon": "https://lh3.googleusercontent.com/K2kTVUwDcskMRPH0oJAjVI0dTB5NmQKgD9NNPf_eMA6F_FSu37lxuP1sfEZvh_H-QIRn",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 518,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mobi4Hobby",
+        "updated": "April 24, 2019",
+        "size": "4.2M",
+        "installs": "100,000+",
+        "current_version": "1.14",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mobi4Hobby",
+        "developer_email": "apps@mobi4hobby.com",
+        "developer_url": "https://www.dropbox.com/s/tdv1dxepeokcy0b/babynames_privacy_policy_enus.pdf?raw=1",
+        "developer_address": "Rua Carlos Rischbieter,\nBlumenau, SC",
+        "app_id": "mobi4hobby.babynames",
+        "url": "https://play.google.com/store/apps/details?id=mobi4hobby.babynames&hl=en&gl=us"
+    },
+    {
+        "title": "Cat Bubble Match 3",
+        "icon": "https://lh3.googleusercontent.com/34ZMayUH_YHCiH2ZOThjwZfC3GDAuq_jjpj4zBCi9BR2dDlyQXHeP2cYIBSS_tpuyZA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2346,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Panda+Box",
+        "updated": "April 19, 2019",
+        "size": "16M",
+        "installs": "100,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Panda Box",
+        "developer_email": "optimusprime.qingyu@gmail.com",
+        "developer_url": "https://sites.google.com/view/pandabox8/home",
+        "developer_address": "hk",
+        "app_id": "spacexman.bubbleshooter.cattombubblematch",
+        "url": "https://play.google.com/store/apps/details?id=spacexman.bubbleshooter.cattombubblematch&hl=en&gl=us"
+    },
+    {
+        "title": "Bark - Monitor. Detect. Alert.",
+        "icon": "https://lh3.googleusercontent.com/55mdvovXsVe8iFbzeaxeP-qS47JFEFSqdZx-u3Bz6YdPHsLng3Y43Nurbk16D-h5VBVS",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/5R02p9XNHm8",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 191,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bark+Technologies,+Inc.",
+        "updated": "January 2, 2019",
+        "size": "3.3M",
+        "installs": "50,000+",
+        "current_version": "1.1.6",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bark Technologies, Inc.",
+        "developer_email": "help@bark.us",
+        "developer_url": "https://www.bark.us",
+        "developer_address": null,
+        "app_id": "cm.pt.barkparent",
+        "url": "https://play.google.com/store/apps/details?id=cm.pt.barkparent&hl=en&gl=us"
+    },
+    {
+        "title": "Family Locator - GPS Tracker",
+        "icon": "https://lh3.googleusercontent.com/eWbGcXc-AzA2vVg1LDNKTa-UJL7EK-WK21KKrlkma5gN_7NHckx5xB2oJdPeTv7sX6w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/5clNR8azztY",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 82629,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5266226966020985892",
+        "updated": "June 4, 2019",
+        "size": "17M",
+        "installs": "5,000,000+",
+        "current_version": "4.62",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "ZoeMob",
+        "developer_email": "support@zoemob.com",
+        "developer_url": "http://www.zoemob.com",
+        "developer_address": "Rua Gomes de Carvalho, 921, sala 22/23, Sao Paulo / SP, 04147-003. Brazil",
+        "app_id": "com.zoemob.gpstracking",
+        "url": "https://play.google.com/store/apps/details?id=com.zoemob.gpstracking&hl=en&gl=us"
+    },
+    {
+        "title": "Safe Lagoon \ud83d\udc20 Parental Control with Advanced AI",
+        "icon": "https://lh3.googleusercontent.com/6MlbXyDbBjQZFMP3vaZnrCD1568-GAjNKtUDE9ffsstvAOB4pwwHqwr2VsKH4jYo5e8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/AQcZSYUNzMs",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1726,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Safe+Lagoon+Software",
+        "updated": "July 24, 2019",
+        "size": "9.7M",
+        "installs": "10,000+",
+        "current_version": "4.0.407-b",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location, Unrestricted Internet"
+        ],
+        "developer": "Safe Lagoon Software",
+        "developer_email": "hi@safelagoon.com",
+        "developer_url": "https://safelagoon.com",
+        "developer_address": "28 Scollard St.\nToronto, Canada\nM5R 1E9",
+        "app_id": "com.safelagoon.parenting",
+        "url": "https://play.google.com/store/apps/details?id=com.safelagoon.parenting&hl=en&gl=us"
+    },
+    {
+        "title": "Girl Pregnancy Scanner",
+        "icon": "https://lh3.googleusercontent.com/SDfR_wmz24QCeSDqV2GfW_1cckj_GfngLzWeHdFcIEzKUI9vuo2HnJky2AkFEnT_lFA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 108,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "FestivalApps",
+        "updated": "May 29, 2019",
+        "size": "5.8M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "FestivalApps",
+        "developer_email": "tachnicaltoys@gmail.com",
+        "developer_url": "http://phpstack-145516-492981.cloudwaysapps.com/privacy/",
+        "developer_address": null,
+        "app_id": "com.girlscanner.girlpregnancyscanner",
+        "url": "https://play.google.com/store/apps/details?id=com.girlscanner.girlpregnancyscanner&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Names & Names Meaning. Boy and Girl Names \ud83d\udc76",
+        "icon": "https://lh3.googleusercontent.com/i-GV4d6vDUfMxqBuwDJOMYwX_z_EfuXq7RrLtY6NuKar9W3wkewgdgNVE-91DwHG_GM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 73,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Wachanga",
+        "updated": "July 19, 2019",
+        "size": "14M",
+        "installs": "5,000+",
+        "current_version": "1.0.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Wachanga",
+        "developer_email": "team@wachanga.com",
+        "developer_url": "http://wachanga.com",
+        "developer_address": "Timeline, LLC\nP.O. Box 5\nKemerovo\n650000\nRussian Federation",
+        "app_id": "com.wachanga.englishbabynames",
+        "url": "https://play.google.com/store/apps/details?id=com.wachanga.englishbabynames&hl=en&gl=us"
+    },
+    {
+        "title": "Pink Baby Phone Kids - Number Animal Music",
+        "icon": "https://lh3.googleusercontent.com/6n__R02ZFaeT3cuFeVyGcUeGTUuQlM_CftY7WzQTBSyIs_7Ak_AwuU1k9-4YrGYqg5I",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/qagcqbKQkuE",
+        "category": [
+            "PARENTING",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tuanhgames",
+        "updated": "June 21, 2019",
+        "size": "31M",
+        "installs": "100,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tuanhgames",
+        "developer_email": "tuanhgames89@gmail.com",
+        "developer_url": "https://sites.google.com/view/pink-baby-phone/trang-ch%E1%BB%A7",
+        "developer_address": null,
+        "app_id": "pink.baby.phone.kid.music.songs.animal.princess.numbers",
+        "url": "https://play.google.com/store/apps/details?id=pink.baby.phone.kid.music.songs.animal.princess.numbers&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Name Together",
+        "icon": "https://lh3.googleusercontent.com/_CZ4vqODQDTbVl2UwB7Nm4weIcL13yQMYfz_7dF2uyPfIvUfL8x_NYA39uYIM8wOGUmr",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1524,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Linkinet",
+        "updated": "July 23, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "2.7.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Linkinet",
+        "developer_email": "contact@linkinet.eu",
+        "developer_url": "http://www.babynametogether.com/",
+        "developer_address": "290 chemin de vignaux\n31840 Aussonne",
+        "app_id": "com.BabyName.start",
+        "url": "https://play.google.com/store/apps/details?id=com.BabyName.start&hl=en&gl=us"
+    },
+    {
+        "title": "TalkingParents",
+        "icon": "https://lh3.googleusercontent.com/bgb-0MLLpJ3AYAN0v0mbjJtsNGKgOo00t7VnP3b096xr9ueLuwQntQXRZb1QYFO3e-0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 648,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TalkingParents.com",
+        "updated": "July 18, 2019",
+        "size": "54M",
+        "installs": "50,000+",
+        "current_version": "2.3.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TalkingParents.com",
+        "developer_email": "support@talkingparents.com",
+        "developer_url": "https://www.talkingparents.com",
+        "developer_address": "13 Memorial Pkwy SW\nFort Walton Beach, FL 32548",
+        "app_id": "com.talkingparents.tpandroid",
+        "url": "https://play.google.com/store/apps/details?id=com.talkingparents.tpandroid&hl=en&gl=us"
+    },
+    {
+        "title": "Qeepsake: Family Album, Baby Book, Memory Journal",
+        "icon": "https://lh3.googleusercontent.com/_wppLtqrCrpRY66IJ9GITy0QerizwjYQNuFqhPjtq0tAZvxFDN1FWiBlJRgnskUwJa0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 399,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Qeepsake+Inc.",
+        "updated": "June 17, 2019",
+        "size": "17M",
+        "installs": "10,000+",
+        "current_version": "1.11.7",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Qeepsake Inc.",
+        "developer_email": "support@qeepsake.com",
+        "developer_url": "https://www.qeepsake.co/",
+        "developer_address": "200 5th Ave, Suite 4010\nWaltham, MA\n02451\nUSA",
+        "app_id": "co.qeepsake.qeepsakeApp",
+        "url": "https://play.google.com/store/apps/details?id=co.qeepsake.qeepsakeApp&hl=en&gl=us"
+    },
+    {
+        "title": "Little Stories. Read bedtime story books for kids",
+        "icon": "https://lh3.googleusercontent.com/Y3VMGPKzM8nob9KjXKjpi8xVK44IxiWOqlSwfQI0JxLCMcFqkzX4FXhNb0YDaiSLvA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1205,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8915169143422561625",
+        "updated": "March 27, 2019",
+        "size": "65M",
+        "installs": "100,000+",
+        "current_version": "2.1.6",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$10.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Diveo Media - Story Books for Kids",
+        "developer_email": "abc@diveomedia.com",
+        "developer_url": "http://www.diveomedia.com",
+        "developer_address": "Estonia, Narva",
+        "app_id": "com.diveomedia.little.stories.bedtime.books.kids",
+        "url": "https://play.google.com/store/apps/details?id=com.diveomedia.little.stories.bedtime.books.kids&hl=en&gl=us"
+    },
+    {
+        "title": "OurFamilyWizard Co-Parenting App",
+        "icon": "https://lh3.googleusercontent.com/OU90MlBvuznqJOASntmZE9eX41xUjikj4j1TaM2OKiU0_ZbDY-S1nD9JK0cSE5ptelBy",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/tChamq_sqnU",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 808,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7643587616668965342",
+        "updated": "June 20, 2019",
+        "size": "11M",
+        "installs": "100,000+",
+        "current_version": "3.6.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Avirat, Inc.",
+        "developer_email": "info@OurFamilyWizard.com",
+        "developer_url": "https://www.OurFamilyWizard.com",
+        "developer_address": "1302 2nd Street Northeast\nSuite 200\nMinneapolis, MN 55413",
+        "app_id": "com.ourfamilywizard",
+        "url": "https://play.google.com/store/apps/details?id=com.ourfamilywizard&hl=en&gl=us"
+    },
+    {
+        "title": "Tinybeans Family Album, Baby Book, Photo Journal\ud83d\udc76",
+        "icon": "https://lh3.googleusercontent.com/5zeOue8gf9t6lnslihZL8N-ugBELIbEo6tIsh2YZu6JJDmJWC6CHr7BHQ7Rh4LhNLPZX",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/UwPGvNH2g9Q",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2637,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Tinybeans",
+        "updated": "July 22, 2019",
+        "size": "33M",
+        "installs": "100,000+",
+        "current_version": "3.40.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$5.00",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Tinybeans",
+        "developer_email": "info@tinybeans.com",
+        "developer_url": "http://tinybeans.com",
+        "developer_address": "25 W 39th Street (14th Floor), New York, NY 10018",
+        "app_id": "com.tinybeans",
+        "url": "https://play.google.com/store/apps/details?id=com.tinybeans&hl=en&gl=us"
+    },
+    {
+        "title": "Parental Control - Screen Time - Website Blocker",
+        "icon": "https://lh3.googleusercontent.com/7oanA5NMkf3cUwwiem3j8sKblAOco7c8F9chm5dbUpneavHwcA9BaT5mRrEDvThQOXQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/8F7Rrcx9624",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2800,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Jane+Moore+Group",
+        "updated": "July 24, 2019",
+        "size": "8.6M",
+        "installs": "50,000+",
+        "current_version": "5.3",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$9.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Jane Moore Group",
+        "developer_email": "moorestacey26@gmail.com",
+        "developer_url": "https://sites.google.com/view/kids-locker-privacy",
+        "developer_address": "Davie, Florida, United States",
+        "app_id": "com.locker.kids",
+        "url": "https://play.google.com/store/apps/details?id=com.locker.kids&hl=en&gl=us"
+    },
+    {
+        "title": "ice princess Jewels Classic",
+        "icon": "https://lh3.googleusercontent.com/M5dJtgWYSiekPPm3aMdBgAIAAEzYc7aF3WeMVJvWPBcOn21BmwzsmAT5CIJO8-n9dw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 447,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GIG+Entertainment",
+        "updated": "July 5, 2019",
+        "size": "17M",
+        "installs": "100,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GIG Entertainment",
+        "developer_email": "freedomgxmason@gmail.com",
+        "developer_url": "https://sites.google.com/view/gigenter/home",
+        "developer_address": null,
+        "app_id": "com.obikecoco.frozenJewelCrush.JewelIceLegend",
+        "url": "https://play.google.com/store/apps/details?id=com.obikecoco.frozenJewelCrush.JewelIceLegend&hl=en&gl=us"
+    },
+    {
+        "title": "All Tracker Family. GPS, Calls and Video Tracking!",
+        "icon": "https://lh3.googleusercontent.com/uolpeHNr7n4ZaJToPoG1LbkW3agslpSbRT0E6t5aQWVl9OkvxjfUbbqfaijZSqu1VQsT",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/wksC16N2FpM",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1225,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6907526381109670394",
+        "updated": "June 7, 2019",
+        "size": "23M",
+        "installs": "100,000+",
+        "current_version": "6.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "RUSSCITY",
+        "developer_email": "support@alltracker.org",
+        "developer_url": "https://alltracker.org",
+        "developer_address": "Kronenberg 108,\n52074, Aachen",
+        "app_id": "city.russ.alltrackerfamily",
+        "url": "https://play.google.com/store/apps/details?id=city.russ.alltrackerfamily&hl=en&gl=us"
+    },
+    {
+        "title": "Huckleberry: Baby & Child Tracker, Sleep Experts",
+        "icon": "https://lh3.googleusercontent.com/9Au3cHvuVyNSGzikuifsilv4K3SZLH-OK7vU__LrK33aYCSnhRDk7lc2fXjGBBJaag",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XYndHjMFXbs",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1214,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Huckleberry+Labs",
+        "updated": "July 24, 2019",
+        "size": "16M",
+        "installs": "50,000+",
+        "current_version": "0.9.78",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$14.99",
+            "$119.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Huckleberry Labs",
+        "developer_email": "support@huckleberry-labs.com",
+        "developer_url": "http://www.huckleberrysleep.com",
+        "developer_address": "1 Venture Suite 230, Irvine, CA 92618, USA",
+        "app_id": "com.huckleberry_labs.app",
+        "url": "https://play.google.com/store/apps/details?id=com.huckleberry_labs.app&hl=en&gl=us"
+    },
+    {
+        "title": "Growth Chart, Development Milestones & Vaccination",
+        "icon": "https://lh3.googleusercontent.com/AsmW6ohekzmnC-UmhcHwki7P4FHkHCcgzcH6CB_2xFsn18NdhL3BKG7whop_j2DG8Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/YSF23nNozMg",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 677,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Growth+Book",
+        "updated": "May 6, 2019",
+        "size": "7.1M",
+        "installs": "50,000+",
+        "current_version": "1.0.23",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Growth Book",
+        "developer_email": "growthbookapp@gmail.com",
+        "developer_url": "https://www.growthbookapp.com",
+        "developer_address": "Ahmedabad, India.\n\nThis is parenting app made by doctors. This is the only parenting app to be completely medical and not having any other kind of shopping or any irrelevant stuff. This app also has a whatsapp group link, in which a MD doctor guides parents on all child related questions for free. Growth chart are made with utmost precision to give best results. Development tracker and vaccination tracker helps parents to guide everything regarding child's development and vaccination. Daily health tips are designed specifically by doctors in such a way that everyday according to age of child , a health tip will come.\n\nparenting, growth chart, vaccination, development, health tip, ask a question, chat groups, online doctor support, free app.",
+        "app_id": "com.inikworld.growthbook",
+        "url": "https://play.google.com/store/apps/details?id=com.inikworld.growthbook&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Panda Learns Shapes",
+        "icon": "https://lh3.googleusercontent.com/WdssA8UutjGeIcZr53j1uiyB_13jiPRj5hRbuK6V7Mful72wExjWTYDEXJhdaHka-A",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3GM9gur2MUM",
+        "category": [
+            "PARENTING",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4028,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4946022439885210717",
+        "updated": "June 26, 2019",
+        "size": "41M",
+        "installs": "1,000,000+",
+        "current_version": "8.33.00.00",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "BabyBus Kids Games",
+        "developer_email": "ser@babybus.com",
+        "developer_url": "http://www.babybus.com",
+        "developer_address": "Building 9#3F, Fuzhou Cross-Strait Creative Garden, Jingong Road 1, Cangshan District, Fuzhou City, Fujian, China",
+        "app_id": "com.sinyee.education.shape",
+        "url": "https://play.google.com/store/apps/details?id=com.sinyee.education.shape&hl=en&gl=us"
+    },
+    {
+        "title": "Pink Unicorn Fashion - Magic dress up",
+        "icon": "https://lh3.googleusercontent.com/5vRpctmtThRC0L6swYtmPXGanGWxX3nCGEO_a6LU4oQt1NryQbrtXiKWaD2R0GP-kuNi",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hJWFq9nwtR4",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 120,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tuanhgames",
+        "updated": "July 25, 2019",
+        "size": "26M",
+        "installs": "100,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tuanhgames",
+        "developer_email": "tuanhgames89@gmail.com",
+        "developer_url": "https://sites.google.com/view/pink-unicorn-fashion/trang-ch%E1%BB%A7",
+        "developer_address": null,
+        "app_id": "pink.unicorn.little.kawaii.dreshup.girls.baby.pet",
+        "url": "https://play.google.com/store/apps/details?id=pink.unicorn.little.kawaii.dreshup.girls.baby.pet&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Heartbeat Monitor",
+        "icon": "https://lh3.googleusercontent.com/NKwFm8VX196KZwAwnFsFouGFqjZtf1aZZ3C-AcDT7tIkrHkfX1n1QolhkqFqKd8u4hM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "1.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 637,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Wombay+LLC",
+        "updated": "November 16, 2016",
+        "size": "3.8M",
+        "installs": "100,000+",
+        "current_version": "1.2.1+d201f77",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Wombay LLC",
+        "developer_email": "support@wombay.com",
+        "developer_url": "http://www.wombay.com/",
+        "developer_address": "8345 NW 66 ST #3383\nMIAMI, FL 33166-2626\nUSA",
+        "app_id": "cz.master.babyheartbeats",
+        "url": "https://play.google.com/store/apps/details?id=cz.master.babyheartbeats&hl=en&gl=us"
+    },
+    {
+        "title": "BabyCam - Baby Monitor Camera",
+        "icon": "https://lh3.googleusercontent.com/WfJFdVtGq5ANqxZilpTaNoHiWWnQzznN-JBq3bnmzNwagnnQxl3TMY3MHYsw0vmXAOE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/zWMQ1oE2P2E",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2046,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6506939732544695649",
+        "updated": "July 10, 2019",
+        "size": "5.0M",
+        "installs": "100,000+",
+        "current_version": "1.60",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Arjona Software",
+        "developer_email": "arjona.software@gmail.com",
+        "developer_url": "https://www.dropbox.com/s/bi4w3pz9suokm7k/BabyCam.pdf?dl=1&pv=1",
+        "developer_address": "Molino Viejo 14\n28032 Madrid (Spain)",
+        "app_id": "com.arjonasoftware.babycam",
+        "url": "https://play.google.com/store/apps/details?id=com.arjonasoftware.babycam&hl=en&gl=us"
+    },
+    {
+        "title": "Magic Board - Doodle & Color",
+        "icon": "https://lh3.googleusercontent.com/CmKkWo1ajYrXbEwWsHJWeagkwJzSWV7H8lcydP2d22XF04472R3OtBYy00tu7vQoRw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/CDdzmLL5Oqw",
+        "category": [
+            "PARENTING",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2215,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Orange+Studios+Games",
+        "updated": "July 20, 2019",
+        "size": "23M",
+        "installs": "500,000+",
+        "current_version": "1.30",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Orange Studios Games",
+        "developer_email": "orangegstudios@gmail.com",
+        "developer_url": "http://www.orangestudios.wirez.com.ar",
+        "developer_address": "Andrade 285 - Bernal - Bs As - Argentina",
+        "app_id": "com.orange.magic.board.doodle.coloring",
+        "url": "https://play.google.com/store/apps/details?id=com.orange.magic.board.doodle.coloring&hl=en&gl=us"
+    },
+    {
+        "title": "Pregnancy Week By Week",
+        "icon": "https://lh3.googleusercontent.com/e0VSVuOuBZj39ovol2R-PwzSNhaGNnYG-0JOenMD8jTe65W-9N66wNc9KUuSN2LG-g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2152,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "HokkabazSoft",
+        "updated": "February 11, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "4.58.WW",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HokkabazSoft",
+        "developer_email": "hokkabazsoft@gmail.com",
+        "developer_url": "https://schwanger.mamaundbaby.com/",
+        "developer_address": "Cumhuriyet mah. 109.sok 92/19",
+        "app_id": "com.kksal55.haftahaftagebelik",
+        "url": "https://play.google.com/store/apps/details?id=com.kksal55.haftahaftagebelik&hl=en&gl=us"
+    },
+    {
+        "title": "Real Pink Piano - Instruments Music Kid",
+        "icon": "https://lh3.googleusercontent.com/vPZ-unFrGQkHNU4oHhS7MR1iOtl0kIMl-FK_AvRtAy8a4GE6ThPT6uimcOr5BPx9nRA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/YEQSXuRr_n8",
+        "category": [
+            "PARENTING",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2093,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4KID+GAMES",
+        "updated": "July 6, 2019",
+        "size": "38M",
+        "installs": "1,000,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "4KID GAMES",
+        "developer_email": "kdraa.games@gmail.com",
+        "developer_url": "https://sites.google.com/view/pinkpiano/trang-ch%E1%BB%A7",
+        "developer_address": "20340 Colombo, Sri Lanka",
+        "app_id": "com.pink.piano.kid.flower.real.tiles",
+        "url": "https://play.google.com/store/apps/details?id=com.pink.piano.kid.flower.real.tiles&hl=en&gl=us"
+    },
+    {
+        "title": "Kids Videos",
+        "icon": "https://lh3.googleusercontent.com/zidk6lRdvqFWJ6eUnMN2rFYWpdpjKaTL60w4M1OL3YBQ91imAKAusM2VcoeXgfgfU3s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1510,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Divisity",
+        "updated": "May 20, 2018",
+        "size": "6.4M",
+        "installs": "500,000+",
+        "current_version": "1.3.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Divisity",
+        "developer_email": "us@divisity.com",
+        "developer_url": "http://divisity.com",
+        "developer_address": null,
+        "app_id": "com.divisity.kidschannels",
+        "url": "https://play.google.com/store/apps/details?id=com.divisity.kidschannels&hl=en&gl=us"
+    },
+    {
+        "title": "OurPact Jr. - Parental Control",
+        "icon": "https://lh3.googleusercontent.com/-a82IgE-5KQXUdcXu_V5sVNgB7Vg6tY9hGzItBLW8msLT5gcsAOBdolgm739NMykwuks",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/PaAPl6DHwxI",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "1.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2888,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Eturi+Corp.",
+        "updated": "September 6, 2018",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "5.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Eturi Corp.",
+        "developer_email": "support@ourpact.com",
+        "developer_url": "http://www.ourpact.com",
+        "developer_address": "12255 El Camino Real\nSuite 125\nSan Diego, CA 92130",
+        "app_id": "com.parentsware.ourpact.child",
+        "url": "https://play.google.com/store/apps/details?id=com.parentsware.ourpact.child&hl=en&gl=us"
+    },
+    {
+        "title": "White Noise for Baby",
+        "icon": "https://lh3.googleusercontent.com/3sSXn4R7BPqs1Ro-36yYKOHTXckb6y7myFX8lrr0HhIFk_p1gMLvoasj7aESB_eN9CI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2190,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Micha%C5%82+%C5%A0rajer",
+        "updated": "May 7, 2019",
+        "size": "9.2M",
+        "installs": "100,000+",
+        "current_version": "1.7.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Micha\u0142 \u0160rajer",
+        "developer_email": "michal@post.pl",
+        "developer_url": "https://babynoise.trpaslik.pl/",
+        "developer_address": null,
+        "app_id": "pl.trpaslik.babynoise",
+        "url": "https://play.google.com/store/apps/details?id=pl.trpaslik.babynoise&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Daybook: Baby Tracker Day by Day. Newborn log",
+        "icon": "https://lh3.googleusercontent.com/NBsLNIsWowh5nRiIUSbh2Dd3zfvbv8kKPR8bh1U41jHon7m2qQDEBP7Z-oZfwT4dcg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33629,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4725490371178397613",
+        "updated": "July 25, 2019",
+        "size": "17M",
+        "installs": "500,000+",
+        "current_version": "4.3.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$18.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "\u2764\ufe0f Drilly Apps",
+        "developer_email": "drillyapps@gmail.com",
+        "developer_url": "http://www.drillyapps.com",
+        "developer_address": "OneSixSix\n166 College Road\nHarrow, Middlesex\nHA1 1BH",
+        "app_id": "com.drillyapps.babydaybook",
+        "url": "https://play.google.com/store/apps/details?id=com.drillyapps.babydaybook&hl=en&gl=us"
+    },
+    {
+        "title": "HiMommy - Pregnancy Tracker App",
+        "icon": "https://lh3.googleusercontent.com/zBDtzNRoL328OnpEuz9iHByVAuTQdyTAi30Liwb6IQHCYyo4xM6rSB9ns5SrdvZzYVs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9264,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "HiMommy",
+        "updated": "November 30, 2018",
+        "size": "28M",
+        "installs": "100,000+",
+        "current_version": "2.3.0",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HiMommy",
+        "developer_email": "support@himommyapp.com",
+        "developer_url": "https://www.facebook.com/himommy.world/",
+        "developer_address": "Rynek G\u0142\u00f3wny 28, 30-010 Krak\u00f3w, Polska",
+        "app_id": "androidgecko.com.himommy",
+        "url": "https://play.google.com/store/apps/details?id=androidgecko.com.himommy&hl=en&gl=us"
+    },
+    {
+        "title": "Parental Control & Kids GPS: Kaspersky SafeKids",
+        "icon": "https://lh3.googleusercontent.com/TAxd-ROSS3YsvE6rNDa5ELuRHIm9r80mnzJueW0MX0bDgxq1FrOVcdWTxSoRI5D3Zik",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/8oz8BGTaHV0",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19633,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4802704994144789464",
+        "updated": "July 12, 2019",
+        "size": "39M",
+        "installs": "1,000,000+",
+        "current_version": "1.21.0.1048",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$6.99",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Shares Location, Digital Purchases"
+        ],
+        "developer": "Kaspersky Lab",
+        "developer_email": "mobilesupport@kaspersky.com",
+        "developer_url": "http://www.kaspersky.com",
+        "developer_address": "Leningradskoye shosse, 39a/3\n125212, Moscow, Russia",
+        "app_id": "com.kaspersky.safekids",
+        "url": "https://play.google.com/store/apps/details?id=com.kaspersky.safekids&hl=en&gl=us"
+    },
+    {
+        "title": "Baby + \u2013 your baby tracker",
+        "icon": "https://lh3.googleusercontent.com/K0jCJoyghDZlCJz-kqcKk5cat5faBpW8FkbBHpg_keccKqB42H4DcWwqQ9A3W32fkGU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12120,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6809109784060370658",
+        "updated": "July 9, 2019",
+        "size": "102M",
+        "installs": "500,000+",
+        "current_version": "2.0.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Health & Parenting",
+        "developer_email": "support@health-and-parenting.com",
+        "developer_url": "http://www.health-and-parenting.com",
+        "developer_address": "Philips Centre\nGuildford Business Park Rd\nGuildford GU2 8XG\nUnited Kingdom",
+        "app_id": "com.hp.babyapp",
+        "url": "https://play.google.com/store/apps/details?id=com.hp.babyapp&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Monitor Annie: Nanny Camera +",
+        "icon": "https://lh3.googleusercontent.com/gX01_eU_ZMH7Pl2zcJ8jiWmJQj9r7n-STdHxMBnYCt6Ari68EnC0_HmC_FtkV7hqmhs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NJGgiNyg_Nc",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 676,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7473133955449750675",
+        "updated": "July 24, 2019",
+        "size": "4.8M",
+        "installs": "100,000+",
+        "current_version": "2.4.5+master.237072831",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$21.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Master App Solutions",
+        "developer_email": "support@anniebabymonitor.com",
+        "developer_url": "https://www.anniebabymonitor.com/",
+        "developer_address": "Master Internet, s.r.o.\nJir\u00e1skova 21\nBrno\n602 00",
+        "app_id": "cz.masterapp.annie2",
+        "url": "https://play.google.com/store/apps/details?id=cz.masterapp.annie2&hl=en&gl=us"
+    },
+    {
+        "title": "Pregnancy Day by Day",
+        "icon": "https://lh3.googleusercontent.com/xIZnqEHNJbZrt5fgZ_6nLzYPOfxsdVEXAvDILxHJs3WnfMXJijMbdW6Nje8ife7H235D",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 903,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "HokkabazSoft",
+        "updated": "February 3, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "5.25.PD",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "HokkabazSoft",
+        "developer_email": "hokkabazsoft@gmail.com",
+        "developer_url": "https://schwanger.mamaundbaby.com/",
+        "developer_address": "Cumhuriyet mah. 109.sok 92/19",
+        "app_id": "com.kksal55.pregnancydaybyday",
+        "url": "https://play.google.com/store/apps/details?id=com.kksal55.pregnancydaybyday&hl=en&gl=us"
+    },
+    {
+        "title": "Dormi - Baby Monitor",
+        "icon": "https://lh3.googleusercontent.com/XU6VaeqqE7iKV4adL3Ukr11Rzovnc2V8iFLSNcCx24t9LlraJUA2m6wyV2BS0l9qF_wN",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/eArieoSQfXM",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13675,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Sleekbit",
+        "updated": "June 22, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$6.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Sleekbit",
+        "developer_email": "dormi@sleekbit.com",
+        "developer_url": "http://dormi.sleekbit.com/",
+        "developer_address": "Sleekbit, llc\n2220 Meridian Blvd\nSuite # S6811\nMinden, NV 89423",
+        "app_id": "com.sleekbit.dormi",
+        "url": "https://play.google.com/store/apps/details?id=com.sleekbit.dormi&hl=en&gl=us"
+    },
+    {
+        "title": "Motherhood, Parenting & Baby Guide",
+        "icon": "https://lh3.googleusercontent.com/PcRFMu3ayo1a8jgRzk0UIdkEugPpGg0kM615zOiD-xaxLXeWFMYuC9PXLwbC1xRXDQvp",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/4-3T7WIgv6A",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22540,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "theAsianparent+-+largest+pregnancy+%26+parenting+app",
+        "updated": "July 15, 2019",
+        "size": "12M",
+        "installs": "1,000,000+",
+        "current_version": "2.3.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "theAsianparent - largest pregnancy & parenting app",
+        "developer_email": "developer@tickledmedia.com",
+        "developer_url": "https://community.theasianparent.com/",
+        "developer_address": "theAsianparent, Asian Parent, TAP, Singapore, Indonesia, Philippines, Thailand, Malaysia. From pregnancy week by week, pregnancy tracker, pregnancy food and nutrition, pregnancy checklist to baby names to parenting newborn baby care, baby development, baby milestones, breastfeeding tips, baby vaccination, baby growth, baby food recipes, baby photos with photo stickers, baby health to pregnancy tips for normal delivery, morning sickness tips, pregnancy calendar, pregnancy exercises, baby movements, bump size, pregnancy kicks, labour pain, baby care tips, parenting tips, parenting community of 13 million across Southeast Asia, including Indonesia having Bumil, Busui, Ibu menyusui, Ibu hamil, Menyusui, Kehamilan, Aplikasi kehamilan, Aplikasi bayi, Editor foto bayi, Kalender kehamilan, Hari perkiraan lahir, Makanan ibu hamil.",
+        "app_id": "com.tickledmedia.ParentTown",
+        "url": "https://play.google.com/store/apps/details?id=com.tickledmedia.ParentTown&hl=en&gl=us"
+    },
+    {
+        "title": "Lullaby for Babies",
+        "icon": "https://lh3.googleusercontent.com/eRI_6Gk6kfbK0os00Xh_eDnY9XIgP_CqXmd8ibIZlFH8Pu2LPFAfCHzJysSCxFY_aCA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12814,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7156946861841496847",
+        "updated": "March 1, 2019",
+        "size": "47M",
+        "installs": "1,000,000+",
+        "current_version": "2.4",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Dream_Studio",
+        "developer_email": "android.dream.studio@gmail.com",
+        "developer_url": "http://abc.jupe.pl/privacy_policy/",
+        "developer_address": "Ul. Topolowa 14/4\n62-070 D\u0105br\u00f3wka",
+        "app_id": "com.dreamstudio.lullabies",
+        "url": "https://play.google.com/store/apps/details?id=com.dreamstudio.lullabies&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Monitor Saby. 3G & Wifi video Babymonitor",
+        "icon": "https://lh3.googleusercontent.com/zkRfzA9GROlmXQguisA17bL57uOdarMsxd4Y7zD-ZM0vMAFE549Dv2S0rmKrPodXbfkN",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 592,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Saby+Baby+monitor+Ltd",
+        "updated": "June 1, 2019",
+        "size": "15M",
+        "installs": "50,000+",
+        "current_version": "1.170",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Saby Baby monitor Ltd",
+        "developer_email": "saby@saby.app",
+        "developer_url": "https://saby.app/privacy-policy/",
+        "developer_address": "199406,\nSaint-Petersburg",
+        "app_id": "com.saby.babymonitor3g",
+        "url": "https://play.google.com/store/apps/details?id=com.saby.babymonitor3g&hl=en&gl=us"
+    },
+    {
+        "title": "coParenter - The #1 coParenting App",
+        "icon": "https://lh3.googleusercontent.com/O0S5V4q7Q6pnujb5KQbZHEJ6DRu7ca4vIiTJcVle9XnQ1eTp366s1YgIkpgYACKOmy8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rb3NI3LRQ5M",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 76,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Hyphenus,+Inc.",
+        "updated": "July 24, 2019",
+        "size": "23M",
+        "installs": "10,000+",
+        "current_version": "3.1.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.49",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Hyphenus, Inc.",
+        "developer_email": "support@coparenter.org",
+        "developer_url": "https://www.coparenter.com",
+        "developer_address": "12130 Millennium Dr.\nSuite 2-184\nLos Angeles, CA 90094",
+        "app_id": "com.coparenter.coparenterandroid",
+        "url": "https://play.google.com/store/apps/details?id=com.coparenter.coparenterandroid&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Zone - Keep your toddler busy and lock phone",
+        "icon": "https://lh3.googleusercontent.com/Y_tZdgAzjyplNeLXFzMs5RthQ7zsPOZ0W_4ADJ6HsIxiIvk983nyqa79RnVAgphxATh5",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/46sK36v-Jkg",
+        "category": [
+            "PARENTING",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 241,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "VRSeeds",
+        "updated": "June 6, 2019",
+        "size": "64M",
+        "installs": "10,000+",
+        "current_version": "1.28",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.16"
+        ],
+        "interactive_elements": null,
+        "developer": "VRSeeds",
+        "developer_email": "VRSeeds@gmail.com",
+        "developer_url": "http://babyzone.vrseeds.eu/",
+        "developer_address": "40 Stanbrook Road\nB90 4UT Solihull (UK)",
+        "app_id": "eu.vrseeds.BabyZone",
+        "url": "https://play.google.com/store/apps/details?id=eu.vrseeds.BabyZone&hl=en&gl=us"
+    },
+    {
+        "title": "New Gus the Gummy Gator",
+        "icon": "https://lh3.googleusercontent.com/bEjzx2ot5wyY1aIpS6ACBzuopF3xA0O42HT7UJRMpeOwnzZ02i-al_Zou3qGmErbsoUp",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "5.0",
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ArCMedia",
+        "updated": "May 23, 2019",
+        "size": "10M",
+        "installs": "1,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ArCMedia",
+        "developer_email": "arekcilikmedia@gmail.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "com.arc.gus",
+        "url": "https://play.google.com/store/apps/details?id=com.arc.gus&hl=en&gl=us"
+    },
+    {
+        "title": "Baby names / first names 2019",
+        "icon": "https://lh3.googleusercontent.com/GXdj0JkS5TMWXFy3Jw4Gj3WooysTGeA7w40UQIglwo5L7O2N2_ECGXEDz10zsZWicqI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1362,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Charlies+Names",
+        "updated": "June 16, 2019",
+        "size": "5.8M",
+        "installs": "100,000+",
+        "current_version": "2.0.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Charlies Names",
+        "developer_email": "hello@charlies-names.com",
+        "developer_url": "http://charlies-names.com",
+        "developer_address": "CharliesNames\nStephan Batteiger\nBrahmsweg 6\n85221 Dachau",
+        "app_id": "com.charlie_names.charlies_names",
+        "url": "https://play.google.com/store/apps/details?id=com.charlie_names.charlies_names&hl=en&gl=us"
+    },
+    {
+        "title": "Pregnancy week by week. Expecting baby. Diary",
+        "icon": "https://lh3.googleusercontent.com/Ua6U6pXGiAt0qqYvdaW4rkHCrxwv9b8qgYVnWq9kQHdpoxEU9VzlDWWoIDJ_ZOQ7j0yC",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 426,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NanoLabApp",
+        "updated": "November 16, 2018",
+        "size": "32M",
+        "installs": "100,000+",
+        "current_version": "3.81",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NanoLabApp",
+        "developer_email": "Nano.Lab.App@yandex.ru",
+        "developer_url": "http://nano-droid.ru/m_pag.html",
+        "developer_address": null,
+        "app_id": "nano.lab.app.pregmum",
+        "url": "https://play.google.com/store/apps/details?id=nano.lab.app.pregmum&hl=en&gl=us"
+    },
+    {
+        "title": "Surfie-Parent",
+        "icon": "https://lh3.googleusercontent.com/0GAbx6al-XTKZPmngc7jNKhRF7bOvEQ_mS6z4gP3cV10G3rg4waoaf8P2giSI4U0FQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Io74iMQqfqY",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "PureSight+Technologies",
+        "updated": "July 9, 2019",
+        "size": "22M",
+        "installs": "1,000+",
+        "current_version": "3.1013",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$49.99"
+        ],
+        "interactive_elements": null,
+        "developer": "PureSight Technologies",
+        "developer_email": "info@puresight.com",
+        "developer_url": "http://surfieapp.com",
+        "developer_address": "23 Hata'as St.\nKfar Saba, 4464100\nP.O.B. 2096\nIsrael",
+        "app_id": "com.puresight.surfie.parentapp",
+        "url": "https://play.google.com/store/apps/details?id=com.puresight.surfie.parentapp&hl=en&gl=us"
+    },
+    {
+        "title": "Adult Block - The Best Porn Blocker",
+        "icon": "https://lh3.googleusercontent.com/tB3o0O_pZlBERNcUo1mrG0cyDHYaEIyY2bLhjmd3hERReF8OzmNq7hSToGm7hTVu3ns",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/lEHjAly1Gn0",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 823,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Mvsweb+LLP",
+        "updated": "June 26, 2019",
+        "size": "5.7M",
+        "installs": "100,000+",
+        "current_version": "Rocket",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Mvsweb LLP",
+        "developer_email": "support@adult-block.com",
+        "developer_url": "http://adult-block.com",
+        "developer_address": "27 Old Gloucester Street, London, WC1N 3AX",
+        "app_id": "com.mw.adultblock",
+        "url": "https://play.google.com/store/apps/details?id=com.mw.adultblock&hl=en&gl=us"
+    },
+    {
+        "title": "Pink Real Guitar for Kid - Music Kids",
+        "icon": "https://lh3.googleusercontent.com/ucNEctvhmWmyfXFTK2g3pP3J5GORQYfs08-y_LPD-Tzo__JH3k_2XqIGLZDPVpTztw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Maxismusic",
+        "updated": "July 11, 2019",
+        "size": "28M",
+        "installs": "50,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Maxismusic",
+        "developer_email": "maxismuller.studio@gmail.com",
+        "developer_url": "https://sites.google.com/view/guitar-pink-kid/trang-ch%E1%BB%A7",
+        "developer_address": null,
+        "app_id": "guitar.color.piano.toys.music.instruments.kids.drum.piano",
+        "url": "https://play.google.com/store/apps/details?id=guitar.color.piano.toys.music.instruments.kids.drum.piano&hl=en&gl=us"
+    },
+    {
+        "title": "Bit Guardian Parental Control - Secure & Safe Kids",
+        "icon": "https://lh3.googleusercontent.com/YbxOL0A40FQxRMOom7b795IiY6_B71RszfleLdJzmIh0cgW0-HKdGl88wKbR_z2lsGc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1062,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Bit+Guardian+GmbH",
+        "updated": "July 22, 2019",
+        "size": "14M",
+        "installs": "10,000+",
+        "current_version": "1.5.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$99.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Bit Guardian GmbH",
+        "developer_email": "support@bitguardian.de",
+        "developer_url": "https://www.theparentalcontrol.com/",
+        "developer_address": "Am Kirchenholzl 14, 82166 Grafelfing, Germany",
+        "app_id": "com.bitguardian.parentalcontrol",
+        "url": "https://play.google.com/store/apps/details?id=com.bitguardian.parentalcontrol&hl=en&gl=us"
+    },
+    {
+        "title": "GeoLocator Parental Control. Child Safety Location",
+        "icon": "https://lh3.googleusercontent.com/TOunFL0PVGnXzazW3BXSMvx4rfvJbjTh9Fx3b4dne3udcrql80fX83PXaSfth6l37Vk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4390,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "GeoLoc",
+        "updated": "January 24, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.49",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "GeoLoc",
+        "developer_email": "q@geoloc.app",
+        "developer_url": "https://geoloc.app",
+        "developer_address": "57B Surganova str.\nSuite 116\nMinsk, Belarus",
+        "app_id": "app.geoloc",
+        "url": "https://play.google.com/store/apps/details?id=app.geoloc&hl=en&gl=us"
+    },
+    {
+        "title": "Sentry Parental Control",
+        "icon": "https://lh3.googleusercontent.com/QSbfkHsdXopW-OiXF0lUqmQtsrjrGHhgyleEZotCoZ_AOUODU-FgHUhojQ1O9s9CG2w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/a4EGpaSQKIg",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2522,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "LidrTech+Ltd.",
+        "updated": "May 6, 2019",
+        "size": "3.4M",
+        "installs": "100,000+",
+        "current_version": "2.6.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$64.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "LidrTech Ltd.",
+        "developer_email": "support@sntry.io",
+        "developer_url": "https://www.sntry.io",
+        "developer_address": "Herzliya, Israel",
+        "app_id": "com.sentry.parental",
+        "url": "https://play.google.com/store/apps/details?id=com.sentry.parental&hl=en&gl=us"
+    },
+    {
+        "title": "Family GPS tracker KidsControl",
+        "icon": "https://lh3.googleusercontent.com/TJBiBiH1AcASRDmYFMT4wpe0dvHq1HKiRRvhWWPBQugJnBd8BJrlIz27zW0mLh0s99w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8920,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6687539553449035845",
+        "updated": "April 20, 2019",
+        "size": "11M",
+        "installs": "500,000+",
+        "current_version": "k5.2.8",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.49",
+            "$22.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "KidControl Dev.",
+        "developer_email": "help@kid-control.com",
+        "developer_url": "https://kid-control.com",
+        "developer_address": "Saint-Petersburg,\nZvenigorodskaya str. 22\n191119",
+        "app_id": "app.gpsme",
+        "url": "https://play.google.com/store/apps/details?id=app.gpsme&hl=en&gl=us"
+    },
+    {
+        "title": "Week by Week Pregnancy App. Contraction timer",
+        "icon": "https://lh3.googleusercontent.com/DJvh6Ckh_Kxr7iEjFkvvfAG1S1z3GhsscGIHLFfA7CHU3V2Yb6Ooe8Chtb-W-bbOAA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22343,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Wachanga",
+        "updated": "June 25, 2019",
+        "size": "7.4M",
+        "installs": "500,000+",
+        "current_version": "2.25",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$17.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Wachanga",
+        "developer_email": "team@wachanga.com",
+        "developer_url": "http://wachanga.com",
+        "developer_address": "Timeline, LLC\nP.O. Box 5\nKemerovo\n650000\nRussian Federation",
+        "app_id": "com.wachanga.pregnancy",
+        "url": "https://play.google.com/store/apps/details?id=com.wachanga.pregnancy&hl=en&gl=us"
+    },
+    {
+        "title": "Share the Smiles",
+        "icon": "https://lh3.googleusercontent.com/J9mn5NsUKOmoo-MqAR1P8SaqjTplfbGkkW5jp2pyP2M3UvukF-kV1Y0-xB302LPKjA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 60,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TOMY+International",
+        "updated": "June 14, 2019",
+        "size": "33M",
+        "installs": "5,000+",
+        "current_version": "1.0.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TOMY International",
+        "developer_email": "info@graphitelab.com",
+        "developer_url": "http://www.tomy.com",
+        "developer_address": null,
+        "app_id": "com.tomy.sharethesmiles",
+        "url": "https://play.google.com/store/apps/details?id=com.tomy.sharethesmiles&hl=en&gl=us"
+    },
+    {
+        "title": "Boy or Girl - Gender Predictor",
+        "icon": "https://lh3.googleusercontent.com/wWKdoKpos-Ta-Tlb8DykkfXu63_cRAjQ_9nFBYia1HheUPsrF8PjYNew_f2zgH8Eg-s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1450,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "KNOOZ+Apps",
+        "updated": "October 3, 2018",
+        "size": "20M",
+        "installs": "500,000+",
+        "current_version": "1.39",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "KNOOZ Apps",
+        "developer_email": "knoozapps@gmail.com",
+        "developer_url": "http://knoozapps.blogspot.com/p/privacy-policy-boy-or-girl-gender.html",
+        "developer_address": null,
+        "app_id": "com.knoozapps.boyorgirl",
+        "url": "https://play.google.com/store/apps/details?id=com.knoozapps.boyorgirl&hl=en&gl=us"
+    },
+    {
+        "title": "Daddy Up",
+        "icon": "https://lh3.googleusercontent.com/Q8_08SIaWUjt-GxnyFAaFK3b0slBORdSfPtpYcOX5Lwt4qxkZVuEJQNU3LRnIsxSCmRD",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 410,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sycamore+Spur",
+        "updated": "May 21, 2019",
+        "size": "17M",
+        "installs": "50,000+",
+        "current_version": "1.16",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sycamore Spur",
+        "developer_email": "dev@sycamorespur.com",
+        "developer_url": "https://www.daddyup.com",
+        "developer_address": null,
+        "app_id": "com.preemptivetechnologies.daddyup",
+        "url": "https://play.google.com/store/apps/details?id=com.preemptivetechnologies.daddyup&hl=en&gl=us"
+    },
+    {
+        "title": "Porn Blocker (Safe Surfer)",
+        "icon": "https://lh3.googleusercontent.com/hJPS3eyxf-KN_0Q8bpxz4COx_4YRVUZUCssdMkemTcb1MQCC8W4wHu-AiJWiM7FUQ4wy",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2333,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Safe+Surfer",
+        "updated": "June 7, 2019",
+        "size": "3.6M",
+        "installs": "100,000+",
+        "current_version": "2.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases, Unrestricted Internet"
+        ],
+        "developer": "Safe Surfer",
+        "developer_email": "info@safesurfer.co.nz",
+        "developer_url": "https://www.safesurfer.co.nz",
+        "developer_address": "7 Oak Lane\nJudea\nTauranga 3010\nNew Zealand",
+        "app_id": "com.safesurfer",
+        "url": "https://play.google.com/store/apps/details?id=com.safesurfer&hl=en&gl=us"
+    },
+    {
+        "title": "Monster Maker",
+        "icon": "https://lh3.googleusercontent.com/uG2LGlt8CxNk3_IYnKYAE2bSgMy3A20eTeSJU-D7vImfKR-9bNq11VjgZ2aeHT1VLlY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 232,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sunny+Kid+Games",
+        "updated": "October 8, 2018",
+        "size": "21M",
+        "installs": "50,000+",
+        "current_version": "1.13",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sunny Kid Games",
+        "developer_email": "sunnykidgames@gmail.com",
+        "developer_url": "http://sunny.wirez.com.ar/privacy_policy.html",
+        "developer_address": "SARGENTO CABRAL 3450 L.291\n1804 - CANNING\nBuenos Aires - Argentina",
+        "app_id": "com.sunny.monster.maker",
+        "url": "https://play.google.com/store/apps/details?id=com.sunny.monster.maker&hl=en&gl=us"
+    },
+    {
+        "title": "Paint and Learn Animals",
+        "icon": "https://lh3.googleusercontent.com/9UTYLgkWXnMYKXfyir3nTkLxpiGD_3Wj0YgKoWM1WCSM67HivIBNHaybxvD_vf6m_mI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 367,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Sunny+Kid+Games",
+        "updated": "July 10, 2019",
+        "size": "41M",
+        "installs": "100,000+",
+        "current_version": "1.34",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$4.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Sunny Kid Games",
+        "developer_email": "sunnykidgames@gmail.com",
+        "developer_url": "http://sunny.wirez.com.ar/privacy_policy.html",
+        "developer_address": "SARGENTO CABRAL 3450 L.291\n1804 - CANNING\nBuenos Aires - Argentina",
+        "app_id": "com.sunny.paint.learn.animals",
+        "url": "https://play.google.com/store/apps/details?id=com.sunny.paint.learn.animals&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Manager - Breastfeeding Log and Tracker",
+        "icon": "https://lh3.googleusercontent.com/WiDtWv4iyikE0P9l6ROBYbED6WpBxHFGdD957oA9tR84ebb-2ok0JsFbrI_LJ-LTVKI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14704,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Baby+Manager+Ltd.",
+        "updated": "May 17, 2019",
+        "size": "23M",
+        "installs": "100,000+",
+        "current_version": "352",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$4.49"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Baby Manager Ltd.",
+        "developer_email": "innmovsoftware@gmail.com",
+        "developer_url": "http://babymanagerapp.tumblr.com/",
+        "developer_address": "237-77 Finch Av. East, Toronto, M2N 6H8",
+        "app_id": "innmov.babymanager",
+        "url": "https://play.google.com/store/apps/details?id=innmov.babymanager&hl=en&gl=us"
+    },
+    {
+        "title": "Pregnancy Weeks Calculator by Facemama",
+        "icon": "https://lh3.googleusercontent.com/tuwcNHC-bOPh4g3FFDKjaK-8lSMMc4StZ8pQ_JO_fr6ymSdCyyq1LPXDHuc4fUrkVhw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1217,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Isis+Producciones+y+C%C3%ADa.+Ltda.",
+        "updated": "November 8, 2018",
+        "size": "12M",
+        "installs": "500,000+",
+        "current_version": "1.1.10.4",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Isis Producciones y C\u00eda. Ltda.",
+        "developer_email": "facemama@gmail.com",
+        "developer_url": "https://www.facemama.com",
+        "developer_address": null,
+        "app_id": "com.facemama.gestograma",
+        "url": "https://play.google.com/store/apps/details?id=com.facemama.gestograma&hl=en&gl=us"
+    },
+    {
+        "title": "Baby Countdown Widget",
+        "icon": "https://lh3.googleusercontent.com/Zl5iK_b0BTQJcaPjazMzSIDHLgnMcTzOLo0fLb0tmlg65OMTWrHZEp-gRZBeYrIq6g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2419,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Sevenlogics,+INC",
+        "updated": "December 18, 2015",
+        "size": "16M",
+        "installs": "500,000+",
+        "current_version": "5.1.13911",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Sevenlogics, INC",
+        "developer_email": "feedback@sevenlogics.com",
+        "developer_url": "http://www.sevenlogics.com",
+        "developer_address": "1300 Valley Vista Dr. Ste 203",
+        "app_id": "com.cg.android.babycountdown",
+        "url": "https://play.google.com/store/apps/details?id=com.cg.android.babycountdown&hl=en&gl=us"
+    },
+    {
+        "title": "280days: Pregnancy Diary",
+        "icon": "https://lh3.googleusercontent.com/m6DQ40G1vD5624OKaOJFWvXQFa9XzNezMU1XEvxg1m--UM5HV_yiz9s_XV6zAkHwrxU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29617,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "amane+factory+inc.",
+        "updated": "June 17, 2019",
+        "size": "58M",
+        "installs": "1,000,000+",
+        "current_version": "2.1.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.02",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "amane factory inc.",
+        "developer_email": "totsukitoka.support@amanefactory.com",
+        "developer_url": "http://www.totsukitoka-apps.com/",
+        "developer_address": "\u3012220-0004 \u795e\u5948\u5ddd\u770c\u6a2a\u6d5c\u5e02\u897f\u533a\u5317\u5e781\u4e01\u76ee11\u756a1\u53f7",
+        "app_id": "com.amanefactory.totsukitoka",
+        "url": "https://play.google.com/store/apps/details?id=com.amanefactory.totsukitoka&hl=en&gl=us"
+    },
+    {
+        "title": "The Short Years Baby Book",
+        "icon": "https://lh3.googleusercontent.com/nouPxlWWk3U0VPw9CghC1XGqOAq9lGUxIKDl8_v9kZGIbppQd4gkBvDtFLcrAp7Uhls",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Unbound+Applications",
+        "updated": "February 15, 2019",
+        "size": "26M",
+        "installs": "5,000+",
+        "current_version": "4.0.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Unbound Applications",
+        "developer_email": "admin@unboundapplications.com",
+        "developer_url": "https://www.theshortyearsbooks.com/",
+        "developer_address": null,
+        "app_id": "com.unboundapplications.theshortyears",
+        "url": "https://play.google.com/store/apps/details?id=com.unboundapplications.theshortyears&hl=en&gl=us"
+    },
+    {
+        "title": "Daily Connect (Child Care)",
+        "icon": "https://lh3.googleusercontent.com/jX3h0HrTqnnrztZ0lQg3olVJutQ5rWQnq5hgPC-HrPjLrilPHyW09N-U86kWZtf4YVw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/t-ph5XmVAKY",
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1491,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Seacloud+Software",
+        "updated": "June 27, 2019",
+        "size": "6.9M",
+        "installs": "10,000+",
+        "current_version": "6.14",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Seacloud Software",
+        "developer_email": "support@dailyconnect.com",
+        "developer_url": "https://www.dailyconnect.com",
+        "developer_address": "237 Kearny Street #9071\nSan Francisco, CA 94108",
+        "app_id": "com.seacloud.dc",
+        "url": "https://play.google.com/store/apps/details?id=com.seacloud.dc&hl=en&gl=us"
+    },
+    {
+        "title": "Pee Pee Timer",
+        "icon": "https://lh3.googleusercontent.com/d-586sbwfm0QZbrC9ZwOqbnPDw0tEk3QS9pd-3_HYBMYW1MUJyvrhlH82M0w9EVceQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Quiet+Golfer",
+        "updated": "April 7, 2019",
+        "size": "4.2M",
+        "installs": "1,000+",
+        "current_version": "1.10",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Quiet Golfer",
+        "developer_email": "goodpeepee@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/18rR5JgjpGkzAZ-Db5YAj7slLR9OETFPiALDvsLWHUUA/edit",
+        "developer_address": null,
+        "app_id": "com.quietgolfer.peepee",
+        "url": "https://play.google.com/store/apps/details?id=com.quietgolfer.peepee&hl=en&gl=us"
+    },
+    {
+        "title": "ParentLove: Baby Tracker Feedings Diapers Pumping",
+        "icon": "https://lh3.googleusercontent.com/f7dQwtChAYeGydcrn5yMJbcKrOl3OsJbuLQEStIiK6P8Z2zxACIPyoqEQ_u3Ey9_cHY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 512,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Coquisoft+LLC",
+        "updated": "June 18, 2019",
+        "size": "Varies with device",
+        "installs": "10,000+",
+        "current_version": "5.8.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$5.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Coquisoft LLC",
+        "developer_email": "Care@ParentLove.me",
+        "developer_url": "https://ParentLove.me",
+        "developer_address": "PO Box 1856\nWest Caldwell, NJ 07007",
+        "app_id": "com.coquisoft.parentlove",
+        "url": "https://play.google.com/store/apps/details?id=com.coquisoft.parentlove&hl=en&gl=us"
+    },
+    {
+        "title": "Enfamil Family Beginnings\u00ae",
+        "icon": "https://lh3.googleusercontent.com/bUpfB4BDjd4bXWfVJAVhHwwWUmB4iYDDSJj-tT59JvzLy6-Gravs_aIrEk7wZyG3Zjo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "5.0",
+        "histogram": {},
+        "reviews": 0,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Reckitt+Benckiser+Group+plc",
+        "updated": "July 23, 2019",
+        "size": "14M",
+        "installs": "1,000+",
+        "current_version": "1.0.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Reckitt Benckiser Group plc",
+        "developer_email": "EnfamilResourceCenter@Enfamil.com",
+        "developer_url": "https://www.enfamil.com/contact-us",
+        "developer_address": null,
+        "app_id": "com.rb.enfamil",
+        "url": "https://play.google.com/store/apps/details?id=com.rb.enfamil&hl=en&gl=us"
+    },
+    {
+        "title": "Boy Or Girl Pregnancy Test",
+        "icon": "https://lh3.googleusercontent.com/et_7I_aIyxigVsCGAG6-uLt7DkubslsW-puWeoWIRRwr2XW8b5Pjzu6vEOelNO7MdEWS",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 787,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fernando+Zorrilla+S.M.",
+        "updated": "May 30, 2019",
+        "size": "2.6M",
+        "installs": "100,000+",
+        "current_version": "1.4-Free",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Fernando Zorrilla S.M.",
+        "developer_email": "fernando.zorrilla@gmail.com",
+        "developer_url": "http://www.wpgetready.com",
+        "developer_address": "Urquiza 3079",
+        "app_id": "app.boyorgirl.predictor.free",
+        "url": "https://play.google.com/store/apps/details?id=app.boyorgirl.predictor.free&hl=en&gl=us"
+    },
+    {
+        "title": "Cell Tracker Kids",
+        "icon": "https://lh3.googleusercontent.com/39w7lmAiSCmXxyDmAxTwaVQ6CbupmPnAcIyhWw5g0NGfmwlzDCybBNOE87F3KuqgNLgZ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7068825973368957115",
+        "updated": "March 13, 2019",
+        "size": "1.5M",
+        "installs": "5,000+",
+        "current_version": "5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CTR development",
+        "developer_email": "childtracker@tutanota.com",
+        "developer_url": "https://childtracker.net/",
+        "developer_address": null,
+        "app_id": "us.cell.tracker.kids.locator",
+        "url": "https://play.google.com/store/apps/details?id=us.cell.tracker.kids.locator&hl=en&gl=us"
+    },
+    {
+        "title": "My baby Piano",
+        "icon": "https://lh3.googleusercontent.com/SAjlbZeZlqE1AOTFt9K2ufK07PTFn5j_fPUk9fAymtgF5NdDD8Qano7jemKKsElB81k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Fsliwh61EA0",
+        "category": [
+            "PARENTING",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18524,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "DOKDOAPPS",
+        "updated": "May 15, 2019",
+        "size": "4.4M",
+        "installs": "5,000,000+",
+        "current_version": "2.33.2814",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "DOKDOAPPS",
+        "developer_email": "support@dokdoapps.com",
+        "developer_url": "http://dokdoapps.com",
+        "developer_address": "support@dokdoapps.com",
+        "app_id": "com.dokdoapps.mybabypiano",
+        "url": "https://play.google.com/store/apps/details?id=com.dokdoapps.mybabypiano&hl=en&gl=us"
+    },
+    {
+        "title": "Toy Match",
+        "icon": "https://lh3.googleusercontent.com/4jVquqgrWNoDRd1wV8bY-_CbjNlMquNUI8mRZT4sTFOxpfiT6Q_zP9SmIXWua3fwbc8-",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 654,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Gems+Candy+Candy",
+        "updated": "June 14, 2019",
+        "size": "19M",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Gems Candy Candy",
+        "developer_email": "gemscandycandy@gmail.com",
+        "developer_url": "https://sites.google.com/site/gemscandycandy/",
+        "developer_address": null,
+        "app_id": "com.tokyocoldJewel.diamondgame.toyBoyMatch3",
+        "url": "https://play.google.com/store/apps/details?id=com.tokyocoldJewel.diamondgame.toyBoyMatch3&hl=en&gl=us"
+    },
+    {
+        "title": "School Backpack Checklist",
+        "icon": "https://lh3.googleusercontent.com/8yFDCwxJ1zidMb7L_QGHJ0_ZR_mD1MaNpmeJsCQpj2GBQCK_MtkiynnGMq0EO3r1OQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "M.M+Productions",
+        "updated": "November 26, 2018",
+        "size": "8.8M",
+        "installs": "1,000+",
+        "current_version": "2.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "M.M Productions",
+        "developer_email": "mmproductions@yahoo.com",
+        "developer_url": "http://mmproductionprivacy.blogspot.ro/2017/02/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.mmproductions.schoolChecklist",
+        "url": "https://play.google.com/store/apps/details?id=com.mmproductions.schoolChecklist&hl=en&gl=us"
+    },
+    {
+        "title": "Pocoyo meets Nina - Storybook",
+        "icon": "https://lh3.googleusercontent.com/2GBkqo1-6APsl-RVgZYCtXnC3Oy27amCCzqozUWOKgipA2lnXkUxBEQZWP0D6oV2tUQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "PARENTING",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 200,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8378379050415836542",
+        "updated": "November 16, 2017",
+        "size": "64M",
+        "installs": "100,000+",
+        "current_version": "1.00",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Zinkia Entertainment, S.A.",
+        "developer_email": "apps@zinkia.com",
+        "developer_url": "http://www.pocoyo.com/apps",
+        "developer_address": "Infantas, 27\n28004. Madrid.\nSpain",
+        "app_id": "com.zinkia.nina.book",
+        "url": "https://play.google.com/store/apps/details?id=com.zinkia.nina.book&hl=en&gl=us"
+    }
+]

@@ -1,0 +1,4364 @@
+[
+    {
+        "title": "Indeed Job Search",
+        "icon": "https://lh3.googleusercontent.com/jj2z8DZ-Z5rV-Y4IY0ZklkuPjCchjeeisflFD0dU_zlJNpbUJkDTQpAMlc5rwutKFSU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 900037,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Indeed+Jobs",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Indeed Jobs",
+        "developer_email": "android@indeed.com",
+        "developer_url": "http://www.indeed.com/help",
+        "developer_address": null,
+        "app_id": "com.indeed.android.jobsearch",
+        "url": "https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch&hl=en&gl=us"
+    },
+    {
+        "title": "Uber Driver",
+        "icon": "https://lh3.googleusercontent.com/u4PW84G_8dSNVtBadRA3JsmBRxFjO6UNeHtdOnV1k6bFXl8qmbeXIXE2Je8on-D6Vg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1736532,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7908612043055486674",
+        "updated": "July 29, 2019",
+        "size": "53M",
+        "installs": "50,000,000+",
+        "current_version": "4.220.10000",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "Uber Technologies, Inc.",
+        "developer_email": "support@uber.com",
+        "developer_url": "http://www.uber.com",
+        "developer_address": null,
+        "app_id": "com.ubercab.driver",
+        "url": "https://play.google.com/store/apps/details?id=com.ubercab.driver&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft Authenticator",
+        "icon": "https://lh3.googleusercontent.com/T7_4mv5aTo4XdLWz_vAQ2Hg8E-uMf_XUZMtdHdnf5ifZEP413DhOEDo2YEMSSL1Jl4k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 71188,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 9, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Microsoft Corporation",
+        "developer_email": "noreply@microsoft.com",
+        "developer_url": "http://msdn.microsoft.com/en-us/library/azure/dn858223.aspx",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.azure.authenticator",
+        "url": "https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=us"
+    },
+    {
+        "title": "ZOOM Cloud Meetings",
+        "icon": "https://lh3.googleusercontent.com/1DqxbUca62LmV1ehZirHGWYBef9Jrtl3DhZ4m6YBnWCUX-XNr3lcnYKb31R-7ukpKAw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/BGH1y70zSkg",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 63336,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "zoom.us",
+        "updated": "July 17, 2019",
+        "size": "44M",
+        "installs": "10,000,000+",
+        "current_version": "4.4.55383.0716",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "zoom.us",
+        "developer_email": "info@zoom.us",
+        "developer_url": "http://zoom.us",
+        "developer_address": null,
+        "app_id": "us.zoom.videomeetings",
+        "url": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=us"
+    },
+    {
+        "title": "ADP Mobile Solutions",
+        "icon": "https://lh3.googleusercontent.com/85xxdCjRGt9lcQA8KlFjneXds2rwRpIiNMwbthsQLnSYgST6JOhRlLEh2Pk-e3XakQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 144491,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ADP,+LLC",
+        "updated": "July 16, 2019",
+        "size": "36M",
+        "installs": "10,000,000+",
+        "current_version": "3.9.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ADP, LLC",
+        "developer_email": "ADPmobile_feedback@ADP.com",
+        "developer_url": "http://www.adp.com/gomobile",
+        "developer_address": null,
+        "app_id": "com.adpmobile.android",
+        "url": "https://play.google.com/store/apps/details?id=com.adpmobile.android&hl=en&gl=us"
+    },
+    {
+        "title": "Job Search by ZipRecruiter",
+        "icon": "https://lh3.googleusercontent.com/anoS3ctKg2hCMiI90vTKnTtywX9yMrdJHtYItZd1Lyyxx37pH6Olc15AInquhkIV73o",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/iO8RJMnndRk",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 224722,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7516171781015428735",
+        "updated": "July 29, 2019",
+        "size": "9.1M",
+        "installs": "5,000,000+",
+        "current_version": "5.13.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "ZipRecruiter, Inc.",
+        "developer_email": "android@ziprecruiter.com",
+        "developer_url": "https://ziprecruiter.com",
+        "developer_address": "ZipRecruiter, Inc.\n401 Wilshire Blvd., 11th Floor,\nSanta Monica, CA 90401\nUSA",
+        "app_id": "com.ziprecruiter.android.release",
+        "url": "https://play.google.com/store/apps/details?id=com.ziprecruiter.android.release&hl=en&gl=us"
+    },
+    {
+        "title": "Duke Energy",
+        "icon": "https://lh3.googleusercontent.com/t4QcHpEtb4zTku63K07IKpVTEY4GhiPblqZhlukP4IzmoNFZssZEvsy5S0ZgYVo_lA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Zs856t8735g",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 222,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Duke+Energy",
+        "updated": "July 30, 2019",
+        "size": "4.3M",
+        "installs": "100,000+",
+        "current_version": "1.2.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Duke Energy",
+        "developer_email": "mobileapp@duke-energy.com",
+        "developer_url": "http://www.duke-energy.com",
+        "developer_address": null,
+        "app_id": "com.dukeenergy.customerapp.release",
+        "url": "https://play.google.com/store/apps/details?id=com.dukeenergy.customerapp.release&hl=en&gl=us"
+    },
+    {
+        "title": "Duo Mobile",
+        "icon": "https://lh3.googleusercontent.com/dpE6aQQqc2Obn9ddW741YegLaoTNNPfzmLhC2qnMPoZPM50DOkJyRhiQ2gw8dSLoNQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/JN0Hj0pKZ7U",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6880,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Duo+Security,+Inc.",
+        "updated": "July 17, 2019",
+        "size": "22M",
+        "installs": "5,000,000+",
+        "current_version": "3.28.2",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Duo Security, Inc.",
+        "developer_email": "support@duosecurity.com",
+        "developer_url": "https://guide.duo.com/",
+        "developer_address": null,
+        "app_id": "com.duosecurity.duomobile",
+        "url": "https://play.google.com/store/apps/details?id=com.duosecurity.duomobile&hl=en&gl=us"
+    },
+    {
+        "title": "Square Point of Sale - POS",
+        "icon": "https://lh3.googleusercontent.com/coMv1dl31PCfEs6essJoEUwVryaqKHKQvENdZ_WYpN-PXa8Qfitkg3grQxIVN22W5A",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ESRvTLzlokQ",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 112283,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4878871734928263649",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Square, Inc.",
+        "developer_email": "support@squareup.com",
+        "developer_url": "https://square.com/help",
+        "developer_address": null,
+        "app_id": "com.squareup",
+        "url": "https://play.google.com/store/apps/details?id=com.squareup&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft Teams",
+        "icon": "https://lh3.googleusercontent.com/rUfV5e9h-IlZmJqXATrbzOBQLyFR65jUnr7P5vcjhKh31NXGHO0scN1noMwV68F3WuQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 111938,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "1416/1.0.0.2019072402",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "mstandstore@microsoft.com",
+        "developer_url": "http://aka.ms/microsoftteams",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.teams",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=us"
+    },
+    {
+        "title": "Slack",
+        "icon": "https://lh3.googleusercontent.com/lV1DhBeSuikQy6fLPhgfNHUxDqterNlur4oB1Z_Yr0NOSiWwQOD0g8gWCjVf1mmMuw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/n0oO8yINyDM",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62268,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Slack+Technologies+Inc.",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "19.07.20.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Slack Technologies Inc.",
+        "developer_email": "feedback@slack.com",
+        "developer_url": "http://slack.com",
+        "developer_address": null,
+        "app_id": "com.Slack",
+        "url": "https://play.google.com/store/apps/details?id=com.Slack&hl=en&gl=us"
+    },
+    {
+        "title": "Lyft Driver",
+        "icon": "https://lh3.googleusercontent.com/Hj4qkvlOtlI-sBwJ9lJKWaq31Ykdk7DqA8R32pWE07F8kl-pDimjCxlXJX_RhPvY1alN",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 51758,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6629245766506578153",
+        "updated": "July 29, 2019",
+        "size": "45M",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "Lyft, Inc.",
+        "developer_email": "support@lyft.com",
+        "developer_url": "http://www.lyft.com/drive-with-lyft",
+        "developer_address": null,
+        "app_id": "com.lyft.android.driver",
+        "url": "https://play.google.com/store/apps/details?id=com.lyft.android.driver&hl=en&gl=us"
+    },
+    {
+        "title": "Workday",
+        "icon": "https://lh3.googleusercontent.com/8C5FpCE9i1nOlGDmS97ym0CcYzcDcGLtlOwwHgaxZdUH344qM-U5hgqoGkBGLSUXSQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33799,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Workday,+Inc.",
+        "updated": "July 27, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "2019.30.179.293611",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Workday, Inc.",
+        "developer_email": "android.developer@workday.com",
+        "developer_url": "http://www.workday.com",
+        "developer_address": null,
+        "app_id": "com.workday.workdroidapp",
+        "url": "https://play.google.com/store/apps/details?id=com.workday.workdroidapp&hl=en&gl=us"
+    },
+    {
+        "title": "UPS Mobile",
+        "icon": "https://lh3.googleusercontent.com/AgAKiWshn_NzVarF06jkHI7Ppp5fx23w7-xDlgZEZ2iL9H6hkGDEykTaA6ZgdP0uR8c",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35763,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "UPS",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "UPS",
+        "developer_email": "mobiledev@ups.com",
+        "developer_url": "http://www.ups.com/android",
+        "developer_address": null,
+        "app_id": "com.ups.mobile.android",
+        "url": "https://play.google.com/store/apps/details?id=com.ups.mobile.android&hl=en&gl=us"
+    },
+    {
+        "title": "Snag - Jobs Hiring Now",
+        "icon": "https://lh3.googleusercontent.com/wtsotH42exSpP5BFahC5cAVAFPT3x9Gd2EeZGNbewdGfQjrPzC9NaKRDNg2qbpJyFck",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/wYyVozCQCYc",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33869,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5023482540302634439",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Snag Inc",
+        "developer_email": "mobile@snag.co",
+        "developer_url": "http://www.snag.co",
+        "developer_address": null,
+        "app_id": "com.snagajob.jobseeker",
+        "url": "https://play.google.com/store/apps/details?id=com.snagajob.jobseeker&hl=en&gl=us"
+    },
+    {
+        "title": "Adobe Scan: PDF & Business Card Scanner with OCR",
+        "icon": "https://lh3.googleusercontent.com/P4aN1y8sGb55PLT4rhRwhgIenzY82LERHyCWQroXy1bL5P9BYwF9xu5BREvPiKigp6JQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 274726,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4734916851270416020",
+        "updated": "July 26, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "19.07.25",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Adobe",
+        "developer_email": "Grp-adobescan-android@adobe.com",
+        "developer_url": "https://forums.adobe.com/community/document-cloud/scanandroid/overview",
+        "developer_address": "Adobe Systems Incorporated\n345 Park Avenue\nSan Jose, CA 95110-2704",
+        "app_id": "com.adobe.scan.android",
+        "url": "https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en&gl=us"
+    },
+    {
+        "title": "USPS MOBILE\u00ae",
+        "icon": "https://lh3.googleusercontent.com/VNMoMLGHmVFrRv_8aGzZSwkJZctmP8H0z-O1sDOmjD3TkkL-Geoxpqnlne7AF6LbI_Br",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34794,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "United+States+Postal+Service%C2%AE",
+        "updated": "July 1, 2019",
+        "size": "3.9M",
+        "installs": "1,000,000+",
+        "current_version": "5.5.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "United States Postal Service\u00ae",
+        "developer_email": "mobilesupport@usps.gov",
+        "developer_url": "http://www.usps.com",
+        "developer_address": "475 L'Enfant Plaza, NW\nWashington, D.C. 20260",
+        "app_id": "com.usps",
+        "url": "https://play.google.com/store/apps/details?id=com.usps&hl=en&gl=us"
+    },
+    {
+        "title": "HireVue for Candidates",
+        "icon": "https://lh3.googleusercontent.com/Vl0Wt_uESprofJVrHaG-0Sm8JVPrdzyXKs8SdTaPA9vlJxvGVw0klNiqzklOJ1x7eA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9577,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "HireVue",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "4.4.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HireVue",
+        "developer_email": "support@hirevue.com",
+        "developer_url": "http://www.hirevue.com",
+        "developer_address": null,
+        "app_id": "com.hirevue.candidate.generic",
+        "url": "https://play.google.com/store/apps/details?id=com.hirevue.candidate.generic&hl=en&gl=us"
+    },
+    {
+        "title": "Intune Company Portal",
+        "icon": "https://lh3.googleusercontent.com/unUtqpVgwh3J6h_C4wmb0_Zc4ZuESSFejC9eJ8APpa8qy7EV1ulb1x9NufuSuBwm8A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18067,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 23, 2019",
+        "size": "19M",
+        "installs": "5,000,000+",
+        "current_version": "5.0.4483.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Microsoft Corporation",
+        "developer_email": "wintunedroidfbk@microsoft.com",
+        "developer_url": "http://go.microsoft.com/fwlink/?LinkID=821962",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.windowsintune.companyportal",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal&hl=en&gl=us"
+    },
+    {
+        "title": "Glassdoor - Job Search, Salaries & Company Reviews",
+        "icon": "https://lh3.googleusercontent.com/lDHCg7UucsvMg6aiT-Gddk-flkeuRCy6j6dNjmIvsW0eQCKtHcKosw4nxPXRnhnXufmn",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 144112,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Glassdoor+Inc.",
+        "updated": "July 30, 2019",
+        "size": "17M",
+        "installs": "10,000,000+",
+        "current_version": "7.8.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Unrestricted Internet"
+        ],
+        "developer": "Glassdoor Inc.",
+        "developer_email": "glassdoorinc@gmail.com",
+        "developer_url": "https://www.glassdoor.com",
+        "developer_address": null,
+        "app_id": "com.glassdoor.app",
+        "url": "https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en&gl=us"
+    },
+    {
+        "title": "Hangouts Meet",
+        "icon": "https://lh3.googleusercontent.com/dNVT9ozasUGWx5L62LYd9qPUkx0PbrjbPZW7nrNbzV96l5n6eJnw_ygT8Mp91PWUEWlB",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3949,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "30.5.255968470",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/a/answer/7126817",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.meetings",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=us"
+    },
+    {
+        "title": "Kronos Mobile",
+        "icon": "https://lh3.googleusercontent.com/81fE586k3FkVu1Sr8rog6WpXPhsCxacYGq5piMq8iTRiXs8qGMZ24D35dzCxiCGGWRYa",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "2.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7363,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Kronos+Incorporated",
+        "updated": "May 3, 2019",
+        "size": "17M",
+        "installs": "1,000,000+",
+        "current_version": "6.04.01.004",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Kronos Incorporated",
+        "developer_email": "WorkforceMobile@Kronos.com",
+        "developer_url": "http://www.kronos.com/",
+        "developer_address": null,
+        "app_id": "com.kronos.mobile.android",
+        "url": "https://play.google.com/store/apps/details?id=com.kronos.mobile.android&hl=en&gl=us"
+    },
+    {
+        "title": "UltiPro",
+        "icon": "https://lh3.googleusercontent.com/LjodIXgGyzv1qxBviWdetG65BIglp0ToDqYuoG1ORclwyYQdGWuOQx5UJBQ7zuWX3_k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1945,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+Ultimate+Software+Group,+Inc.",
+        "updated": "July 30, 2019",
+        "size": "19M",
+        "installs": "500,000+",
+        "current_version": "2.4.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Ultimate Software Group, Inc.",
+        "developer_email": "ultiproinfo@ultimatesoftware.com",
+        "developer_url": "https://www.ultimatesoftware.com/mobileappsupport",
+        "developer_address": null,
+        "app_id": "com.ultimatesoftware.ultipromobile",
+        "url": "https://play.google.com/store/apps/details?id=com.ultimatesoftware.ultipromobile&hl=en&gl=us"
+    },
+    {
+        "title": "Skype for Business for Android",
+        "icon": "https://lh3.googleusercontent.com/5hqcg29p7TkwDWchqG41kMDgoa_IXSUgt9ilfft3ZF2scKW_9Jz5511HPAAqVbVKRQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/6FGFuMHGtAo",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 96607,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 29, 2019",
+        "size": "42M",
+        "installs": "10,000,000+",
+        "current_version": "6.25.0.27",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "SFBAndroidApp@microsoft.com",
+        "developer_url": "http://go.microsoft.com/fwlink/?LinkId=291335",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.office.lync15",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.lync15&hl=en&gl=us"
+    },
+    {
+        "title": "PDF Reader - Sign, Scan, Edit & Share PDF Document",
+        "icon": "https://lh3.googleusercontent.com/exNzDTL0Wnl9jFvvw6NJXSsH11lzW_N1-6DpsVsbi7jzR3TCBkVhaVV3_9IWEodNOsE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/4SwDFAfRm9M",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 65837,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8130748137413633357",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "3.21.23",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$69.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "developer": "Kdan Mobile Software Ltd.",
+        "developer_email": "appservice@kdanmobile.com",
+        "developer_url": "http://www.kdanmobile.com/en/pdf-reader/",
+        "developer_address": "No. 1-83, Zhonghua Rd., Yongkang Dist., Tainan City 710, Taiwan",
+        "app_id": "com.kdanmobile.android.pdfreader.google.pad",
+        "url": "https://play.google.com/store/apps/details?id=com.kdanmobile.android.pdfreader.google.pad&hl=en&gl=us"
+    },
+    {
+        "title": "FedEx",
+        "icon": "https://lh3.googleusercontent.com/YtXTsa-6SaaMl02-OUo8iRztlX5Thu4aCLavunIV1M5hm9y4ySTPpMjpY44fL4ayz7Se",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ry5Jd_9Q5O8",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19321,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "FedEx",
+        "updated": "July 12, 2019",
+        "size": "60M",
+        "installs": "1,000,000+",
+        "current_version": "7.3.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "FedEx",
+        "developer_email": "mobile@fedex.com",
+        "developer_url": "http://mobilesolutions.fedex.com/for-android",
+        "developer_address": null,
+        "app_id": "com.fedex.ida.android",
+        "url": "https://play.google.com/store/apps/details?id=com.fedex.ida.android&hl=en&gl=us"
+    },
+    {
+        "title": "QuickBooks Accounting: Invoicing & Expenses",
+        "icon": "https://lh3.googleusercontent.com/lkEMXADbhNZ__o3XJf2PP6BaNes8G_9rILUFwnPXZi5IGR_YbyEdXgKF5-bhtXTmkg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/112M1SuyBk8",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29611,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7987416923533646496",
+        "updated": "July 31, 2019",
+        "size": "52M",
+        "installs": "1,000,000+",
+        "current_version": "19.7.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$124.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Intuit Inc",
+        "developer_email": "qbconnectandroid@intuit.com",
+        "developer_url": "https://quickbooks.intuit.com/",
+        "developer_address": "7535 Torrey Santa Fe Road\nSan Diego, CA 92129",
+        "app_id": "com.intuit.quickbooks",
+        "url": "https://play.google.com/store/apps/details?id=com.intuit.quickbooks&hl=en&gl=us"
+    },
+    {
+        "title": "GoToWebinar",
+        "icon": "https://lh3.googleusercontent.com/mMWjG2gUS4G-_RUMX5EBflbR8ab0QV3Yll7KAH0al4b8fy1xR-hbw3rLojuetJN3ajU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34939,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "LogMeIn,+Inc.",
+        "updated": "July 10, 2019",
+        "size": "17M",
+        "installs": "5,000,000+",
+        "current_version": "3.9.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "LogMeIn, Inc.",
+        "developer_email": "gotowebinar-feedback@logmein.com",
+        "developer_url": "https://support.logmein.com/gotowebinar",
+        "developer_address": "320 Summer St,\nBoston, MA 02210\nUnited States of America",
+        "app_id": "com.logmein.gotowebinar",
+        "url": "https://play.google.com/store/apps/details?id=com.logmein.gotowebinar&hl=en&gl=us"
+    },
+    {
+        "title": "Facebook Pages Manager",
+        "icon": "https://lh3.googleusercontent.com/2voFzi7OYlzpkMcjtQjnXsJc9MYmqRtRgwtb1UGOGIJMrn_x9JHUNvtP5MEsJw4Uobo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1434877,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Facebook",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "Facebook",
+        "developer_email": "android-support@fb.com",
+        "developer_url": "http://www.facebook.com/FacebookPages",
+        "developer_address": "1 Hacker Way\nMenlo Park, CA 94025",
+        "app_id": "com.facebook.pages.app",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.pages.app&hl=en&gl=us"
+    },
+    {
+        "title": "Visual Voicemail by MetroPCS",
+        "icon": "https://lh3.googleusercontent.com/UNAHwblFHUXCZDQB9aB1jzLhXWECmW-obQ8R7FM4QqiyZaoPkETXPKmyliBBiA6wbuG2",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23762,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Metro+by+T-Mobile",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Metro by T-Mobile",
+        "developer_email": "metropcsappstore@gmail.com",
+        "developer_url": "http://www.metropcs.com",
+        "developer_address": "3655 131st Ave SE, Bellevue, WA 98006",
+        "app_id": "com.metropcs.service.vvm",
+        "url": "https://play.google.com/store/apps/details?id=com.metropcs.service.vvm&hl=en&gl=us"
+    },
+    {
+        "title": "Fiverr - Freelance Services",
+        "icon": "https://lh3.googleusercontent.com/-Tp4Ni9SRbEwdagqKH3BOnuH9xA5ieiyXp_rpLboPvvxb2dYQtX2iWsbnghVWSdCC1k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Y22st0piSzQ",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 137003,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fiverr",
+        "updated": "July 28, 2019",
+        "size": "37M",
+        "installs": "5,000,000+",
+        "current_version": "2.5.7.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Fiverr",
+        "developer_email": "support@fiverr.com",
+        "developer_url": "http://www.fiverr.com",
+        "developer_address": null,
+        "app_id": "com.fiverr.fiverr",
+        "url": "https://play.google.com/store/apps/details?id=com.fiverr.fiverr&hl=en&gl=us"
+    },
+    {
+        "title": "Tiny Scanner - PDF Scanner App",
+        "icon": "https://lh3.googleusercontent.com/9CcAsFudREejEyxSbMDb2rs4OZ45ZqIQtkuS0EScBLcE1y2vMH3K_OBTz0lB9FQHHQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/MPVl7wLD9Oo",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 356299,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Appxy",
+        "updated": "July 2, 2019",
+        "size": "12M",
+        "installs": "10,000,000+",
+        "current_version": "4.1",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Appxy",
+        "developer_email": "tinyscan.a@appxy.com",
+        "developer_url": "http://www.appxy.com",
+        "developer_address": "17F HENAN BLDG\n90 JAFFE RD WANCHAI\nHONG KONG",
+        "app_id": "com.appxy.tinyscanner",
+        "url": "https://play.google.com/store/apps/details?id=com.appxy.tinyscanner&hl=en&gl=us"
+    },
+    {
+        "title": "CamToPlan - AR measurement / tape measure",
+        "icon": "https://lh3.googleusercontent.com/7_iD_7bz65xdzsyelojy-WcEik-w1q-9XBbUWOY29xZiNWEr9ic_8eGEuk3Ob5WPdFMO",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/AiXpcLAv6hU",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7995,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Tasmanic+Editions",
+        "updated": "July 2, 2019",
+        "size": "23M",
+        "installs": "1,000,000+",
+        "current_version": "3.0.2",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Tasmanic Editions",
+        "developer_email": "contact@tasmanic.com",
+        "developer_url": "http://tasmanic.com",
+        "developer_address": "91 rue du Faubourg Saint Honor\u00e9\n75008 - PARIS\nFRANCE",
+        "app_id": "com.tasmanic.camtoplanfree",
+        "url": "https://play.google.com/store/apps/details?id=com.tasmanic.camtoplanfree&hl=en&gl=us"
+    },
+    {
+        "title": "SAP Concur",
+        "icon": "https://lh3.googleusercontent.com/p-SI-FKdXrZ33jpaF08K8sG9QiQVYCsqggS8LyjLSsUS7Fy9YqUeegt0WwRPd4ccfsA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 53792,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Concur",
+        "updated": "July 30, 2019",
+        "size": "86M",
+        "installs": "1,000,000+",
+        "current_version": "9.70.3",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Concur",
+        "developer_email": "Androidmobilefeedback@concur.com",
+        "developer_url": "http://www.concur.com/",
+        "developer_address": "601 108th Ave NE, Suite 1000, Bellevue, WA 98004 USA",
+        "app_id": "com.concur.breeze",
+        "url": "https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en&gl=us"
+    },
+    {
+        "title": "Google My Business - Connect with your Customers",
+        "icon": "https://lh3.googleusercontent.com/EUQGH40jV55Dm2mcGzT9I2_vSfl_rJv88dfrR3JGJkxgQMe2j4bXoFd-tvuYLSGhFIQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/vsNcMJuRSME",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 123330,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 24, 2019",
+        "size": "7.8M",
+        "installs": "10,000,000+",
+        "current_version": "3.10.0.257742703",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "local-mobile-app-support@google.com",
+        "developer_url": "http://www.google.com/business",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.vega",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.vega&hl=en&gl=us"
+    },
+    {
+        "title": "PayPal Business: Send Invoices and Track Sales",
+        "icon": "https://lh3.googleusercontent.com/iQ8f5plIFy9rrY46Q2TNRwq_8nCvh9LZVwytqMBpOEcfnIU3vTkICQ6L1-RInWS93oQg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9945,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PayPal+Mobile",
+        "updated": "July 30, 2019",
+        "size": "23M",
+        "installs": "1,000,000+",
+        "current_version": "2019.07.26",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PayPal Mobile",
+        "developer_email": "mobile-apps@paypal.com",
+        "developer_url": "https://www.paypal.com/us/webapps/mpp/business-app",
+        "developer_address": null,
+        "app_id": "com.paypal.merchant.client",
+        "url": "https://play.google.com/store/apps/details?id=com.paypal.merchant.client&hl=en&gl=us"
+    },
+    {
+        "title": "Cisco Webex Meetings",
+        "icon": "https://lh3.googleusercontent.com/_8joIrDlTdTZ1cKVVnMoQ9KG0i-A5LCZX8N3w0MmFljiIsV8T2jkcqhHWndrKs0ldGuX",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/iU6-r2-B_GU",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 190217,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Cisco+Systems,+Inc.",
+        "updated": "July 22, 2019",
+        "size": "43M",
+        "installs": "10,000,000+",
+        "current_version": "39.6.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Cisco Systems, Inc.",
+        "developer_email": "androidmarket@cisco.com",
+        "developer_url": "http://www.webex.com/products/web-conferencing/mobile.html",
+        "developer_address": null,
+        "app_id": "com.cisco.webex.meetings",
+        "url": "https://play.google.com/store/apps/details?id=com.cisco.webex.meetings&hl=en&gl=us"
+    },
+    {
+        "title": "Monster Job Search",
+        "icon": "https://lh3.googleusercontent.com/GOYutFaTytFImqCWMa0J4dZpOVH7d2b2tHwFQaxW4Dz-8wOAOCfGDTNFZLekOW15Ua8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 50228,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Monster+Worldwide",
+        "updated": "July 22, 2019",
+        "size": "26M",
+        "installs": "1,000,000+",
+        "current_version": "5.0.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Monster Worldwide",
+        "developer_email": "infoplaystore@monster.com",
+        "developer_url": "https://www.monster.com",
+        "developer_address": "Monster Worldwide, Inc.\n133 Boston Post Road\nWeston, MA 02493",
+        "app_id": "com.jobrapp.jobr",
+        "url": "https://play.google.com/store/apps/details?id=com.jobrapp.jobr&hl=en&gl=us"
+    },
+    {
+        "title": "Grubhub for Drivers",
+        "icon": "https://lh3.googleusercontent.com/jJfr0u2MEQOCVLG_8ouOdC5PWsONgUWmaHLz0MOycZ0b-dGHn7aFwIIBKmVbSuxAHjh9",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1857,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8587714984751820909",
+        "updated": "July 30, 2019",
+        "size": "17M",
+        "installs": "100,000+",
+        "current_version": "3.41.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Grubhub",
+        "developer_email": "android@grubhub.com",
+        "developer_url": "http://www.grubhub.com",
+        "developer_address": null,
+        "app_id": "com.grubhub.driver",
+        "url": "https://play.google.com/store/apps/details?id=com.grubhub.driver&hl=en&gl=us"
+    },
+    {
+        "title": "Crew - Free Messaging and Scheduling",
+        "icon": "https://lh3.googleusercontent.com/i2A8QVnxgki_Ms6-FZuc51UzMrGlf9yVQGlH8_8k5qYjmRIv44VCinFZzENJCAPo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6214,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Speramus,+Inc.",
+        "updated": "July 11, 2019",
+        "size": "25M",
+        "installs": "1,000,000+",
+        "current_version": "7.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Speramus, Inc.",
+        "developer_email": "help@crewapp.com",
+        "developer_url": "https://crewapp.com/",
+        "developer_address": "532 Baker St.\nSan Francisco, CA 941167",
+        "app_id": "com.crewapp.android.crew",
+        "url": "https://play.google.com/store/apps/details?id=com.crewapp.android.crew&hl=en&gl=us"
+    },
+    {
+        "title": "GoToMeeting \u2013 Video Conferencing & Online Meetings",
+        "icon": "https://lh3.googleusercontent.com/Z_exlNzbuZSlislSjwM3nJCRVjFWLeKFz1Ypcg8MTx-dJ_6HWUg3O_W1HGiM1dThlTP_",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17625,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "LogMeIn,+Inc.",
+        "updated": "May 20, 2019",
+        "size": "18M",
+        "installs": "1,000,000+",
+        "current_version": "2.16.2.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "LogMeIn, Inc.",
+        "developer_email": "android@gotomeeting.com",
+        "developer_url": "https://www.gotomeeting.com/",
+        "developer_address": "320 Summer St,\nBoston, MA 02210\nUnited States of America",
+        "app_id": "com.gotomeeting",
+        "url": "https://play.google.com/store/apps/details?id=com.gotomeeting&hl=en&gl=us"
+    },
+    {
+        "title": "Homebase Free Employee Scheduling",
+        "icon": "https://lh3.googleusercontent.com/O4BaGVWT1cZs76Sjtc0yGyGnjvfZwYbvAkdq6sskgNAHS7VcgknUVpv0ajFl-eFvLtY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ZHketLMB7QM",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6707,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5959335544576785738",
+        "updated": "July 26, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$19.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Pioneer Works, Inc",
+        "developer_email": "info@joinhomebase.com",
+        "developer_url": "http://www.joinhomebase.com",
+        "developer_address": "425 2nd St #450\nSan Francisco, CA 94107",
+        "app_id": "com.joinhomebase.homebase.homebase",
+        "url": "https://play.google.com/store/apps/details?id=com.joinhomebase.homebase.homebase&hl=en&gl=us"
+    },
+    {
+        "title": "When I Work Employee Scheduling",
+        "icon": "https://lh3.googleusercontent.com/kLw4xm-l_Cl5jQAHG5KBYmn9SvyvIPONhSwEvzQuSzc6OjhDBgAHSZh2wRcDG9rd5A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24919,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "When+I+Work,+Inc.",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "When I Work, Inc.",
+        "developer_email": "support@wheniwork.com",
+        "developer_url": "http://wheniwork.com/?ref=play",
+        "developer_address": null,
+        "app_id": "com.thisclicks.wiw",
+        "url": "https://play.google.com/store/apps/details?id=com.thisclicks.wiw&hl=en&gl=us"
+    },
+    {
+        "title": "Intelligent Hub",
+        "icon": "https://lh3.googleusercontent.com/SA6Tj62xWYGBNoFjV1dXNNv9nhjQ7Zo4fQZQSe11V043bBe-urbd0YNsH5LVT5O32cA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 32536,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "VMware+Workspace+ONE",
+        "updated": "July 15, 2019",
+        "size": "42M",
+        "installs": "10,000,000+",
+        "current_version": "19.06.0.29",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "VMware Workspace ONE",
+        "developer_email": "support@air-watch.com",
+        "developer_url": "https://www.vmware.com/",
+        "developer_address": null,
+        "app_id": "com.airwatch.androidagent",
+        "url": "https://play.google.com/store/apps/details?id=com.airwatch.androidagent&hl=en&gl=us"
+    },
+    {
+        "title": "Paychex Flex",
+        "icon": "https://lh3.googleusercontent.com/VpIfES8tvIMWUSpOKnNGGzJB4TlWpJstrQNkkH4cdkuamR5U3IjzdjK0JUv7gh66E5k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8195,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Paychex,+Inc",
+        "updated": "June 28, 2019",
+        "size": "20M",
+        "installs": "1,000,000+",
+        "current_version": "6.6.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Paychex, Inc",
+        "developer_email": "app_support@paychex.com",
+        "developer_url": "http://www.paychex.com/support/paychex-online-mobile/",
+        "developer_address": "911 Panorama Trail\nRochester, NY 14623",
+        "app_id": "net.itx.paychex",
+        "url": "https://play.google.com/store/apps/details?id=net.itx.paychex&hl=en&gl=us"
+    },
+    {
+        "title": "My Walmart Schedule",
+        "icon": "https://lh3.googleusercontent.com/w6-FfgL48j1lzbj9iAJUiqGKz-zd51Ur0G7nFQWL2Z8VT0J6_S-b-PcvOmUgMIfVxdQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "2.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5928,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Walmart",
+        "updated": "July 8, 2019",
+        "size": "35M",
+        "installs": "500,000+",
+        "current_version": "25.0.4.125000014",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Walmart",
+        "developer_email": "gwfmmwsmsup@wal-mart.com",
+        "developer_url": "https://us3.walmartone.com/pages/orphan/terms-of-use---my-walmart-schedule/",
+        "developer_address": null,
+        "app_id": "com.walmart.wfm",
+        "url": "https://play.google.com/store/apps/details?id=com.walmart.wfm&hl=en&gl=us"
+    },
+    {
+        "title": "Sideline - Custom Second Line for Small Business",
+        "icon": "https://lh3.googleusercontent.com/y2rGuEiotgy9UglsuQ39z0ac3N5wzJmblCLIr9PtBOWqns1F5QEEewrK_eFqFfSRL7Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 58188,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4765596083042714620",
+        "updated": "July 26, 2019",
+        "size": "19M",
+        "installs": "5,000,000+",
+        "current_version": "3.46",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Pinger, Inc - Second Phone Number App",
+        "developer_email": "support@sideline.com",
+        "developer_url": "http://www.sideline.com",
+        "developer_address": "97 South 2nd Street, Suite 210\nSan Jose, California 95113",
+        "app_id": "com.sideline.phone.number",
+        "url": "https://play.google.com/store/apps/details?id=com.sideline.phone.number&hl=en&gl=us"
+    },
+    {
+        "title": "LegalShield - Legal Protection",
+        "icon": "https://lh3.googleusercontent.com/Phqm50E4Wo4U5PEoxTbbVC0WVCTEkq0Qw2azkWbgE5FEgX9uxHm7_VZzxFkZ_iCCuXnr",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4671,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "LegalShield+Corporation",
+        "updated": "July 25, 2019",
+        "size": "6.5M",
+        "installs": "500,000+",
+        "current_version": "5.0.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "LegalShield Corporation",
+        "developer_email": "MemberServices@LegalShield.com",
+        "developer_url": "http://www.legalshield.com",
+        "developer_address": null,
+        "app_id": "com.legalshield.MembersOnly",
+        "url": "https://play.google.com/store/apps/details?id=com.legalshield.MembersOnly&hl=en&gl=us"
+    },
+    {
+        "title": "Paylocity Mobile",
+        "icon": "https://lh3.googleusercontent.com/7csYeu1f1LN5NmLEWxpIRyDkFh2fwqPanP-54ojy5GnZ4PreXRdyPCWpGqra9mLO2Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10941,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Paylocity",
+        "updated": "July 18, 2019",
+        "size": "9.8M",
+        "installs": "1,000,000+",
+        "current_version": "19.7.216",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Paylocity",
+        "developer_email": "mobilefeedback@paylocity.com",
+        "developer_url": "http://www.paylocity.com",
+        "developer_address": null,
+        "app_id": "com.paylocity.paylocitymobile",
+        "url": "https://play.google.com/store/apps/details?id=com.paylocity.paylocitymobile&hl=en&gl=us"
+    },
+    {
+        "title": "OfficeSuite - Free Office, PDF, Word,Sheets,Slides",
+        "icon": "https://lh3.googleusercontent.com/Wb85lujqAwU6wKQcyAdFU6r4o9m1ag4ZDYfa-3CLg5hTql4S05sHbdHYjtRzqJk9jng",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/o_TvoDQxhAY",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1109444,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4895393381068725503",
+        "updated": "July 29, 2019",
+        "size": "46M",
+        "installs": "100,000,000+",
+        "current_version": "10.7.20958",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "MobiSystems",
+        "developer_email": "support-officesuite-android@mobisystems.com",
+        "developer_url": "http://www.mobisystems.com",
+        "developer_address": "11772 Sorrento Valley Road, Suite 260\nSan Diego, CA 92121, USA",
+        "app_id": "com.mobisystems.office",
+        "url": "https://play.google.com/store/apps/details?id=com.mobisystems.office&hl=en&gl=us"
+    },
+    {
+        "title": "JobStack | Worker",
+        "icon": "https://lh3.googleusercontent.com/n-4fh44Rn3X-jE3RPgXdlmAdUQ-I6QGLA3DsQ6YboZJ7j8o204s07A67aKX_UPIJwEM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7891,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PeopleReady,+Inc.",
+        "updated": "July 25, 2019",
+        "size": "13M",
+        "installs": "500,000+",
+        "current_version": "9.22.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PeopleReady, Inc.",
+        "developer_email": "appsupport@trueblue.com",
+        "developer_url": "http://www.peopleready.com/",
+        "developer_address": null,
+        "app_id": "com.swipejobs.jobstack.worker",
+        "url": "https://play.google.com/store/apps/details?id=com.swipejobs.jobstack.worker&hl=en&gl=us"
+    },
+    {
+        "title": "Fast Scanner : Free PDF Scan",
+        "icon": "https://lh3.googleusercontent.com/zwy4Zmr7NfqwJIeOtdvivtedDGlfZxObv5LBZThfJt8U1y0ClbnXuQW36jjtvtKaJg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/FupqambfERo",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 122310,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "CoolMobileSolution",
+        "updated": "July 14, 2019",
+        "size": "22M",
+        "installs": "10,000,000+",
+        "current_version": "4.2.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "CoolMobileSolution",
+        "developer_email": "fastscanner@coolmobilesolution.com",
+        "developer_url": "http://www.coolmobilesolution.com",
+        "developer_address": "340/61 Quang Trung, Go Vap, Ho Chi Minh, Vietnam",
+        "app_id": "com.coolmobilesolution.fastscannerfree",
+        "url": "https://play.google.com/store/apps/details?id=com.coolmobilesolution.fastscannerfree&hl=en&gl=us"
+    },
+    {
+        "title": "Sell on Etsy",
+        "icon": "https://lh3.googleusercontent.com/i96hD9mcfc2u47JPZ9HgCRO90uHcle2VRllK0h32-No7gI1G6ymBK6DrieW8vKiOZSA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30717,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Etsy,+Inc",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Etsy, Inc",
+        "developer_email": "support@etsy.com",
+        "developer_url": "https://www.etsy.com/",
+        "developer_address": "117 Adams Street, Brooklyn, New York 11201",
+        "app_id": "com.etsy.android.soe",
+        "url": "https://play.google.com/store/apps/details?id=com.etsy.android.soe&hl=en&gl=us"
+    },
+    {
+        "title": "Steady - Find Work. Earn Money",
+        "icon": "https://lh3.googleusercontent.com/5yrV2zoRp5Sg5dJy-oS9S1zre7Go8C8ai_mVP9MTqke9fB4Gv8uk0r0oLJ8muCY5nA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1090,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Steady+Platform,+Inc.",
+        "updated": "July 29, 2019",
+        "size": "18M",
+        "installs": "500,000+",
+        "current_version": "3.4.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Steady Platform, Inc.",
+        "developer_email": "help@steadyapp.com",
+        "developer_url": "http://steadyapp.com",
+        "developer_address": null,
+        "app_id": "com.steady.steadyapp.com",
+        "url": "https://play.google.com/store/apps/details?id=com.steady.steadyapp.com&hl=en&gl=us"
+    },
+    {
+        "title": "Hangouts Chat",
+        "icon": "https://lh3.googleusercontent.com/NRA6QVDKf3qkNlP9ZwqDoe6RKn2RyGrZZooYBOpLSwkjNNm3mHUo2FoSlUkFhS_qXexX",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3591,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 29, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "2019.07.11.258433458_prod",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://chat.google.com",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.dynamite",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite&hl=en&gl=us"
+    },
+    {
+        "title": "Flyers - Poster Maker, Graphic Design, Templates",
+        "icon": "https://lh3.googleusercontent.com/Nz3W91-hu99yx29WaQ-2s_P2upa5ZHRl9bKjdmV3MHVgrXNWXyldVCj5fDPt2SDx63M",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ip7UgxwzUIk",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 58810,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Apps+You+Love",
+        "updated": "July 19, 2019",
+        "size": "9.5M",
+        "installs": "1,000,000+",
+        "current_version": "33.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Apps You Love",
+        "developer_email": "bhavesh.optimumbrew@gmail.com",
+        "developer_url": "https://sites.google.com/view/mobile-privacy-policy/home",
+        "developer_address": "502-A, V-Plaza,\nKatargam,\nSurat,\nIndia",
+        "app_id": "com.bg.flyermaker",
+        "url": "https://play.google.com/store/apps/details?id=com.bg.flyermaker&hl=en&gl=us"
+    },
+    {
+        "title": "Simple Scan - Free PDF Scanner App",
+        "icon": "https://lh3.googleusercontent.com/GOhK5jHyGytZHUEfshJ9h0zYM63tzh1e_NkK-vbHuev6VtvfMJvXAUuwaQIdkISXMBA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 80814,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Easy+inc.",
+        "updated": "June 5, 2019",
+        "size": "22M",
+        "installs": "5,000,000+",
+        "current_version": "3.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Easy inc.",
+        "developer_email": "simple.scanner@outlook.com",
+        "developer_url": "https://sites.google.com/view/simple-scanner",
+        "developer_address": "Flat 11 ,1/F, Block 10,\nShek Lei Estate  ,\nKwai Tsing ,\nNew Territories\uff0c\nHong Kong",
+        "app_id": "com.simplescan.scanner",
+        "url": "https://play.google.com/store/apps/details?id=com.simplescan.scanner&hl=en&gl=us"
+    },
+    {
+        "title": "Resume Builder App Free CV maker CV templates 2019",
+        "icon": "https://lh3.googleusercontent.com/UBUW2-KiiUpfj04-gFUG9tkWokpHJdG_2TGuyyR4-FFIWnv-QAkC3I7w8PeLyN-otXY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18208,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6399541521943653846",
+        "updated": "July 24, 2019",
+        "size": "7.4M",
+        "installs": "1,000,000+",
+        "current_version": "2.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Intelligent CV",
+        "developer_email": "intelligentcvapp@gmail.com",
+        "developer_url": "https://sites.google.com/view/intelligentcv/home",
+        "developer_address": "1/9, MRB Avenue,\nKattupakkam,\nChennai",
+        "app_id": "icv.resume.curriculumvitae",
+        "url": "https://play.google.com/store/apps/details?id=icv.resume.curriculumvitae&hl=en&gl=us"
+    },
+    {
+        "title": "Dayforce",
+        "icon": "https://lh3.googleusercontent.com/n3K8kpNR-Ev3UumwQKRqzEdr_bfwxImBtqRjZrKMtOwnuCEN4H0m1-k5oBPn8LqlBg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31519,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Dayforce",
+        "updated": "July 12, 2019",
+        "size": "12M",
+        "installs": "1,000,000+",
+        "current_version": "56.3",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Dayforce",
+        "developer_email": "enduserhelp@dayforce.com",
+        "developer_url": "https://www.ceridian.com/products/dayforce",
+        "developer_address": null,
+        "app_id": "com.dayforce.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.dayforce.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Google Ads - Grow Your Business Online",
+        "icon": "https://lh3.googleusercontent.com/gDLgYeTaZUTQXa9hu0f4OgxAJedWvpcz3puIj3rgWwYhUjsruRfmKWheF1Wm-oVvPgDe",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 46176,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "28M",
+        "installs": "5,000,000+",
+        "current_version": "2.9.257591619",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "adwords-mobile-app-support@google.com",
+        "developer_url": "http://ads.google.com/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.adwords",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.adwords&hl=en&gl=us"
+    },
+    {
+        "title": "Genius Scan - PDF Scanner",
+        "icon": "https://lh3.googleusercontent.com/hrsN-s401aBzTHPCpn7zFy5RJRNXXwOpu8ISklEYJZ5bq4NwMGJQVYC-BmD1-eXF13k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61503,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8352227414721318036",
+        "updated": "July 26, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "The Grizzly Labs",
+        "developer_email": "android.support@thegrizzlylabs.com",
+        "developer_url": "http://www.thegrizzlylabs.com",
+        "developer_address": "5 Villa Lantiez\n75017 Paris\nFrance",
+        "app_id": "com.thegrizzlylabs.geniusscan.free",
+        "url": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en&gl=us"
+    },
+    {
+        "title": "SmartLine Second Phone Number",
+        "icon": "https://lh3.googleusercontent.com/d3haYA6J_n59SorhCTHOG-WLJm1pKsItIh7S2siCAZY9Ll6cDnv6p4MhhQcm7FjToA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2642,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "GoDaddy+Operating+Company,+LLC",
+        "updated": "July 23, 2019",
+        "size": "16M",
+        "installs": "500,000+",
+        "current_version": "4.25.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$19.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "GoDaddy Operating Company, LLC",
+        "developer_email": "smartlineandroid@godaddy.com",
+        "developer_url": "https://www.godaddy.com/smartline",
+        "developer_address": "14455 N Hayden Rd, Scottsdale, AZ 85260",
+        "app_id": "com.godaddy.gdm.smartline",
+        "url": "https://play.google.com/store/apps/details?id=com.godaddy.gdm.smartline&hl=en&gl=us"
+    },
+    {
+        "title": "Jersey Mike's",
+        "icon": "https://lh3.googleusercontent.com/LdagypmR7AOxCDfDfkSBMZgeYkU8QAXdM4vkgV8H9NBLqA2XPnGG9EwvB9QNn1xYpHc_",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "2.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 934,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jersey+Mike%27s+Subs",
+        "updated": "July 17, 2019",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "2.0.936",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jersey Mike's Subs",
+        "developer_email": "support@jerseymikes.com",
+        "developer_url": "https://www.jerseymikes.com",
+        "developer_address": "2251 Landmark Place\nManasquan, NJ 08736",
+        "app_id": "com.seattleapplab.jerseymikes",
+        "url": "https://play.google.com/store/apps/details?id=com.seattleapplab.jerseymikes&hl=en&gl=us"
+    },
+    {
+        "title": "RingCentral",
+        "icon": "https://lh3.googleusercontent.com/pvncDX9YE1xIzthNFJLHvR7B2X6SfMkzcXcYNhzzvpJ5cvScGvoMxT6HGgAzhIWd28Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1787,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RingCentral",
+        "updated": "July 25, 2019",
+        "size": "40M",
+        "installs": "100,000+",
+        "current_version": "6.5.1.1.042",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "RingCentral",
+        "developer_email": "support@glip.com",
+        "developer_url": "https://www.ringcentral.com",
+        "developer_address": null,
+        "app_id": "com.glip.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.glip.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Scanner App for Me: Scan Documents to PDF",
+        "icon": "https://lh3.googleusercontent.com/OhKua5KiupCASKOqTnTV511HWBAXc6QybnV3CKtJ5NoTw11c2vxgRhdyMpqhSRIFzm8x",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20141,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7148047194848561719",
+        "updated": "July 1, 2019",
+        "size": "9.1M",
+        "installs": "1,000,000+",
+        "current_version": "1.11",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Apalon Apps",
+        "developer_email": "apalonplay@mindspark.com",
+        "developer_url": "http://apalon.com",
+        "developer_address": "Block D, Iveagh Court\nHarcourt Road\nDublin 2, D02 VH 94 Ireland",
+        "app_id": "com.apalon.scanner.app",
+        "url": "https://play.google.com/store/apps/details?id=com.apalon.scanner.app&hl=en&gl=us"
+    },
+    {
+        "title": "PayPal Here - POS, Credit Card Reader",
+        "icon": "https://lh3.googleusercontent.com/bQ1lP9UhOKszktRB95fLWdzish44nrMk_lBcz9ZXguIqAzA8P060infaW5QwpSeWpJI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Qh74E9wpleU",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 36772,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PayPal+Mobile",
+        "updated": "July 23, 2019",
+        "size": "31M",
+        "installs": "1,000,000+",
+        "current_version": "3.6.6",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "PayPal Mobile",
+        "developer_email": "paypalhere-apps@paypal.com",
+        "developer_url": "http://www.paypal.com/here",
+        "developer_address": null,
+        "app_id": "com.paypal.here",
+        "url": "https://play.google.com/store/apps/details?id=com.paypal.here&hl=en&gl=us"
+    },
+    {
+        "title": "Logo Maker: Design & Create",
+        "icon": "https://lh3.googleusercontent.com/fVt7kWGDBeoRKqlNhIsOeS_blWjwoHvpHpnRTNohalWWeuuWptVeNpiqxVldpGunmls",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/N7bTVFVF850",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 44276,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8929232438554100687",
+        "updated": "May 31, 2019",
+        "size": "8.2M",
+        "installs": "1,000,000+",
+        "current_version": "2.2.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Shopify Inc.",
+        "developer_email": "hatchful@shopify.com",
+        "developer_url": "https://www.hatchful.com/",
+        "developer_address": "150 Elgin Street, 8th Floor\nOttawa, ON  K2P 1L4\nCanada",
+        "app_id": "com.shopify.logomaker.hatchful",
+        "url": "https://play.google.com/store/apps/details?id=com.shopify.logomaker.hatchful&hl=en&gl=us"
+    },
+    {
+        "title": "Logo Maker - Free Graphic Design Creator, Designer",
+        "icon": "https://lh3.googleusercontent.com/9cYNTrFvTghLLDDBv0P9WX5htwvLElRl-kP4xz-8zHNSQKQsb5vtlmdpOKpKrAxkr1c",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/m0mnjQmWKCY",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29830,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6096060713339252212",
+        "updated": "July 23, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "20.9",
+        "required_android_version": "4.4W and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$6.49"
+        ],
+        "interactive_elements": null,
+        "developer": "Content Arcade Apps",
+        "developer_email": "contentarcadeapps@gmail.com",
+        "developer_url": "https://www.logomaker.net/",
+        "developer_address": "265B, regent mall 1st floor, office#181-183",
+        "app_id": "org.contentarcade.apps.logomaker",
+        "url": "https://play.google.com/store/apps/details?id=org.contentarcade.apps.logomaker&hl=en&gl=us"
+    },
+    {
+        "title": "Box",
+        "icon": "https://lh3.googleusercontent.com/bYVafDlBEUJf-_agMoV97k336w4VSGMyIVNq5aJWMYlpyDq9y6hmTuso5cynuBDP8cI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 173933,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Box",
+        "updated": "July 23, 2019",
+        "size": "28M",
+        "installs": "10,000,000+",
+        "current_version": "4.28.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Box",
+        "developer_email": "android-support@box.com",
+        "developer_url": "http://www.box.com/ref/android_appstore_companylink",
+        "developer_address": null,
+        "app_id": "com.box.android",
+        "url": "https://play.google.com/store/apps/details?id=com.box.android&hl=en&gl=us"
+    },
+    {
+        "title": "CrowdCompass AttendeeHub",
+        "icon": "https://lh3.googleusercontent.com/UhuRL2l3kFwktItLPLSipGkqkIP4MkJ68CUdcm9ofl4jldBXc9ek5eoGIcuk3boazA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 503,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CrowdCompass+by+Cvent",
+        "updated": "July 25, 2019",
+        "size": "34M",
+        "installs": "500,000+",
+        "current_version": "5.49.1",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "CrowdCompass by Cvent",
+        "developer_email": "support@crowdcompass.com",
+        "developer_url": "http://www.crowdcompass.com",
+        "developer_address": "1765 Greensboro Station Place\n7th Floor\nTysons Corner, VA 22102",
+        "app_id": "com.crowdcompass.app4815162342",
+        "url": "https://play.google.com/store/apps/details?id=com.crowdcompass.app4815162342&hl=en&gl=us"
+    },
+    {
+        "title": "TitleMax",
+        "icon": "https://lh3.googleusercontent.com/ykeFHDVtOx8AWtChKw6b1uLvvZrAtOLc0gJI-0ACVPIW1lMQflMbeunJs7fVnEb6NAY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 827,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TMX+FINANCE+LLC",
+        "updated": "July 22, 2019",
+        "size": "22M",
+        "installs": "100,000+",
+        "current_version": "1.8.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TMX FINANCE LLC",
+        "developer_email": "tmx.developer.id@titlemax.com",
+        "developer_url": "https://www.titlemax.com",
+        "developer_address": null,
+        "app_id": "com.titlemax.customerapp",
+        "url": "https://play.google.com/store/apps/details?id=com.titlemax.customerapp&hl=en&gl=us"
+    },
+    {
+        "title": "The General\u00ae Insurance",
+        "icon": "https://lh3.googleusercontent.com/jKciTkGejUFlpW59OTxs9dTtswQDDvle493sNXVi1lZymgqQVucJFtpFjXXQelAMxQw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6875,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+General+Automobile+Insurance+Services,+Inc.",
+        "updated": "April 23, 2019",
+        "size": "47M",
+        "installs": "500,000+",
+        "current_version": "3.3.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The General Automobile Insurance Services, Inc.",
+        "developer_email": "PGCAndroidDeveloper@pgac.com",
+        "developer_url": "http://www.thegeneral.com",
+        "developer_address": null,
+        "app_id": "com.pgac.general.droid",
+        "url": "https://play.google.com/store/apps/details?id=com.pgac.general.droid&hl=en&gl=us"
+    },
+    {
+        "title": "Invoice Maker: Estimate & Invoice App",
+        "icon": "https://lh3.googleusercontent.com/0tdlMA-ZSVCA2xO9U9WZOGUYgJu2TzUvf9yZZn3TaKGn1qTiqw1_O4eKIVlIa_V4rw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 32908,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Invoice+Simple",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.27.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$323.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Invoice Simple",
+        "developer_email": "support@invoicesimple.com",
+        "developer_url": "https://www.invoicesimple.com",
+        "developer_address": "400-112 West Hastings St\nVancouver BC\nV6B 1G8\nCanada",
+        "app_id": "com.aadhk.woinvoice",
+        "url": "https://play.google.com/store/apps/details?id=com.aadhk.woinvoice&hl=en&gl=us"
+    },
+    {
+        "title": "Paycor Mobile",
+        "icon": "https://lh3.googleusercontent.com/tWK5mqktrI3d4Rc0fHbBI-tj_LyLtVqagdP-re-6CM4McFdUxJqFI7M_xw4GLj1EGPA2",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11345,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Paycor,+Inc.",
+        "updated": "July 26, 2019",
+        "size": "43M",
+        "installs": "500,000+",
+        "current_version": "4.8.6",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Paycor, Inc.",
+        "developer_email": "mobilesupport@paycor.com",
+        "developer_url": "http://www.paycor.com/employee-mobile",
+        "developer_address": null,
+        "app_id": "com.paycor.perform",
+        "url": "https://play.google.com/store/apps/details?id=com.paycor.perform&hl=en&gl=us"
+    },
+    {
+        "title": "Informed Delivery\u00ae",
+        "icon": "https://lh3.googleusercontent.com/bPWr2HTTuBTmWHX0_9dl_N-_V_InW_t1ygkxsAz7gx_SWlHSol4Ff93pOHcHo6McioU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "2.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3516,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "United+States+Postal+Service%C2%AE",
+        "updated": "April 30, 2019",
+        "size": "9.4M",
+        "installs": "500,000+",
+        "current_version": "2.4.2.0",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "United States Postal Service\u00ae",
+        "developer_email": "mobilesupport@usps.gov",
+        "developer_url": "https://my.usps.com/",
+        "developer_address": "475 L'Enfant Plaza, NW\nWashington, D.C. 20260",
+        "app_id": "com.usps.myusps_mobile_app_android",
+        "url": "https://play.google.com/store/apps/details?id=com.usps.myusps_mobile_app_android&hl=en&gl=us"
+    },
+    {
+        "title": "Resume Builder Free",
+        "icon": "https://lh3.googleusercontent.com/HRovmxMlKGnew-FCK6PMcjoNMEPjx0gk_59ZdGZMX03jrzU2SOZVZXTmcrSjOtQGq6M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3550,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8937894086475433843",
+        "updated": "July 29, 2019",
+        "size": "10M",
+        "installs": "50,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Nithra Apps",
+        "developer_email": "nithra.apps@gmail.com",
+        "developer_url": "https://www.nithra.mobi",
+        "developer_address": "Tamilnadu",
+        "app_id": "usa.resumebuilderapp.cvmaker",
+        "url": "https://play.google.com/store/apps/details?id=usa.resumebuilderapp.cvmaker&hl=en&gl=us"
+    },
+    {
+        "title": "Vagaro Pro",
+        "icon": "https://lh3.googleusercontent.com/gNSwndbejUqi63hFzuOp_Or6Nl1l2m_xPkREjAnovs9UgvmeDuLpgeT3lWxwHT4Umw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/dhTnC1YpxQs",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4910,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Vagaro+Inc",
+        "updated": "July 30, 2019",
+        "size": "25M",
+        "installs": "500,000+",
+        "current_version": "4.3.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Vagaro Inc",
+        "developer_email": "sales@vagaro.com",
+        "developer_url": "http://www.vagaro.com/WhyVagaro",
+        "developer_address": "4120 Dublin Blvd Suite 110\nDublin, CA 94568",
+        "app_id": "com.semaphore.login",
+        "url": "https://play.google.com/store/apps/details?id=com.semaphore.login&hl=en&gl=us"
+    },
+    {
+        "title": "Ripl: Create Social Marketing Videos",
+        "icon": "https://lh3.googleusercontent.com/VWPOCIcNBsVvaHqleqalIJ4ARiy1Yc_0dzltZxD60YmVzgLltpUuz4NiJkwymOsxAFI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10272,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5979242633604160560",
+        "updated": "July 30, 2019",
+        "size": "65M",
+        "installs": "1,000,000+",
+        "current_version": "3.1.110",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$299.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Ripl Inc.",
+        "developer_email": "feedback@ripl.com",
+        "developer_url": "https://www.ripl.com",
+        "developer_address": "3006 Northup Way\nSuite 103\nBellevue, WA 98004",
+        "app_id": "com.ripl.android",
+        "url": "https://play.google.com/store/apps/details?id=com.ripl.android&hl=en&gl=us"
+    },
+    {
+        "title": "Call Blocker",
+        "icon": "https://lh3.googleusercontent.com/Jc5FpdQdk4j3QuJRTL2Y37ob3ZajRA8DGtNBL4aEsuHI0dfV_2adakp4CqYF1IT6F_4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 215647,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AndroidRock",
+        "updated": "April 15, 2019",
+        "size": "3.4M",
+        "installs": "10,000,000+",
+        "current_version": "1.1.25",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "AndroidRock",
+        "developer_email": "androidrocker@163.com",
+        "developer_url": "http://arcallblockerprivacypolicy.blogspot.com/2016/07/call-blocker-privacy-policy.html",
+        "developer_address": "#2403, Building 12, Xiaolangfang, Guangyang, Langfang, Hebei province, China",
+        "app_id": "com.androidrocker.callblocker",
+        "url": "https://play.google.com/store/apps/details?id=com.androidrocker.callblocker&hl=en&gl=us"
+    },
+    {
+        "title": "Handshake Jobs & Careers",
+        "icon": "https://lh3.googleusercontent.com/FVoldMMQR5sCZdHFqhH9f-DoZQkEwmKZXL2CrkwijM2110sYeu1J5MPjPYyyEMSm6ak",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 513,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Handshake+%28Stryder+Corp.%29",
+        "updated": "July 29, 2019",
+        "size": "6.7M",
+        "installs": "100,000+",
+        "current_version": "1.4.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Handshake (Stryder Corp.)",
+        "developer_email": "mobile-eng@joinhandshake.com",
+        "developer_url": "https://joinhandshake.com",
+        "developer_address": null,
+        "app_id": "com.joinhandshake.student",
+        "url": "https://play.google.com/store/apps/details?id=com.joinhandshake.student&hl=en&gl=us"
+    },
+    {
+        "title": "Auction.com - Foreclosure Real Estate for Sale",
+        "icon": "https://lh3.googleusercontent.com/kKv3pLOs3L1uJbtVKA51Q1j2mKuFRtS2DA21z8THa1bIAYV7mNBX1gQGIB3X-0xWUkA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Y9g1SwzoS24",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 970,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Auction.com,+LLC",
+        "updated": "July 6, 2019",
+        "size": "6.7M",
+        "installs": "100,000+",
+        "current_version": "3.7.7(170)",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Auction.com, LLC",
+        "developer_email": "Mobile-Support@auction.com",
+        "developer_url": "http://www.auction.com",
+        "developer_address": null,
+        "app_id": "com.auction.resi.buyer",
+        "url": "https://play.google.com/store/apps/details?id=com.auction.resi.buyer&hl=en&gl=us"
+    },
+    {
+        "title": "Shopify: Ecommerce Business",
+        "icon": "https://lh3.googleusercontent.com/PgVvi8YqEv6UjuXSu9Ndcr4bX_aq8k3v2IGn8nSseC7Mj_YKPH6Uu4rBTt4FiiZhUw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7498,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8929232438554100687",
+        "updated": "July 30, 2019",
+        "size": "12M",
+        "installs": "1,000,000+",
+        "current_version": "8.25.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Shopify Inc.",
+        "developer_email": "support@shopify.com",
+        "developer_url": "http://www.shopify.com/mobile",
+        "developer_address": "150 Elgin Street, 8th Floor\nOttawa, ON  K2P 1L4\nCanada",
+        "app_id": "com.shopify.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.shopify.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Clear Scan: Free Document Scanner App,PDF Scanning",
+        "icon": "https://lh3.googleusercontent.com/XnndVPN7h43FYjdUkiPxoEb1Dc0TML3f6eRn3H5bdSC3U8ln4Nvy0rKrrqLbOszJw7A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 110273,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Indy+Mobile+App",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "4.2.8",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Indy Mobile App",
+        "developer_email": "clearscanner@gmail.com",
+        "developer_url": "https://sites.google.com/view/clearscanner/privacy-policy",
+        "developer_address": "112/1 T. Huasai\nA. San Kamphaeng\nChiang Mai 50130\nThailand",
+        "app_id": "com.indymobileapp.document.scanner",
+        "url": "https://play.google.com/store/apps/details?id=com.indymobileapp.document.scanner&hl=en&gl=us"
+    },
+    {
+        "title": "Secret Codes for Phones",
+        "icon": "https://lh3.googleusercontent.com/xhmJr1Xl4YSJ_gwNcPJGcuiXOtfeQeUmGTWf8wOuWyxlMcd1ibI5zmAejACULvi3rQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2025,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Droid+Copz",
+        "updated": "April 24, 2019",
+        "size": "2.2M",
+        "installs": "1,000,000+",
+        "current_version": "1.6",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Teen",
+            "Language"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Droid Copz",
+        "developer_email": "droidzappslko@gmail.com",
+        "developer_url": "http://www.learn-android-easily.com/2014/11/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.droidz.ussdcode",
+        "url": "https://play.google.com/store/apps/details?id=com.droidz.ussdcode&hl=en&gl=us"
+    },
+    {
+        "title": "Merlin: Search for Jobs, Work & Career Listings",
+        "icon": "https://lh3.googleusercontent.com/VydPEyJLNY6Dr-b5iCDmx2XylnZzzUJhfgXo__XjxvaCoMJJwCt82a5XGRz3_Iksvgo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/G2MNnwwIyTo",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2782,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7684130598443521301",
+        "updated": "July 26, 2019",
+        "size": "15M",
+        "installs": "100,000+",
+        "current_version": "5.1.1pro",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Merlin (ClassifiedJobs Inc)",
+        "developer_email": "support@merlinjobs.com",
+        "developer_url": "http://www.merlinjobs.com",
+        "developer_address": "19 W 24th Street, New York, NY 10010\nUnited States",
+        "app_id": "com.merlinjobs.android",
+        "url": "https://play.google.com/store/apps/details?id=com.merlinjobs.android&hl=en&gl=us"
+    },
+    {
+        "title": "Amazon A to Z",
+        "icon": "https://lh3.googleusercontent.com/GrtZt_EzhnJSY00-MaT10SxMViEDQArDo7rjM-JO7qLP9Ht80uur-brgSHH7ohPAo6X9",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 658,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "June 5, 2019",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "1.1.4",
+        "required_android_version": "4.4W and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "hubfeedback@amazon.com",
+        "developer_url": "http://atoz.amazon.work/",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "com.amazon.atozm",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.atozm&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft Remote Desktop",
+        "icon": "https://lh3.googleusercontent.com/ynEnW1t_e0eI3Cupi5qrmaY8tRi3F6xlxBh08skJZ2O2CgW-3Z7Z_3f70CP8sfzZdwc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 103829,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "June 5, 2019",
+        "size": "11M",
+        "installs": "10,000,000+",
+        "current_version": "8.1.71.387",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Microsoft Corporation",
+        "developer_email": "rdandr@microsoft.com",
+        "developer_url": "https://go.microsoft.com/fwlink/p/?LinkId=324281",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.rdc.android",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.rdc.android&hl=en&gl=us"
+    },
+    {
+        "title": "Square Invoices",
+        "icon": "https://lh3.googleusercontent.com/gCyyBvrSQ1jiiZxgBu4Mm2wgH7F5rBRXE2H-Uji9wnRHcnDwxx6kMp3kEy8TWlKvsg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/1EqG4sSNZrs",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 279,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4878871734928263649",
+        "updated": "July 30, 2019",
+        "size": "82M",
+        "installs": "50,000+",
+        "current_version": "5.18",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Square, Inc.",
+        "developer_email": "help@help-messaging.squareup.com",
+        "developer_url": "https://squareup.com",
+        "developer_address": null,
+        "app_id": "com.squareup.invoicesapp",
+        "url": "https://play.google.com/store/apps/details?id=com.squareup.invoicesapp&hl=en&gl=us"
+    },
+    {
+        "title": "Amazon Seller",
+        "icon": "https://lh3.googleusercontent.com/rMV2x9_l1iwF1YL-7oe1VerLHz8TgQBt7VwPRg-4JuVw0cQ5xqgYkPefb0EQeUUdOSbi",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 63884,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "July 12, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "6.0.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "seller-app-android-us-feedback@amazon.com",
+        "developer_url": "https://sellercentral.amazon.com/hz/m/legalcontent?topicId=40001&topicTitle=",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "com.amazon.sellermobile.android",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.sellermobile.android&hl=en&gl=us"
+    },
+    {
+        "title": "Aventri Events",
+        "icon": "https://lh3.googleusercontent.com/AdpDo9IvOeAfIGwqDmrfsyPK622OBaMcWxcYS-jGUwLYqo5gEsFslC23PBK_daczW2n2",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 41,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Aventri",
+        "updated": "July 1, 2019",
+        "size": "18M",
+        "installs": "10,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Aventri",
+        "developer_email": "mobileapps@aventri.com",
+        "developer_url": "https://www.aventri.com/",
+        "developer_address": "13 Marshall St #1\nNorwalk, CT 06854\nUSA",
+        "app_id": "com.etouches.loopdevents",
+        "url": "https://play.google.com/store/apps/details?id=com.etouches.loopdevents&hl=en&gl=us"
+    },
+    {
+        "title": "Blind - Anonymous Professional Network",
+        "icon": "https://lh3.googleusercontent.com/yJeD7ieIViH_AbIvGJIr4V3WPhLEavZE28UUW4RUKTTrILwI2qmYQhVU0KQdcfM-BA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7883,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "TeamBlind",
+        "updated": "July 30, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "2.9.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$3.49",
+            "$89.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TeamBlind",
+        "developer_email": "blindapp@teamblind.com",
+        "developer_url": "http://www.teamblind.com",
+        "developer_address": "995 Market St, San Francisco, CA 94103",
+        "app_id": "com.teamblind.blind",
+        "url": "https://play.google.com/store/apps/details?id=com.teamblind.blind&hl=en&gl=us"
+    },
+    {
+        "title": "Tech Jobs, Skills & Salary: Find your Future",
+        "icon": "https://lh3.googleusercontent.com/BGOqoRVAbDUvbIkKtH-04-Ldl07gW3h5ATlWLEO_uSKn0eVtibS0DL9YyQ2v8dy9_wN5",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/YRFfYJ9zonY",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4682,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "DHI+Group+Inc.",
+        "updated": "May 30, 2019",
+        "size": "17M",
+        "installs": "500,000+",
+        "current_version": "3.7.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "DHI Group Inc.",
+        "developer_email": "techsupport@dice.com",
+        "developer_url": "http://www.dice.com",
+        "developer_address": null,
+        "app_id": "com.dice.app.jobs",
+        "url": "https://play.google.com/store/apps/details?id=com.dice.app.jobs&hl=en&gl=us"
+    },
+    {
+        "title": "eFax app\u2013Send Fax from Phone",
+        "icon": "https://lh3.googleusercontent.com/BcjLMJsyHgFy1GWQzrvXUSWw1leOgJynFkcI1e6mPNDE7PiGKQs86bixKH8W_gf7nOk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/yComxG8H_8I",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10960,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "j2+Cloud+Services,+Inc",
+        "updated": "May 30, 2019",
+        "size": "27M",
+        "installs": "1,000,000+",
+        "current_version": "5.3.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "j2 Cloud Services, Inc",
+        "developer_email": "android@efax.com",
+        "developer_url": "http://www.efax.com/features/efax-mobile-app?VID=56885&utm_source=Google_Play&utm_medium=Store&utm_campaign=Google_Playstore",
+        "developer_address": null,
+        "app_id": "com.j2.efax",
+        "url": "https://play.google.com/store/apps/details?id=com.j2.efax&hl=en&gl=us"
+    },
+    {
+        "title": "Indeed Employer",
+        "icon": "https://lh3.googleusercontent.com/gUyHrmCpcy5rRMY68W5csIEj60ORJmoqvTr8_WWYL8bDv6hlnKeE_twq5Pw1Y4X3FzI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1167,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Indeed+Jobs",
+        "updated": "July 24, 2019",
+        "size": "3.7M",
+        "installs": "500,000+",
+        "current_version": "1.4.4",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Indeed Jobs",
+        "developer_email": "employermobileappfeedback@indeed.com",
+        "developer_url": "http://www.indeed.com",
+        "developer_address": null,
+        "app_id": "com.indeed.androidemployers",
+        "url": "https://play.google.com/store/apps/details?id=com.indeed.androidemployers&hl=en&gl=us"
+    },
+    {
+        "title": "Driver Pulse by Tenstreet",
+        "icon": "https://lh3.googleusercontent.com/DTqPOivjf2q6DagKth-GwLzmE-TU1wy_IFdWjVaytxoUCRO-Io_P54So8eDwzHMS9qI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2412,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tenstreet",
+        "updated": "October 24, 2018",
+        "size": "2.0M",
+        "installs": "100,000+",
+        "current_version": "2.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Tenstreet",
+        "developer_email": "developers@tenstreet.com",
+        "developer_url": "http://tenstreet.com",
+        "developer_address": null,
+        "app_id": "com.mobile.tenstreet.driverpulse",
+        "url": "https://play.google.com/store/apps/details?id=com.mobile.tenstreet.driverpulse&hl=en&gl=us"
+    },
+    {
+        "title": "FAX App: fax from Phone. Send mobile PDF documents",
+        "icon": "https://lh3.googleusercontent.com/171GSHlnY0uJMvmP_nqO5yOF8R7QzTaqv8raY3M22whmSJZNrmqecU16lKYDdBhz-HE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8735,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Fax+Apps",
+        "updated": "December 3, 2018",
+        "size": "8.9M",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$5.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Fax Apps",
+        "developer_email": "info@faxapp.biz",
+        "developer_url": "https://www.facebook.com/pages/Fax/749549871833113",
+        "developer_address": "Russia, Moscow",
+        "app_id": "biz.faxapp.app",
+        "url": "https://play.google.com/store/apps/details?id=biz.faxapp.app&hl=en&gl=us"
+    },
+    {
+        "title": "Upwork for Freelancers",
+        "icon": "https://lh3.googleusercontent.com/E-zu1zt0IS3HxP4H2tkbFrKtqWHPYxyd8uNJYXHhbFaDV7H0zow7AQ6TS_MdTsjQVCMg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7291,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Upwork+Global+Inc.",
+        "updated": "June 26, 2019",
+        "size": "4.6M",
+        "installs": "100,000+",
+        "current_version": "1.0.6",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Upwork Global Inc.",
+        "developer_email": "android-feedback@upwork.com",
+        "developer_url": "https://www.upwork.com",
+        "developer_address": null,
+        "app_id": "com.upwork.android.apps.main",
+        "url": "https://play.google.com/store/apps/details?id=com.upwork.android.apps.main&hl=en&gl=us"
+    },
+    {
+        "title": "Whova - Event & Conference App",
+        "icon": "https://lh3.googleusercontent.com/TbMXTOlC0RnXRaeNqFw4oLEK52pE9TVgMDorC16z7iE6lCuDDxW768kXK7nxwEIguhY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/9IKTYK8ZS9g",
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6193,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Whova",
+        "updated": "July 25, 2019",
+        "size": "21M",
+        "installs": "100,000+",
+        "current_version": "6.3.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Whova",
+        "developer_email": "support@whova.com",
+        "developer_url": "https://www.whova.com",
+        "developer_address": null,
+        "app_id": "com.whova.event",
+        "url": "https://play.google.com/store/apps/details?id=com.whova.event&hl=en&gl=us"
+    },
+    {
+        "title": "Yelp for Business Owners",
+        "icon": "https://lh3.googleusercontent.com/b4gEK_c3Jrw0njUgxuq2QwGjKsf3zXcpwrsWeHfRDHoHH0tz-FizfleidCRRX8nt2ydt",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2828,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Yelp,+Inc",
+        "updated": "July 29, 2019",
+        "size": "9.6M",
+        "installs": "500,000+",
+        "current_version": "19.28.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Yelp, Inc",
+        "developer_email": "feedback+biz-android@yelp.com",
+        "developer_url": "https://biz.yelp.com/",
+        "developer_address": null,
+        "app_id": "com.yelp.android.biz",
+        "url": "https://play.google.com/store/apps/details?id=com.yelp.android.biz&hl=en&gl=us"
+    },
+    {
+        "title": "Logo Maker - Icon Maker, Creative Graphic Designer",
+        "icon": "https://lh3.googleusercontent.com/ArszYHNo0_TUHpvlk4OemwaVsyBcLE_L3JvP5Hj7lr6oK3V_dnzVhU0MXbntm5uai-g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BUSINESS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 42215,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Z+Mobile+Apps",
+        "updated": "May 30, 2019",
+        "size": "25M",
+        "installs": "1,000,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Z Mobile Apps",
+        "developer_email": "adit.zoom1@gmail.com",
+        "developer_url": "https://zmobileapps.wordpress.com",
+        "developer_address": "Unit 11E\n65 Glenbrook Rd\nStamford CT 06902",
+        "app_id": "com.zmobileapps.logomaker",
+        "url": "https://play.google.com/store/apps/details?id=com.zmobileapps.logomaker&hl=en&gl=us"
+    }
+]

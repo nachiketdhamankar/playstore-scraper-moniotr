@@ -1,0 +1,4400 @@
+[
+    {
+        "title": "ibis Paint X",
+        "icon": "https://lh3.googleusercontent.com/EWyXSIExk317d5TxiWgA8A3mVRBiEdIpX0E7Yu3ghBOZDhlar34ewJdeVuiD40s1uok",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/iZ8eEjLRG9A",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 452061,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "ibis+mobile+inc.",
+        "updated": "July 5, 2019",
+        "size": "30M",
+        "installs": "10,000,000+",
+        "current_version": "5.6.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$6.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ibis mobile inc.",
+        "developer_email": "mob-paint-support@ibis.ne.jp",
+        "developer_url": "https://ibispaint.com/",
+        "developer_address": "ICM-Chuo bldg.3F 2-16-3 Hatchobori, Chuo-ku, Tokyo 104-0032, Japan\n\u3012104 \u2013 0032 \u6771\u4eac\u90fd\u4e2d\u592e\u533a\u516b\u4e01\u58002\u4e01\u76ee16\u756a3\u53f7\u3000ICM\u4e2d\u592e\u30d3\u30eb3\u968e",
+        "app_id": "jp.ne.ibis.ibispaintx.app",
+        "url": "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app&hl=en&gl=us"
+    },
+    {
+        "title": "Canva: Graphic Design & Logo, Flyer, Poster maker",
+        "icon": "https://lh3.googleusercontent.com/I3G__ku7fZv2HZIZOEt5Hi3ubMYL_KKdguFJps76_cqe64IlOaP9vqz-vUA3jo3OVcE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1481378,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Canva",
+        "updated": "July 31, 2019",
+        "size": "22M",
+        "installs": "10,000,000+",
+        "current_version": "2.23.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Canva",
+        "developer_email": "android-app@canva.com",
+        "developer_url": "https://www.canva.com/",
+        "developer_address": "2 Lacey Street,\nSurry Hills,\nSydney,\nNSW 2010,\nAustralia",
+        "app_id": "com.canva.editor",
+        "url": "https://play.google.com/store/apps/details?id=com.canva.editor&hl=en&gl=us"
+    },
+    {
+        "title": "Doodle Master - Glow Art",
+        "icon": "https://lh3.googleusercontent.com/NqPK-gYm5oRPHX9T-pmSbXuxTWUO1mxUoJBGt1J_ngRdKiPXX-J1jzAMgbObg89nbg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1095,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Draw+apps+for+free",
+        "updated": "July 23, 2019",
+        "size": "10.0M",
+        "installs": "100,000+",
+        "current_version": "1.0.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-Game Purchases"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Draw apps for free",
+        "developer_email": "draw.app@hotmail.com",
+        "developer_url": "https://sites.google.com/view/draw-apps-for-free/",
+        "developer_address": "hongkong",
+        "app_id": "com.doodle.master.draw.glow.art",
+        "url": "https://play.google.com/store/apps/details?id=com.doodle.master.draw.glow.art&hl=en&gl=us"
+    },
+    {
+        "title": "Smoke Name Art - Smoky Effect Focus n Filter Maker",
+        "icon": "https://lh3.googleusercontent.com/Oy-h3jOyCIq6uzgpO60YArN8KOG_ayfrug-7sSdzpUmJjO5iES13WSpMVEQgwMoniQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1243,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "AppX+Studio",
+        "updated": "July 25, 2019",
+        "size": "32M",
+        "installs": "500,000+",
+        "current_version": "0.29",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "AppX Studio",
+        "developer_email": "appxstudio.co@gmail.com",
+        "developer_url": "http://www.appxstudio.co",
+        "developer_address": "Swagat Residency, Patidar Chowk, Rajkot",
+        "app_id": "com.appxstudio.smokearteffect",
+        "url": "https://play.google.com/store/apps/details?id=com.appxstudio.smokearteffect&hl=en&gl=us"
+    },
+    {
+        "title": "Sketch - Draw & Paint",
+        "icon": "https://lh3.googleusercontent.com/sFUmSLtyuwKYT2-XVhzs9C4deTpLI0nee1us6x3s0vsZ0EKwxM8Tsclc4vOEWUjFM5A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 280690,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4851747018805076305",
+        "updated": "June 4, 2019",
+        "size": "32M",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$2.42"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Sony Mobile Communications",
+        "developer_email": "apps@sonymobile.com",
+        "developer_url": "http://sketch.sonymobile.com",
+        "developer_address": "Mobilev. 4\n22188 Lund\nSweden",
+        "app_id": "com.sonymobile.sketch",
+        "url": "https://play.google.com/store/apps/details?id=com.sonymobile.sketch&hl=en&gl=us"
+    },
+    {
+        "title": "Adobe Spark Post: Graphic design made easy",
+        "icon": "https://lh3.googleusercontent.com/3sqkUKDaoct9lF1YuIPurLHK3IOrxxm1cMeLbPgnCvcKqQ60TDSUylY-R9ptVVgJpFk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14515,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4734916851270416020",
+        "updated": "July 24, 2019",
+        "size": "56M",
+        "installs": "5,000,000+",
+        "current_version": "3.4.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Adobe",
+        "developer_email": "hellopost@adobe.com",
+        "developer_url": "http://spark.adobe.com/",
+        "developer_address": "Adobe Systems Incorporated\n345 Park Avenue\nSan Jose, CA 95110-2704",
+        "app_id": "com.adobe.spark.post",
+        "url": "https://play.google.com/store/apps/details?id=com.adobe.spark.post&hl=en&gl=us"
+    },
+    {
+        "title": "FlipaClip: Cartoon animation",
+        "icon": "https://lh3.googleusercontent.com/v1LHbiVKdHFsDqRgZ8pM1iNvLmKGX0c_0pbvopLS4FYOvweMqkPl7c0AO8pu2T_g0Og",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/9RFkh_FsMg4",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 283200,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Visual+Blasters+LLC",
+        "updated": "July 20, 2019",
+        "size": "29M",
+        "installs": "10,000,000+",
+        "current_version": "2.3.10",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$5.99"
+        ],
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "Visual Blasters LLC",
+        "developer_email": "flipaclip@visualblasters.com",
+        "developer_url": "https://www.flipaclip.com",
+        "developer_address": "150 SE 2nd Ave. Suite 500\nMiami, FL 33131",
+        "app_id": "com.vblast.flipaclip",
+        "url": "https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=en&gl=us"
+    },
+    {
+        "title": "MediBang Paint - Make Art !",
+        "icon": "https://lh3.googleusercontent.com/gJiINYcgwxuyz7D74B_yIGoblTCDdhLPmh1JMUiw-cUGZ4D7aj0bUWywBsMNltCQzX4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 177593,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5466859474658028637",
+        "updated": "June 13, 2019",
+        "size": "23M",
+        "installs": "10,000,000+",
+        "current_version": "17.1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "MediBang Inc.",
+        "developer_email": "support@medibang.com",
+        "developer_url": "http://medibangpaint.com/",
+        "developer_address": "Shibuya Infoss Annex Level 10\n12-10 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-0031, JAPAN",
+        "app_id": "com.medibang.android.paint.tablet",
+        "url": "https://play.google.com/store/apps/details?id=com.medibang.android.paint.tablet&hl=en&gl=us"
+    },
+    {
+        "title": "PaperColor : Paint Draw Sketchbook & PaperDraw",
+        "icon": "https://lh3.googleusercontent.com/zk1SVbWvnYrH1al59YwDidCP97a2oeyKKi-csCxHhI-S7Wl-dohsGBnQh8J1OGsLvYw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/19zkF-fYDjg",
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 93728,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Colorfit",
+        "updated": "December 7, 2018",
+        "size": "16M",
+        "installs": "10,000,000+",
+        "current_version": "2.3.6",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Colorfit",
+        "developer_email": "eyewind.color@hotmail.com",
+        "developer_url": "http://www.eyewind.org/en/colorfit_privacy.html",
+        "developer_address": "Flat 11  1/F Block 10  Shek Lei (2) Estate    Kwai Chung  Hong Kong",
+        "app_id": "com.eyewind.paperone",
+        "url": "https://play.google.com/store/apps/details?id=com.eyewind.paperone&hl=en&gl=us"
+    },
+    {
+        "title": "Glitter Dress Coloring and Drawing for Kids",
+        "icon": "https://lh3.googleusercontent.com/7sBeLdQ-U91NA9tgI2RpYvsyTP5lDjfijl9jAO0s1p8cq_9Yp0Fcpg0fvqEz4Vc1HA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 41,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6938298709975174416",
+        "updated": "June 16, 2019",
+        "size": "47M",
+        "installs": "50,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Redberry Games",
+        "developer_email": "helmotawakil5@gmail.com",
+        "developer_url": "https://redberrygames.blogspot.com/2018/10/privacy-policy-redberry-games-we.html",
+        "developer_address": null,
+        "app_id": "com.redberry.DressGlitter",
+        "url": "https://play.google.com/store/apps/details?id=com.redberry.DressGlitter&hl=en&gl=us"
+    },
+    {
+        "title": "How to make doll furniture",
+        "icon": "https://lh3.googleusercontent.com/YC_Saq1dd9Ej6JugydNYOE3nEBX8YAeQRyIxor07xNR_HGq3O3KMidd79kn90Qq2xA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3255,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "True+Fun+Apps",
+        "updated": "July 24, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "2.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "True Fun Apps",
+        "developer_email": "devpaulx@gmail.com",
+        "developer_url": "https://yadi.sk/i/CBRIG-8lx_iZWA",
+        "developer_address": null,
+        "app_id": "truefunapps.furniture",
+        "url": "https://play.google.com/store/apps/details?id=truefunapps.furniture&hl=en&gl=us"
+    },
+    {
+        "title": "Infinite Painter",
+        "icon": "https://lh3.googleusercontent.com/fr1055VOnjikjEaxAk24eRa53AN2vrvapj6B057nZ8U5Y-dC-ndYiA3eNeqho8TvzSAN",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/KdlfGMohVIo",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45843,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8161093088993848231",
+        "updated": "June 7, 2019",
+        "size": "41M",
+        "installs": "5,000,000+",
+        "current_version": "6.3.34",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$7.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Infinite Studio Mobile",
+        "developer_email": "support@infinitestudio.art",
+        "developer_url": "http://www.infinitestudio.art/",
+        "developer_address": "103 Waterbury Ct\nCharlottesville, VA 22902",
+        "app_id": "com.brakefield.painter",
+        "url": "https://play.google.com/store/apps/details?id=com.brakefield.painter&hl=en&gl=us"
+    },
+    {
+        "title": "Magic Poser",
+        "icon": "https://lh3.googleusercontent.com/IZ2btAH5FZHg2OUB6jSstAcStShC4RpE7g1LixglBotiDaSJf16RaFudKlmZuyRL590",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/bOcSRhuxG6I",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7971,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Wombat+Studio,+Inc.",
+        "updated": "July 17, 2019",
+        "size": "82M",
+        "installs": "500,000+",
+        "current_version": "1.42.6",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen",
+            "Partial Nudity"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "Wombat Studio, Inc.",
+        "developer_email": "support@thewombatstudio.com",
+        "developer_url": "http://magicposer.com",
+        "developer_address": "3126 Terrywood Ct, San Jose, CA 95132",
+        "app_id": "com.magicposernew",
+        "url": "https://play.google.com/store/apps/details?id=com.magicposernew&hl=en&gl=us"
+    },
+    {
+        "title": "Floor Plan Creator",
+        "icon": "https://lh3.googleusercontent.com/yb3PWja0A2u17AZ_erTWro3ehAisqooJwHPo7z2aHnsp235dcGOKpNNcX-mDhO1Nlu-4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/IiNWUOoqP_Q",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 48375,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Marcin+Lewandowski",
+        "updated": "July 20, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$6.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Marcin Lewandowski",
+        "developer_email": "support@floorplancreator.net",
+        "developer_url": "https://floorplancreator.net",
+        "developer_address": "Marcin Lewandowski\nMail Boxes Etc.\nul. \u015aw. Franciszka 62\n93-479 \u0141\u00f3d\u017a\nPoland",
+        "app_id": "pl.planmieszkania.android",
+        "url": "https://play.google.com/store/apps/details?id=pl.planmieszkania.android&hl=en&gl=us"
+    },
+    {
+        "title": "Anime Face Changer - Cartoon Photo Editor",
+        "icon": "https://lh3.googleusercontent.com/_DZZ5oilxPqN9BLm8ZhHon5KQZlMCbylVc3Z-vTsgLVgMkUzit_VvUWQX1q-yba5AQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "2.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7351,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RANOMA",
+        "updated": "May 9, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "RANOMA",
+        "developer_email": "ranomadon@gmail.com",
+        "developer_url": "https://sites.google.com/view/ranomapp",
+        "developer_address": null,
+        "app_id": "anime.face.changer.cartoon.photo_editor",
+        "url": "https://play.google.com/store/apps/details?id=anime.face.changer.cartoon.photo_editor&hl=en&gl=us"
+    },
+    {
+        "title": "Easy Poser",
+        "icon": "https://lh3.googleusercontent.com/Uax6XVc2yXLB08CW0Clhk0EITPe6gdfKFVMjIYKlQ4qhVHJ49fimutux61DU6ftsjeg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/sl0iJCRje_w",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61749,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6964306245292491680",
+        "updated": "July 24, 2019",
+        "size": "85M",
+        "installs": "5,000,000+",
+        "current_version": "1.3.97",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.49",
+            "$5.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Madcat Games",
+        "developer_email": "madcat.help@gmail.com",
+        "developer_url": "http://madcatgames.tistory.com/15",
+        "developer_address": "318ho, 77, Seongsuil-ro, Seongdong-gu, Seoul, Republic of Korea",
+        "app_id": "com.madcat.easyposer",
+        "url": "https://play.google.com/store/apps/details?id=com.madcat.easyposer&hl=en&gl=us"
+    },
+    {
+        "title": "Glitter Lips with Makeup Brush Set coloring Game",
+        "icon": "https://lh3.googleusercontent.com/vj7Txnk_y1TWhMZHo1u_Pb0sxgr7xrp8A4eq4tUW5FBdrYWNsWfFD2M6GvpekcTGGg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 101,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6938298709975174416",
+        "updated": "July 3, 2019",
+        "size": "46M",
+        "installs": "50,000+",
+        "current_version": "2.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Redberry Games",
+        "developer_email": "helmotawakil5@gmail.com",
+        "developer_url": "https://redberrygames.blogspot.com/2018/10/privacy-policy-redberry-games-we.html",
+        "developer_address": null,
+        "app_id": "com.redberry.glitterlips",
+        "url": "https://play.google.com/store/apps/details?id=com.redberry.glitterlips&hl=en&gl=us"
+    },
+    {
+        "title": "Adobe Photoshop Sketch",
+        "icon": "https://lh3.googleusercontent.com/SQQsT3QaL2U5cWXNuwkFYNa-UFjAw4Ls0D0pSHWzyRhAWHr7L01kmC8-bJVprgjiAjQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22660,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4734916851270416020",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.2.308",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Adobe",
+        "developer_email": "Adobe-Sketch-Feedback@adobe.com",
+        "developer_url": "http://www.adobe.com/",
+        "developer_address": "Adobe Systems Incorporated\n345 Park Avenue\nSan Jose, CA 95110-2704",
+        "app_id": "com.adobe.creativeapps.sketch",
+        "url": "https://play.google.com/store/apps/details?id=com.adobe.creativeapps.sketch&hl=en&gl=us"
+    },
+    {
+        "title": "Sand Draw Sketch Drawing Pad: Creative Doodle Art",
+        "icon": "https://lh3.googleusercontent.com/FEtDcu77tw3XdrDRscfDVe4_-4_xcL-DuKlmQdjiu9Dqtzn8umCyk2sjGGNuxMqWAyc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/LOfKmtt-TZQ",
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 93256,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5101937198185715525",
+        "updated": "May 12, 2019",
+        "size": "39M",
+        "installs": "1,000,000+",
+        "current_version": "3.4.3",
+        "required_android_version": "2.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Kalrom Systems LTD",
+        "developer_email": "support@kalromsystems.com",
+        "developer_url": "http://sanddraw.me",
+        "developer_address": "Jerusalem",
+        "app_id": "air.com.KalromSystems.SandDrawLite",
+        "url": "https://play.google.com/store/apps/details?id=air.com.KalromSystems.SandDrawLite&hl=en&gl=us"
+    },
+    {
+        "title": "Glitter Dress Coloring and Drawing for Kids",
+        "icon": "https://lh3.googleusercontent.com/6r_7XdfqP8xWXtTMd2Eo1ONOf6_VhUtuBQ1zuH-0y25Coz4GeiHcp2v11Qd99PkYqv4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5517054645876426707",
+        "updated": "July 1, 2019",
+        "size": "25M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TIC TIC GAMES",
+        "developer_email": "ssivertami@gmail.com",
+        "developer_url": "http://rrrcolor.blogspot.com/2018/05/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.ticticgames.glitterdress",
+        "url": "https://play.google.com/store/apps/details?id=com.ticticgames.glitterdress&hl=en&gl=us"
+    },
+    {
+        "title": "Anime - Paint by Numbers",
+        "icon": "https://lh3.googleusercontent.com/noi1htl1JVeTaRzzsUVYqPP7Gp4fSvBmrrZqUP2H2_cy49Y_-BaQLpksowofZ-4RLGg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 32581,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8444509107203732581",
+        "updated": "April 4, 2019",
+        "size": "58M",
+        "installs": "500,000+",
+        "current_version": "3.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ZoneK",
+        "developer_email": "dinhlong080394@gmail.com",
+        "developer_url": "https://zonekgroup.github.io/",
+        "developer_address": "Brucknerweg 70\n7023 Haldenstein",
+        "app_id": "zonek.design.paintbynumbers",
+        "url": "https://play.google.com/store/apps/details?id=zonek.design.paintbynumbers&hl=en&gl=us"
+    },
+    {
+        "title": "Drawing Desk Draw Paint Color Doodle & Sketch Pad",
+        "icon": "https://lh3.googleusercontent.com/cZXYPm7UflaU2775GtOHbtdX8SDxIUPyvPvuzCZFdsoZwbMGKeNyBjVDKNIUMKtr0pIq",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10647,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4Axis+Technologies",
+        "updated": "July 24, 2019",
+        "size": "81M",
+        "installs": "500,000+",
+        "current_version": "5.7.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "4Axis Technologies",
+        "developer_email": "hello@4axissolutions.com",
+        "developer_url": "http://drawingdeskapp.com",
+        "developer_address": "4AXIS TECHNOLOGIES PTE LTD\n207A, Thomson Road,\n#2A - Goldhill Shopping Centre,\nSingapore (307640).",
+        "app_id": "com.axis.drawingdesk.v3",
+        "url": "https://play.google.com/store/apps/details?id=com.axis.drawingdesk.v3&hl=en&gl=us"
+    },
+    {
+        "title": "Pixelmoon - Color by Number Sandbox Pixel",
+        "icon": "https://lh3.googleusercontent.com/1stZKulkgMWie8sYrGfiU8_4lDsk7stqCEEL9xWYj2KlOrzT50bfNnmjTCzsWZyuqhE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4342,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5660766975255108490",
+        "updated": "March 18, 2019",
+        "size": "6.0M",
+        "installs": "500,000+",
+        "current_version": "1.9",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ZVector",
+        "developer_email": "thaita7435@gmail.com",
+        "developer_url": null,
+        "developer_address": "4956 Brand Road\nSaskatoon, SK S7K 1W8",
+        "app_id": "desktop.colorbynumbers.pixelmoon",
+        "url": "https://play.google.com/store/apps/details?id=desktop.colorbynumbers.pixelmoon&hl=en&gl=us"
+    },
+    {
+        "title": "Pixel Box - Color by Number & Art Pages",
+        "icon": "https://lh3.googleusercontent.com/BvjEHMirnY4g_zFfMiBvM-gv0PzEKrlJ4xli7FPRngeY2fMoz9m9YGnUd4_onzRfY5s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4474,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Aleaf+Games",
+        "updated": "June 28, 2019",
+        "size": "3.3M",
+        "installs": "1,000,000+",
+        "current_version": "1.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Aleaf Games",
+        "developer_email": "aleafgames@gmail.com",
+        "developer_url": "http://forumvs.com/policy_numbercoloring2.html",
+        "developer_address": "1613 Mariposa Ave, Palo Alto, CA",
+        "app_id": "com.sandbox.numbercoloring.pixelart",
+        "url": "https://play.google.com/store/apps/details?id=com.sandbox.numbercoloring.pixelart&hl=en&gl=us"
+    },
+    {
+        "title": "Colorfit - Drawing & Coloring",
+        "icon": "https://lh3.googleusercontent.com/ouY5Lq0YMKubPNZZyOkansyLPfAVhyWDmQ-rUg3puPkp7np2n6dkIEeSTe0mXNXyfs4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31575,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Creative+APPS",
+        "updated": "April 27, 2019",
+        "size": "28M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.11",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Creative APPS",
+        "developer_email": "creative.feedback@hotmail.com",
+        "developer_url": "http://creative100.cc/privacy.html",
+        "developer_address": "2/F, Block 14, 28 Cheung Sha Wan Road, Kowloon, Hong Kong",
+        "app_id": "com.creative.colorfit.mandala.coloring.book",
+        "url": "https://play.google.com/store/apps/details?id=com.creative.colorfit.mandala.coloring.book&hl=en&gl=us"
+    },
+    {
+        "title": "kitchen coloring book for kids",
+        "icon": "https://lh3.googleusercontent.com/TuJ5YbnOc5InlctTg3gcHisQSJOVy9Qou9hNlX0RA-233mJKlQAE-N0UlkQwTJUkgzc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 131,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SQPlayer",
+        "updated": "March 16, 2019",
+        "size": "26M",
+        "installs": "500,000+",
+        "current_version": "3.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SQPlayer",
+        "developer_email": "sa.qniet@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vT3j9XPoc_aXfmGhFYqqK7IRWRa4ahWb9Pu00WOo8bLSBgwdU4sz2BxJ6CYFUo3Baf0YwwHx1UFE-Oq/pub",
+        "developer_address": null,
+        "app_id": "com.sqplayer.kitchencoloringbook",
+        "url": "https://play.google.com/store/apps/details?id=com.sqplayer.kitchencoloringbook&hl=en&gl=us"
+    },
+    {
+        "title": "Pencil Sketch Art - Cartoon Photo Editor",
+        "icon": "https://lh3.googleusercontent.com/g6oMVZ8QSsY9RI0pKfmpJfMMSGjwgHpdPpF5wcRWdlHBtdMG_fV5KbBYdUJj2piZ2s4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "2.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16822,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ayogames",
+        "updated": "January 14, 2019",
+        "size": "18M",
+        "installs": "1,000,000+",
+        "current_version": "2.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ayogames",
+        "developer_email": "ahmed.jowal@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1Cjw02PCxgtHLM0sRshMR2lWkfM9ywtdRPNdY99qFT4k",
+        "developer_address": null,
+        "app_id": "com.ayogamez.sketchcartoon",
+        "url": "https://play.google.com/store/apps/details?id=com.ayogamez.sketchcartoon&hl=en&gl=us"
+    },
+    {
+        "title": "Unicorn Panda - Color By Number",
+        "icon": "https://lh3.googleusercontent.com/0YztskdkSChhtER-M6uJC5iS-dNnECabdVCeH7RUcfiYrLbOfZzbJnqhjfCm8GKgYqg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5533,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Unicorn+Color+By+Number",
+        "updated": "April 21, 2019",
+        "size": "10M",
+        "installs": "500,000+",
+        "current_version": "1.0.4",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$33.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Unicorn Color By Number",
+        "developer_email": "hainguyen.suzika@gmail.com",
+        "developer_url": "https://medium.com/@luongbs94/policy-unicorn-panda-b984a36aafd9",
+        "developer_address": "92  Hamilton Drive, Annapolis, Maryland, United States",
+        "app_id": "com.colorbynumber.unicorn.pixel.art.panda.draw.paintbynumber",
+        "url": "https://play.google.com/store/apps/details?id=com.colorbynumber.unicorn.pixel.art.panda.draw.paintbynumber&hl=en&gl=us"
+    },
+    {
+        "title": "PENUP - Share your drawings",
+        "icon": "https://lh3.googleusercontent.com/miZmDAQMq9Bf6Q5Ge12JtvAK3obG-k8ROgXLAKHPqmO4kiBUhRDsDgaz3cBNqsRq-Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xRUFyjy-erw",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18528,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5200379633052405703",
+        "updated": "June 10, 2019",
+        "size": "21M",
+        "installs": "50,000,000+",
+        "current_version": "3.2.01.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Samsung Electronics Co.,  Ltd.",
+        "developer_email": "noreply.sec@samsung.com",
+        "developer_url": "https://www.penup.com/intro",
+        "developer_address": "129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, 16677, Rep. of KOREA",
+        "app_id": "com.sec.penup",
+        "url": "https://play.google.com/store/apps/details?id=com.sec.penup&hl=en&gl=us"
+    },
+    {
+        "title": "Logo Maker - Logo Creator, Generator & Designer",
+        "icon": "https://lh3.googleusercontent.com/jlFbCI3SDCm1oL0orxdouR5s5AWapOQAxlEg-tFQ6zCOXdzapITFnQ_xLfC9htUtaw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1273,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8530369363752063791",
+        "updated": "July 19, 2019",
+        "size": "44M",
+        "installs": "100,000+",
+        "current_version": "1.0.9",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wild Dev Labx.Inc",
+        "developer_email": "wilddeveloperxlab@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vQpPpk_tvfvBmnjwzAQJLFLouy4lH7fs2XcWOq394JKXZlQ9ywtO8RhfjksM99BtzIg2UXnwPpHQrUd/pub",
+        "developer_address": null,
+        "app_id": "com.wildDevLabx.logoMaker",
+        "url": "https://play.google.com/store/apps/details?id=com.wildDevLabx.logoMaker&hl=en&gl=us"
+    },
+    {
+        "title": "Pixel Studio - Pixel art editor, GIF animation",
+        "icon": "https://lh3.googleusercontent.com/uqWWZRXGRk5tQ6wCZWxhGvZy-aasjx2RXsl0KYNEKGNYdb8a0o7eWPnHVIEWJOff8A",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/q_mb-nTUpu0",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7274,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8755201370269345476",
+        "updated": "July 29, 2019",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "1.43",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.87",
+            "$11.48"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Hippo",
+        "developer_email": "hippogamesunity@gmail.com",
+        "developer_url": "http://vk.com/hippogames",
+        "developer_address": "Moscow, Nagatinskaya St. 12",
+        "app_id": "com.PixelStudio",
+        "url": "https://play.google.com/store/apps/details?id=com.PixelStudio&hl=en&gl=us"
+    },
+    {
+        "title": "DIY miniature school supplies",
+        "icon": "https://lh3.googleusercontent.com/MJTPuhs1NIt5YkfDJQYMBoblJK3YEFBGOxjKFoWRkpm02uLB080bv8gtcIM8H9nnUQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 706,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "True+Fun+Apps",
+        "updated": "June 30, 2019",
+        "size": "6.5M",
+        "installs": "100,000+",
+        "current_version": "1.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "True Fun Apps",
+        "developer_email": "devpaulx@gmail.com",
+        "developer_url": "https://yadi.sk/i/CBRIG-8lx_iZWA",
+        "developer_address": null,
+        "app_id": "truefunapps.minioffice",
+        "url": "https://play.google.com/store/apps/details?id=truefunapps.minioffice&hl=en&gl=us"
+    },
+    {
+        "title": "Adult Coloring Book FREE 2019 \ud83d\udc69\ud83c\udfa8 by ColorWolf",
+        "icon": "https://lh3.googleusercontent.com/J1rqpqVb7GjJ63Peq8pcQ_OU3czXNZEF5wA5p4XPvwCgUHsJ1H6SqAldTU80xaQPsOq4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9232,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "BLONDEA",
+        "updated": "May 22, 2019",
+        "size": "51M",
+        "installs": "1,000,000+",
+        "current_version": "6.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$39.99"
+        ],
+        "interactive_elements": null,
+        "developer": "BLONDEA",
+        "developer_email": "hi@blondea.com",
+        "developer_url": "https://www.facebook.com/groups/1675100542784614/",
+        "developer_address": "16 rue de la poste 94250 Gentilly",
+        "app_id": "com.blondeagames.art.coloring.book",
+        "url": "https://play.google.com/store/apps/details?id=com.blondeagames.art.coloring.book&hl=en&gl=us"
+    },
+    {
+        "title": "vehicles coloring book & drawing book - kids Game",
+        "icon": "https://lh3.googleusercontent.com/9u23jSHwhvsHzSdT_M0EqQGjlr3iJRj4Ai_PBFUOhoVZPa6f9zdgyq1ucYHgGIsZK88",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1544,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bitty+Apps",
+        "updated": "April 27, 2019",
+        "size": "6.2M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.12",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bitty Apps",
+        "developer_email": "tinymonster1989@gmail.com",
+        "developer_url": "http://bittyapps.blogspot.in/p/blog-page.html",
+        "developer_address": null,
+        "app_id": "com.vehicledrawingbook.android",
+        "url": "https://play.google.com/store/apps/details?id=com.vehicledrawingbook.android&hl=en&gl=us"
+    },
+    {
+        "title": "Card Maker for Pokemon",
+        "icon": "https://lh3.googleusercontent.com/v2gsrxL8VqFIdCHJhtICb3tKkEZAZDM8d0OyPcUjdDN67GYbCML_0utObQ2PMTSQ9R-k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rEY4ju753_s",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14693,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "PA+Mobile+Studio",
+        "updated": "March 6, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "1.8.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "PA Mobile Studio",
+        "developer_email": "contact@pamobile.co",
+        "developer_url": "http://www.pamobile.co",
+        "developer_address": "67 Le Trung Nghia, Tan Binh, Ho Chi Minh City",
+        "app_id": "co.pamobile.pokemon.cardmaker",
+        "url": "https://play.google.com/store/apps/details?id=co.pamobile.pokemon.cardmaker&hl=en&gl=us"
+    },
+    {
+        "title": "3D Logo Maker",
+        "icon": "https://lh3.googleusercontent.com/7nF2bIcoFX7VGY185QyfdJlWt2C9At3EjqnR2vQaB8kSwXbzeGr_1OCarm5aPln5J_Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 385,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8530369363752063791",
+        "updated": "June 12, 2019",
+        "size": "37M",
+        "installs": "50,000+",
+        "current_version": "1.0.7",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wild Dev Labx.Inc",
+        "developer_email": "wilddeveloperxlab@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vQpPpk_tvfvBmnjwzAQJLFLouy4lH7fs2XcWOq394JKXZlQ9ywtO8RhfjksM99BtzIg2UXnwPpHQrUd/pub",
+        "developer_address": null,
+        "app_id": "com.wildDevLab.threeDLogoMaker",
+        "url": "https://play.google.com/store/apps/details?id=com.wildDevLab.threeDLogoMaker&hl=en&gl=us"
+    },
+    {
+        "title": "PicsArt Animator: GIF & Video",
+        "icon": "https://lh3.googleusercontent.com/0UOkAzecDKAOf_77dvomHosh2O7lGdr6pcp-y69ch1b63b4e8lg4oyuzB-ma1Y4yMPk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/mceGT9YN9fE",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35269,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5408830062919995155",
+        "updated": "July 25, 2018",
+        "size": "29M",
+        "installs": "5,000,000+",
+        "current_version": "3.0.1",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "PicsArt",
+        "developer_email": "feedback@picsart.com",
+        "developer_url": "https://picsart.com",
+        "developer_address": "PicsArt Inc.\n\n211 Sutter Street, Suite 300\nSan Francisco, 94108, CA",
+        "app_id": "com.picsart.animate",
+        "url": "https://play.google.com/store/apps/details?id=com.picsart.animate&hl=en&gl=us"
+    },
+    {
+        "title": "How to draw anime step by step",
+        "icon": "https://lh3.googleusercontent.com/WvWTQE_A7S4WHV1LwtopOFvi5M9jtADoKTxHYg4HC3MffP-jRDyhUIlmVju_5QiAozs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2355,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Smart+Room+Apps",
+        "updated": "June 12, 2019",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "1.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Smart Room Apps",
+        "developer_email": "smartroom72104@gmail.com",
+        "developer_url": "https://yadi.sk/i/Grcy1cx7gveqhg",
+        "developer_address": null,
+        "app_id": "anime.smartroom.com.drawanime",
+        "url": "https://play.google.com/store/apps/details?id=anime.smartroom.com.drawanime&hl=en&gl=us"
+    },
+    {
+        "title": "How to make notebook",
+        "icon": "https://lh3.googleusercontent.com/961TReK-MWZHizb8oKtwlFVrijKSWfUSIqnjePhsQpuIdtxityWiyl9Fkgvd52ia",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 140,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "True+Fun+Apps",
+        "updated": "July 23, 2019",
+        "size": "10M",
+        "installs": "50,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "True Fun Apps",
+        "developer_email": "devpaulx@gmail.com",
+        "developer_url": "https://yadi.sk/i/CBRIG-8lx_iZWA",
+        "developer_address": null,
+        "app_id": "truefunapps.notebook",
+        "url": "https://play.google.com/store/apps/details?id=truefunapps.notebook&hl=en&gl=us"
+    },
+    {
+        "title": "Glitter Toy Lips with Makeup Brush Set coloring",
+        "icon": "https://lh3.googleusercontent.com/A41Dsrzf6nu7l15Sze3EyupKF28axvvuxrhYXDYJnKd9ljmgoThJVmFwfg1GFfVrVmc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5517054645876426707",
+        "updated": "July 8, 2019",
+        "size": "25M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TIC TIC GAMES",
+        "developer_email": "ssivertami@gmail.com",
+        "developer_url": "http://rrrcolor.blogspot.com/2018/05/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.ticticgames.glitterLips",
+        "url": "https://play.google.com/store/apps/details?id=com.ticticgames.glitterLips&hl=en&gl=us"
+    },
+    {
+        "title": "wallpapers HD For vy qwaint",
+        "icon": "https://lh3.googleusercontent.com/CcFjdCyxUxhJYgKmSJnowvbqprJTqPOJYEkT4isYT-rDZg-lzdvJ1JIvMRGJx0PF9w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 80,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Aria-Alva",
+        "updated": "May 2, 2019",
+        "size": "11M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Aria-Alva",
+        "developer_email": "ari.alvva@gmail.com",
+        "developer_url": "https://sites.google.com/view/yvteris",
+        "developer_address": null,
+        "app_id": "com.arialva.arialvva.yvtrdkr",
+        "url": "https://play.google.com/store/apps/details?id=com.arialva.arialvva.yvtrdkr&hl=en&gl=us"
+    },
+    {
+        "title": "Artwork By Numbers For Adult",
+        "icon": "https://lh3.googleusercontent.com/tcUAKIeMb9XgdXTfX9C1VdPbvUvw2cMeKKzk6UY7LyelLxibu8mb6Aeof2w0h7sBVGHE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/yFYYQIDhvPg",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 723,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Me2+Creative",
+        "updated": "July 13, 2019",
+        "size": "25M",
+        "installs": "50,000+",
+        "current_version": "1.8",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Me2 Creative",
+        "developer_email": "creativepuzzlehelp@gmail.com",
+        "developer_url": "http://www.artworkbynumber.com/",
+        "developer_address": null,
+        "app_id": "com.paintart.artworkbynumbers",
+        "url": "https://play.google.com/store/apps/details?id=com.paintart.artworkbynumbers&hl=en&gl=us"
+    },
+    {
+        "title": "Glitter Fruits coloring and drawing for Kids",
+        "icon": "https://lh3.googleusercontent.com/HI111ouWtdhG_MGv7J-DVWEQrKRS9oFWWPv5eazZ9ObxI3AAZTWuIUbcb9lWDI7_aw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "2.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5517054645876426707",
+        "updated": "July 2, 2019",
+        "size": "29M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TIC TIC GAMES",
+        "developer_email": "ssivertami@gmail.com",
+        "developer_url": "http://rrrcolor.blogspot.com/2018/05/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.ticticgames.glitterfruits",
+        "url": "https://play.google.com/store/apps/details?id=com.ticticgames.glitterfruits&hl=en&gl=us"
+    },
+    {
+        "title": "Coloring book for Undertale",
+        "icon": "https://lh3.googleusercontent.com/RbDWTqD7OB1zMBh405fMr583tKCnW_bdUH0-Whs7eodXITPnU3BypQoQ7BFAlTw0RQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 520,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SLAGHA",
+        "updated": "June 18, 2019",
+        "size": "11M",
+        "installs": "50,000+",
+        "current_version": "3.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SLAGHA",
+        "developer_email": "slagha.mobile@gmail.com",
+        "developer_url": "https://slagha.blogspot.com/",
+        "developer_address": null,
+        "app_id": "com.undertale.coloring",
+        "url": "https://play.google.com/store/apps/details?id=com.undertale.coloring&hl=en&gl=us"
+    },
+    {
+        "title": "ArtFlow: Paint Draw Sketchbook",
+        "icon": "https://lh3.googleusercontent.com/WyYlaMAxFNM39qOTX-rz0W2PzixHDzbZqQ2I_YXSF2U3mUOOVyZMjSyon4pHNVdlGIQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/vrKbzvpJd0M",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 26866,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8912554627117291225",
+        "updated": "July 18, 2019",
+        "size": "12M",
+        "installs": "1,000,000+",
+        "current_version": "2.8.86",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$5.99"
+        ],
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "Artflow Studio",
+        "developer_email": "bjanusz@artflowstudio.com",
+        "developer_url": "http://artflowstudio.com",
+        "developer_address": "Bytestorm Software\nWyzwolenia 166a\n41-710 Ruda \u015al\u0105ska\nPoland",
+        "app_id": "com.bytestorm.artflow",
+        "url": "https://play.google.com/store/apps/details?id=com.bytestorm.artflow&hl=en&gl=us"
+    },
+    {
+        "title": "Cute Avatar Maker: Make Your Own Cute Avatar",
+        "icon": "https://lh3.googleusercontent.com/4qAz40o6M5w6hJ62VsjwGbYueB0fRWPmiG1yOZpNHn3qo2uzlhZZ1mwE5jtBlPp3Lw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1909,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "iBoattech",
+        "updated": "July 7, 2019",
+        "size": "85M",
+        "installs": "100,000+",
+        "current_version": "1.1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "iBoattech",
+        "developer_email": "gamemaster2018@163.com",
+        "developer_url": "https://iboattech.blogspot.com/2018/11/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.iboattech.avatar.cute",
+        "url": "https://play.google.com/store/apps/details?id=com.iboattech.avatar.cute&hl=en&gl=us"
+    },
+    {
+        "title": "Battle Royale Wallpapers 2019",
+        "icon": "https://lh3.googleusercontent.com/d_V9yWXxB2NYIQjrEMZ5Hu2cWc7Xcwhm7ATGILadFywWa_UjSJN8SSnIVoDRXuN3OdY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 929,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Beldev",
+        "updated": "July 13, 2019",
+        "size": "8.6M",
+        "installs": "100,000+",
+        "current_version": "2.1",
+        "required_android_version": "2.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Beldev",
+        "developer_email": "Belleuzir@gmail.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "ps.battle.royale",
+        "url": "https://play.google.com/store/apps/details?id=ps.battle.royale&hl=en&gl=us"
+    },
+    {
+        "title": "Anime Manga Coloring Book",
+        "icon": "https://lh3.googleusercontent.com/AoLqzNnaoSA9xsPmLgHzzrPpHCMHV1ITuOQ0XY0f4UwBFLuFpOoqOfrsT5kSDHNF4Fsd",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12036,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Infokombinat",
+        "updated": "April 25, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "2.26.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Infokombinat",
+        "developer_email": "developer.infokombinat@gmail.com",
+        "developer_url": "http://www.infokombinat.com/",
+        "developer_address": "630090, Inzhenernaja 4a - 420, Novosibirsk, Russia",
+        "app_id": "com.infokombinat.coloringanime",
+        "url": "https://play.google.com/store/apps/details?id=com.infokombinat.coloringanime&hl=en&gl=us"
+    },
+    {
+        "title": "Color by Letter - Sewing game  Cross stitch",
+        "icon": "https://lh3.googleusercontent.com/lO239KPpBcvRuP64I7M6iSnZGozMR-qAW3zYGuTqlfQ_em_lSUAnurqfhBDPj4-xVtA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 95,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Color+Apps+For+Free",
+        "updated": "July 25, 2019",
+        "size": "25M",
+        "installs": "10,000+",
+        "current_version": "1.0.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Crude Humor"
+        ],
+        "iap_range": [
+            "$3.49",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Color Apps For Free",
+        "developer_email": "color.app@hotmail.com",
+        "developer_url": "https://sites.google.com/view/colorappsforfree",
+        "developer_address": "TONK IN ST CHEUNG SHA  WAN KLN HONG KONG",
+        "app_id": "com.cross.stitch.color.by.number",
+        "url": "https://play.google.com/store/apps/details?id=com.cross.stitch.color.by.number&hl=en&gl=us"
+    },
+    {
+        "title": "Flyers, Posters, Ads Page Designer, Graphic Maker",
+        "icon": "https://lh3.googleusercontent.com/Z4opGyl056C99BOgW0y7Xy13cOSReehhzuPBf0kogeTP4Z0tyXSJ6Wsr1Ako4xa6l-s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 893,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8420972471539979217",
+        "updated": "July 30, 2019",
+        "size": "35M",
+        "installs": "100,000+",
+        "current_version": "2.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "continuum",
+        "developer_email": "mastersolutions007@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vTppD1DdlJopiNKnAK_d5h4CBfczuliyXEUxUKgfIuSWvZ68-bIUNguitZfCojRDvpU18z5Codhqv8_/pub",
+        "developer_address": null,
+        "app_id": "com.continuum.flyermaker",
+        "url": "https://play.google.com/store/apps/details?id=com.continuum.flyermaker&hl=en&gl=us"
+    },
+    {
+        "title": "Fruits Coloring Book & Drawing Book - Kids Game",
+        "icon": "https://lh3.googleusercontent.com/f9QMBXGSoZyV8DEraXOVUKN8x6OLtUc2U3Wz0ZGcjvKH2syjDgnXOSBzRAmu1iLKFoIw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8483,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bitty+Apps",
+        "updated": "April 13, 2019",
+        "size": "7.9M",
+        "installs": "5,000,000+",
+        "current_version": "1.0.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bitty Apps",
+        "developer_email": "tinymonster1989@gmail.com",
+        "developer_url": "http://bittyapps.blogspot.in/p/blog-page.html",
+        "developer_address": null,
+        "app_id": "com.coloringbook.fruitsdrawingbook",
+        "url": "https://play.google.com/store/apps/details?id=com.coloringbook.fruitsdrawingbook&hl=en&gl=us"
+    },
+    {
+        "title": "Rainbow Glitter Coloring Book - Unicorn Artist",
+        "icon": "https://lh3.googleusercontent.com/HAKWlJV99RxkZsGRBV4z2vSJkYHGbvK5rvOQV22BpOWWUgeXFOPI9a7UcR3L-oCAbuU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Beansprites+LLC",
+        "updated": "July 22, 2019",
+        "size": "43M",
+        "installs": "5,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-Game Purchases"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Beansprites LLC",
+        "developer_email": "beansprites@gmail.com",
+        "developer_url": "http://www.beansprites.com",
+        "developer_address": "Austin, TX 78703",
+        "app_id": "com.beansprites.rainbowglittercoloringbookFREE",
+        "url": "https://play.google.com/store/apps/details?id=com.beansprites.rainbowglittercoloringbookFREE&hl=en&gl=us"
+    },
+    {
+        "title": "XXXTENTACION Wallpaper HD [RIP]",
+        "icon": "https://lh3.googleusercontent.com/FHKFK3nXqnydXOBVD4dvA7WqfEYWgp4R05IXLc0QQ3pEZXYDTTFDk8I20G2KeOBwSw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2129,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "IngressStudio",
+        "updated": "November 1, 2018",
+        "size": "4.1M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "IngressStudio",
+        "developer_email": "lwajeega@gmail.com",
+        "developer_url": "https://ingressstudio.blogspot.com/2018/11/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.IngressStudio.xxxtentacion",
+        "url": "https://play.google.com/store/apps/details?id=com.IngressStudio.xxxtentacion&hl=en&gl=us"
+    },
+    {
+        "title": "Rose gold marble wallpapers",
+        "icon": "https://lh3.googleusercontent.com/NQOScFi-Lx6uQ9577tOUprAi9r1xeAixOdsXgNS4_9pNEaSZBOEyRqkC1yiqViQtcAQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Abapp",
+        "updated": "June 24, 2019",
+        "size": "2.6M",
+        "installs": "10,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Abapp",
+        "developer_email": "abapp@outlook.com",
+        "developer_url": "https://sites.google.com/view/rosegoldwallpapers/home",
+        "developer_address": null,
+        "app_id": "rose.gold.wallpaper",
+        "url": "https://play.google.com/store/apps/details?id=rose.gold.wallpaper&hl=en&gl=us"
+    },
+    {
+        "title": "Pixel Draw - Number Art Coloring Book",
+        "icon": "https://lh3.googleusercontent.com/Z5dwrM5pFEy-VIA5NtlKWUwBDfaRikIFlthsrZ7PwlWsdL6pJbqr1_U-NBqCqYhoVWg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3404,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8840924357018375805",
+        "updated": "June 27, 2019",
+        "size": "3.3M",
+        "installs": "1,000,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "KidsAppBox",
+        "developer_email": "kidsappboxmobile@gmail.com",
+        "developer_url": "http://forumvs.com/policy_numbercoloring3.html",
+        "developer_address": "3505 El Camino Real, Palo Alto, CA 94306",
+        "app_id": "com.e3games.numbercoloring.pixelart",
+        "url": "https://play.google.com/store/apps/details?id=com.e3games.numbercoloring.pixelart&hl=en&gl=us"
+    },
+    {
+        "title": "Glitter Dresses Coloring Book For Kids",
+        "icon": "https://lh3.googleusercontent.com/X55eeVLSX6xvLi5AQpTWKqw6JoA99VAGW-rHkj_Q9c0xwZw71pJXcIDcTMjDLCm9wz8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5546595460859967892",
+        "updated": "July 24, 2019",
+        "size": "30M",
+        "installs": "10,000+",
+        "current_version": "3.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "M . S Game",
+        "developer_email": "lkhamaridell@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vRMPp1ihXe6m9KVhwEzli6PCgXG3OdPV_CEUgPY7csYd-6dTxvTUnu-eairekqyv3R0skRLvyPNOolP/pub",
+        "developer_address": null,
+        "app_id": "com.weddingdress.coloringbookms",
+        "url": "https://play.google.com/store/apps/details?id=com.weddingdress.coloringbookms&hl=en&gl=us"
+    },
+    {
+        "title": "Unwanted Object Remover - Remove Object from Photo",
+        "icon": "https://lh3.googleusercontent.com/kGP64EtpH4GfqQfcpGh_mduE2_IScLuFzX_LV9hvsR4RR5YDlp_-ofh228U94R7iwIo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35690,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pixel+Retouch+Studio",
+        "updated": "July 15, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "6.1.7",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Pixel Retouch Studio",
+        "developer_email": "fujiinstaxstd@gmail.com",
+        "developer_url": "https://fujistd.blogspot.com/2018/10/touchretouch-eraser-privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.objectremover.touchretouch",
+        "url": "https://play.google.com/store/apps/details?id=com.objectremover.touchretouch&hl=en&gl=us"
+    },
+    {
+        "title": "Over: Edit & Add Text to Photos",
+        "icon": "https://lh3.googleusercontent.com/q8MEeQeJT9o-ypEnADc5JNpJwf9A-v3904DGNXfa-Xr31OUCmC0I1XBImgx0gU9W0No",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Q6lk0PX7pBg",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1368,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6959526238859339120",
+        "updated": "July 9, 2019",
+        "size": "22M",
+        "installs": "500,000+",
+        "current_version": "3.13.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Over",
+        "developer_email": "helloandroid@overhq.com",
+        "developer_url": "https://www.madewithover.com",
+        "developer_address": "16233 Reitan RD NE\nBainbridge Island\nWA 98110\nUSA",
+        "app_id": "app.over.editor",
+        "url": "https://play.google.com/store/apps/details?id=app.over.editor&hl=en&gl=us"
+    },
+    {
+        "title": "Sketch a Day: Daily challenges to learn and share",
+        "icon": "https://lh3.googleusercontent.com/YiHo27mGcZW4XKhJwYDCW63NYGuszc2NymaeJ0udCoCHo5fk6dVBCQFyV3kt_0FdOas",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 855,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Tom+Hicks",
+        "updated": "July 23, 2019",
+        "size": "26M",
+        "installs": "50,000+",
+        "current_version": "1.13.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$2.49",
+            "$4.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Tom Hicks",
+        "developer_email": "sketchadayapp@gmail.com",
+        "developer_url": "https://sketchaday.app",
+        "developer_address": "23 Station Road\nAshley Down\nBristol\nBS7 9LA",
+        "app_id": "me.tomhicks.asketchaday",
+        "url": "https://play.google.com/store/apps/details?id=me.tomhicks.asketchaday&hl=en&gl=us"
+    },
+    {
+        "title": "Dressup Dolls Babydoll",
+        "icon": "https://lh3.googleusercontent.com/qgWeWuEnXbd4zCObecI1zIRzlt19iNq_XIgblTcpg70Q-HlUEGRZI1skHMpu391oq3cS",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5230,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5248967846346446293",
+        "updated": "March 19, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "1.5",
+        "required_android_version": "2.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Magic Glitter Apps",
+        "developer_email": "olivergarcia.studio@gmail.com",
+        "developer_url": "https://sites.google.com/view/magicglitterapps/privacy-policy",
+        "developer_address": "9 Haddon PI, Leeds LS42JU, UK",
+        "app_id": "com.surprisedollslol.loldollsurpriseeggs",
+        "url": "https://play.google.com/store/apps/details?id=com.surprisedollslol.loldollsurpriseeggs&hl=en&gl=us"
+    },
+    {
+        "title": "ColorMinis Printables: 3D Color Anime Figure Shop",
+        "icon": "https://lh3.googleusercontent.com/ED8KOCPWhhnlUruLunbiNP-1LkEu4hcXqUpGLF6mZadpXsVUm9kWsac9WxXWhvRqZQw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 283,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7065409552873165205",
+        "updated": "May 17, 2019",
+        "size": "25M",
+        "installs": "50,000+",
+        "current_version": "1.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Figuromo Studio LLC",
+        "developer_email": "support@colorminis.com",
+        "developer_url": "https://www.colorminis.com",
+        "developer_address": "30 East 33rd Avenue, Eugene, OR USA",
+        "app_id": "com.colorminis.game",
+        "url": "https://play.google.com/store/apps/details?id=com.colorminis.game&hl=en&gl=us"
+    },
+    {
+        "title": "How to make doll clothes",
+        "icon": "https://lh3.googleusercontent.com/NK9h3wSlvJphryC82W37Vn-NW0TT1yaiHW6XVGTJt-TT25OlPMn_3tb46xyYa35przo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1059,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "True+Fun+Apps",
+        "updated": "July 28, 2019",
+        "size": "10M",
+        "installs": "500,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "True Fun Apps",
+        "developer_email": "devpaulx@gmail.com",
+        "developer_url": "https://yadi.sk/i/CBRIG-8lx_iZWA",
+        "developer_address": null,
+        "app_id": "truefunapps.dress",
+        "url": "https://play.google.com/store/apps/details?id=truefunapps.dress&hl=en&gl=us"
+    },
+    {
+        "title": "Rainbow Glitter Coloring Book Mermaids",
+        "icon": "https://lh3.googleusercontent.com/eVyR9m-THHQwOMcF8GKwaOjaBaG1kIaI0nj8HlUN_wHQTd-5RARXVL5xuVPzZ7XVwA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Beansprites+LLC",
+        "updated": "July 22, 2019",
+        "size": "45M",
+        "installs": "5,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-Game Purchases"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Beansprites LLC",
+        "developer_email": "beansprites@gmail.com",
+        "developer_url": "http://www.beansprites.com",
+        "developer_address": "Austin, TX 78703",
+        "app_id": "com.beansprites.coloringbookmermaidsFREE",
+        "url": "https://play.google.com/store/apps/details?id=com.beansprites.coloringbookmermaidsFREE&hl=en&gl=us"
+    },
+    {
+        "title": "Mandala Coloring Book",
+        "icon": "https://lh3.googleusercontent.com/E-BBdp8ZAM4HM_eyFgS6sLAFJE2dZRxHvk_BHeZ7eEcr8GxHmVOKwMS6DBlu3Tlfzs6v",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 993,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Piu+Piu+Apps",
+        "updated": "June 6, 2019",
+        "size": "37M",
+        "installs": "100,000+",
+        "current_version": "1.3.1",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Piu Piu Apps",
+        "developer_email": "piupiuapps@gmail.com",
+        "developer_url": "http://piupiuapps.com",
+        "developer_address": "4a Inzhenernaya str., door 420\nNovosibirsk, 630090\nRussian Federation",
+        "app_id": "com.piupiuapps.coloringmandala3",
+        "url": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringmandala3&hl=en&gl=us"
+    },
+    {
+        "title": "Tattoo Maker",
+        "icon": "https://lh3.googleusercontent.com/L8U6EX3PGVnqv-xuDw3o9i7oTKnbcV62b1okv3Y9_P7iBdq5WiZUaXDydEdGZs3uNQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28131,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Focus+apps",
+        "updated": "February 22, 2019",
+        "size": "50M",
+        "installs": "5,000,000+",
+        "current_version": "2.0.8",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.49",
+            "$3.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Focus apps",
+        "developer_email": "focusapps@hotmail.com",
+        "developer_url": "https://sites.google.com/view/focus-apps-privacy-policy/",
+        "developer_address": "348-350 Lockhart Road, Wanchai Hong Kong",
+        "app_id": "com.tattoo.maker.design.app",
+        "url": "https://play.google.com/store/apps/details?id=com.tattoo.maker.design.app&hl=en&gl=us"
+    },
+    {
+        "title": "Nba wallpaper",
+        "icon": "https://lh3.googleusercontent.com/zs_fOdz6Vm4q6DcpmXvl83wM8QEvfp26AbIhVTfxF79spxkfpk1u9daMmrZjmWYlcISA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 334,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Studio+Wallpapers+HD",
+        "updated": "July 10, 2019",
+        "size": "6.0M",
+        "installs": "50,000+",
+        "current_version": "5.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Studio Wallpapers HD",
+        "developer_email": "emilybutler2365@gmail.com",
+        "developer_url": "http://wallpaper-master.website/",
+        "developer_address": null,
+        "app_id": "com.nba.wallpaperhd.nba_all_stars.wallpaper4K",
+        "url": "https://play.google.com/store/apps/details?id=com.nba.wallpaperhd.nba_all_stars.wallpaper4K&hl=en&gl=us"
+    },
+    {
+        "title": "Fashion Nail Coloring Pages For Girls",
+        "icon": "https://lh3.googleusercontent.com/EBNTznMzdt1DfmdeSarlZAlcNqfYwnny9nzyTB3F7Ncs6g160SIURuKdwxEFwKibt5Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5546595460859967892",
+        "updated": "July 25, 2019",
+        "size": "39M",
+        "installs": "50,000+",
+        "current_version": "15.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "M . S Game",
+        "developer_email": "lkhamaridell@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vRMPp1ihXe6m9KVhwEzli6PCgXG3OdPV_CEUgPY7csYd-6dTxvTUnu-eairekqyv3R0skRLvyPNOolP/pub",
+        "developer_address": null,
+        "app_id": "com.nailgame.coloringbookms",
+        "url": "https://play.google.com/store/apps/details?id=com.nailgame.coloringbookms&hl=en&gl=us"
+    },
+    {
+        "title": "How To Draw Flowers",
+        "icon": "https://lh3.googleusercontent.com/fCyLDnW4KfGzrRla25rK3ovs7zRyuXy1JmeyVjxyLgBchpzz0Vdfk3HD_5Nxm5Q7_rUc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_EDUCATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16368,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Creative+APPS",
+        "updated": "April 29, 2019",
+        "size": "9.5M",
+        "installs": "5,000,000+",
+        "current_version": "1.0.15",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Creative APPS",
+        "developer_email": "Creative.app@hotmail.com",
+        "developer_url": "http://creative100.cc/privacy.html",
+        "developer_address": "2/F, Block 14, 28 Cheung Sha Wan Road, Kowloon, Hong Kong",
+        "app_id": "com.creative.Learn.to.draw.flowers",
+        "url": "https://play.google.com/store/apps/details?id=com.creative.Learn.to.draw.flowers&hl=en&gl=us"
+    },
+    {
+        "title": "My Name in 3D Live Wallpaper",
+        "icon": "https://lh3.googleusercontent.com/NVtwqQ54BlM0kFfqkPkqBY4gbNVi2L1_nesySxBfnt6jO_rLawWOsNCzlOfFcNLmIYU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/N0GbtXPA_xk",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25496,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "My+Name+Cube+Apps",
+        "updated": "February 5, 2019",
+        "size": "2.6M",
+        "installs": "1,000,000+",
+        "current_version": "2.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "My Name Cube Apps",
+        "developer_email": "mynamecubeapps@gmail.com",
+        "developer_url": "http://www.sanguinosoft.com/mynamecubeapps/privacypolicy.html",
+        "developer_address": null,
+        "app_id": "com.mynamecubeapps.ball",
+        "url": "https://play.google.com/store/apps/details?id=com.mynamecubeapps.ball&hl=en&gl=us"
+    },
+    {
+        "title": "How to make food for dolls",
+        "icon": "https://lh3.googleusercontent.com/c2NwBZH4_E792cwPpcDeZtHQq3JHeBLNOQKddnBAOaaSVsvyyeLrISzDsywXN4QzHSk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 612,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "True+Fun+Apps",
+        "updated": "June 15, 2019",
+        "size": "9.0M",
+        "installs": "100,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "True Fun Apps",
+        "developer_email": "devpaulx@gmail.com",
+        "developer_url": "https://yadi.sk/i/CBRIG-8lx_iZWA",
+        "developer_address": null,
+        "app_id": "truefunapps.food",
+        "url": "https://play.google.com/store/apps/details?id=truefunapps.food&hl=en&gl=us"
+    },
+    {
+        "title": "Exe HD Wallpapers  2019",
+        "icon": "https://lh3.googleusercontent.com/w1XzjjMypegmaTdVEuF84TK4iBL-6JEdMe97XnOE1XxFE79HhNPH4KassTHJ2zN5NSo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 200,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "karimowallpaper",
+        "updated": "April 19, 2019",
+        "size": "6.4M",
+        "installs": "50,000+",
+        "current_version": "2",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "karimowallpaper",
+        "developer_email": "karimouahmane212@gmail.com",
+        "developer_url": "https://sites.google.com/view/kingigirg/accueil",
+        "developer_address": null,
+        "app_id": "com.ouhmaexe.wallwovers",
+        "url": "https://play.google.com/store/apps/details?id=com.ouhmaexe.wallwovers&hl=en&gl=us"
+    },
+    {
+        "title": "\ud83d\udd25 Girly Wallpapers | Anime wallpaper HD",
+        "icon": "https://lh3.googleusercontent.com/adFrK25T6XZBBBTXqpBHTaUxAsT-fXdneWC0Fd4GroFjaKekE6oRyE-zflFjFo5SuxI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9696,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SandStorm+Studios",
+        "updated": "March 27, 2019",
+        "size": "5.0M",
+        "installs": "100,000+",
+        "current_version": "1.0.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SandStorm Studios",
+        "developer_email": "rolanddly@gmail.com",
+        "developer_url": "https://sites.google.com/view/girly-wallpaper-anime-kawaii",
+        "developer_address": null,
+        "app_id": "com.girlywallpaper.animegirl.konosubahd",
+        "url": "https://play.google.com/store/apps/details?id=com.girlywallpaper.animegirl.konosubahd&hl=en&gl=us"
+    },
+    {
+        "title": "Calligrapher",
+        "icon": "https://lh3.googleusercontent.com/RtKXFQRZQA55XfwB8YMteCnMOKbr1S7y-lNOuM6tZRP5_1EyQ7ZfmOZ_hW2EqxSN_Zr3",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8627,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mark+Tushkevich",
+        "updated": "October 11, 2018",
+        "size": "4.9M",
+        "installs": "500,000+",
+        "current_version": "2.4",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mark Tushkevich",
+        "developer_email": "mark60493@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vTs1diZIeLrJpLkQ2221SzsVDveCElpPTmv8KqzRW5M9oBvby21li8aApzPZBcYaStPIbrdh2NNJb7v/pub",
+        "developer_address": "220037 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c, \u0433. \u041c\u0438\u043d\u0441\u043a, \u0443\u043b \u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0435\u0432\u0430 30-189",
+        "app_id": "com.mark.calligraphy",
+        "url": "https://play.google.com/store/apps/details?id=com.mark.calligraphy&hl=en&gl=us"
+    },
+    {
+        "title": "Word Cloud",
+        "icon": "https://lh3.googleusercontent.com/nhwILat63js5irKGp-2QUIUfD8OPIIRcnlq8UzQBtaevK3P23L8eOF4Ss_e2nt0QIpk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6305,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Smart+Puffin",
+        "updated": "July 23, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "2.5.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$3.49"
+        ],
+        "interactive_elements": null,
+        "developer": "Smart Puffin",
+        "developer_email": "smart.puffin.dev@gmail.com",
+        "developer_url": "http://smartpuffin.com/wordcloud/",
+        "developer_address": "Zwanenburgwal 266, Amsterdam, Netherlands. 1011 JH",
+        "app_id": "ice.lenor.nicewordplacer.app",
+        "url": "https://play.google.com/store/apps/details?id=ice.lenor.nicewordplacer.app&hl=en&gl=us"
+    },
+    {
+        "title": "Artecture Draw, Sketch, Paint",
+        "icon": "https://lh3.googleusercontent.com/Azypky11jqab95ue5hkHjYx7UBv68X8-Cle5t23XUv9kPj1iUgpPMaS87WX5uP2R3Zc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XsQNXQ-c1_w",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9452,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Samsung+R%26D+Institute+Bangladesh",
+        "updated": "February 8, 2019",
+        "size": "26M",
+        "installs": "1,000,000+",
+        "current_version": "5.2.0.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Samsung R&D Institute Bangladesh",
+        "developer_email": "srbd.dev@samsung.com",
+        "developer_url": "http://www.samsung.com",
+        "developer_address": null,
+        "app_id": "com.samsung.android.sdrawing",
+        "url": "https://play.google.com/store/apps/details?id=com.samsung.android.sdrawing&hl=en&gl=us"
+    },
+    {
+        "title": "wallpaper HD For chad wild",
+        "icon": "https://lh3.googleusercontent.com/UXrbmReOlsFWbUVO0iYHuvvRdFJPObdJSyrW4MhSUY_g5u1meV4rBjGpV3zQuFCQzw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Aria-Alva",
+        "updated": "April 30, 2019",
+        "size": "14M",
+        "installs": "5,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Aria-Alva",
+        "developer_email": "ari.alvva@gmail.com",
+        "developer_url": "https://sites.google.com/view/chdtyf",
+        "developer_address": null,
+        "app_id": "com.arialva.arialvva.chadter",
+        "url": "https://play.google.com/store/apps/details?id=com.arialva.arialvva.chadter&hl=en&gl=us"
+    },
+    {
+        "title": "Photo Collage Maker Free - Photo Editor New",
+        "icon": "https://lh3.googleusercontent.com/T9ksyhUFGfrGWxc39yuvUyx2mX8tgk96qHWM4a-LkkzRSgU58aA7Ef0g_fhhB3Ycww",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 135,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "pak+developer+master",
+        "updated": "April 12, 2019",
+        "size": "16M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "pak developer master",
+        "developer_email": "uk4208715@gmail.com",
+        "developer_url": "https://sites.google.com/view/master-app-solution/home",
+        "developer_address": null,
+        "app_id": "com.skylapcity.photocollage",
+        "url": "https://play.google.com/store/apps/details?id=com.skylapcity.photocollage&hl=en&gl=us"
+    },
+    {
+        "title": "Jojo Wallpapers 2019",
+        "icon": "https://lh3.googleusercontent.com/y9b7a_57Di-cozlz-65JaeD61IybRdNr60RmyUF4ItaSFSlusJugmVBXWtTOaU9Y6bs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "5.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mizo+dev",
+        "updated": "July 9, 2019",
+        "size": "8.7M",
+        "installs": "1,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mizo dev",
+        "developer_email": "hamzahand7@gmail.com",
+        "developer_url": "https://sites.google.com/view/hmzagfd",
+        "developer_address": null,
+        "app_id": "jojosiwa.wallpapers.drguixsalhya",
+        "url": "https://play.google.com/store/apps/details?id=jojosiwa.wallpapers.drguixsalhya&hl=en&gl=us"
+    },
+    {
+        "title": "Paint Free - Drawing Fun",
+        "icon": "https://lh3.googleusercontent.com/9nfH3K1qeyab30IaugSquykBRk7h9_m7S7L4SKDgAeYzK52GeZuud0jARiSynoVOVg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 317,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Beste+Apps",
+        "updated": "September 5, 2018",
+        "size": "2.3M",
+        "installs": "100,000+",
+        "current_version": "2.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Beste Apps",
+        "developer_email": "besteapplications@gmail.com",
+        "developer_url": "https://besteappsworld.wordpress.com/",
+        "developer_address": "Ibblur, Sarjapur Junction ORR, Bengaluru- 560102",
+        "app_id": "com.kidspaint.kaushalmehra.drawingfun",
+        "url": "https://play.google.com/store/apps/details?id=com.kidspaint.kaushalmehra.drawingfun&hl=en&gl=us"
+    },
+    {
+        "title": "Anime Face Maker - Cartoon Photo Filters",
+        "icon": "https://lh3.googleusercontent.com/zWsNyP-pN15XJolGZPAMh3YGmG2PGIKh-l00HnSnMs9T8ZI1liqf2wIYgGzodXu-tw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "2.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 985,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RANOMA",
+        "updated": "May 27, 2019",
+        "size": "22M",
+        "installs": "100,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "RANOMA",
+        "developer_email": "ranomadon@gmail.com",
+        "developer_url": "https://sites.google.com/view/ranomapp",
+        "developer_address": null,
+        "app_id": "anime.face.maker.cartoon.photo_filters",
+        "url": "https://play.google.com/store/apps/details?id=anime.face.maker.cartoon.photo_filters&hl=en&gl=us"
+    },
+    {
+        "title": "OS Launcher 12 for iPhone X",
+        "icon": "https://lh3.googleusercontent.com/DiOcg8lHLslcjH406QJ9etmKYy3KgiQp5P4hn4S5dNnLuSS-z4276yL0NgwWYpAowD4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 489,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "AdSimTech",
+        "updated": "June 18, 2019",
+        "size": "32M",
+        "installs": "50,000+",
+        "current_version": "4.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "AdSimTech",
+        "developer_email": "Noiemchoanh29@gmail.com",
+        "developer_url": "https://adsimtech.tumblr.com/",
+        "developer_address": "SeaTech , HK",
+        "app_id": "com.landroid.ios12.ios12us",
+        "url": "https://play.google.com/store/apps/details?id=com.landroid.ios12.ios12us&hl=en&gl=us"
+    },
+    {
+        "title": "Unicorn Art Pixel - Color By Number",
+        "icon": "https://lh3.googleusercontent.com/iOV1CUS27U9pYOGsgL2JYHQbLc6E88Yjsk0nh3ct8BuMkAZHb00x0Mlr4qs_Ulm3gYs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Color+by+Number++-+Pixel+Unicorn",
+        "updated": "July 12, 2019",
+        "size": "8.4M",
+        "installs": "10,000+",
+        "current_version": "1.0.2",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$19.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Color by Number  - Pixel Unicorn",
+        "developer_email": "unicornpixel.colorbynumber@gmail.com",
+        "developer_url": "http://dfkqpxvyia0a7.cloudfront.net/privacy_policy_unicorn_art.html",
+        "developer_address": "3897  Stadium Drive,  Framingham, Massachusetts, USA",
+        "app_id": "pixelart.unicorn.colorbynumber.paintbynumber",
+        "url": "https://play.google.com/store/apps/details?id=pixelart.unicorn.colorbynumber.paintbynumber&hl=en&gl=us"
+    },
+    {
+        "title": "WeDraw - How to Draw Anime & Cartoon",
+        "icon": "https://lh3.googleusercontent.com/L1FMCVgwOOcviJOMn3HPdv5os_whWXCL7tPoZh-1p0AAtYgo0ZRfNOay4NbJofD5V0L0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9774,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Artico+Apps",
+        "updated": "June 20, 2018",
+        "size": "5.3M",
+        "installs": "1,000,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Artico Apps",
+        "developer_email": "articoapps@gmail.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "com.articoapps.wedraw",
+        "url": "https://play.google.com/store/apps/details?id=com.articoapps.wedraw&hl=en&gl=us"
+    },
+    {
+        "title": "U Launcher Lite-New 3D Launcher 2019, Hide apps",
+        "icon": "https://lh3.googleusercontent.com/HPUwVfN-OVDbUsMMABkDSs-EL8z77KS7C7_xeog_fi3NdkpeAZhzshdmzPtZ-4qi3Aqu",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/1pEBa_gt3io",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 183153,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Moboapps+Dev+Team",
+        "updated": "July 25, 2019",
+        "size": "10M",
+        "installs": "10,000,000+",
+        "current_version": "1.6.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$1.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Moboapps Dev Team",
+        "developer_email": "Moboappsdev@gmail.com",
+        "developer_url": "http://u-launcher.com",
+        "developer_address": null,
+        "app_id": "com.phone.launcher.lite",
+        "url": "https://play.google.com/store/apps/details?id=com.phone.launcher.lite&hl=en&gl=us"
+    },
+    {
+        "title": "Draw It! - creative art ideas",
+        "icon": "https://lh3.googleusercontent.com/F39zXThTt4_HvRMD3LVLn0-Lma2j1M0IggeqvL37lpruopO8Mme5fc8CRXsgpeYxdk8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 209,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "foxy+devs",
+        "updated": "July 7, 2019",
+        "size": "3.2M",
+        "installs": "10,000+",
+        "current_version": "0.1.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "foxy devs",
+        "developer_email": "foxy.devs@pm.me",
+        "developer_url": "https://adaemmrich.gitlab.io/DatenSchutz/",
+        "developer_address": "Teplitzer Stra\u00dfe 72\n01219 Dresden",
+        "app_id": "com.drawit",
+        "url": "https://play.google.com/store/apps/details?id=com.drawit&hl=en&gl=us"
+    },
+    {
+        "title": "Wallpapers for Undertale",
+        "icon": "https://lh3.googleusercontent.com/QnqFxJN77XDyFAQlJxVhNsqiZ3WESdi8VC3aWNUjl8GoXizOgZywIA4iROOQxEwoWcD9",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 269,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SLAGHA",
+        "updated": "July 16, 2019",
+        "size": "6.5M",
+        "installs": "50,000+",
+        "current_version": "6.1",
+        "required_android_version": "2.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SLAGHA",
+        "developer_email": "slagha.mobile@gmail.com",
+        "developer_url": "https://slagha.blogspot.com/",
+        "developer_address": null,
+        "app_id": "com.undertale.wallpapers",
+        "url": "https://play.google.com/store/apps/details?id=com.undertale.wallpapers&hl=en&gl=us"
+    },
+    {
+        "title": "Logo Maker Pro- Logo Creator, Generator & Designer",
+        "icon": "https://lh3.googleusercontent.com/zLBsyUz7ePymeNPaPn2hWVm1AEu6S31dL5CZUa4n6VAzZcwiJxB6jHOE_S8lStofFKVm",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8829,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8420972471539979217",
+        "updated": "July 22, 2019",
+        "size": "38M",
+        "installs": "1,000,000+",
+        "current_version": "2.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "continuum",
+        "developer_email": "mastersolutions007@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vTppD1DdlJopiNKnAK_d5h4CBfczuliyXEUxUKgfIuSWvZ68-bIUNguitZfCojRDvpU18z5Codhqv8_/pub",
+        "developer_address": null,
+        "app_id": "com.continuum.logomakerpro",
+        "url": "https://play.google.com/store/apps/details?id=com.continuum.logomakerpro&hl=en&gl=us"
+    },
+    {
+        "title": "StickDraw - Animation Maker",
+        "icon": "https://lh3.googleusercontent.com/Wls9MQEezUVt1C_VBQsbYkDxzF-8CN4qzQmBCM4LNLLpujyiXQxmWhQUv4qqoL-7rtU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/cSSWwWndc3o",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37666,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bingzer+LLC",
+        "updated": "February 2, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bingzer LLC",
+        "developer_email": "stickdraw@bingzer.com",
+        "developer_url": "http://stickdraw.bingzer.com",
+        "developer_address": "25140 Drillfield Terr\nSouth Riding, VA\n20152",
+        "app_id": "com.bingzer.android.stickdraw",
+        "url": "https://play.google.com/store/apps/details?id=com.bingzer.android.stickdraw&hl=en&gl=us"
+    },
+    {
+        "title": "Cover Photo Maker - Banners & Thumbnails Designer",
+        "icon": "https://lh3.googleusercontent.com/LG9RazBTrRMceWbKoleXLtcb7u9vG-2dVfRzbb-1YvncZCat9Wbl9Lo0VkzPM5AsLzgR",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1919,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Nilesh+Jain",
+        "updated": "June 15, 2019",
+        "size": "31M",
+        "installs": "50,000+",
+        "current_version": "1.0.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Nilesh Jain",
+        "developer_email": "nilesh.sanghavi92@gmail.com",
+        "developer_url": "https://sites.google.com/view/3martians",
+        "developer_address": "surat",
+        "app_id": "com.sk.socialmediapostmaker",
+        "url": "https://play.google.com/store/apps/details?id=com.sk.socialmediapostmaker&hl=en&gl=us"
+    },
+    {
+        "title": "Coloring Book Gacha",
+        "icon": "https://lh3.googleusercontent.com/EItWX6OHdI2kpgu8fcd_wBNb0-bXR-i_IUSlyhJB9r8exCo1xgKbo-2c76vY1ofPORs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "2.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 122,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "elpachito",
+        "updated": "June 17, 2019",
+        "size": "15M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "elpachito",
+        "developer_email": "rajawia039@gmail.com",
+        "developer_url": "https://sites.google.com/view/elpachito",
+        "developer_address": null,
+        "app_id": "com.colorinbook.gamtps",
+        "url": "https://play.google.com/store/apps/details?id=com.colorinbook.gamtps&hl=en&gl=us"
+    },
+    {
+        "title": "Textgram X - Write on photos",
+        "icon": "https://lh3.googleusercontent.com/wf1VOn5mTWUQwXNnl2F9yfgzsk1FKAr_5jS-iHNzZ1FBmhXm1MUTiYpiettz-jiPxC0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1424,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Noirelabs",
+        "updated": "February 16, 2019",
+        "size": "18M",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Noirelabs",
+        "developer_email": "noire.labs@gmail.com",
+        "developer_url": "https://www.noirelabs.com/textgram-privacy-policy",
+        "developer_address": "Bahrain, Seef, 428",
+        "app_id": "noirelabs.textgram",
+        "url": "https://play.google.com/store/apps/details?id=noirelabs.textgram&hl=en&gl=us"
+    },
+    {
+        "title": "UNICORN - Color By Number & Pixel Art Coloring",
+        "icon": "https://lh3.googleusercontent.com/9clijSU_K7b4u_pQ2cv516seNKl5lHBzx_gTuUgpK6o9VEzyV-94VNB3GxKChQ7t5oNF",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/VI6tN6l6BuU",
+        "category": [
+            "ART_AND_DESIGN",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13013,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Unicorn+Color+By+Number",
+        "updated": "August 26, 2018",
+        "size": "24M",
+        "installs": "500,000+",
+        "current_version": "1.1.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$20.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Unicorn Color By Number",
+        "developer_email": "coloringbookbs94@gmail.com",
+        "developer_url": "https://hanhbs6868.wordpress.com/2018/01/30/policy-privacy-color-by-number/",
+        "developer_address": "92  Hamilton Drive, Annapolis, Maryland, United States",
+        "app_id": "com.pixelart.coloringbook.colorbynumber",
+        "url": "https://play.google.com/store/apps/details?id=com.pixelart.coloringbook.colorbynumber&hl=en&gl=us"
+    },
+    {
+        "title": "BTS Wallpapers HD",
+        "icon": "https://lh3.googleusercontent.com/VYWQduazPvr_benZV_ABNR17_cFh2a_WbXy-wgvAYh4WwTUEY6WafzfiEhZNKebUryY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23695,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Smart+Mobiles+Tools",
+        "updated": "January 16, 2019",
+        "size": "13M",
+        "installs": "500,000+",
+        "current_version": "1.9",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Smart Mobiles Tools",
+        "developer_email": "galaxy.studio.global@gmail.com",
+        "developer_url": "https://sites.google.com/view/galaxy-stuido-app/",
+        "developer_address": null,
+        "app_id": "com.galaxystudio.bts",
+        "url": "https://play.google.com/store/apps/details?id=com.galaxystudio.bts&hl=en&gl=us"
+    },
+    {
+        "title": "AnimeMaker",
+        "icon": "https://lh3.googleusercontent.com/kcMf2578fe2qLJ2VZubKiSTN0GDb6_cUY3vx6GbsSt_bsPdsaZlIkOembdzSiQ65ZXu_",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/kekSkE5Qq-Q",
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8967,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "kenmaz.net",
+        "updated": "May 18, 2019",
+        "size": "4.5M",
+        "installs": "1,000,000+",
+        "current_version": "13",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "kenmaz.net",
+        "developer_email": "kentaro.matsumae+animemaker@gmail.com",
+        "developer_url": "http://anime.kenmaz.net",
+        "developer_address": null,
+        "app_id": "kenmaz.net.animemaker",
+        "url": "https://play.google.com/store/apps/details?id=kenmaz.net.animemaker&hl=en&gl=us"
+    },
+    {
+        "title": "Crazy Teacher Math in education school GUIDE",
+        "icon": "https://lh3.googleusercontent.com/BMaPvyBPKTuoChod3EdKa6SXPOc8jWEsu34HQzdpYrev0WPNFZVmmLbzhAhY4uL_MVWv",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "pakifree",
+        "updated": "July 15, 2019",
+        "size": "3.9M",
+        "installs": "1,000+",
+        "current_version": "1.5",
+        "required_android_version": "2.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "pakifree",
+        "developer_email": "haytamboumli@gmail.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "com.sandyapps.guide.school",
+        "url": "https://play.google.com/store/apps/details?id=com.sandyapps.guide.school&hl=en&gl=us"
+    },
+    {
+        "title": "Anime Wallpaper Sekai",
+        "icon": "https://lh3.googleusercontent.com/g40itY1oRFA8YyxSiOn82ZfmVPm1RrXHIBSvCW0b5ZdDk1A1AcOXYioXg2TOvWb5C3J5",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6581,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "OVA+Studio",
+        "updated": "July 22, 2019",
+        "size": "6.9M",
+        "installs": "100,000+",
+        "current_version": "3.88",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$5.99"
+        ],
+        "interactive_elements": null,
+        "developer": "OVA Studio",
+        "developer_email": "uchihaclan34x@gmail.com",
+        "developer_url": "http://animeringtonespro.blogspot.com/p/anime-wallpaper.html",
+        "developer_address": "\u00c4ussere Weberstr. 57",
+        "app_id": "com.ova.studio.anime.wallpaper",
+        "url": "https://play.google.com/store/apps/details?id=com.ova.studio.anime.wallpaper&hl=en&gl=us"
+    },
+    {
+        "title": "Infinite Design",
+        "icon": "https://lh3.googleusercontent.com/uSx5suVXQa7INx-ZDRZXY04NnKJj1XPSBnwdAtqGtSlFIC7qK-EqkwZfpQzmvx4yZbM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38250,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8161093088993848231",
+        "updated": "February 16, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$7.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Infinite Studio Mobile",
+        "developer_email": "support@infinitestudio.art",
+        "developer_url": "http://www.infinitestudio.art/",
+        "developer_address": "103 Waterbury Ct\nCharlottesville, VA 22902",
+        "app_id": "com.brakefield.idfree",
+        "url": "https://play.google.com/store/apps/details?id=com.brakefield.idfree&hl=en&gl=us"
+    },
+    {
+        "title": "The Grandmas house survival adventure Obby Tips",
+        "icon": "https://lh3.googleusercontent.com/3s53_7gLpTlxt3I1CfErVpJEmzW5YiOYJFUFHhykHcC5oKPISuIf9x7_1b79fie5tGPO",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 336,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Device+Apps",
+        "updated": "July 30, 2019",
+        "size": "13M",
+        "installs": "5,000+",
+        "current_version": "6.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Device Apps",
+        "developer_email": "housemom@escape.com",
+        "developer_url": "https://sites.google.com/view/deviceapp-privacy",
+        "developer_address": null,
+        "app_id": "com.beautisse.campnino.maisons",
+        "url": "https://play.google.com/store/apps/details?id=com.beautisse.campnino.maisons&hl=en&gl=us"
+    },
+    {
+        "title": "Face Projector \u2013  Projection Frame & Photo  Editor",
+        "icon": "https://lh3.googleusercontent.com/z22Cj-In3rCnyD1pKYBqRKzKUP9NG9CulHo0UgoYQn8e18brqlBzTGmam7jBLDtIDyY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 566,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Triangle+Apps+2019",
+        "updated": "June 26, 2019",
+        "size": "8.5M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Triangle Apps 2019",
+        "developer_email": "triangleapps2019@gmail.com",
+        "developer_url": "https://sites.google.com/view/triangle-apps-2019/home",
+        "developer_address": "Triangle Apps 2019",
+        "app_id": "com.face.projector.projection.frame.photo.editor",
+        "url": "https://play.google.com/store/apps/details?id=com.face.projector.projection.frame.photo.editor&hl=en&gl=us"
+    },
+    {
+        "title": "\u2b50 BTS Wallpaper HD Photos 2019",
+        "icon": "https://lh3.googleusercontent.com/SxYF5PjW6WZ7uDUbPYCb_ew1veDNcXYVkid03Qz1iUAdJPC3oQmZcStKDqpRuHjiHw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ART_AND_DESIGN"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1505,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Faizy+Tech",
+        "updated": "May 27, 2019",
+        "size": "5.8M",
+        "installs": "50,000+",
+        "current_version": "1.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Faizy Tech",
+        "developer_email": "faizytech2019@gmail.com",
+        "developer_url": "https://faizytech2019.github.io/privacypolicy/bts-wallpaper-kpop",
+        "developer_address": "Gatot Subroto 10, Jakarta, Indonesia",
+        "app_id": "com.faizytech.btswallpaperkpophd",
+        "url": "https://play.google.com/store/apps/details?id=com.faizytech.btswallpaperkpophd&hl=en&gl=us"
+    }
+]

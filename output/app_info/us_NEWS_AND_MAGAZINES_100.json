@@ -1,0 +1,4360 @@
+[
+    {
+        "title": "News Break: Local & Breaking",
+        "icon": "https://lh3.googleusercontent.com/4Iw0ghn6NT1e-5FD4xLydn8h5S3SS48y7gCzc-w1M544ZDlSG0GSA-fBSGob70dEug",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55887,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Particle+Media+Inc.",
+        "updated": "July 21, 2019",
+        "size": "8.9M",
+        "installs": "10,000,000+",
+        "current_version": "5.3.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "Teen"
+        ],
+        "interactive_elements": null,
+        "developer": "Particle Media Inc.",
+        "developer_email": "help@particle-inc.com",
+        "developer_url": "http://www.newsbreakapp.com",
+        "developer_address": "2350 Mission College Blvd, Santa Clara, CA 95054",
+        "app_id": "com.particlenews.newsbreak",
+        "url": "https://play.google.com/store/apps/details?id=com.particlenews.newsbreak&hl=en&gl=us"
+    },
+    {
+        "title": "Twitter",
+        "icon": "https://lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/AUBvHej0hrk",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13506040,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Twitter,+Inc.",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Twitter, Inc.",
+        "developer_email": "google-play-emails@twitter.com",
+        "developer_url": "https://support.twitter.com/articles/20169915",
+        "developer_address": "Twitter, Inc.\n1355 Market Street, Suite 900\nSan Francisco, CA 94103",
+        "app_id": "com.twitter.android",
+        "url": "https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=us"
+    },
+    {
+        "title": "Reddit",
+        "icon": "https://lh3.googleusercontent.com/8Vw-7MAm558750a4M55fiOlUf7lP2cYnFuqSWynrygIiyEEiQQDa_xxHKYOX83L0UD2T",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1118103,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "reddit+Inc.",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "reddit Inc.",
+        "developer_email": "androidsupport@reddit.com",
+        "developer_url": "https://www.reddit.com/mobile/download",
+        "developer_address": "548 Market St # 16093\nSan Francisco CA 94104\nUS",
+        "app_id": "com.reddit.frontpage",
+        "url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en&gl=us"
+    },
+    {
+        "title": "SmartNews: Breaking News Headlines",
+        "icon": "https://lh3.googleusercontent.com/5GP9ziilsx7xTkpoIuMGiET1VzZAKLCp413l0jQWS3g84OyaJpQOESC9MsRSK4hsAA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 321105,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SmartNews,+Inc.",
+        "updated": "July 18, 2019",
+        "size": "6.1M",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SmartNews, Inc.",
+        "developer_email": "support@smartnews.com",
+        "developer_url": "https://www.smartnews.com/",
+        "developer_address": null,
+        "app_id": "jp.gocro.smartnews.android",
+        "url": "https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android&hl=en&gl=us"
+    },
+    {
+        "title": "Free TV Shows App:News, TV Series, Episode, Movies",
+        "icon": "https://lh3.googleusercontent.com/HvOiPTabOMPDoczZ8wZguHNP2GGCrVDa0Aq3c0lQRxSLse2ckmHUnv5bIC1rUOuqOvE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 80931,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Free+TV+App:+News,+TV+Shows,+TV+Series+%26+Movies%E3%83%86%E3%83%AC%E3%83%93",
+        "updated": "July 24, 2019",
+        "size": "15M",
+        "installs": "5,000,000+",
+        "current_version": "3.97",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Free TV App: News, TV Shows, TV Series & Movies\u30c6\u30ec\u30d3",
+        "developer_email": "freetvapp.question@gmail.com",
+        "developer_url": "http://bit.ly/AndroidPolicy",
+        "developer_address": "555 Bryant St. Office 218A,\nPalo Alto, CA 94301, USA",
+        "app_id": "live.free.tv_us",
+        "url": "https://play.google.com/store/apps/details?id=live.free.tv_us&hl=en&gl=us"
+    },
+    {
+        "title": "TopBuzz News: Breaking, Local, Entertaining & FREE",
+        "icon": "https://lh3.googleusercontent.com/kZLvBlpSY7mb24Dl6lbgIbmYyBdaB6t_QYJnIxDvMsiSsvqjyBx7Dei7rJ-k83kiWg8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/VLv9wc-Sj54",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 208383,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TopBuzz",
+        "updated": "July 22, 2019",
+        "size": "25M",
+        "installs": "10,000,000+",
+        "current_version": "9.3.1.01",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TopBuzz",
+        "developer_email": "GPsupport@topbuzz.com",
+        "developer_url": "http://topbuzz.com/",
+        "developer_address": null,
+        "app_id": "com.ss.android.article.master",
+        "url": "https://play.google.com/store/apps/details?id=com.ss.android.article.master&hl=en&gl=us"
+    },
+    {
+        "title": "CNN Breaking US & World News",
+        "icon": "https://lh3.googleusercontent.com/m05SBF4omSJbBy-EnPClGH_yAVvgAn6wr6KQwdtXhn6ATylzMYYJb6WaW-pNbtmqg5I",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 333061,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CNN",
+        "updated": "July 15, 2019",
+        "size": "29M",
+        "installs": "10,000,000+",
+        "current_version": "6.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "CNN",
+        "developer_email": "android@cnn.com",
+        "developer_url": "http://www.cnn.com",
+        "developer_address": null,
+        "app_id": "com.cnn.mobile.android.phone",
+        "url": "https://play.google.com/store/apps/details?id=com.cnn.mobile.android.phone&hl=en&gl=us"
+    },
+    {
+        "title": "Fox News \u2013 Breaking News, Live Video & News Alerts",
+        "icon": "https://lh3.googleusercontent.com/TA1fIRwGKyTlAc3tpu_nPKZnwr5u1PN3W1glmtJzm1dCR-pzjXiqCEhC2QkLgGx9LW8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 256136,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "FOX+News+Network,+LLC",
+        "updated": "July 10, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "FOX News Network, LLC",
+        "developer_email": "contactus@foxnews.com",
+        "developer_url": "http://foxnews.com/contactus",
+        "developer_address": "1211 Avenue of the Americas,\nNew York, NY 10036",
+        "app_id": "com.foxnews.android",
+        "url": "https://play.google.com/store/apps/details?id=com.foxnews.android&hl=en&gl=us"
+    },
+    {
+        "title": "Podcast Player & Podcast App - Castbox",
+        "icon": "https://lh3.googleusercontent.com/CzFEOgmTdindoUqV4xDpZMknyjplmSUgOU-W9DtTuAZuyzZy_8fn26BZDRXzSwDbOTEh",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/nou7RcJ3uxs",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 150331,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6638887914776883120",
+        "updated": "July 16, 2019",
+        "size": "35M",
+        "installs": "10,000,000+",
+        "current_version": "7.69.17-190715121",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Castbox.FM - Radio & Podcast & AudioBooks",
+        "developer_email": "contact@castbox.fm",
+        "developer_url": "http://castbox.fm",
+        "developer_address": "Unit 805 Harbour Crystal Centre, 100 Granville Road, Tsim Sha Tsui East, Kowloon, Hong Kong",
+        "app_id": "fm.castbox.audiobook.radio.podcast",
+        "url": "https://play.google.com/store/apps/details?id=fm.castbox.audiobook.radio.podcast&hl=en&gl=us"
+    },
+    {
+        "title": "US Breaking News: Latest Local News & Breaking",
+        "icon": "https://lh3.googleusercontent.com/LMtMfR3I1RMtcRkMVm9x8hm_fb5ijMuxjbd7pfM2dz6QED-9QIzIUEW6sQo7ayr4QuY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9120,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Safe+Apps+Inc",
+        "updated": "June 26, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "9.7.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Safe Apps Inc",
+        "developer_email": "contact@safe.ma",
+        "developer_url": "http://bng.areclipse.com/privacy/",
+        "developer_address": null,
+        "app_id": "ma.safe.bnus",
+        "url": "https://play.google.com/store/apps/details?id=ma.safe.bnus&hl=en&gl=us"
+    },
+    {
+        "title": "JailBase - Arrests + Mugshots",
+        "icon": "https://lh3.googleusercontent.com/U0UO7wCE87HGPRNHb8H03IeJnh3RGyjK8WMMxpj0XMmqHzqHoOFy5AV7EKYPz6WUnJw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xmyhe3v_EIY",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19427,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Infomation+Services+LLC",
+        "updated": "August 16, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Infomation Services LLC",
+        "developer_email": "jailbase.support@jailbase.com",
+        "developer_url": "http://www.jailbase.com",
+        "developer_address": null,
+        "app_id": "com.jailbase.mobile_app",
+        "url": "https://play.google.com/store/apps/details?id=com.jailbase.mobile_app&hl=en&gl=us"
+    },
+    {
+        "title": "Yahoo - News, Mail, Sports",
+        "icon": "https://lh3.googleusercontent.com/NH9-z6kYTp2TnAu8n8oKIuAPSNnfdkwN0RnXJME7QD9kgCdD8pK3ABRexAwpIKTGCME",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/cz8HvVyG4rk",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2043,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5536369398281991413",
+        "updated": "July 19, 2019",
+        "size": "23M",
+        "installs": "500,000+",
+        "current_version": "1.11.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Yahoo",
+        "developer_email": "mobile-services@oath.com",
+        "developer_url": "https://www.yahoo.com",
+        "developer_address": "701 First Avenue, Sunnyvale, CA 94089-0703, U.S.A",
+        "app_id": "com.yahoo.apps.yahooapp",
+        "url": "https://play.google.com/store/apps/details?id=com.yahoo.apps.yahooapp&hl=en&gl=us"
+    },
+    {
+        "title": "AOL - News, Mail & Video",
+        "icon": "https://lh3.googleusercontent.com/oJx9HgvyyM6Gk1B2wh8_S1drVBgToEn1KH5WIgX6r4l_lrDLZPY935YgeLGO67qxSh8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 78443,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AOL+Inc.",
+        "updated": "May 8, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "AOL Inc.",
+        "developer_email": "phonemail.assist@aol.com",
+        "developer_url": "https://aol.uservoice.com/forums/912862",
+        "developer_address": "22000 AOL Way\nSterling, VA 20166",
+        "app_id": "com.aol.mobile.aolapp",
+        "url": "https://play.google.com/store/apps/details?id=com.aol.mobile.aolapp&hl=en&gl=us"
+    },
+    {
+        "title": "NYTimes - Latest News",
+        "icon": "https://lh3.googleusercontent.com/MoNaQ-EoeeYQG2SxATYWOhrZF0cxdx9Qc0rTGEWquhfBDvIlqQRu29kN7gjIysHx1yuc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 68958,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "The+New+York+Times+Company",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "The New York Times Company",
+        "developer_email": "android@nytimes.com",
+        "developer_url": "http://www.nytimes.com/es",
+        "developer_address": "620 Eighth Avenue\nNew York, NY 10018",
+        "app_id": "com.nytimes.android",
+        "url": "https://play.google.com/store/apps/details?id=com.nytimes.android&hl=en&gl=us"
+    },
+    {
+        "title": "Google News: Top World & Local News Headlines",
+        "icon": "https://lh3.googleusercontent.com/RBB_lilvZBngYjPRNXqnh_F6GxHZvPWRPBHQd86AZppO3LDDK_eYgnC60K3BoyUAbSE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1103203,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "15M",
+        "installs": "1,000,000,000+",
+        "current_version": "5.13.0.19061432",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://news.google.com/about",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.magazines",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&hl=en&gl=us"
+    },
+    {
+        "title": "Podcast Player",
+        "icon": "https://lh3.googleusercontent.com/GAXBioTyvIfnu31qtyr2BEC9wbpxJuEc299uhzGjqxxgtgyhL9LxLt92xoPIJE_qeg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/o1o3oaOGZaI",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 176205,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6638887914776883120",
+        "updated": "May 14, 2019",
+        "size": "12M",
+        "installs": "5,000,000+",
+        "current_version": "5.7.5-190508115.r1a805d3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Castbox.FM - Radio & Podcast & AudioBooks",
+        "developer_email": "support@castbox.fm",
+        "developer_url": "http://castbox.fm",
+        "developer_address": "Unit 805 Harbour Crystal Centre, 100 Granville Road, Tsim Sha Tsui East, Kowloon, Hong Kong",
+        "app_id": "com.podcast.podcasts",
+        "url": "https://play.google.com/store/apps/details?id=com.podcast.podcasts&hl=en&gl=us"
+    },
+    {
+        "title": "Podcast App & Podcast Player - Podbean",
+        "icon": "https://lh3.googleusercontent.com/jFcFj9dMkjXDlbywqBhU498AqdDySYD0KFOU88HL0POOrdSzDO9IO3WMGYoDHEvo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/iKUaFKl7B5I",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 80759,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8129699754906491258",
+        "updated": "June 3, 2019",
+        "size": "29M",
+        "installs": "1,000,000+",
+        "current_version": "7.0.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Podbean - Podcast & Radio & Audiobook",
+        "developer_email": "contact@podbean.com",
+        "developer_url": "http://www.podbean.com",
+        "developer_address": "501 Silverside Rd , #105\nWilmington, DE, 19809",
+        "app_id": "com.podbean.app.podcast",
+        "url": "https://play.google.com/store/apps/details?id=com.podbean.app.podcast&hl=en&gl=us"
+    },
+    {
+        "title": "Telemundo Puerto Rico",
+        "icon": "https://lh3.googleusercontent.com/VMpSJklzUthDeH2EfP0dmhiymZvS4raMuGsct4vwVCDxAeP2UTKxopImJEwm1_imKF4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9491,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NBCUniversal+Media,+LLC",
+        "updated": "May 30, 2019",
+        "size": "33M",
+        "installs": "500,000+",
+        "current_version": "6.5.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "NBCUniversal Media, LLC",
+        "developer_email": "AppLocal@telemundo.com",
+        "developer_url": "http://www.telemundopr.com",
+        "developer_address": "30 Rockefeller Plaza\nNew York, New York\n10012\nUnited States",
+        "app_id": "com.nbcuni.telemundostations.puertorico",
+        "url": "https://play.google.com/store/apps/details?id=com.nbcuni.telemundostations.puertorico&hl=en&gl=us"
+    },
+    {
+        "title": "Citizen",
+        "icon": "https://lh3.googleusercontent.com/Gb_Iai8f0lBnbdb1dJw2UF2gndxG1XldtLJiSwmUKOWMcNJ-QXLh0l7HDnPZAg3I4a8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/f9jnYoTo1ag",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19863,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sp0n+Inc.",
+        "updated": "July 24, 2019",
+        "size": "34M",
+        "installs": "500,000+",
+        "current_version": "0.947.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Sp0n Inc.",
+        "developer_email": "support@citizen.com",
+        "developer_url": "http://www.citizen.com",
+        "developer_address": null,
+        "app_id": "sp0n.citizen",
+        "url": "https://play.google.com/store/apps/details?id=sp0n.citizen&hl=en&gl=us"
+    },
+    {
+        "title": "CBS News - Live Breaking News",
+        "icon": "https://lh3.googleusercontent.com/lq-ojKk3V5hqmYRYttFPt5iZssUHQfMqZx5ATdsYyMxd8d6M5VIilji1mbNpoi3LTOQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 32233,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CBS+Interactive,+Inc.",
+        "updated": "July 22, 2019",
+        "size": "29M",
+        "installs": "1,000,000+",
+        "current_version": "4.1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CBS Interactive, Inc.",
+        "developer_email": "CBSNewsAppFeedback-Android@cbsinteractive.com",
+        "developer_url": "http://www.cbsnews.com/",
+        "developer_address": "CBS INTERACTIVE, INC.\n235 SECOND STREET.\nSAN FRANCISCO, CA 94105.",
+        "app_id": "com.treemolabs.apps.cbsnews",
+        "url": "https://play.google.com/store/apps/details?id=com.treemolabs.apps.cbsnews&hl=en&gl=us"
+    },
+    {
+        "title": "Wapa.TV",
+        "icon": "https://lh3.googleusercontent.com/FkXaSiaTIXfZLuqfTqJuKvaGvDsHnT0O5ArtmGFSOptpjc9rE2GAZucdT5YZ6mioo1w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6095,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wapa.TV",
+        "updated": "July 25, 2018",
+        "size": "14M",
+        "installs": "500,000+",
+        "current_version": "5.0.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wapa.TV",
+        "developer_email": "webmaster@wapa.tv",
+        "developer_url": "https://www.wapa.tv",
+        "developer_address": null,
+        "app_id": "com.wapa.app",
+        "url": "https://play.google.com/store/apps/details?id=com.wapa.app&hl=en&gl=us"
+    },
+    {
+        "title": "TopBuzz Lite: Breaking News, Funny Videos & More",
+        "icon": "https://lh3.googleusercontent.com/V_Mbnf3BhuvMWBGC9rwfjJvuItPQCePbzS8eYTx0pTQv7q6BwhA3WcsmSJrQp3fYxQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/VLv9wc-Sj54",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6588,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TopBuzz",
+        "updated": "July 24, 2019",
+        "size": "25M",
+        "installs": "100,000+",
+        "current_version": "9.3.1.01",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TopBuzz",
+        "developer_email": "GPsupport@topbuzz.com",
+        "developer_url": "http://topbuzz.com/",
+        "developer_address": null,
+        "app_id": "com.ss.android.article.topbuzzlite.en",
+        "url": "https://play.google.com/store/apps/details?id=com.ss.android.article.topbuzzlite.en&hl=en&gl=us"
+    },
+    {
+        "title": "Fox Nation: Opinion Done Right",
+        "icon": "https://lh3.googleusercontent.com/WjE0LBl2my6UZeF8x5Qr_lZc99B_HMU4kmJsA5gPutl0dXSSoMGMLzW7-l8PVFoHeAc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 669,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FOX+News+Network,+LLC",
+        "updated": "July 2, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$5.99",
+            "$64.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "FOX News Network, LLC",
+        "developer_email": "contactus@foxnews.com",
+        "developer_url": "http://nation.foxnews.com/",
+        "developer_address": "1211 Avenue of the Americas,\nNew York, NY 10036",
+        "app_id": "com.fng.foxnation",
+        "url": "https://play.google.com/store/apps/details?id=com.fng.foxnation&hl=en&gl=us"
+    },
+    {
+        "title": "Noticentro.TV",
+        "icon": "https://lh3.googleusercontent.com/EPLEgbdjyHcBKncfBTFRKhtS-dk4I2y42Fjl4pGtwdcQd15uf7ll_-_E2ecewJOmLg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1370,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wapa.TV",
+        "updated": "December 19, 2018",
+        "size": "10.0M",
+        "installs": "100,000+",
+        "current_version": "2.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wapa.TV",
+        "developer_email": "webmaster@wapa.tv",
+        "developer_url": "http://www.wapa.tv",
+        "developer_address": null,
+        "app_id": "com.noticentro.app",
+        "url": "https://play.google.com/store/apps/details?id=com.noticentro.app&hl=en&gl=us"
+    },
+    {
+        "title": "Yahoo News",
+        "icon": "https://lh3.googleusercontent.com/Yxv0NQYSubGia8c2i0Xor031h1TMAXf645GKFH0IVwj2qWSw-jId88NljopjTdZiFpI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XamwW45Dq9o",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 214197,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5536369398281991413",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Yahoo",
+        "developer_email": "yahoo-android-help@yahoo-inc.com",
+        "developer_url": "https://www.yahoo.com",
+        "developer_address": "701 First Avenue, Sunnyvale, CA 94089-0703, U.S.A",
+        "app_id": "com.yahoo.mobile.client.android.yahoo",
+        "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.yahoo&hl=en&gl=us"
+    },
+    {
+        "title": "The Podcast App",
+        "icon": "https://lh3.googleusercontent.com/BVE95MSg45l0JOdur6wqcTc4KS5rAjuEMiMoP9X4pKapabALbcJjmc7BUcfBKzxdCyhd",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NWY4Jjdgs1g",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11611,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Evolve+Podcast+App+For+Android",
+        "updated": "June 6, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "2.0.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Evolve Podcast App For Android",
+        "developer_email": "podcasts@evolve.xyz",
+        "developer_url": "http://podcastapp.io/",
+        "developer_address": null,
+        "app_id": "com.streema.podcast",
+        "url": "https://play.google.com/store/apps/details?id=com.streema.podcast&hl=en&gl=us"
+    },
+    {
+        "title": "MSNBC Live News",
+        "icon": "https://lh3.googleusercontent.com/gmH9XFQG1iFx6JUOlgi6o1UTFqhuszLPaA88UscV4zj_shJYs9c6kcz7E38FGI72VEXT",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "2.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 259,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TheMediation+Net",
+        "updated": "July 12, 2019",
+        "size": "7.0M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TheMediation Net",
+        "developer_email": "support@themediationnet.com",
+        "developer_url": "https://themediationnet.net/privacy/",
+        "developer_address": null,
+        "app_id": "com.themediationnet.app",
+        "url": "https://play.google.com/store/apps/details?id=com.themediationnet.app&hl=en&gl=us"
+    },
+    {
+        "title": "BBC News",
+        "icon": "https://lh3.googleusercontent.com/Iip-8Yn3PLAzecCMb4ZaHTvFObl3ETUWZmd5zLflhbB6BXKyNc5aM4hrGAA9NXSs7i0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 334669,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "BBC+Worldwide+%28Ltd%29",
+        "updated": "April 25, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "BBC Worldwide (Ltd)",
+        "developer_email": "mobileapps@bbc.co.uk",
+        "developer_url": "http://www.bbc.com/news/help-30119608",
+        "developer_address": "BBC Worldwide Limited\nTelevision Centre\n101 Wood Lane\nLondon\nW12 7FA",
+        "app_id": "bbc.mobile.news.ww",
+        "url": "https://play.google.com/store/apps/details?id=bbc.mobile.news.ww&hl=en&gl=us"
+    },
+    {
+        "title": "NPR News",
+        "icon": "https://lh3.googleusercontent.com/AnC8LtJK3CzWLuMrVee3FMgNrGcKXDPjtygeNfkLmV078Tu5C9L_bxcR0tEnnluu_e8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25335,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NPR",
+        "updated": "March 15, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NPR",
+        "developer_email": "nprmobile_form@npr.org",
+        "developer_url": "http://www.npr.org",
+        "developer_address": "1111 North Capitol Street, NE, Washington, DC 20002",
+        "app_id": "org.npr.android.news",
+        "url": "https://play.google.com/store/apps/details?id=org.npr.android.news&hl=en&gl=us"
+    },
+    {
+        "title": "Noticias Telemundo",
+        "icon": "https://lh3.googleusercontent.com/5J7jEDdElgFhtwfAOvXmy38gabPhLeIt0Q5FYz0Bxp7PFcXKb1JnoAESW_QWUXUwsVo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5209,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NBCUniversal+Media,+LLC",
+        "updated": "May 22, 2019",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "1.9.14-Live",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "NBCUniversal Media, LLC",
+        "developer_email": "Telemundo.apps@nbcuni.com",
+        "developer_url": "http://www.nbcuni.com",
+        "developer_address": "30 Rockefeller Plaza\nNew York, New York\n10012\nUnited States",
+        "app_id": "com.nbcuni.telemundo.noticiastelemundo",
+        "url": "https://play.google.com/store/apps/details?id=com.nbcuni.telemundo.noticiastelemundo&hl=en&gl=us"
+    },
+    {
+        "title": "The Washington Post",
+        "icon": "https://lh3.googleusercontent.com/JDrO88srYGmqrOeyqtT1al3JQD0IKRS-OO7PDMjETiPuDNgCC45wJF8LIBH-QOcTMTE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37338,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "The+Washington+Post",
+        "updated": "July 9, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "The Washington Post",
+        "developer_email": "help@washpost.com",
+        "developer_url": "https://www.washingtonpost.com",
+        "developer_address": "1301 K Street NW, Washington, DC 20071",
+        "app_id": "com.washingtonpost.android",
+        "url": "https://play.google.com/store/apps/details?id=com.washingtonpost.android&hl=en&gl=us"
+    },
+    {
+        "title": "Apps for Chromecast - Your Chromecast Guide",
+        "icon": "https://lh3.googleusercontent.com/VEs-zlmP3m1dDg4HKKOzYQjKmPE-hz3LfyTxbwa83B367d8bSh9WNkOddYtDr9fGHls",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 39864,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "i-art",
+        "updated": "July 12, 2019",
+        "size": "8.4M",
+        "installs": "5,000,000+",
+        "current_version": "2.14.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "i-art",
+        "developer_email": "chromecast@smartapps.barcelona",
+        "developer_url": "http://en.apps4chromecast.com",
+        "developer_address": "i-Art Serveis SLU\n\nCarretera Coll Ordino Edifici Terratorta\nAD300 Ordino\nAndorra",
+        "app_id": "com.iart.chromecastapps",
+        "url": "https://play.google.com/store/apps/details?id=com.iart.chromecastapps&hl=en&gl=us"
+    },
+    {
+        "title": "Medium",
+        "icon": "https://lh3.googleusercontent.com/qF9y0xIiYo_dk0JpryEl-lT2wJMDmz7groOBXqkalFg1SWPLklhuAUp0jIjoSLxDEi4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/qpG11vFqglA",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 95953,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "A+Medium+Corporation",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "A Medium Corporation",
+        "developer_email": "yourfriends@medium.com",
+        "developer_url": "https://medium.com",
+        "developer_address": "799 Market St, Suite 500\nSan Francisco, CA 94103\nUnited States",
+        "app_id": "com.medium.reader",
+        "url": "https://play.google.com/store/apps/details?id=com.medium.reader&hl=en&gl=us"
+    },
+    {
+        "title": "NBC News",
+        "icon": "https://lh3.googleusercontent.com/LMulHEBd3m1bAZmO-yoZTuXA8abvwVtQd_QVPtmnuko3Setwnq90umSjjtOCXywNGvY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 69804,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NBC+News+Digital+LLC",
+        "updated": "March 8, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NBC News Digital LLC",
+        "developer_email": "appsupport@nbcng.zendesk.com",
+        "developer_url": "http://apps.nbcnews.com/mobile",
+        "developer_address": "701 5th Ave\nSuite 2600\nSeattle, WA 98104",
+        "app_id": "com.zumobi.msnbc",
+        "url": "https://play.google.com/store/apps/details?id=com.zumobi.msnbc&hl=en&gl=us"
+    },
+    {
+        "title": "ABC News - US & World News",
+        "icon": "https://lh3.googleusercontent.com/VLAqGQWkvx6lt3UdBYuUjMGq3_lB2GzXi_MoKdZQKLLy1KzKlqrvfZ-d9rU-deudBA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20691,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ABC+News",
+        "updated": "July 18, 2019",
+        "size": "35M",
+        "installs": "5,000,000+",
+        "current_version": "5.4.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ABC News",
+        "developer_email": "abcnews.androidapp@abc.com",
+        "developer_url": "http://abcnews.go.com",
+        "developer_address": null,
+        "app_id": "com.abc.abcnews",
+        "url": "https://play.google.com/store/apps/details?id=com.abc.abcnews&hl=en&gl=us"
+    },
+    {
+        "title": "Police Scanner X",
+        "icon": "https://lh3.googleusercontent.com/2e2AE0Nq5LBK9_r2tW5IHcGebNxsjt6VFPzPG7wIoN3vBLyi3V9ij4xpQP5JuCCFuJY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/nH7UkZFoYEs",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34111,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "BEROBO+%28Police+Scanner+Radio%29",
+        "updated": "June 22, 2018",
+        "size": "4.7M",
+        "installs": "1,000,000+",
+        "current_version": "1.08",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": null,
+        "developer": "BEROBO (Police Scanner Radio)",
+        "developer_email": "policescannerx@berobo.com",
+        "developer_url": "http://berobo.com",
+        "developer_address": "18 Romfield drive toronto ontario m3j1k1",
+        "app_id": "com.berobo.police.scanner.x",
+        "url": "https://play.google.com/store/apps/details?id=com.berobo.police.scanner.x&hl=en&gl=us"
+    },
+    {
+        "title": "Broadcastify Police Scanner",
+        "icon": "https://lh3.googleusercontent.com/wV7fZtGmYkD2uuAKMnijvwk_pPSFEBYf12h6WTIJPbgXLmqRiHA2XK-5y-TjY6B26g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2600,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RadioReference.com+LLC",
+        "updated": "January 25, 2019",
+        "size": "18M",
+        "installs": "1,000,000+",
+        "current_version": "1.63",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "RadioReference.com LLC",
+        "developer_email": "support@broadcastify.com",
+        "developer_url": "https://www.broadcastify.com",
+        "developer_address": "1150 N Loop 1604 W\nSuite 108-556\nSan Antonio, TX 78248",
+        "app_id": "com.radioreference.broadcastify",
+        "url": "https://play.google.com/store/apps/details?id=com.radioreference.broadcastify&hl=en&gl=us"
+    },
+    {
+        "title": "Podcast Addict",
+        "icon": "https://lh3.googleusercontent.com/m6FeLOkUfP8qTZNXKFSSI8_exI-SlGJRcIArl3gRm3-VninL7l1RdYlPkkf2CfbBnA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 472165,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7197581759429692032",
+        "updated": "July 14, 2019",
+        "size": "13M",
+        "installs": "5,000,000+",
+        "current_version": "4.10.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Xavier Guillemane - Podcast & Radio Addict",
+        "developer_email": "podcastaddict@gmail.com",
+        "developer_url": "http://podcastaddict.uservoice.com",
+        "developer_address": "27W Anapamu Street, Suite 221\nSANTA BARBARA, CA, 93101",
+        "app_id": "com.bambuna.podcastaddict",
+        "url": "https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en&gl=us"
+    },
+    {
+        "title": "NPR One",
+        "icon": "https://lh3.googleusercontent.com/aOHHzJgUmVFMP6l_p3AtiMe6MHdMkMeh2HwQJX6-_iOcLpt4o6Xq1AuSqsUe755NUKg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13978,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NPR",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NPR",
+        "developer_email": "mobile-beta-feedback@npr.org",
+        "developer_url": "http://www.npr.org",
+        "developer_address": "1111 North Capitol Street, NE, Washington, DC 20002",
+        "app_id": "org.npr.one",
+        "url": "https://play.google.com/store/apps/details?id=org.npr.one&hl=en&gl=us"
+    },
+    {
+        "title": "CHINA DAILY - \u4e2d\u56fd\u65e5\u62a5",
+        "icon": "https://lh3.googleusercontent.com/eogRL3nP38PWZn3DfDS3nYAtPQbmKMWJre1OTcCLgsjlh35u3UNMEYfb_rFvegYmgg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1112,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "china+daily+news",
+        "updated": "July 24, 2019",
+        "size": "10M",
+        "installs": "100,000+",
+        "current_version": "7.3.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "china daily news",
+        "developer_email": "newmedia_support@chinadaily.com.cn",
+        "developer_url": "http://www.chinadaily.com.cn",
+        "developer_address": null,
+        "app_id": "com.theotino.chinadaily",
+        "url": "https://play.google.com/store/apps/details?id=com.theotino.chinadaily&hl=en&gl=us"
+    },
+    {
+        "title": "Police Scanner Radio",
+        "icon": "https://lh3.googleusercontent.com/TlE5CvS8Ifzfw08Nf_EkvCJ9TZtGa5ts1XOdWf9PjGKp7dBIjYmu3gPlUxVHUxD4cfE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1451,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fonts+for+Android",
+        "updated": "October 22, 2018",
+        "size": "5.2M",
+        "installs": "100,000+",
+        "current_version": "1.03",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Fonts for Android",
+        "developer_email": "auroraappstudio@gmail.com",
+        "developer_url": "https://s3.amazonaws.com/bundlefonts/PrivacyPolicy.html",
+        "developer_address": null,
+        "app_id": "police.scanner.app",
+        "url": "https://play.google.com/store/apps/details?id=police.scanner.app&hl=en&gl=us"
+    },
+    {
+        "title": "AP News",
+        "icon": "https://lh3.googleusercontent.com/S-HMqzVMla41s4E8bxehHsNgHovPxmo1BVfkp0Z2nQ8UQ2Eda9WXh9PVCaQ18hALDk6m",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 90583,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+Associated+Press",
+        "updated": "July 9, 2019",
+        "size": "8.9M",
+        "installs": "1,000,000+",
+        "current_version": "5.3.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Associated Press",
+        "developer_email": "support@apnews.com",
+        "developer_url": "https://apnews.com",
+        "developer_address": "200 Liberty Street\nNew York, NY 10281",
+        "app_id": "mnn.Android",
+        "url": "https://play.google.com/store/apps/details?id=mnn.Android&hl=en&gl=us"
+    },
+    {
+        "title": "Deloitte Insights",
+        "icon": "https://lh3.googleusercontent.com/seVip2OlU_9Mb9fp8B_yLWEYnmg-_zOuBjYmXR5Kx5f9qJKRYROZEelx39IXSt5VeqY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 42,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Deloitte+LLC",
+        "updated": "June 8, 2019",
+        "size": "28M",
+        "installs": "10,000+",
+        "current_version": "1.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Deloitte LLC",
+        "developer_email": "usitsmobilecoe@deloitte.com",
+        "developer_url": "https://www.deloitte.com",
+        "developer_address": "4022 Sells Drive, Hermitage, TN 37076",
+        "app_id": "com.insights.deloitte",
+        "url": "https://play.google.com/store/apps/details?id=com.insights.deloitte&hl=en&gl=us"
+    },
+    {
+        "title": "BuzzFeed: News, Tasty, Quizzes",
+        "icon": "https://lh3.googleusercontent.com/nCn-GyWf5ib4dHorOp2z3Qi8al8v7Hl-3_D2GoNXHXPMr3CnAet_6qUgZWv0hWgQIA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 133188,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "BuzzFeed",
+        "updated": "July 24, 2019",
+        "size": "17M",
+        "installs": "5,000,000+",
+        "current_version": "5.54",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen",
+            "Violent References, Suggestive Themes, Partial Nudity"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "BuzzFeed",
+        "developer_email": "support@buzzfeed.com",
+        "developer_url": "http://www.buzzfeed.com",
+        "developer_address": "111 E 18th St\nFloor 16\nNew York, NY 10003",
+        "app_id": "com.buzzfeed.android",
+        "url": "https://play.google.com/store/apps/details?id=com.buzzfeed.android&hl=en&gl=us"
+    },
+    {
+        "title": "News Home: Breaking News, Local & World News Today",
+        "icon": "https://lh3.googleusercontent.com/cvX4ZJvjqFId7h7a1jLQwSeuDq8s7viDTP3e1bwMYHfwu1-dr1KlS9bOJqy1RuzOk2PX",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 181,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "My+Home+Apps",
+        "updated": "July 25, 2019",
+        "size": "18M",
+        "installs": "50,000+",
+        "current_version": "2.0.82-news-home",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "My Home Apps",
+        "developer_email": "contact@myhomeapps.com",
+        "developer_url": "http://myhomeapps.com/legal/privacy.html",
+        "developer_address": null,
+        "app_id": "com.home.news.breaking",
+        "url": "https://play.google.com/store/apps/details?id=com.home.news.breaking&hl=en&gl=us"
+    },
+    {
+        "title": "Flipboard - Latest News, Top Stories & Lifestyle",
+        "icon": "https://lh3.googleusercontent.com/Z5WroTW4KmTB3mvUhZMLwgFD2VymNypnEVVxoueXPPCKEFrnUAiZVl0684t1RFEOPqzB",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1330325,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7019463006329470284",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Flipboard",
+        "developer_email": "play-store-support@flipboard.com",
+        "developer_url": "https://about.flipboard.com/help-center/",
+        "developer_address": null,
+        "app_id": "flipboard.app",
+        "url": "https://play.google.com/store/apps/details?id=flipboard.app&hl=en&gl=us"
+    },
+    {
+        "title": "Microsoft News",
+        "icon": "https://lh3.googleusercontent.com/TIOhJr7h_MNp5Ogk0ECRYhvQ4M4omoZoD205gKLv8-phSsBHa94PLAuE9cXFN9P4D5E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 71620,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 18, 2019",
+        "size": "36M",
+        "installs": "1,000,000+",
+        "current_version": "19.193.03",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Microsoft Corporation",
+        "developer_email": "msnapps@microsoft.com",
+        "developer_url": "http://www.microsoft.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.amp.apps.bingnews",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.amp.apps.bingnews&hl=en&gl=us"
+    },
+    {
+        "title": "Police Scanner FREE",
+        "icon": "https://lh3.googleusercontent.com/KOedLjBuORqCdlD_CY7hRv8PKABlN6Tm8oHjG8HT3dCqLH8dISZ3h6qvqtQ2Vi3w1-M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29338,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Logicord+LLC",
+        "updated": "April 6, 2018",
+        "size": "6.0M",
+        "installs": "1,000,000+",
+        "current_version": "2.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Logicord LLC",
+        "developer_email": "support@logicord.com",
+        "developer_url": "http://www.logicord.com",
+        "developer_address": "Logicord LLC\n10755 Scripps Poway Pkwy. #445\nSan Diego, CA 92131",
+        "app_id": "com.criticalhitsoftware.policeradio",
+        "url": "https://play.google.com/store/apps/details?id=com.criticalhitsoftware.policeradio&hl=en&gl=us"
+    },
+    {
+        "title": "USA TODAY",
+        "icon": "https://lh3.googleusercontent.com/aaMI1sQacFxeudBB81-fPIkpiu4M1fXpRX4FMPwWOJ8yuhk8t4cvzu65r7VrFrd9bg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/HRh7-c1uyfE",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 53274,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "USA+TODAY",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$2.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "USA TODAY",
+        "developer_email": "usatodaymobile@usatoday.com",
+        "developer_url": "http://www.usatoday.com/mobile-apps/",
+        "developer_address": "7950 Jones Branch Drive\nMcLean, VA 22107",
+        "app_id": "com.usatoday.android.news",
+        "url": "https://play.google.com/store/apps/details?id=com.usatoday.android.news&hl=en&gl=us"
+    },
+    {
+        "title": "Earthquake Alert!",
+        "icon": "https://lh3.googleusercontent.com/KA6QggoPyOOcY2PeR447S0vqK8GvieUIBAXOCcgXhsGuNRwZ6WyihqoAJmlv7YubCmM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34133,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Josh+Clemm",
+        "updated": "January 9, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Josh Clemm",
+        "developer_email": "clemm.apps@gmail.com",
+        "developer_url": "http://joshclemm.com/android/earthquakealert.html",
+        "developer_address": "Clemm Apps\n8100 La Mesa Blvd Suite 200\nLa Mesa, CA 91942",
+        "app_id": "com.joshclemm.android.quake",
+        "url": "https://play.google.com/store/apps/details?id=com.joshclemm.android.quake&hl=en&gl=us"
+    },
+    {
+        "title": "Podcoin - Podcasts That Pay",
+        "icon": "https://lh3.googleusercontent.com/43dhdrT4gZhuCDM3jRxA_7Tt-eeyLQ8GSEpWqlyK4-MnVKAJrvEIMCKxitVeMcHOIw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3680,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Violet+Moon,+LLC",
+        "updated": "July 18, 2019",
+        "size": "9.2M",
+        "installs": "100,000+",
+        "current_version": "1.11.13",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Violet Moon, LLC",
+        "developer_email": "support@podcoin.com",
+        "developer_url": "https://www.podcoin.com/",
+        "developer_address": "6 Harbourton Ridge Dr\nPennington, NJ 08534",
+        "app_id": "com.podco.podcoin",
+        "url": "https://play.google.com/store/apps/details?id=com.podco.podcoin&hl=en&gl=us"
+    },
+    {
+        "title": "FANDOM \u2013 Videos, News, and Reviews",
+        "icon": "https://lh3.googleusercontent.com/uPCztL4H8jlrLqDq_eRK222gGISRaEKIWAlUYoqe2VCIQmfqLYO3vROpaA2wAsEpHyU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13007,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8251921813603442996",
+        "updated": "July 18, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "2.12.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "FANDOM powered by Wikia",
+        "developer_email": "apps@wikia-inc.com",
+        "developer_url": "http://fandom.com",
+        "developer_address": "149 New Montgomery Street, 3rd Floor\nSan Francisco, CA 94105\nUnited States",
+        "app_id": "com.fandom.app",
+        "url": "https://play.google.com/store/apps/details?id=com.fandom.app&hl=en&gl=us"
+    },
+    {
+        "title": "Free TV: tv shows, tv series, movies, news, sports",
+        "icon": "https://lh3.googleusercontent.com/xiA0Wxe47Rk6XhLv9FY-8Nj93sgmUEN1p4lQOYnT6JUiLOkFhQYzhTS50mDhG7ckNQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 671,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Entertainment+Apps+For+Free",
+        "updated": "April 19, 2019",
+        "size": "4.6M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Entertainment Apps For Free",
+        "developer_email": "contact@puddingstudio.com",
+        "developer_url": "http://www.puddingstudio.com/freetvprivacy.htm",
+        "developer_address": null,
+        "app_id": "cos.mos.freetv",
+        "url": "https://play.google.com/store/apps/details?id=cos.mos.freetv&hl=en&gl=us"
+    },
+    {
+        "title": "Podcast App: Free & Offline Podcasts by Player FM",
+        "icon": "https://lh3.googleusercontent.com/dOXExHzRlbNlJK2815C3yhQiTgquwCAgL7YBhSdKWjFcpkSFzQhBOt2veE2IDX8dSQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 75320,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5831741218298092798",
+        "updated": "July 21, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "4.7.0.22",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$119.88"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Player FM Podcasts",
+        "developer_email": "android@player.fm",
+        "developer_url": "https://player.fm",
+        "developer_address": "Nuvomondo Ltd\n86-90 Paul St\nLondon\nEC2A 4NE",
+        "app_id": "fm.player",
+        "url": "https://play.google.com/store/apps/details?id=fm.player&hl=en&gl=us"
+    },
+    {
+        "title": "Univision Noticias",
+        "icon": "https://lh3.googleusercontent.com/zfPu4p5uTzhW7M4VJr4tvxF_Pz7Yngn_eUaN5_us21gdLFfQRnR2ubqotDX0Bjz2hQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13912,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Univision+Communications+Inc.",
+        "updated": "July 12, 2019",
+        "size": "47M",
+        "installs": "1,000,000+",
+        "current_version": "11.1.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Univision Communications Inc.",
+        "developer_email": "NoticiasAppFeedback@univision.net",
+        "developer_url": "http://www.univision.com",
+        "developer_address": "605 Third Avenue\n14th Floor\nNew York, NY 10158",
+        "app_id": "com.univision.noticias",
+        "url": "https://play.google.com/store/apps/details?id=com.univision.noticias&hl=en&gl=us"
+    },
+    {
+        "title": "The Wall Street Journal: Business & Market News",
+        "icon": "https://lh3.googleusercontent.com/eksxaPfxbTVb6VTl5aj1sXLpKc_N9Z6AZ3_5Oq6JhTXmgEQza-1v58a66p_ID0phE2Zv",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 48521,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Dow+Jones+%26+Company,+Inc.",
+        "updated": "July 15, 2019",
+        "size": "39M",
+        "installs": "1,000,000+",
+        "current_version": "4.7.7.25",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$32.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Dow Jones & Company, Inc.",
+        "developer_email": "support@wsj.com",
+        "developer_url": "https://customercenter.wsj.com/public",
+        "developer_address": "Dow Jones\n1211 Avenue of the Americas\nNew York, New York\n10036",
+        "app_id": "wsj.reader_sp",
+        "url": "https://play.google.com/store/apps/details?id=wsj.reader_sp&hl=en&gl=us"
+    },
+    {
+        "title": "Univision Puerto Rico",
+        "icon": "https://lh3.googleusercontent.com/meHnZu7XKLgGkZsrvAfAwMmvBqJw_5ErrOGGtFxGkuwl_NnXOyAUryEvj0RwWQGC8Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 103,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Univision+Communications+Inc.",
+        "updated": "July 24, 2019",
+        "size": "59M",
+        "installs": "5,000+",
+        "current_version": "1.12.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Univision Communications Inc.",
+        "developer_email": "univisionappfeedback@univision.net",
+        "developer_url": "https://www.univision.com/local/puerto-rico-wlii",
+        "developer_address": "605 Third Avenue\n14th Floor\nNew York, NY 10158",
+        "app_id": "com.univision.local.puertorico",
+        "url": "https://play.google.com/store/apps/details?id=com.univision.local.puertorico&hl=en&gl=us"
+    },
+    {
+        "title": "MSNBC News App Live",
+        "icon": "https://lh3.googleusercontent.com/BmpOcqroP7NpDt2YUrrW0AXrtljXf6ReldBmcb2NHW9pwl0s3LptKm088nYXtxLYq1s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 127,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ZexAudio+Nation+LLC",
+        "updated": "July 6, 2019",
+        "size": "7.2M",
+        "installs": "5,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ZexAudio Nation LLC",
+        "developer_email": "support@zexaudionation.com",
+        "developer_url": "http://zexaudionation.com/privacy/",
+        "developer_address": null,
+        "app_id": "com.zexaudionation.app",
+        "url": "https://play.google.com/store/apps/details?id=com.zexaudionation.app&hl=en&gl=us"
+    },
+    {
+        "title": "CNET: Best Tech News, Reviews, Videos & Deals",
+        "icon": "https://lh3.googleusercontent.com/DeIoPrQ4jp2STHmWzbWI8Ss8JRnPgFrmDoOLje2PXcpA7CQN8hFxOvxXCSOOEGLUUQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/wxDqZzkVaLY",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1755,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CBS+Interactive,+Inc.",
+        "updated": "July 16, 2019",
+        "size": "26M",
+        "installs": "100,000+",
+        "current_version": "4.4.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "CBS Interactive, Inc.",
+        "developer_email": "cnetappfeedback@cbsinteractive.com",
+        "developer_url": "http://www.cnet.com",
+        "developer_address": "CBS INTERACTIVE, INC.\n235 SECOND STREET.\nSAN FRANCISCO, CA 94105.",
+        "app_id": "com.cbsinteractive.cnet",
+        "url": "https://play.google.com/store/apps/details?id=com.cbsinteractive.cnet&hl=en&gl=us"
+    },
+    {
+        "title": "OANN: Live Breaking News",
+        "icon": "https://lh3.googleusercontent.com/wbFRXpHApVkTemeKfo0lFFg2wRVBysXS2SLFAfLDvPo8ThkGfIwycEKlHT7MdPH_u60",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/mK5I5I3VzmQ",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 754,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Herring+Networks",
+        "updated": "May 15, 2019",
+        "size": "9.5M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Herring Networks",
+        "developer_email": "developer@herringnetwork.com",
+        "developer_url": "https://www.oann.com/",
+        "developer_address": "4757 Morena Blvd\nSan Diego, CA  92117",
+        "app_id": "me.oann.news",
+        "url": "https://play.google.com/store/apps/details?id=me.oann.news&hl=en&gl=us"
+    },
+    {
+        "title": "9 Miles - better informed on everything local",
+        "icon": "https://lh3.googleusercontent.com/830bRMz3TM9Xo5R0VyzzlwKONB-Cl9p0jk1oKpYacyJXmLby3tZWgbjkZXdQBsXKhN0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Particle+Media+Inc.",
+        "updated": "July 15, 2019",
+        "size": "7.8M",
+        "installs": "10,000+",
+        "current_version": "1.3.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Particle Media Inc.",
+        "developer_email": "help@particle-inc.com",
+        "developer_url": "https://www.9miles.com/privacy",
+        "developer_address": "2350 Mission College Blvd, Santa Clara, CA 95054",
+        "app_id": "com.particlenews.ninemiles",
+        "url": "https://play.google.com/store/apps/details?id=com.particlenews.ninemiles&hl=en&gl=us"
+    },
+    {
+        "title": "Free Podcast Download Player - Audio Books & Music",
+        "icon": "https://lh3.googleusercontent.com/wFkGa1Kb0k8qFqfAwX_y9CdFDSMGQhKwFEB6jOOSN3gPYOQETQzfo83mUA66qj1wrQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 689,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Entertainment+Apps+For+Free",
+        "updated": "January 30, 2019",
+        "size": "3.3M",
+        "installs": "50,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Entertainment Apps For Free",
+        "developer_email": "contact@puddingstudio.com",
+        "developer_url": "http://www.puddingstudio.com/privacypolicy.htm",
+        "developer_address": null,
+        "app_id": "com.baileyz.podcast",
+        "url": "https://play.google.com/store/apps/details?id=com.baileyz.podcast&hl=en&gl=us"
+    },
+    {
+        "title": "CBS Local",
+        "icon": "https://lh3.googleusercontent.com/eG4Ojz3rtiNXETz235WP55QmJQij5eiG9EA8qmaHLPrOfZW_jRGUf9ctxmWqBf1-1w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5145,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CBS+Local",
+        "updated": "August 16, 2018",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "2.2.10",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "CBS Local",
+        "developer_email": "mobile+play@cbslocal.com",
+        "developer_url": "http://cbsyourday.com/",
+        "developer_address": null,
+        "app_id": "com.cbslocal.cbsyourday",
+        "url": "https://play.google.com/store/apps/details?id=com.cbslocal.cbsyourday&hl=en&gl=us"
+    },
+    {
+        "title": "KING 5 News for Seattle/Tacoma",
+        "icon": "https://lh3.googleusercontent.com/fj3IB4eLiBSBb3Kfo8umNRAtc9m1fbMV-98zghq4c2dFo4Oo1auzM8wLb6GXYnSuu1Zj",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3054,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TEGNA",
+        "updated": "July 16, 2019",
+        "size": "48M",
+        "installs": "100,000+",
+        "current_version": "6.1.37",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TEGNA",
+        "developer_email": "appfeedback@tegna.com",
+        "developer_url": "https://www.king5.com",
+        "developer_address": "9729 Cogdill Road\nSuite 111\nKnoxville, TN  37932",
+        "app_id": "com.doapps.android.mln.MLN_c0fddd289b98a85ca53e9a912581ad71",
+        "url": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_c0fddd289b98a85ca53e9a912581ad71&hl=en&gl=us"
+    },
+    {
+        "title": "\u00daltimasNoticias",
+        "icon": "https://lh3.googleusercontent.com/9IwBZYfcbpMpITXRiP_gcUtXd4FAq32yH833LyDrWv1q85hC91ea-K0MN7RVV4v39svK",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 89,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NewsStudios",
+        "updated": "June 25, 2019",
+        "size": "11M",
+        "installs": "100,000+",
+        "current_version": "1.0.2.0.0.4",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "NewsStudios",
+        "developer_email": "Newsstudios2019@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1Bjr0JLp2RP60Z_FaG7DTr4FOCrtG3Jba2Pf5H-JBL4A/edit",
+        "developer_address": null,
+        "app_id": "com.news.uitimas",
+        "url": "https://play.google.com/store/apps/details?id=com.news.uitimas&hl=en&gl=us"
+    },
+    {
+        "title": "El Nuevo D\u00eda",
+        "icon": "https://lh3.googleusercontent.com/3_ZBkTXfWsflIleM1A7HuZQx2-gfc2JJ0gBF_9JhBp1BS7GZrGyixRJUp5UEV12mmA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9469,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "GFR+Media",
+        "updated": "May 21, 2019",
+        "size": "17M",
+        "installs": "500,000+",
+        "current_version": "4.22.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "GFR Media",
+        "developer_email": "mobilesupport@gfrmedia.com",
+        "developer_url": "http://www.elnuevodia.com",
+        "developer_address": "50 Carr. 165\nSector de Buchanan\nParque Industrial Amelia\nGuaynabo, PR 00968-8024",
+        "app_id": "com.elnuevodia.androidapplication",
+        "url": "https://play.google.com/store/apps/details?id=com.elnuevodia.androidapplication&hl=en&gl=us"
+    },
+    {
+        "title": "Pocket: Save. Read. Grow.",
+        "icon": "https://lh3.googleusercontent.com/Jgl7C0anIk2AVTWq-an0dV3HS8pvP-_UIyrTifrNGxcReZT9hQ-LWUQ-I3oh94_IpA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 260400,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5995605107085635372",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$44.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Read It Later",
+        "developer_email": "support@getpocket.com",
+        "developer_url": "http://help.getpocket.com",
+        "developer_address": "233 Sansome St. Suite 1200\nSan Francisco CA 94104",
+        "app_id": "com.ideashower.readitlater.pro",
+        "url": "https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro&hl=en&gl=us"
+    },
+    {
+        "title": "Bloomberg: Market & Financial News",
+        "icon": "https://lh3.googleusercontent.com/_qTb7fdtj18tYn1AyKLX1-kGvhzgJctx9sHpxk95ktK0hn9ruGnkJZCRp39Asp1kG4A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 66431,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Bloomberg+LP+CM",
+        "updated": "July 24, 2019",
+        "size": "38M",
+        "installs": "10,000,000+",
+        "current_version": "5.12.16.1831249.66b043a97",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$34.99",
+            "$329.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Bloomberg LP CM",
+        "developer_email": "feedback@bloomberg.net",
+        "developer_url": "http://bloomberg.com",
+        "developer_address": "731 Lexington Ave\nNew York, New York 10022",
+        "app_id": "com.bloomberg.android.plus",
+        "url": "https://play.google.com/store/apps/details?id=com.bloomberg.android.plus&hl=en&gl=us"
+    },
+    {
+        "title": "TIME Immersive",
+        "icon": "https://lh3.googleusercontent.com/0pMjFnF7nfc7tLg6nfVCMgqdegWcW2-DlqcE3_005QWnJltfnoCZPJZ5oxmGEFEbPiI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "2.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TIME+Magazine",
+        "updated": "July 23, 2019",
+        "size": "53M",
+        "installs": "1,000+",
+        "current_version": "2.3.5",
+        "required_android_version": "8.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TIME Magazine",
+        "developer_email": "andrew.dwulet@time.com",
+        "developer_url": "http://www.time.com",
+        "developer_address": null,
+        "app_id": "com.time.timeimmersive",
+        "url": "https://play.google.com/store/apps/details?id=com.time.timeimmersive&hl=en&gl=us"
+    },
+    {
+        "title": "Rush Limbaugh",
+        "icon": "https://lh3.googleusercontent.com/r6Lolw0UfAYTZ3PFN8I-dOmpUjQo27TKAPbOiVMFzCwSxWD2952kcHLTbJwTAba9_Y_s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3301,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Premiere+Radio+Networks,+Inc.",
+        "updated": "January 31, 2019",
+        "size": "46M",
+        "installs": "100,000+",
+        "current_version": "4.2",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$6.99",
+            "$74.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Premiere Radio Networks, Inc.",
+        "developer_email": "rushapphelp@premrad.com",
+        "developer_url": "http://help.rushlimbaugh.com/",
+        "developer_address": "PO BOX 7298, Van Nuys, CA 91409-7298",
+        "app_id": "com.premiereradio.android.rushlimbaugh",
+        "url": "https://play.google.com/store/apps/details?id=com.premiereradio.android.rushlimbaugh&hl=en&gl=us"
+    },
+    {
+        "title": "Reuters News",
+        "icon": "https://lh3.googleusercontent.com/akXpaczA37pqAKNTPg70YyUetJOxegpRCy6J-q3sldJrvow1dBLdyHyoZTpB60mGwzou",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14792,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Thomson+Reuters",
+        "updated": "May 8, 2019",
+        "size": "28M",
+        "installs": "1,000,000+",
+        "current_version": "4.0.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Thomson Reuters",
+        "developer_email": "reutersmobile.support@thomsonreuters.com",
+        "developer_url": "https://www.reuters.com",
+        "developer_address": null,
+        "app_id": "com.thomsonreuters.reuters",
+        "url": "https://play.google.com/store/apps/details?id=com.thomsonreuters.reuters&hl=en&gl=us"
+    },
+    {
+        "title": "WABC Eyewitness News",
+        "icon": "https://lh3.googleusercontent.com/EWRSQ2ah1lAqonlO0CJNwHKx2HswBwS22q2P_ErrlI0DZrWNW6j_v9oH3AWbN0liFBq1",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18739,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ABC+Digital",
+        "updated": "June 3, 2019",
+        "size": "19M",
+        "installs": "500,000+",
+        "current_version": "7.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ABC Digital",
+        "developer_email": "ABCOTV.Support@abc.com",
+        "developer_url": "http://corporate.disney.go.com/corporate/pp.html",
+        "developer_address": "925 4th Ave Seattle WA",
+        "app_id": "com.abclocal.wabc.news",
+        "url": "https://play.google.com/store/apps/details?id=com.abclocal.wabc.news&hl=en&gl=us"
+    },
+    {
+        "title": "WGN-TV",
+        "icon": "https://lh3.googleusercontent.com/ykxt-QvlYPkxGv1dmpsmw7OxCbtgsLAXYe041NjAxCusn5S5EAzPrm9yP3--ytc3fzo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1473,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tribune+Broadcasting+Company+LLC",
+        "updated": "July 2, 2019",
+        "size": "15M",
+        "installs": "100,000+",
+        "current_version": "6.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tribune Broadcasting Company LLC",
+        "developer_email": "tbcdigitaldesk@gmail.com",
+        "developer_url": "http://wgntv.com",
+        "developer_address": null,
+        "app_id": "com.tribtv.wgntv2",
+        "url": "https://play.google.com/store/apps/details?id=com.tribtv.wgntv2&hl=en&gl=us"
+    },
+    {
+        "title": "NotiCel",
+        "icon": "https://lh3.googleusercontent.com/ldX5hK8YItekUyke4rd0do850Ejlz2xlhwPA5oe9AQxTU2GIIC-3aDlKRJ-Ft-Zy1UU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 337,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "O2+Comunicaciones,+Inc.",
+        "updated": "July 15, 2019",
+        "size": "18M",
+        "installs": "10,000+",
+        "current_version": "v4.33.3.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "O2 Comunicaciones, Inc.",
+        "developer_email": "administracion@noticel.com",
+        "developer_url": "http://www.noticel.com",
+        "developer_address": "PO Box 6834\nSan Juan, PR 00914-6834",
+        "app_id": "com.O2CommunicacionesInc.id3591",
+        "url": "https://play.google.com/store/apps/details?id=com.O2CommunicacionesInc.id3591&hl=en&gl=us"
+    },
+    {
+        "title": "Boost for reddit",
+        "icon": "https://lh3.googleusercontent.com/GF71STDEmTKhbEexCYbePXAjYym_ee8E6WR7_R8jr5_Xf10jfL0Kibkjfl33zDrJBw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21751,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6440232003459573263",
+        "updated": "April 11, 2019",
+        "size": "10M",
+        "installs": "500,000+",
+        "current_version": "1.9.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$2.00",
+            "$10.00"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Rub\u00e9n Mayayo",
+        "developer_email": "mayayo.dev@gmail.com",
+        "developer_url": "http://boostforreddit.com",
+        "developer_address": "Portanet 18\n36210 Vigo\nSpain",
+        "app_id": "com.rubenmayayo.reddit",
+        "url": "https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit&hl=en&gl=us"
+    },
+    {
+        "title": "Daily Mail Online",
+        "icon": "https://lh3.googleusercontent.com/5sbk5YKQdIxkbBlBPsafP0nYMNg4kMeeanRaZaUPDUVL8B5xhX8FgSYaWjCP-2t3KKM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 59481,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Daily+Mail+Online",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$10.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Daily Mail Online",
+        "developer_email": "androidapp@mailonline.co.uk",
+        "developer_url": "http://www.mailonline.co.uk",
+        "developer_address": "A&N Media Finance Services Limited t/as MailOnline\nNorthcliffe House\n2 Derry Street\nLondon\nW8 5TT",
+        "app_id": "com.dailymail.online",
+        "url": "https://play.google.com/store/apps/details?id=com.dailymail.online&hl=en&gl=us"
+    },
+    {
+        "title": "News 12",
+        "icon": "https://lh3.googleusercontent.com/WHFKkewHybzJrkcMNGD3-QAsI0CH4MknRyHkSXASCdndjXQfYiGAXgLwuKD1FghdB4WS",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5402,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "News+12+Interactive",
+        "updated": "May 1, 2019",
+        "size": "13M",
+        "installs": "500,000+",
+        "current_version": "3.5.3",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "News 12 Interactive",
+        "developer_email": "news12li@news12.com",
+        "developer_url": "http://longisland.news12.com/services/contact-us-1.3991757",
+        "developer_address": null,
+        "app_id": "com.sentinelbd.news12",
+        "url": "https://play.google.com/store/apps/details?id=com.sentinelbd.news12&hl=en&gl=us"
+    },
+    {
+        "title": "Lotto Results - Mega Millions Powerball Lottery US",
+        "icon": "https://lh3.googleusercontent.com/fSUKNYh3LdmKk-xIE_onaLiVHNfeNqA3nvChMqYKzG3Xh-ZGH2n8Ve_wQg3RzbBnvx0O",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14856,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "My+Lottos+LLC",
+        "updated": "April 8, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen",
+            "Simulated Gambling"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "My Lottos LLC",
+        "developer_email": "android@mylottos.com",
+        "developer_url": "https://www.mylottos.com",
+        "developer_address": "PO Box 7059\nHicksville, NY 11802",
+        "app_id": "com.mylottos.results",
+        "url": "https://play.google.com/store/apps/details?id=com.mylottos.results&hl=en&gl=us"
+    },
+    {
+        "title": "Fox News Live",
+        "icon": "https://lh3.googleusercontent.com/gVQVKW9bVVzaFWpN8I0xalLPz3qWS_CHZjkB9BKl0hXio_ooAAn5SI4kOIiTHk1kSr4A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "2.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 100,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TZMedia+LLC",
+        "updated": "June 29, 2019",
+        "size": "6.0M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TZMedia LLC",
+        "developer_email": "muhammadks234@gmail.com",
+        "developer_url": "http://jkdkjdkdjkdjd.com/ldkldkjd",
+        "developer_address": "Plot 29A, Nyerere Road\n\nDar es Salaam\n\nTANZANIA, UNITED REPUBLIC",
+        "app_id": "com.tzmedia.tbctz",
+        "url": "https://play.google.com/store/apps/details?id=com.tzmedia.tbctz&hl=en&gl=us"
+    },
+    {
+        "title": "The Guardian - Live World News, Sport & Opinion",
+        "icon": "https://lh3.googleusercontent.com/0IoGNBJeaga47hJgxtTzXXlPQmZYGjrzghS1NLoCrtjJTkm_GSRs5e44FmrXxxCUYJs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 287749,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Guardian+News+%26+Media+Ltd",
+        "updated": "July 24, 2019",
+        "size": "11M",
+        "installs": "5,000,000+",
+        "current_version": "6.22.2016",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$66.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Guardian News & Media Ltd",
+        "developer_email": "apps.feedback@guardian.co.uk",
+        "developer_url": "http://www.theguardian.com",
+        "developer_address": "Kings Place, 90 York Way\nLondon N1 9GU",
+        "app_id": "com.guardian",
+        "url": "https://play.google.com/store/apps/details?id=com.guardian&hl=en&gl=us"
+    },
+    {
+        "title": "Primera Hora",
+        "icon": "https://lh3.googleusercontent.com/gcB4oWlrgXRYjSEqw5IByRH9MySLC6xhMYla2NFmzWDWHUfe9vhEX-s5_C5LuUXcbRU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2NzH66sb73E",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5066,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GFR+Media+%E2%80%93+Primera+Hora",
+        "updated": "May 28, 2019",
+        "size": "16M",
+        "installs": "500,000+",
+        "current_version": "3.21.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "GFR Media \u2013 Primera Hora",
+        "developer_email": "mobilesupport@gfrmedia.com",
+        "developer_url": "http://www.primerahora.com",
+        "developer_address": "50 Carr. 165\n\nSector de Buchanan\n\nParque Industrial Amelia\n\nGuaynabo, PR 00968-8024",
+        "app_id": "com.primera.android",
+        "url": "https://play.google.com/store/apps/details?id=com.primera.android&hl=en&gl=us"
+    },
+    {
+        "title": "Feedly - Smarter News Reader",
+        "icon": "https://lh3.googleusercontent.com/NNS6OGOetsyYa0hhXTItJ7aCNljIKLD8uLibF5qdEBq_m7kHhK091KXZBVk7JzrfPw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/JglNomtS1U0",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 309402,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Feedly+Team",
+        "updated": "June 19, 2019",
+        "size": "18M",
+        "installs": "5,000,000+",
+        "current_version": "65.0.3",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Unrestricted Internet"
+        ],
+        "interactive_elements": [
+            "Users Interact, Unrestricted Internet"
+        ],
+        "developer": "Feedly Team",
+        "developer_email": "hello@feedly.com",
+        "developer_url": "https://feedly.com",
+        "developer_address": "805 Veterans Boulevard, Suite 109, Redwood City, CA 94063",
+        "app_id": "com.devhd.feedly",
+        "url": "https://play.google.com/store/apps/details?id=com.devhd.feedly&hl=en&gl=us"
+    },
+    {
+        "title": "Yiddish24 Jewish News & Music",
+        "icon": "https://lh3.googleusercontent.com/ezNBHVCbSLD9MwvFXdYGHKollTSrVmsdktlqxOgxradUghvqiLUMbOLCZoc0zoy_E08",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 60,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Yiddish+24",
+        "updated": "July 16, 2019",
+        "size": "12M",
+        "installs": "1,000+",
+        "current_version": "1.0.1",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Yiddish 24",
+        "developer_email": "yiddish24@gmail.com",
+        "developer_url": "http://yiddish24.com",
+        "developer_address": null,
+        "app_id": "com.yiddish24",
+        "url": "https://play.google.com/store/apps/details?id=com.yiddish24&hl=en&gl=us"
+    },
+    {
+        "title": "Cleveland News from WKYC",
+        "icon": "https://lh3.googleusercontent.com/A2RgMF5oM0Ak9NnBJPNO-gm_WMtarqHJS1ZcgmwzH3p2Zgc_eCajvHxOgsoSpAszZz8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/TXaJf3AV5RI",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 769,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TEGNA",
+        "updated": "July 16, 2019",
+        "size": "49M",
+        "installs": "50,000+",
+        "current_version": "6.1.37",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TEGNA",
+        "developer_email": "appfeedback@tegna.com",
+        "developer_url": "https://www.wkyc.com/",
+        "developer_address": "9729 Cogdill Road\nSuite 111\nKnoxville, TN  37932",
+        "app_id": "com.gannett.local.library.news.wkyc",
+        "url": "https://play.google.com/store/apps/details?id=com.gannett.local.library.news.wkyc&hl=en&gl=us"
+    },
+    {
+        "title": "Haystack TV: Local & World News - Free",
+        "icon": "https://lh3.googleusercontent.com/spjUzOuToKS24AIEx6qpeeV5Kj-KHbgdr_WsPn0ppm9AxjTbbI3ZElwKewjLic6lXg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/jCUT8BUusX4",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4305,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8277905985312709252",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Haystack TV",
+        "developer_email": "founders@haystack.tv",
+        "developer_url": "http://www.haystack.tv",
+        "developer_address": null,
+        "app_id": "com.haystack.android",
+        "url": "https://play.google.com/store/apps/details?id=com.haystack.android&hl=en&gl=us"
+    },
+    {
+        "title": "MetroZone",
+        "icon": "https://lh3.googleusercontent.com/fozSE5PBeZ9D3ot6Ej4XBh7rAtc1WoUYZXoJtAO1ssNmz_gxsKv_AFFJbOyVqN6Ydfo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 44195,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Metro+by+T-Mobile",
+        "updated": "June 5, 2019",
+        "size": "16M",
+        "installs": "10,000,000+",
+        "current_version": "58.1.6010",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Metro by T-Mobile",
+        "developer_email": "metropcsappstore@gmail.com",
+        "developer_url": "http://www.metropcs.com",
+        "developer_address": "3655 131st Ave SE, Bellevue, WA 98006",
+        "app_id": "com.metropcs.metrozone",
+        "url": "https://play.google.com/store/apps/details?id=com.metropcs.metrozone&hl=en&gl=us"
+    },
+    {
+        "title": "KSL News - Utah breaking news, weather, and sports",
+        "icon": "https://lh3.googleusercontent.com/jfBBVINXZhgjtgAOEHh-TkE47cO_XaxC2Lvs_CskbzH8MZoSPUrNhUIoyMFh0Ft-VNdw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2586,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Deseret+Digital+Media",
+        "updated": "June 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Deseret Digital Media",
+        "developer_email": "kslfeedback@ksl.com",
+        "developer_url": "http://www.ksl.com/",
+        "developer_address": null,
+        "app_id": "com.ksl.android",
+        "url": "https://play.google.com/store/apps/details?id=com.ksl.android&hl=en&gl=us"
+    },
+    {
+        "title": "\u7121\u7dab\u65b0\u805e",
+        "icon": "https://lh3.googleusercontent.com/MTel3NRckUZIMns6KZNxCTGKGWmqe1Lo6EiPPOtDdr2yhLdtU2t2sNRkxo1dwFN9sho",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/reXxEo9mRc8",
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7834,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "tvb.com",
+        "updated": "July 25, 2019",
+        "size": "65M",
+        "installs": "1,000,000+",
+        "current_version": "2.1.13",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "tvb.com",
+        "developer_email": "newsapps@cs.tvb.com",
+        "developer_url": "http://news.tvb.com",
+        "developer_address": "Level 4 & Level 5, Production Centre of Shaw Studio, 201 Wan Po Road, Tsung Kwan O, Kowloon",
+        "app_id": "com.tvb.iNews",
+        "url": "https://play.google.com/store/apps/details?id=com.tvb.iNews&hl=en&gl=us"
+    },
+    {
+        "title": "6ABC Philadelphia",
+        "icon": "https://lh3.googleusercontent.com/veV92ayTtQ8Mx-8P6-kDi5kRMN_2NhBljQlUTTtPI2qeqSj_eLMaN2D44Y5mFFE1_gI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21092,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ABC+Digital",
+        "updated": "June 3, 2019",
+        "size": "19M",
+        "installs": "100,000+",
+        "current_version": "7.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ABC Digital",
+        "developer_email": "ABCOTV.Support@abc.com",
+        "developer_url": "http://corporate.disney.go.com/corporate/pp.html",
+        "developer_address": "925 4th Ave Seattle WA",
+        "app_id": "com.abclocal.wpvi.news",
+        "url": "https://play.google.com/store/apps/details?id=com.abclocal.wpvi.news&hl=en&gl=us"
+    },
+    {
+        "title": "Telemundo 47",
+        "icon": "https://lh3.googleusercontent.com/z79Lid24h9QoNcxRlx0QHUmW3JngGN1TGbr_1royHVuquP84mws6_6OBjM0Xk2LSXw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4569,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NBCUniversal+Media,+LLC",
+        "updated": "July 21, 2019",
+        "size": "33M",
+        "installs": "500,000+",
+        "current_version": "6.5.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NBCUniversal Media, LLC",
+        "developer_email": "AppLocal@telemundo.com",
+        "developer_url": "http://www.telemundo47.com%20",
+        "developer_address": "30 Rockefeller Plaza\nNew York, New York\n10012\nUnited States",
+        "app_id": "com.nbcuni.telemundostation.telemundony",
+        "url": "https://play.google.com/store/apps/details?id=com.nbcuni.telemundostation.telemundony&hl=en&gl=us"
+    },
+    {
+        "title": "News Republic - Breaking and Trending News",
+        "icon": "https://lh3.googleusercontent.com/Tw0y51K74O5GFuO2KpHHckSOAcgT--88wwmLGCBwkJS8BnRlhVBk87gsk6XJcPrcOj43",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 538324,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "News+Republic",
+        "updated": "July 17, 2019",
+        "size": "27M",
+        "installs": "50,000,000+",
+        "current_version": "11.7.4.01",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$3.80"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "News Republic",
+        "developer_email": "contact.store@news-republic.com",
+        "developer_url": "http://www.news-republic.com",
+        "developer_address": "Rue Robert Caumont,\nBureaux du Lac II, Bat. P\n33049 BORDEAUX CEDEX",
+        "app_id": "com.mobilesrepublic.appy",
+        "url": "https://play.google.com/store/apps/details?id=com.mobilesrepublic.appy&hl=en&gl=us"
+    },
+    {
+        "title": "National Geographic",
+        "icon": "https://lh3.googleusercontent.com/NxVwlEC9Ea9TfQz9VpYYBbG70-6-q55lcsdTXEBuSgzKn-aOd1taRc2tT5iwOykRUVE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 91,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7556479397580447274",
+        "updated": "July 9, 2019",
+        "size": "33M",
+        "installs": "10,000+",
+        "current_version": "3.0.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$19.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "National Geographic",
+        "developer_email": "appsteam@natgeo.com",
+        "developer_url": "https://www.nationalgeographic.com/",
+        "developer_address": "1145 17th St. NW\nWashington, DC 20036\nUnited States",
+        "app_id": "com.natgeomobile.ngmagazine",
+        "url": "https://play.google.com/store/apps/details?id=com.natgeomobile.ngmagazine&hl=en&gl=us"
+    },
+    {
+        "title": "MSNBC Streaming Free",
+        "icon": "https://lh3.googleusercontent.com/5oVMWNjZjuMlephNDpCXMKN6Grt5HD6d4PINHhdQAiAuDqmWrXpqFT4Cf0-k6tdOvRA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 65,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ZexAudio+Nation+LLC",
+        "updated": "July 12, 2019",
+        "size": "7.2M",
+        "installs": "5,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ZexAudio Nation LLC",
+        "developer_email": "support@gauging24e.com",
+        "developer_url": "http://espanol24.com/privacy.html",
+        "developer_address": null,
+        "app_id": "com.zexaudionation.app.ent",
+        "url": "https://play.google.com/store/apps/details?id=com.zexaudionation.app.ent&hl=en&gl=us"
+    },
+    {
+        "title": "The BL",
+        "icon": "https://lh3.googleusercontent.com/h1aZvUG6YHjywGHSJcgRVldPZtXTk0VCiVvovwBGMK2FKJz_XgkpN_TOeUBzGsKXLkY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "BEAUTIES+OF+LIFE,+INC.",
+        "updated": "July 25, 2019",
+        "size": "2.0M",
+        "installs": "1,000+",
+        "current_version": "3.0.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "BEAUTIES OF LIFE, INC.",
+        "developer_email": "admin@thebl.com",
+        "developer_url": "https://thebl.com",
+        "developer_address": "960 Jackson Street,\nSan Francisco,\nCA 94133",
+        "app_id": "com.thebl.app",
+        "url": "https://play.google.com/store/apps/details?id=com.thebl.app&hl=en&gl=us"
+    },
+    {
+        "title": "Al Jazeera English",
+        "icon": "https://lh3.googleusercontent.com/U4ldI0x3edPn_yeMjTEuVh1hY8FDR6u7Thz5toN-rCYDcOXGn3SiveU3jxMQhP1IiEqB",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 26570,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Al+Jazeera+Network",
+        "updated": "July 10, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Al Jazeera Network",
+        "developer_email": "mobile.support@aljazeera.net",
+        "developer_url": "http://aljazeera.com/mobile/",
+        "developer_address": "Al Jazeera Network\nPO Box 23127\nDoha - Qatar",
+        "app_id": "net.aljazeera.english",
+        "url": "https://play.google.com/store/apps/details?id=net.aljazeera.english&hl=en&gl=us"
+    },
+    {
+        "title": "Breitbart",
+        "icon": "https://lh3.googleusercontent.com/zexlM07CIAHfoguAftZ2N3RsfVPwBRpMgBF5lu07zVbQf7SdTHgrFFI_rfslZxmdEw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3587,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Breitbart+News+Network",
+        "updated": "October 19, 2018",
+        "size": "13M",
+        "installs": "100,000+",
+        "current_version": "2.1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Breitbart News Network",
+        "developer_email": "mobilesupport@breitbart.com",
+        "developer_url": "https://www.breitbart.com/",
+        "developer_address": null,
+        "app_id": "com.breitbart.app",
+        "url": "https://play.google.com/store/apps/details?id=com.breitbart.app&hl=en&gl=us"
+    },
+    {
+        "title": "Illinois Lottery Official App \u2013 Scanner & Results",
+        "icon": "https://lh3.googleusercontent.com/3YeSjePpC5ANbxpe2_FEiRPKMU_y6w2ktySgsjy_Z8j_XmGmYyaJHEEDu9YSYcPjZDQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "1.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 46,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Camelot+Illinois+LLC",
+        "updated": "July 24, 2019",
+        "size": "13M",
+        "installs": "10,000+",
+        "current_version": "1.1.0",
+        "required_android_version": "8.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Camelot Illinois LLC",
+        "developer_email": "support@illinoislottery.com",
+        "developer_url": "http://www.illinoislottery.com",
+        "developer_address": "200 W. Jackson Blvd.\nSuite 1100\nChicago, IL 60606",
+        "app_id": "com.illinoislottery.illinoislottery.lite",
+        "url": "https://play.google.com/store/apps/details?id=com.illinoislottery.illinoislottery.lite&hl=en&gl=us"
+    },
+    {
+        "title": "azfamily 3TV CBS 5",
+        "icon": "https://lh3.googleusercontent.com/vIsW0s7A-OjGefIRq3L80s_Akn3vU66xCG4xMUZk8fCooNO8tNMTADJ-X0Fwc3t9Eg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3141,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "KTVK+Digital+Media,+LLC",
+        "updated": "July 18, 2019",
+        "size": "18M",
+        "installs": "100,000+",
+        "current_version": "v4.33.3.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "KTVK Digital Media, LLC",
+        "developer_email": "android@doapps.com",
+        "developer_url": "http://www.doapps.com",
+        "developer_address": "KTVK Digital Media, LLC\n1716 Locust Street\nDes Moines, IA 50309",
+        "app_id": "com.doapps.android.mln.MLN_46de8bacafb42145d94d3f63b1f99683",
+        "url": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_46de8bacafb42145d94d3f63b1f99683&hl=en&gl=us"
+    },
+    {
+        "title": "ABC7 Los Angeles",
+        "icon": "https://lh3.googleusercontent.com/Jo6iQffNACxRuwNoIVNO0xgTgp970BBwBJSmiEKZafGovtOuU4SQE8375qyZcBmIAXw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16275,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ABC+Digital",
+        "updated": "June 3, 2019",
+        "size": "18M",
+        "installs": "100,000+",
+        "current_version": "7.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ABC Digital",
+        "developer_email": "ABCOTV.Support@abc.com",
+        "developer_url": "http://corporate.disney.go.com/corporate/pp.html",
+        "developer_address": "925 4th Ave Seattle WA",
+        "app_id": "com.abclocal.kabc.news",
+        "url": "https://play.google.com/store/apps/details?id=com.abclocal.kabc.news&hl=en&gl=us"
+    },
+    {
+        "title": "Patch - Local News",
+        "icon": "https://lh3.googleusercontent.com/SF_Eq9lbfeg5GYkiUEKsIQi2kCYi4TyCvrF8QaQSd8fp9-MXcuUkIkXkj1tV1J_UKlo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "NEWS_AND_MAGAZINES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 878,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Patch+-+Everything+Local",
+        "updated": "June 11, 2019",
+        "size": "12M",
+        "installs": "50,000+",
+        "current_version": "1.28",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "Everyone 10+"
+        ],
+        "interactive_elements": null,
+        "developer": "Patch - Everything Local",
+        "developer_email": "feedback@patch.com",
+        "developer_url": "https://patch.com",
+        "developer_address": "134 W 29th St\nFl 11\nNew York, NY 10003\nChelsea, Midtown West",
+        "app_id": "com.patchmedia.android",
+        "url": "https://play.google.com/store/apps/details?id=com.patchmedia.android&hl=en&gl=us"
+    }
+]

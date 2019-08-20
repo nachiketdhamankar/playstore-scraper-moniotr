@@ -1,0 +1,4456 @@
+[
+    {
+        "title": "Lime Player",
+        "icon": "https://lh3.googleusercontent.com/AqC2ZnukYpBwJuN3mda68k3VAneirI9dmYaoD_Eb7uSF8BBBaKbPetEE__ekB-QQtla6",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "2.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13688,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Lime+Player+Team",
+        "updated": "July 9, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "1.0.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Lime Player Team",
+        "developer_email": "ndrvarenik@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vSKwOBfDkq0Bkm_03hUW8D_ZCT0OpDrsLiQTfg0zXXNii36Kig9PM1XIu0LJM0s99DhAhNLIb9v0TXO/pub",
+        "developer_address": null,
+        "app_id": "com.lime.video.player",
+        "url": "https://play.google.com/store/apps/details?id=com.lime.video.player&hl=en&gl=us"
+    },
+    {
+        "title": "GIPHY - Animated GIFs Search Engine",
+        "icon": "https://lh3.googleusercontent.com/IsdYGrYewNGmzw_IdpBjBOw1YudZTyAYMs8k3t0IphMId3SubbiT0RAdG9rJw2Q9sB8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 164651,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Giphy,+Inc.",
+        "updated": "July 15, 2019",
+        "size": "32M",
+        "installs": "10,000,000+",
+        "current_version": "3.6.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Giphy, Inc.",
+        "developer_email": "support@giphy.com",
+        "developer_url": "http://www.giphy.com",
+        "developer_address": null,
+        "app_id": "com.giphy.messenger",
+        "url": "https://play.google.com/store/apps/details?id=com.giphy.messenger&hl=en&gl=us"
+    },
+    {
+        "title": "Likee - Formerly LIKE Video",
+        "icon": "https://lh3.googleusercontent.com/i0mKBU9rHdZX1UOb6OOGIQ3HJweX2__QGYUW8bzaiVfg32KaXdPoDLnvcFfrhFHjYIQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2805747,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "BIGO+TECHNOLOGY+PTE.+LTD.",
+        "updated": "July 24, 2019",
+        "size": "57M",
+        "installs": "100,000,000+",
+        "current_version": "3.1.7",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "BIGO TECHNOLOGY PTE. LTD.",
+        "developer_email": "android-support@bigo.sg",
+        "developer_url": "https://likee.video",
+        "developer_address": "391B Orchard road #15-05 Ngee Ann City , Singapore(238874)",
+        "app_id": "video.like",
+        "url": "https://play.google.com/store/apps/details?id=video.like&hl=en&gl=us"
+    },
+    {
+        "title": "Screen Recorder - Video Recorder",
+        "icon": "https://lh3.googleusercontent.com/RX8RBGnnxFgncaU649msEAdLpQmXiSlzAZrjOtdSnvyptB16wWlQNFdRrMWNSdkIQ2tn",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 53125,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "InShot+Inc.",
+        "updated": "July 22, 2019",
+        "size": "7.7M",
+        "installs": "1,000,000+",
+        "current_version": "1.1.0.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "videoeditor.videorecorder.screenrecorder",
+        "url": "https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder&hl=en&gl=us"
+    },
+    {
+        "title": "GIF Keyboard by Tenor",
+        "icon": "https://lh3.googleusercontent.com/ycHJqqNVtnAJbsnzHlDcTVlwcOhFygF8DmF_kCM8pkb8E6Fk9RFm8TjBARWnNiy0YD4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 229242,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7968081441470712561",
+        "updated": "November 1, 2018",
+        "size": "41M",
+        "installs": "10,000,000+",
+        "current_version": "2.1.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Tenor, Inc.",
+        "developer_email": "androidfeedback@tenor.co",
+        "developer_url": "http://www.tenor.co",
+        "developer_address": null,
+        "app_id": "com.riffsy.FBMGIFApp",
+        "url": "https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp&hl=en&gl=us"
+    },
+    {
+        "title": "Funimate: Music Video Clip Editor to be Video Star",
+        "icon": "https://lh3.googleusercontent.com/1_JEyg69_xRjH1xypQVNgh_xw4zysoP8BMAw2L2dtmhRLbo613IsQblDBRIIYzr_PZHm",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 496560,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8700505533045926964",
+        "updated": "July 3, 2019",
+        "size": "96M",
+        "installs": "10,000,000+",
+        "current_version": "6.4.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "AVCR Inc.",
+        "developer_email": "support@funimate.com",
+        "developer_url": "http://funimate.com",
+        "developer_address": "Resitpasa Mah. ITU Ayazaga Kampusu ARI8 Binasi (Eski Ogrenci Otomasyon Sitesi), Maslak, Sariyer, Istanbul Turkey",
+        "app_id": "com.avcrbt.funimate",
+        "url": "https://play.google.com/store/apps/details?id=com.avcrbt.funimate&hl=en&gl=us"
+    },
+    {
+        "title": "Cartoon Network App",
+        "icon": "https://lh3.googleusercontent.com/Wof7SPgftpuslskYJt9ZC3G8EHqN1qE1hBU6y4RrP7nS6N3epioe-_OiJ0_k_zQYwh6s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 124214,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7977642132858801607",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Cartoon Network",
+        "developer_email": "advanced.platforms@turner.com",
+        "developer_url": "http://www.cartoonnetwork.com",
+        "developer_address": "1050 Techwood Drive\nAtlanta, GA 30318",
+        "app_id": "com.turner.cnvideoapp",
+        "url": "https://play.google.com/store/apps/details?id=com.turner.cnvideoapp&hl=en&gl=us"
+    },
+    {
+        "title": "KineMaster - Video Editor",
+        "icon": "https://lh3.googleusercontent.com/_tBnS0ZOKjgqhnBYoukONfuD9MBaETGIEB01codMiKnxoJSt8oEFZ_lQcrRSlLIcggk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/lYHfqDDkSTM",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1747975,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "KineMaster+Corporation",
+        "updated": "July 12, 2019",
+        "size": "74M",
+        "installs": "100,000,000+",
+        "current_version": "4.10.17.13457.GP",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "KineMaster Corporation",
+        "developer_email": "support@kinemaster.com",
+        "developer_url": "http://www.kinemaster.com",
+        "developer_address": "5th Floor, Kunyoung Building\n56 Baumoe-ro 37-gil, Yangjae-dong, Seocho-gu\nSeoul,  06744\nRepublic of Korea",
+        "app_id": "com.nexstreaming.app.kinemasterfree",
+        "url": "https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=en&gl=us"
+    },
+    {
+        "title": "Roku Remote Control: RoByte",
+        "icon": "https://lh3.googleusercontent.com/7f67aEBs8Wx8T91wQv9eh02jhoNaVbppY0MXDDET-nuhQiieU_BlcOkuCPSuAnouzQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10883,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5102417434663962205",
+        "updated": "May 17, 2019",
+        "size": "6.6M",
+        "installs": "1,000,000+",
+        "current_version": "2.0.26",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$3.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "TinyByte Apps",
+        "developer_email": "tinybyteapps@gmail.com",
+        "developer_url": "https://s3-us-west-2.amazonaws.com/podbyte/freemium_privacy_policy.html",
+        "developer_address": "San Francisco, CA",
+        "app_id": "com.tinybyteapps.robyte",
+        "url": "https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte&hl=en&gl=us"
+    },
+    {
+        "title": "Lomotif - Music Video Editor",
+        "icon": "https://lh3.googleusercontent.com/cJSieV3hOTmKi_MzGGwrS9T427_zW65gql5mCU0aeMEPXIWxvItltO5_IdrY_XI7YA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 199914,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Lomotif+Pte+Ltd",
+        "updated": "July 19, 2019",
+        "size": "24M",
+        "installs": "10,000,000+",
+        "current_version": "2.3.16.2",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Teen",
+            "Sexual Themes"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Lomotif Pte Ltd",
+        "developer_email": "help@lomotif.com",
+        "developer_url": "http://lomotif.com",
+        "developer_address": null,
+        "app_id": "com.lomotif.android",
+        "url": "https://play.google.com/store/apps/details?id=com.lomotif.android&hl=en&gl=us"
+    },
+    {
+        "title": "YouCut - Video Editor & Video Maker, No Watermark",
+        "icon": "https://lh3.googleusercontent.com/KUy0fRQT1jmmvQOdEBWBrYtrOEyetJFVwAjGqmb-iFO5xY58s2VaBmDLyQLWZ0lsCg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 472397,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InShot+Inc.",
+        "updated": "July 22, 2019",
+        "size": "25M",
+        "installs": "10,000,000+",
+        "current_version": "1.322.80",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "com.camerasideas.trimmer",
+        "url": "https://play.google.com/store/apps/details?id=com.camerasideas.trimmer&hl=en&gl=us"
+    },
+    {
+        "title": "Video Editor - Video Maker with Music & Effect",
+        "icon": "https://lh3.googleusercontent.com/mHD7HzhfLRtKudDBK-9G7xex6Dk20YJKF6rUM0RsxM2g_NjGBAYoPGO82D4TXJ8Q2GiL",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3398,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Superb+Studios",
+        "updated": "July 18, 2019",
+        "size": "30M",
+        "installs": "500,000+",
+        "current_version": "1.6.15",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Superb Studios",
+        "developer_email": "jahnsonzheng@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1zWr9nHnYmjm8hG0spHliL-pZ9THNcM92qmFRu1D7Dpo/edit",
+        "developer_address": null,
+        "app_id": "edit.video.maker.effect.inshot",
+        "url": "https://play.google.com/store/apps/details?id=edit.video.maker.effect.inshot&hl=en&gl=us"
+    },
+    {
+        "title": "AZ Screen Recorder - No Root",
+        "icon": "https://lh3.googleusercontent.com/2TZOs3yHFM8mRLJHbjeCLfxhX_Kib1td6OgZMmF0PNlIE0LGwEUAWnR9vUnDLxQfK7fl",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3qZEwBU7DdU",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 992174,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4946092157052757127",
+        "updated": "June 19, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$2.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Hecorat",
+        "developer_email": "az.screen.recorder@gmail.com",
+        "developer_url": "http://hecorat.com/az/privacy_policy.html",
+        "developer_address": "Floor 6, Nam Hai Lakeview building, 01-9A, Vinh Hoang Urban Area, Hoang Mai, Hanoi, Vietnam",
+        "app_id": "com.hecorat.screenrecorder.free",
+        "url": "https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en&gl=us"
+    },
+    {
+        "title": "YouTube Studio",
+        "icon": "https://lh3.googleusercontent.com/uJaUCtX94Oh_bl8wigEVu_b6tHD1Zp89I7jtJAKrfL0C_N9KJqngqBlYnxTMiDH4lC9N",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 593939,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 3, 2019",
+        "size": "12M",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.youtube.com/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.youtube.creator",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator&hl=en&gl=us"
+    },
+    {
+        "title": "Screen Recorder V Recorder - Audio, Video Editor",
+        "icon": "https://lh3.googleusercontent.com/x4dG-n4yB30y3r3ELW4LyRQyyt8tuUKtJTNTLHMW20M1-mZKMx5RBmCwlHVeBVUt-6I",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/q3K7GC3ZGQg",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 280692,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8114105855888506023",
+        "updated": "July 23, 2019",
+        "size": "16M",
+        "installs": "10,000,000+",
+        "current_version": "3.1.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$94.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "VideoShow EnjoyMobi Video Editor & Video Maker Inc",
+        "developer_email": "support@enjoy-global.com",
+        "developer_url": "http://www.enjoy-global.com",
+        "developer_address": "No.1515 Gumei Road Phoenix Mansion 19 Floor, Xuhui Shanghai, China\nVideoShow Video Editor Video Maker & Filmigo Movie Maker Video Cutter",
+        "app_id": "screenrecorder.recorder.editor",
+        "url": "https://play.google.com/store/apps/details?id=screenrecorder.recorder.editor&hl=en&gl=us"
+    },
+    {
+        "title": "Video Editor, Crop Video, Edit Video, Funny Videos",
+        "icon": "https://lh3.googleusercontent.com/ZfFOYJFrTex3VUyDDwyBEm8a08AFJMasbtSCcHqcFGp7lzHkAiDw5X3na4TFEeQWLD34",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 282542,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Best+Free+Video+Editor+%26+Video+Maker+Dev",
+        "updated": "July 23, 2019",
+        "size": "71M",
+        "installs": "10,000,000+",
+        "current_version": "1.26.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$94.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Best Free Video Editor & Video Maker Dev",
+        "developer_email": "videomasterdev@gmail.com",
+        "developer_url": "http://d2prafqgniatg5.cloudfront.net/VideoMasterDev/WondeVideo_privacy.html",
+        "developer_address": "\u4e2d\u56fd\u5e7f\u4e1c\u7701",
+        "app_id": "com.video.master",
+        "url": "https://play.google.com/store/apps/details?id=com.video.master&hl=en&gl=us"
+    },
+    {
+        "title": "Dubsmash - Dance Videos & Lip Sync App",
+        "icon": "https://lh3.googleusercontent.com/e6F9nKd8A-y6MUSRtmJoydtKRIWZmQcsqpcq0or9X1u6i3MW6BsME7MAq6G3cbNDRg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/KB7A97G15Lk",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2001292,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Dubsmash+Inc",
+        "updated": "July 25, 2019",
+        "size": "11M",
+        "installs": "100,000,000+",
+        "current_version": "4.18.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Dubsmash Inc",
+        "developer_email": "playstore@dubsmash.com",
+        "developer_url": "https://www.dubsmash.com",
+        "developer_address": null,
+        "app_id": "com.mobilemotion.dubsmash",
+        "url": "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en&gl=us"
+    },
+    {
+        "title": "Magisto - Video Editor & Music Slideshow Maker",
+        "icon": "https://lh3.googleusercontent.com/3bdEJWiico6gHaL8Fxb2Z33AP-6Ct49Mokyj2eCkgtd9sQcv4T7Uz1ns-srH3-xbfheD",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1026411,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Magisto",
+        "updated": "July 18, 2019",
+        "size": "62M",
+        "installs": "50,000,000+",
+        "current_version": "4.54.0.19845",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$200.00"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Magisto",
+        "developer_email": "support@magisto.com",
+        "developer_url": "http://www.magisto.com",
+        "developer_address": "800 West El Camino Real, Mountain View, CA 94087",
+        "app_id": "com.magisto",
+        "url": "https://play.google.com/store/apps/details?id=com.magisto&hl=en&gl=us"
+    },
+    {
+        "title": "Video Downloader",
+        "icon": "https://lh3.googleusercontent.com/-gLD00y4MEfFlkJ74ccAd1QEY52AirFwS36bCeOG4xCT5j21p2A0BR7Jptyy6VQgIQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 270555,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "InShot+Inc.",
+        "updated": "July 8, 2019",
+        "size": "6.2M",
+        "installs": "50,000,000+",
+        "current_version": "1.2.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "video.downloader.videodownloader",
+        "url": "https://play.google.com/store/apps/details?id=video.downloader.videodownloader&hl=en&gl=us"
+    },
+    {
+        "title": "Cast to TV - Chromecast, Roku, stream phone to TV",
+        "icon": "https://lh3.googleusercontent.com/c3GvfbextQgktowjqdW_D-tYdale2v7e8swQ3qU7RxKsD7LJDfWAx6fTV_zbj339KQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 80742,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InShot+Inc.",
+        "updated": "March 27, 2019",
+        "size": "8.9M",
+        "installs": "10,000,000+",
+        "current_version": "1.2.0.1",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.49",
+            "$4.99"
+        ],
+        "interactive_elements": null,
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "cast.video.screenmirroring.casttotv",
+        "url": "https://play.google.com/store/apps/details?id=cast.video.screenmirroring.casttotv&hl=en&gl=us"
+    },
+    {
+        "title": "Intro Maker for YouTube - music intro video editor",
+        "icon": "https://lh3.googleusercontent.com/N6SM2qvxBrxVyD-WGT6RxHY5WKslzGtIaSX96yqtuZ5MUkHxu_Y-rK536Wn-7LCgdw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 353235,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "ryzenrise",
+        "updated": "July 22, 2019",
+        "size": "39M",
+        "installs": "5,000,000+",
+        "current_version": "2.2.6",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$6.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ryzenrise",
+        "developer_email": "ryzengchang@gmail.com",
+        "developer_url": "http://www.wisharcbuilder.com",
+        "developer_address": "\u5e7f\u5dde\u5e02\u5929\u6cb3\u533a\u5efa\u4e2d\u8def36\u53f7404",
+        "app_id": "com.ryzenrise.intromaker",
+        "url": "https://play.google.com/store/apps/details?id=com.ryzenrise.intromaker&hl=en&gl=us"
+    },
+    {
+        "title": "VLC for Android",
+        "icon": "https://lh3.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1198745,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6364851808230428105",
+        "updated": "July 3, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Videolabs",
+        "developer_email": "videolan.android@gmail.com",
+        "developer_url": "http://www.videolan.org",
+        "developer_address": "18 rue Charcot\n75013 Paris\nFrance",
+        "app_id": "org.videolan.vlc",
+        "url": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en&gl=us"
+    },
+    {
+        "title": "PowerDirector - Video Editor App, Best Video Maker",
+        "icon": "https://lh3.googleusercontent.com/Xzx3Ak1JyAbtVUE6x6NBbJhWahCfA1Nn6LQz-8ygEmgRJjRJ3-piAOzkWfsExk_sEYnx",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Igtugy53VoU",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 979137,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7495131674787494593",
+        "updated": "July 19, 2019",
+        "size": "57M",
+        "installs": "50,000,000+",
+        "current_version": "5.4.4",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "CyberLink.com",
+        "developer_email": "PowerDirector_AppSupport@cyberlink.com",
+        "developer_url": "http://www.cyberlink.com/",
+        "developer_address": "15F., No.100, Minquan Rd., Xindian Dist., New Taipei City 231, Taiwan (R.O.C.)",
+        "app_id": "com.cyberlink.powerdirector.DRA140225_01",
+        "url": "https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01&hl=en&gl=us"
+    },
+    {
+        "title": "YouTube",
+        "icon": "https://lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 50158143,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "ytandroid-support@google.com",
+        "developer_url": "https://support.google.com/youtube/topic/2422554?rd=1",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.youtube",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en&gl=us"
+    },
+    {
+        "title": "Screen Recorder for Game, Video Call, Video Editor",
+        "icon": "https://lh3.googleusercontent.com/dqAybrBOaLLQC5TRSpxhJDhsqKeNjCiABbGC3c5cNmKp1QhZr53hnrUEHrSlZFsuLCE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/svdvdt1oQS4",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37042,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Screen+Video+Recorder",
+        "updated": "July 22, 2019",
+        "size": "33M",
+        "installs": "5,000,000+",
+        "current_version": "1.4.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$69.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Screen Video Recorder",
+        "developer_email": "screenrecorderfe@gmail.com",
+        "developer_url": "http://callapps.studio/",
+        "developer_address": null,
+        "app_id": "screen.recorder",
+        "url": "https://play.google.com/store/apps/details?id=screen.recorder&hl=en&gl=us"
+    },
+    {
+        "title": "VivaVideo - All-round Video Editor & Video Maker",
+        "icon": "https://lh3.googleusercontent.com/RxE4n7k1Z2I5qQo8tDj8QotCtTzinaXeLhiX5J6UKTsuGkG2pAmvqVH73Mlki8sH0A",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/n5ikI2Fqpos",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11176269,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8999952960853938956",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "7.13.2",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$32.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "QuVideo Inc. Best Video Editor & Video Maker App",
+        "developer_email": "support@vivavideo.com",
+        "developer_url": "http://www.vivavideo.tv",
+        "developer_address": "16th Floor, Hangzhou Iron&Steel Metallurgical Technology Mansion, NO.294 Tianmushan Road, Xihu District, Hangzhou City, China",
+        "app_id": "com.quvideo.xiaoying",
+        "url": "https://play.google.com/store/apps/details?id=com.quvideo.xiaoying&hl=en&gl=us"
+    },
+    {
+        "title": "AllCast",
+        "icon": "https://lh3.googleusercontent.com/VCKNiOKOHPYOvNcbg_OuYkkGHXrcI3WvdmfldlXyUn7KC78C3E8Y9FgYI5t2abCu2PU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/5k_NLVrbxss",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 105824,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ClockworkMod",
+        "updated": "November 24, 2018",
+        "size": "7.3M",
+        "installs": "10,000,000+",
+        "current_version": "2.0.5.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ClockworkMod",
+        "developer_email": "allcast@clockworkmod.com",
+        "developer_url": "http://www.allcast.io/",
+        "developer_address": "2720 3rd Ave 900\nSeattle, WA 98121",
+        "app_id": "com.koushikdutta.cast",
+        "url": "https://play.google.com/store/apps/details?id=com.koushikdutta.cast&hl=en&gl=us"
+    },
+    {
+        "title": "Video Editor Plus - Music, Vlog, Effect, Filter",
+        "icon": "https://lh3.googleusercontent.com/aE6gK-3Vn7Wxcu_LjP8tkOHM5MJKNujAhDzzCUdjbcp7Fl6OC4BAn3IX2rDvEsyi6w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2492,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Mobile+Ecology+Group.",
+        "updated": "July 17, 2019",
+        "size": "15M",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$8.99",
+            "$94.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Mobile Ecology Group.",
+        "developer_email": "alanbest2019@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1KKAt3Ecg6t0shvka66UrLjxX1CMCKOvBqZcju6pD_Gc",
+        "developer_address": "No.3 Hok Yuen Street, Hung Hom.H.K",
+        "app_id": "video.videoeditor",
+        "url": "https://play.google.com/store/apps/details?id=video.videoeditor&hl=en&gl=us"
+    },
+    {
+        "title": "Cast to TV: Chromecast, Roku, Fire TV, Xbox, IPTV",
+        "icon": "https://lh3.googleusercontent.com/4AHFa9jlScT_4hY4bdf6ZphUDy0fY-b10LH9cXSvGUgyCZLwqJOtAkfFwqVPkNXTvw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19236,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InShot+Inc.",
+        "updated": "March 27, 2019",
+        "size": "8.3M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.0",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "castwebbrowsertotv.castwebvideo.webvideocaster",
+        "url": "https://play.google.com/store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster&hl=en&gl=us"
+    },
+    {
+        "title": "Capture Recorder -  Video Editor, Screen Recorder",
+        "icon": "https://lh3.googleusercontent.com/HNSuo3cqicZXk2gG0sHfFCBQj-XQgXB83wSjSBhFBWa6MpHeew7SDTtdpEr7-sK8Eg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/-9ClvdquBcU",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 80436,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Capture+Recorder",
+        "updated": "July 19, 2019",
+        "size": "23M",
+        "installs": "5,000,000+",
+        "current_version": "1.09",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$95.88"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Capture Recorder",
+        "developer_email": "recorder.video.magic@gmail.com",
+        "developer_url": "http://d2prafqgniatg5.cloudfront.net/soft/file/term/1272/recorder_privacy.html",
+        "developer_address": "No. 33, Lane 3,wenzhang Village,chikan qu, zhanjiang City, Guangdong Province, China",
+        "app_id": "com.recorder.video.magic.capture.gameplay",
+        "url": "https://play.google.com/store/apps/details?id=com.recorder.video.magic.capture.gameplay&hl=en&gl=us"
+    },
+    {
+        "title": "TV (Samsung) Remote Control",
+        "icon": "https://lh3.googleusercontent.com/YhJTgjvAlLmxYz12B0e-WZlpgcvDjpYX3a1jNa7nM9DVjz_wDxurSAuoZD4JGBxXFO4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45594,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "npe",
+        "updated": "July 23, 2019",
+        "size": "4.6M",
+        "installs": "10,000,000+",
+        "current_version": "2.2.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "npe",
+        "developer_email": "eibicidiii@gmail.com",
+        "developer_url": "https://eibicidiii.000webhostapp.com/ir.remote.smg.tv/",
+        "developer_address": null,
+        "app_id": "ir.remote.smg.tv",
+        "url": "https://play.google.com/store/apps/details?id=ir.remote.smg.tv&hl=en&gl=us"
+    },
+    {
+        "title": "Video Maker of Photos with Music & Video Editor",
+        "icon": "https://lh3.googleusercontent.com/TGau9Kw7KEdZM0zbwBSe4STRScs2zxkLB_gn09C8RP_5_S3srSLLIGYl2K9cWyzaHg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3HFxrgUBiSE",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 510551,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8114105855888506023",
+        "updated": "July 22, 2019",
+        "size": "32M",
+        "installs": "10,000,000+",
+        "current_version": "4.1.3",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "VideoShow EnjoyMobi Video Editor & Video Maker Inc",
+        "developer_email": "support@enjoy-global.com",
+        "developer_url": "http://www.enjoy-global.com",
+        "developer_address": "No.1515 Gumei Road Phoenix Mansion 19 Floor, Xuhui Shanghai, China\nVideoShow Video Editor Video Maker & Filmigo Movie Maker Video Cutter",
+        "app_id": "com.funcamerastudio.videomaker",
+        "url": "https://play.google.com/store/apps/details?id=com.funcamerastudio.videomaker&hl=en&gl=us"
+    },
+    {
+        "title": "Google Play Movies & TV",
+        "icon": "https://lh3.googleusercontent.com/fjACGhFTGaWYU_XMEoVIBdVJKSP4sFLwN2YNqiK3rKN85dZ5I7IKSsmkdcR39QyXJg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/smc80kgmZ8k",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1104801,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://support.google.com/googleplay",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.videos",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.videos&hl=en&gl=us"
+    },
+    {
+        "title": "Fun Video Editor - Video Effects & Music & Crop",
+        "icon": "https://lh3.googleusercontent.com/S4KcP0GyO8kZfet4jf2UxDXVUZpMgkZBHjktzYW4zN7eRdVyG3_aaeZVaqVWmRIuhPk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3501,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Karen+Walker",
+        "updated": "June 24, 2019",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "2.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$12.99",
+            "$94.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Karen Walker",
+        "developer_email": "walkerkaren2020@gamil.com",
+        "developer_url": "https://docs.google.com/document/d/1cugrMs5VbxAgLUyFMfOXOr6o_pzuVKrLZd-htH14mzM/edit?usp=sharing",
+        "developer_address": "NO.525 Mong Kok, Kowloon, Hong Kong",
+        "app_id": "videoeditor.pro",
+        "url": "https://play.google.com/store/apps/details?id=videoeditor.pro&hl=en&gl=us"
+    },
+    {
+        "title": "Triller: Social Video Platform",
+        "icon": "https://lh3.googleusercontent.com/4R1Z3a_UWNMm5J0GSVfA_U2fzE9WB04Rbo_lKCqjTlnsdT1aqF02rPTtSDc-TCIZiA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/IDHZBXLLBhE",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 150026,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Triller+LLC",
+        "updated": "July 1, 2019",
+        "size": "54M",
+        "installs": "10,000,000+",
+        "current_version": "9.0.2b4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Triller LLC",
+        "developer_email": "feedback@triller.co",
+        "developer_url": "http://www.triller.co/",
+        "developer_address": "Triller LLC\n133 West 19th St 5A\nNew York, NY 10011",
+        "app_id": "co.triller.droid",
+        "url": "https://play.google.com/store/apps/details?id=co.triller.droid&hl=en&gl=us"
+    },
+    {
+        "title": "Imgur: Find funny GIFs, memes & watch viral videos",
+        "icon": "https://lh3.googleusercontent.com/hYdIazwJBlPhmN74Yz3m_jU9nA6t02U7ZARfKunt6dauUAB6O3nLHp0v5ypisNt9OJk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 179941,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8599003009485541859",
+        "updated": "July 25, 2019",
+        "size": "20M",
+        "installs": "10,000,000+",
+        "current_version": "4.4.5.11066",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Imgur",
+        "developer_email": "support@imgur.com",
+        "developer_url": "http://imgur.com",
+        "developer_address": null,
+        "app_id": "com.imgur.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.imgur.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Screen Recorder & Music, Video Editor, Record Free",
+        "icon": "https://lh3.googleusercontent.com/f8hfZBSKy6WqV7Q7Yt3-Ki8kqyMFebHmlcbglvA4_wP-H0m2GxwqhUt_ylVsvApL3LU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 54864,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9040442305630224740",
+        "updated": "May 30, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Video Editor & Photo Editor Apps",
+        "developer_email": "charmernewapps@gmail.com",
+        "developer_url": "http://www.youpai.biz/youpai_en.html",
+        "developer_address": "Building No.6, Courtyard No.9, Huamao City, Chaoyang District, Beijing",
+        "app_id": "mobi.charmer.myscreenrecorder",
+        "url": "https://play.google.com/store/apps/details?id=mobi.charmer.myscreenrecorder&hl=en&gl=us"
+    },
+    {
+        "title": "Video Player All Format - XPlayer",
+        "icon": "https://lh3.googleusercontent.com/zLPDAeTG-HOJ_TOz4ZtyiFFwc2WgGdtJOfFJ02iV6oBQWHWh7CH4Lu97wjxHvSbh7w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 441300,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InShot+Inc.",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "video.player.videoplayer",
+        "url": "https://play.google.com/store/apps/details?id=video.player.videoplayer&hl=en&gl=us"
+    },
+    {
+        "title": "Quik \u2013 Free Video Editor for photos, clips, music",
+        "icon": "https://lh3.googleusercontent.com/Oa9Ebni1SteorGz-yg3Yc59Y1-5IBmRj4Q831UH0_SUctu7v-7G1Dj-lYArXXLO7pw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Y1no7nCBMi8",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1101780,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GoPro",
+        "updated": "July 8, 2019",
+        "size": "99M",
+        "installs": "100,000,000+",
+        "current_version": "5.0.7.4057-000c9d4b4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "GoPro",
+        "developer_email": "support@gopro.com",
+        "developer_url": "https://quik.gopro.com/",
+        "developer_address": "3000 Clearview Way, San Mateo, CA 94402",
+        "app_id": "com.stupeflix.replay",
+        "url": "https://play.google.com/store/apps/details?id=com.stupeflix.replay&hl=en&gl=us"
+    },
+    {
+        "title": "Kodi",
+        "icon": "https://lh3.googleusercontent.com/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 262146,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5766904818522015813",
+        "updated": "July 2, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "18.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "XBMC Foundation",
+        "developer_email": "androidsupport@kodi.tv",
+        "developer_url": "http://kodi.tv",
+        "developer_address": null,
+        "app_id": "org.xbmc.kodi",
+        "url": "https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=en&gl=us"
+    },
+    {
+        "title": "Video Editor for Youtube & Video Maker - My Movie",
+        "icon": "https://lh3.googleusercontent.com/G6hak4xsS0cT1UCTN3GgrrZBNR2IQ4kR7-XDj5vCnE3oUzb5hl409V-gEjvSpi0QlQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 149143,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9040442305630224740",
+        "updated": "July 24, 2019",
+        "size": "34M",
+        "installs": "5,000,000+",
+        "current_version": "8.1.1",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$15.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Video Editor & Photo Editor Apps",
+        "developer_email": "charmernewapps@gmail.com",
+        "developer_url": "http://www.youpai.biz/youpai_en.html",
+        "developer_address": "Building No.6, Courtyard No.9, Huamao City, Chaoyang District, Beijing",
+        "app_id": "mobi.charmer.mymovie",
+        "url": "https://play.google.com/store/apps/details?id=mobi.charmer.mymovie&hl=en&gl=us"
+    },
+    {
+        "title": "Plex",
+        "icon": "https://lh3.googleusercontent.com/-PbN6troneoQjhH839rZA3p-yIXYneJkIT8j7Z--F97MAONmt04VfiiAd6ZRvZHy",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 143199,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5779761635682790559",
+        "updated": "July 15, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$149.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Plex, Inc.",
+        "developer_email": "support@plex.tv",
+        "developer_url": "https://www.plex.tv",
+        "developer_address": "Plex, Inc.\n449 N. Santa Cruz Avenue\nLos Gatos, CA 95030",
+        "app_id": "com.plexapp.android",
+        "url": "https://play.google.com/store/apps/details?id=com.plexapp.android&hl=en&gl=us"
+    },
+    {
+        "title": "MX Player",
+        "icon": "https://lh3.googleusercontent.com/e_rNLzyR9i3wwy8BwEsIS4uz0fFu29p5RoXoNZt2L0Ef7cJ2QhAcw1x_K51A19HpzQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/S7-4xSY1vsA",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7494197,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "J2+Interactive",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "J2 Interactive",
+        "developer_email": "support@mxplayer.in",
+        "developer_url": "https://www.facebook.com/MXPlayer/",
+        "developer_address": "14F GFC,\n152 Teheran-ro,\nGangnam-gu,\nSeoul 135-984,\nKorea",
+        "app_id": "com.mxtech.videoplayer.ad",
+        "url": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=us"
+    },
+    {
+        "title": "Cute CUT - Video Editor & Movie Maker",
+        "icon": "https://lh3.googleusercontent.com/7uCmytNHwIDJcG8Vg1pfybNmGEIiHfYoYIwy2BBN3Yha7peIhoKjavmDtqsRUTBpSt8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 144244,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "MobiVio+Solutions",
+        "updated": "November 18, 2018",
+        "size": "33M",
+        "installs": "10,000,000+",
+        "current_version": "1.8.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "MobiVio Solutions",
+        "developer_email": "support@mobivio.com",
+        "developer_url": "http://cutecut.mobivio.com",
+        "developer_address": "No.329 YongGu Road\nGongshu District\nHangzhou Zhejiang\nChina",
+        "app_id": "com.mobivio.android.cutecut",
+        "url": "https://play.google.com/store/apps/details?id=com.mobivio.android.cutecut&hl=en&gl=us"
+    },
+    {
+        "title": "Arlo",
+        "icon": "https://lh3.googleusercontent.com/2lmklwAhaQ_34vYhZ-xem2GlW3VmN_ExWhWzLmWz5KKAYHqaaX1C4dJAovEynXpznuI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 89320,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NETGEAR,+Inc",
+        "updated": "July 17, 2019",
+        "size": "42M",
+        "installs": "1,000,000+",
+        "current_version": "2.7.12_25660",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "NETGEAR, Inc",
+        "developer_email": "SDSupportqueue@netgear.com",
+        "developer_url": "http://support.arlo.com",
+        "developer_address": "Netgear, Inc.\n350 E. Plumeria Dr.\nSan Jose, CA\n95134",
+        "app_id": "com.netgear.android",
+        "url": "https://play.google.com/store/apps/details?id=com.netgear.android&hl=en&gl=us"
+    },
+    {
+        "title": "All downloader 2019",
+        "icon": "https://lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 284268,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InShot+Inc.",
+        "updated": "April 23, 2019",
+        "size": "6.1M",
+        "installs": "100,000,000+",
+        "current_version": "1.1.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$7.99",
+            "$19.99"
+        ],
+        "interactive_elements": null,
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "all.video.downloader.allvideodownloader",
+        "url": "https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader&hl=en&gl=us"
+    },
+    {
+        "title": "VideoShow Video Editor, Video Maker, Photo Editor",
+        "icon": "https://lh3.googleusercontent.com/s-OvYqFt2F33nkIThCX0N1DWnWNdwiO_TYZuzYNLpdJytJKAbMJn5_92bS26W-HTImY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/uoiO4ZjozZQ",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4632561,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8114105855888506023",
+        "updated": "July 24, 2019",
+        "size": "22M",
+        "installs": "100,000,000+",
+        "current_version": "8.4.5rc",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$179.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "VideoShow EnjoyMobi Video Editor & Video Maker Inc",
+        "developer_email": "support@enjoy-global.com",
+        "developer_url": "http://www.enjoy-global.com",
+        "developer_address": "No.1515 Gumei Road Phoenix Mansion 19 Floor, Xuhui Shanghai, China\nVideoShow Video Editor Video Maker & Filmigo Movie Maker Video Cutter",
+        "app_id": "com.xvideostudio.videoeditor",
+        "url": "https://play.google.com/store/apps/details?id=com.xvideostudio.videoeditor&hl=en&gl=us"
+    },
+    {
+        "title": "Video to MP3 Converter - mp3 cutter and merger",
+        "icon": "https://lh3.googleusercontent.com/OdwV0xP3FdtGuIWDmhk29r7I4-k-Ykljo69Sm0QGH4war91-TVrIhLTw7hnqbPimMsI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 75189,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InShot+Inc.",
+        "updated": "July 22, 2019",
+        "size": "10.0M",
+        "installs": "5,000,000+",
+        "current_version": "1.5.2",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "mp3videoconverter.videotomp3.videotomp3converter",
+        "url": "https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter&hl=en&gl=us"
+    },
+    {
+        "title": "FilmoraGo - Free Video Editor",
+        "icon": "https://lh3.googleusercontent.com/asRsPLDW0d6p9EWIqAGopwzWDzKh3EzWAnGxf-f4DRBfa2o-M311toH2qpsm3TBzycM",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/v-e0LXpk3s0",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 336321,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6817647156581849686",
+        "updated": "June 6, 2018",
+        "size": "35M",
+        "installs": "10,000,000+",
+        "current_version": "3.1.4",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$7.99"
+        ],
+        "interactive_elements": [
+            "Shares Location, Digital Purchases"
+        ],
+        "developer": "Wondershare Software (H.K.) Co., Ltd.",
+        "developer_email": "ivanguo@wondershare.com",
+        "developer_url": "http://www.wondershare.com/mobile/",
+        "developer_address": "FLAT/RM 901, 9/F FINANCE BUILDING, 245 DES VOEUX ROAD, CENTRAL, HONG KONG",
+        "app_id": "com.wondershare.filmorago",
+        "url": "https://play.google.com/store/apps/details?id=com.wondershare.filmorago&hl=en&gl=us"
+    },
+    {
+        "title": "Video Star, Video Editor Magic Effects - MagoVideo",
+        "icon": "https://lh3.googleusercontent.com/WJV5Lw-eeK4JupfVgJxCBkIRASWsvUrB4o_A2mM7eyEgc-ghjMSTPRCg7LKBMg48gkI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 110375,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9040442305630224740",
+        "updated": "June 18, 2019",
+        "size": "40M",
+        "installs": "5,000,000+",
+        "current_version": "3.4.3",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Video Editor & Photo Editor Apps",
+        "developer_email": "charmernewapps@gmail.com",
+        "developer_url": "http://www.youpai.biz/youpai_en.html",
+        "developer_address": "Building No.6, Courtyard No.9, Huamao City, Chaoyang District, Beijing",
+        "app_id": "mobi.charmer.magovideo",
+        "url": "https://play.google.com/store/apps/details?id=mobi.charmer.magovideo&hl=en&gl=us"
+    },
+    {
+        "title": "Watch OWN",
+        "icon": "https://lh3.googleusercontent.com/3keKWSlABIWru_57tyJMHRJs_Tzv2sIOWiz6Oej1jZyG5DYi7jNIOhKfPbkCi5QWsw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17640,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "OWN+LLC",
+        "updated": "April 24, 2019",
+        "size": "9.9M",
+        "installs": "1,000,000+",
+        "current_version": "2.12.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "OWN LLC",
+        "developer_email": "feedback@own.tv",
+        "developer_url": "http://www.oprah.com",
+        "developer_address": "1041 N. Formosa Ave.\nWest Hollywood, CA 90046",
+        "app_id": "com.oprah.owntve",
+        "url": "https://play.google.com/store/apps/details?id=com.oprah.owntve&hl=en&gl=us"
+    },
+    {
+        "title": "Web Video Cast | Browser to TV/Chromecast/Roku/+",
+        "icon": "https://lh3.googleusercontent.com/4xUYWX2Z6LhCeyxjxfPl4d9v8DNGXiXJvR4gHcgTR3YCVoarhhGdfroTp1QvYI8pIQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/vMLTluL17oI",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 184184,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6953873961894982344",
+        "updated": "July 16, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$5.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases, Unrestricted Internet"
+        ],
+        "developer": "InstantBits Inc",
+        "developer_email": "webvideo@instantbits.com",
+        "developer_url": "https://www.webvideocaster.app",
+        "developer_address": "InstantBits Inc\nGPS dept.\nP.O. Box 202\nBenton, KS 67017",
+        "app_id": "com.instantbits.cast.webvideo",
+        "url": "https://play.google.com/store/apps/details?id=com.instantbits.cast.webvideo&hl=en&gl=us"
+    },
+    {
+        "title": "Best Movie Editing \u2013 Pro Video Creator",
+        "icon": "https://lh3.googleusercontent.com/QHuwffgPbbKyMyZyzwf4ZfnpfrqirtdGt2Q1V9IVRTj9fiXeiV3wTuuBapMzhkdqww",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 52412,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8414483638435060291",
+        "updated": "June 28, 2019",
+        "size": "33M",
+        "installs": "5,000,000+",
+        "current_version": "6.6.298",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Video Magic LLC",
+        "developer_email": "videomagictech@gmail.com",
+        "developer_url": "https://sites.google.com/view/imovie-editting",
+        "developer_address": "668 Haski Street, 16th Floor Skylight Tower, NK 0A6",
+        "app_id": "com.iosclip.moviemaker.movieapple.videostar.imovie",
+        "url": "https://play.google.com/store/apps/details?id=com.iosclip.moviemaker.movieapple.videostar.imovie&hl=en&gl=us"
+    },
+    {
+        "title": "Omlet Arcade - Screen Recorder, Stream Games",
+        "icon": "https://lh3.googleusercontent.com/Y-vR-kYsal3WlWGWJ7XHu--MSbkc4f-QkjvoLvDWTTrBG6cWofVZVJ4Q_boXNnKZpsPW",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/mgVBFSyoLDA",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 304940,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Omlet,+Inc",
+        "updated": "July 22, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "1.50.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "Omlet, Inc",
+        "developer_email": "contact@mobisocial.us",
+        "developer_url": "https://omlet.gg",
+        "developer_address": "201 San Antonio Circle Suite 260\nMountain View, CA",
+        "app_id": "mobisocial.arcade",
+        "url": "https://play.google.com/store/apps/details?id=mobisocial.arcade&hl=en&gl=us"
+    },
+    {
+        "title": "Video Maker for YouTube - Video.Guru",
+        "icon": "https://lh3.googleusercontent.com/1qCxeQct9P-LW2EhDsKX7fTgamnW0NUARc7B0brc8oXYiPR7v0rsrlHNyw9lBN6d09u2",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 181308,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InShot+Inc.",
+        "updated": "July 17, 2019",
+        "size": "25M",
+        "installs": "5,000,000+",
+        "current_version": "1.232.46",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$9.99"
+        ],
+        "interactive_elements": null,
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "videoeditor.videomaker.videoeditorforyoutube",
+        "url": "https://play.google.com/store/apps/details?id=videoeditor.videomaker.videoeditorforyoutube&hl=en&gl=us"
+    },
+    {
+        "title": "Glitch Video Effect - Video Editor & Video Effects",
+        "icon": "https://lh3.googleusercontent.com/fX5lW2iw1YXsroEa4B78adXvnwpqUUe6mq8tVpndRdL625RaKI3RuwX1fhQ_rwZDJfs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21569,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InShot+Inc.",
+        "updated": "June 21, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.1.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "glitchvideoeditor.videoeffects.glitchvideoeffect",
+        "url": "https://play.google.com/store/apps/details?id=glitchvideoeditor.videoeffects.glitchvideoeffect&hl=en&gl=us"
+    },
+    {
+        "title": "LocalCast for Chromecast",
+        "icon": "https://lh3.googleusercontent.com/lmyYPhLrikgSODBzhVDVfkl_i3jRNF2FUimxs5lrl4td1N7k2ryrs1kCqwQl0IZBxh8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/n7dW0Gd_EpA",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 123287,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4965522548888268835",
+        "updated": "May 17, 2019",
+        "size": "19M",
+        "installs": "10,000,000+",
+        "current_version": "10.7.2.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$21.30"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Stefan Pledl",
+        "developer_email": "support@localcast.app",
+        "developer_url": "http://www.localcast.app",
+        "developer_address": "Stefan Pledl\nBenedikusweg 13\n93049 Regensburg",
+        "app_id": "de.stefanpledl.localcast",
+        "url": "https://play.google.com/store/apps/details?id=de.stefanpledl.localcast&hl=en&gl=us"
+    },
+    {
+        "title": "FMinimalist Free Sounds",
+        "icon": "https://lh3.googleusercontent.com/OjiUjFcGfKN5zzeGJ_6G_5B7S1pLTouXe65UD3EekT4Pr5dk2qufxulJG12t8XmcwsI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3078,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Minimalist+AppSoftware",
+        "updated": "July 11, 2019",
+        "size": "7.0M",
+        "installs": "100,000+",
+        "current_version": "1.3.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Minimalist AppSoftware",
+        "developer_email": "minimalistapp@minimalist.com",
+        "developer_url": "https://sites.google.com/view/minimalistpolicy/home",
+        "developer_address": null,
+        "app_id": "com.minimalist.freemusicandvideodownloader",
+        "url": "https://play.google.com/store/apps/details?id=com.minimalist.freemusicandvideodownloader&hl=en&gl=us"
+    },
+    {
+        "title": "HD Video Downloader App - 2019",
+        "icon": "https://lh3.googleusercontent.com/NkDz__TQvHXFxSSt2ryfg2dorZ4pHxBoOcwKhD4hEkDShQUEFg_BB7ACyWuVHCeERC3g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21067,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Leap+Fitness+Group",
+        "updated": "July 19, 2019",
+        "size": "6.2M",
+        "installs": "10,000,000+",
+        "current_version": "1.0.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Leap Fitness Group",
+        "developer_email": "northpark.android@gmail.com",
+        "developer_url": "http://www.northparkapp.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "hd.video.downloader.app.hdvideodownloaderapp",
+        "url": "https://play.google.com/store/apps/details?id=hd.video.downloader.app.hdvideodownloaderapp&hl=en&gl=us"
+    },
+    {
+        "title": "Videoshop - Video Editor",
+        "icon": "https://lh3.googleusercontent.com/_IiM7vqqtxJCWHGUDAykp25pfLrsLvz4t9f0s14blAdUYSBwTltPw8qGyffJaCJjmAY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 652502,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Jajijujejo+Inc.",
+        "updated": "June 21, 2019",
+        "size": "43M",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$39.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Jajijujejo Inc.",
+        "developer_email": "joe@videoshop.net",
+        "developer_url": "http://www.videoshop.net",
+        "developer_address": "1736 NW 63rd st.,\nSeattle, WA 98107",
+        "app_id": "com.videoshop.app",
+        "url": "https://play.google.com/store/apps/details?id=com.videoshop.app&hl=en&gl=us"
+    },
+    {
+        "title": "Vlog Star for YouTube - free video effect editor",
+        "icon": "https://lh3.googleusercontent.com/13wncdS7S0nhPbvpuqzSdpXVXKiB3Q66cjchOBhKrVqLgQR5_Cx5CEpYFk21oNFiU_Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 36323,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "ryzenrise",
+        "updated": "July 1, 2019",
+        "size": "53M",
+        "installs": "1,000,000+",
+        "current_version": "2.5.9",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$11.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ryzenrise",
+        "developer_email": "ryzengchang@gmail.com",
+        "developer_url": "http://www.wisharcbuilder.com",
+        "developer_address": "\u5e7f\u5dde\u5e02\u5929\u6cb3\u533a\u5efa\u4e2d\u8def36\u53f7404",
+        "app_id": "com.ryzenrise.vlogstar",
+        "url": "https://play.google.com/store/apps/details?id=com.ryzenrise.vlogstar&hl=en&gl=us"
+    },
+    {
+        "title": "Screen Recorder",
+        "icon": "https://lh3.googleusercontent.com/NpQ58jTebgL2_eAVwZVFwHeKkYcdNm8TQLfrQMJaibK16hBsho1Ha1k3B4bZWgXOtwY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/WZLI2QGAhyw",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 154989,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AppSmartz",
+        "updated": "July 24, 2019",
+        "size": "13M",
+        "installs": "10,000,000+",
+        "current_version": "9.7.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "AppSmartz",
+        "developer_email": "support@AppScreenRecorder.com",
+        "developer_url": "http://www.appScreenRecorder.com",
+        "developer_address": "AppSmartz, Quark City Landmark Plaza (SEZ), Plot No. A-40A, GF, Industrial Area, Phase-VIII Ext. Mohali",
+        "app_id": "com.ezscreenrecorder",
+        "url": "https://play.google.com/store/apps/details?id=com.ezscreenrecorder&hl=en&gl=us"
+    },
+    {
+        "title": "Video & TV Cast | Chromecast",
+        "icon": "https://lh3.googleusercontent.com/nJg0WBQyafXhKoqYn6LIJa5nt1nIRCmpcaxCWyK_k1S_KVPiMORXZ7HD9VsujZBIng",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16157,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6284879872961307001",
+        "updated": "May 29, 2019",
+        "size": "7.4M",
+        "installs": "10,000,000+",
+        "current_version": "2.24",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$4.99"
+        ],
+        "interactive_elements": null,
+        "developer": "2kit consulting",
+        "developer_email": "info@video-tv-cast.com",
+        "developer_url": "http://video-tv-cast.com/chromecast",
+        "developer_address": "Kraus und Karnath GbR\nGraf-Adolf-Stra\u00dfe 41\n40210 D\u00fcsseldorf\nGermany",
+        "app_id": "de.twokit.castbrowser",
+        "url": "https://play.google.com/store/apps/details?id=de.twokit.castbrowser&hl=en&gl=us"
+    },
+    {
+        "title": "MP4 All Video Player",
+        "icon": "https://lh3.googleusercontent.com/xqKB-XcT3xlIRfZNgZf6l3Lu3PrhoZWZUgx4-kGj89n-xHaYR3rgKnZrBQ13fEPTDsV9",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5412,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "My+player+is+back",
+        "updated": "June 12, 2019",
+        "size": "4.5M",
+        "installs": "1,000,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "My player is back",
+        "developer_email": "rajkushalnishad9@gmail.com",
+        "developer_url": "http://policypalyer.blogspot.com/?m=1",
+        "developer_address": null,
+        "app_id": "com.mp4.all.videos.player",
+        "url": "https://play.google.com/store/apps/details?id=com.mp4.all.videos.player&hl=en&gl=us"
+    },
+    {
+        "title": "Intro Maker With Music, Video Maker & Video Editor",
+        "icon": "https://lh3.googleusercontent.com/S1ii-xtnhunthgxhMIVZCA3OpKq1QARP8tq_9MbEtTFgixTukpLipFkhn2OpdDkNKCw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/W8ipAgU6kko",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 71144,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6593418606788380848",
+        "updated": "July 3, 2019",
+        "size": "83M",
+        "installs": "1,000,000+",
+        "current_version": "2.6.268",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Vidoo Store",
+        "developer_email": "intromakerwithmusic@gmail.com ",
+        "developer_url": "https://sites.google.com/view/computer-launcher-style/",
+        "developer_address": null,
+        "app_id": "com.introtemplates.intromusic.intromaker",
+        "url": "https://play.google.com/store/apps/details?id=com.introtemplates.intromusic.intromaker&hl=en&gl=us"
+    },
+    {
+        "title": "All Screen (Chromecast, DLNA, Roku, Fire TV)",
+        "icon": "https://lh3.googleusercontent.com/FOvglc14EMOOKAXgx1EvDZJqp6blVuFTrx6MuWfuBtFdpdIrDfrLmd0Gqq69hN8gj0sn",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16309,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Aryabhata+Labs",
+        "updated": "July 24, 2019",
+        "size": "11M",
+        "installs": "5,000,000+",
+        "current_version": "1.3.2.210",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Aryabhata Labs",
+        "developer_email": "siraryabhata@gmail.com",
+        "developer_url": "https://github.com/ingsaurabh/All-Screen/wiki/Privacy-policy",
+        "developer_address": null,
+        "app_id": "com.toxic.apps.chrome",
+        "url": "https://play.google.com/store/apps/details?id=com.toxic.apps.chrome&hl=en&gl=us"
+    },
+    {
+        "title": "Zoomerang - Short Videos",
+        "icon": "https://lh3.googleusercontent.com/Jn_97x4yODQUu9CSJuKP85XZAvF1yweEGJofLzU5HyAtcZ-x27wVXW0GDIOfDaxYSg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/EKz2GGj68W0",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 60359,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Zoomerang",
+        "updated": "July 21, 2019",
+        "size": "33M",
+        "installs": "1,000,000+",
+        "current_version": "1.7.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Strong Language"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$39.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Zoomerang",
+        "developer_email": "feedback@zoomerang.app",
+        "developer_url": "https://www.zoomerang.app/",
+        "developer_address": "2 Nikoghayos Adonts St, Yerevan 0014, Armenia.",
+        "app_id": "com.yantech.zoomerang",
+        "url": "https://play.google.com/store/apps/details?id=com.yantech.zoomerang&hl=en&gl=us"
+    },
+    {
+        "title": "Video Editor",
+        "icon": "https://lh3.googleusercontent.com/R3Pu6hy-QCAQjb5ZSbQz55ni-izrlcBw6QA3GUcY1KshwOc99BJrUCIsz6-tDRCeXQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 682070,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "VIDEO+EDITOR++PROFESSIONAL+STUDIO",
+        "updated": "July 17, 2019",
+        "size": "11M",
+        "installs": "10,000,000+",
+        "current_version": "5.3.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "VIDEO EDITOR  PROFESSIONAL STUDIO",
+        "developer_email": "funvideoappstudio@gmail.com",
+        "developer_url": "http://www.xfunstudio.com",
+        "developer_address": "2010 Paul Y. Centre 49 Hung To Road Kowloon, Hong Kong",
+        "app_id": "com.movisoftnew.videoeditor",
+        "url": "https://play.google.com/store/apps/details?id=com.movisoftnew.videoeditor&hl=en&gl=us"
+    },
+    {
+        "title": "Alight Motion \u2014 Video and Animation Editor",
+        "icon": "https://lh3.googleusercontent.com/0nFoSloP5NvEuVg5uWP__z-phsBzEodHmjv9FM9ujytVX58PzbxLBsMOe9t5JNBkuA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12594,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Alight+Creative,+Inc.",
+        "updated": "June 26, 2019",
+        "size": "28M",
+        "installs": "1,000,000+",
+        "current_version": "2.5.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.49",
+            "$34.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Alight Creative, Inc.",
+        "developer_email": "support@alightcreative.com",
+        "developer_url": "https://alightcreative.com",
+        "developer_address": "8 Teheran-ro 2-gil, Yeoksam 1-dong, Gangnam-gu, Seoul 06232",
+        "app_id": "com.alightcreative.motion",
+        "url": "https://play.google.com/store/apps/details?id=com.alightcreative.motion&hl=en&gl=us"
+    },
+    {
+        "title": "Music Video Maker",
+        "icon": "https://lh3.googleusercontent.com/n0_zGDgWAc3g76L60ffhBpgdvb-i8IeUKnnQFU5EXmlw7xErLNRKVr1wQDbGa902nchU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 117383,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Music+video+maker",
+        "updated": "May 15, 2019",
+        "size": "13M",
+        "installs": "10,000,000+",
+        "current_version": "2.2.1.25",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Music video maker",
+        "developer_email": "clock.remind@gmail.com",
+        "developer_url": "https://s3.us-east-2.amazonaws.com/musicvideomaker/privacypolicy.html",
+        "developer_address": "Zhongshan 3rd Road Yue Xiu district,GuangZhou,China",
+        "app_id": "com.musicvideomaker.slideshow",
+        "url": "https://play.google.com/store/apps/details?id=com.musicvideomaker.slideshow&hl=en&gl=us"
+    },
+    {
+        "title": "iSquad Video Editor Pro - Music, Crop, Movie Maker",
+        "icon": "https://lh3.googleusercontent.com/N7scBuUxvwTaTcsRab_LVXhIbMBWlYIQg4ixVWVLiQwCf0USmlx0_8TiTvfaAgpe5t0J",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2013,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7919802900964223526",
+        "updated": "July 17, 2019",
+        "size": "15M",
+        "installs": "100,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$8.99",
+            "$94.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Origin Tech",
+        "developer_email": "fantasyllc2018@gmail.com",
+        "developer_url": "https://plus.google.com/116794250597377070773/posts/SYoEZWDm77x",
+        "developer_address": "\u9999\u6e2f\u4e5d\u9f99\u65fa\u89d2",
+        "app_id": "videoeditor.videomaker",
+        "url": "https://play.google.com/store/apps/details?id=videoeditor.videomaker&hl=en&gl=us"
+    },
+    {
+        "title": "Likee Lite - Formerly LIKE Lite Video",
+        "icon": "https://lh3.googleusercontent.com/O8zwFHZh6WyYMZ6J057wLJbFFadFON4eNC3Xfs4qDPqTl9rMWMbshe9SXeZJLxj8TiE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 41055,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "BIGO+TECHNOLOGY+PTE.+LTD.",
+        "updated": "July 23, 2019",
+        "size": "5.8M",
+        "installs": "10,000,000+",
+        "current_version": "1.2.7",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "BIGO TECHNOLOGY PTE. LTD.",
+        "developer_email": "android-support@bigo.sg",
+        "developer_url": "https://likee.video/",
+        "developer_address": "391B Orchard road #15-05 Ngee Ann City , Singapore(238874)",
+        "app_id": "video.like.lite",
+        "url": "https://play.google.com/store/apps/details?id=video.like.lite&hl=en&gl=us"
+    },
+    {
+        "title": "Vlog Editor for YouTube & Video Editor Free- VlogU",
+        "icon": "https://lh3.googleusercontent.com/m_9Q6TPf1le4_mdsbU2XIxiQJ3cXuf9ySVwoP4r2fM7MUnnJMtpD5WmyVff7RzCUZmM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1830,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9040442305630224740",
+        "updated": "July 25, 2019",
+        "size": "28M",
+        "installs": "100,000+",
+        "current_version": "2.1.2",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Video Editor & Photo Editor Apps",
+        "developer_email": "charmernewapps@gmail.com",
+        "developer_url": "http://www.youpai.biz/youpai_en.html",
+        "developer_address": "Building No.6, Courtyard No.9, Huamao City, Chaoyang District, Beijing",
+        "app_id": "videoeditor.vlogeditor.youtubevlog.vlogstar",
+        "url": "https://play.google.com/store/apps/details?id=videoeditor.vlogeditor.youtubevlog.vlogstar&hl=en&gl=us"
+    },
+    {
+        "title": "Video Tube - Play Tube - HD Video player",
+        "icon": "https://lh3.googleusercontent.com/JZwCaqvfxLDynzZiVzbGrYmOvD1ll2JtZYN6kh1MR9WDUC8OTiwCLiXbTWLoZ_GTSr4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34289,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "tube+music+video+download",
+        "updated": "July 23, 2019",
+        "size": "7.6M",
+        "installs": "5,000,000+",
+        "current_version": "1.0.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "tube music video download",
+        "developer_email": "mcelweefaith12266@gmail.com",
+        "developer_url": "http://102.34.51.71",
+        "developer_address": null,
+        "app_id": "com.fds.hfdghgfgfh",
+        "url": "https://play.google.com/store/apps/details?id=com.fds.hfdghgfgfh&hl=en&gl=us"
+    },
+    {
+        "title": "Mobizen Screen Recorder for SAMSUNG",
+        "icon": "https://lh3.googleusercontent.com/Y0Xm1zTgHYst-VOT276NIAOPpRwOc5m79RXhYvinZAA-SF2s4hjAFIcSMJxLuO319-I",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/SKCYdJnUeIw",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1121947,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5054904379876013930",
+        "updated": "July 9, 2019",
+        "size": "24M",
+        "installs": "10,000,000+",
+        "current_version": "3.6.6.7",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$43.99"
+        ],
+        "interactive_elements": null,
+        "developer": "MOBIZEN",
+        "developer_email": "support@mobizen.zendesk.com",
+        "developer_url": "http://support.mobizen.com/",
+        "developer_address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc1a1\ud30c\uad6c \uc704\ub840\uc131\ub300\ub85c 10  \uc5d0\uc2a4\ud0c0\uc6cc 11~15\uce35, \ubaa8\ube44\uc98c\n10, Wiryeseong-daero, Songpa-gu, Seoul, MOBIZEN",
+        "app_id": "com.rsupport.mobizen.sec",
+        "url": "https://play.google.com/store/apps/details?id=com.rsupport.mobizen.sec&hl=en&gl=us"
+    },
+    {
+        "title": "Cast TV for Roku/Chromecast/Apple TV/Xbox/Smart TV",
+        "icon": "https://lh3.googleusercontent.com/90DHcXfcViqc1lOIKsbkEZikZd68JJIn7lY_ZGqHcF2IB0tDdsp-QLwonhwsOM25K28",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23632,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4918175657084122908",
+        "updated": "July 13, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Castify",
+        "developer_email": "support@castify.tv",
+        "developer_url": "http://castify.tv",
+        "developer_address": "PO Box 706\n10441 Standford Ave.\nGarden Grove, CA 92842",
+        "app_id": "com.castify",
+        "url": "https://play.google.com/store/apps/details?id=com.castify&hl=en&gl=us"
+    },
+    {
+        "title": "PureFlix",
+        "icon": "https://lh3.googleusercontent.com/bGuoe8vwXjKd62omQ41NKUGTug4mK3WCx6w2D4O-5ChfOCs67faH9DCBTCOKRayvks5n",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5249,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pure+Flix+Digital",
+        "updated": "July 25, 2019",
+        "size": "25M",
+        "installs": "500,000+",
+        "current_version": "5.0.17",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Pure Flix Digital",
+        "developer_email": "support@support.pureflix.com",
+        "developer_url": "http://pureflix.com",
+        "developer_address": null,
+        "app_id": "com.rollingstorm.iamflix",
+        "url": "https://play.google.com/store/apps/details?id=com.rollingstorm.iamflix&hl=en&gl=us"
+    },
+    {
+        "title": "\ud83d\udd25Efectum \u2013 Slow Motion, Reverse Cam, Fast Video",
+        "icon": "https://lh3.googleusercontent.com/5GUiquncsF4xFzL5fevUSyQaMU0et6GGEFkf-_yAKA3xn2oPvoOpMSdmgKryp5sjQHs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 78905,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Craigpark+Limited",
+        "updated": "July 8, 2019",
+        "size": "29M",
+        "installs": "10,000,000+",
+        "current_version": "1.12.5",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$3.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Craigpark Limited",
+        "developer_email": "efectum.app@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/e/2PACX-1vTUxOk-hxyl9WS-JV5pw4tzGeTCJxVqDGQiVm_K3R98j4OaH9YNV1e6_0YH65YBc5ul8PuEO5xWb2FR/pub",
+        "developer_address": "Trident Chambers, Wickhams Cay 1 P.O. Box 146, Road Town, Tortola, British Virgin Islands",
+        "app_id": "editor.video.motion.fast.slow",
+        "url": "https://play.google.com/store/apps/details?id=editor.video.motion.fast.slow&hl=en&gl=us"
+    },
+    {
+        "title": "Samsung Video Library",
+        "icon": "https://lh3.googleusercontent.com/Ye7lJLS_gclLBB7oK8qSdbnFloNr6FMtb_fd9HiEOb8GzraQsuPdSq3I8B0cjvShClRl",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 48025,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5200379633052405703",
+        "updated": "July 12, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Samsung Electronics Co.,  Ltd.",
+        "developer_email": "noreply.sec@samsung.com",
+        "developer_url": "http://www.samsung.com/us/common/privacy.html",
+        "developer_address": "129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, 16677, Rep. of KOREA",
+        "app_id": "com.samsung.android.videolist",
+        "url": "https://play.google.com/store/apps/details?id=com.samsung.android.videolist&hl=en&gl=us"
+    },
+    {
+        "title": "Master Screen Recorder with Audio \u2013 Video Editor",
+        "icon": "https://lh3.googleusercontent.com/gg0SLMwbJ3XVp8IZZr5CiD2oV1FjYrmMs7ajXYt9qIibVSAgl5gwSmgfb603ZODQPMY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/6uuzs4Na7KM",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6459,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pro+Video+Editor+%26+Music+Video+Maker+Photo+Collage",
+        "updated": "July 24, 2019",
+        "size": "18M",
+        "installs": "100,000+",
+        "current_version": "1.0.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Pro Video Editor & Music Video Maker Photo Collage",
+        "developer_email": "videoeditorstudio@gmail.com",
+        "developer_url": "https://provideo864640497.wordpress.com/2019/06/20/terms-of-use-agreement-and-privacy-policy/",
+        "developer_address": "videoeditorstudio@gmail.com",
+        "app_id": "com.screenrecorder.recorder.editor",
+        "url": "https://play.google.com/store/apps/details?id=com.screenrecorder.recorder.editor&hl=en&gl=us"
+    },
+    {
+        "title": "YI Home",
+        "icon": "https://lh3.googleusercontent.com/lBjUIS5U-KQGoW9as_rrZ28vk0nWsfBRpcdjnvPeLedQPvcFhG6dZDZUNwao3FUuROE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 125741,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "YI+Technologies,+Inc.",
+        "updated": "July 16, 2019",
+        "size": "45M",
+        "installs": "1,000,000+",
+        "current_version": "4.10.0_20190715",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "YI Technologies, Inc.",
+        "developer_email": "support@yitechnology.com",
+        "developer_url": "http://www.yitechnology.com",
+        "developer_address": null,
+        "app_id": "com.ants360.yicamera.international",
+        "url": "https://play.google.com/store/apps/details?id=com.ants360.yicamera.international&hl=en&gl=us"
+    },
+    {
+        "title": "Video Downloader for Facebook Video Downloader",
+        "icon": "https://lh3.googleusercontent.com/UW63FbiNpZqIjycRaLx1aefH-kO-m4lUllyoBIpBRAfy-KJjWLdSJuXtkdNi5ZPoQ_M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 67540,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "InShot+Inc.",
+        "updated": "June 28, 2019",
+        "size": "4.5M",
+        "installs": "10,000,000+",
+        "current_version": "1.1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "InShot Inc.",
+        "developer_email": "cameras.ideas@gmail.com",
+        "developer_url": "http://www.myinstashot.com/privacypolicy.html",
+        "developer_address": "UNIT047/F, BRIGHT, WAY TOWER, NO.33 MONG KOK ROAD KOWLOON Hong Kong Box 957",
+        "app_id": "facebookvideodownloader.videodownloaderforfacebook",
+        "url": "https://play.google.com/store/apps/details?id=facebookvideodownloader.videodownloaderforfacebook&hl=en&gl=us"
+    },
+    {
+        "title": "PBS Video",
+        "icon": "https://lh3.googleusercontent.com/FI1LZe31btig4vA_rXer5BcuA36yb_qKtILoXrG9rMVn0e1PyAk4dKR5J3YMAMnAOxk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3690,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PBS",
+        "updated": "July 1, 2019",
+        "size": "28M",
+        "installs": "1,000,000+",
+        "current_version": "3.1.12",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PBS",
+        "developer_email": "help@pbs.org",
+        "developer_url": "http://help.pbs.org/",
+        "developer_address": "2100 Crystal Drive\nArlington, VA 22202",
+        "app_id": "com.pbs.video",
+        "url": "https://play.google.com/store/apps/details?id=com.pbs.video&hl=en&gl=us"
+    },
+    {
+        "title": "Videoleap - Professional Video Editor",
+        "icon": "https://lh3.googleusercontent.com/DQqBoPY0YQNqM5K8ZrQEZb3UWhV4YGs52HsFLuPrQhXquUb0xvkYYJdwtGNhaDt2h8Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 153,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Videoleap+professional+video+editor",
+        "updated": "July 24, 2019",
+        "size": "30M",
+        "installs": "10,000+",
+        "current_version": "1.0.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$6.49",
+            "$35.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Videoleap professional video editor",
+        "developer_email": "vivacut618@gmail.com",
+        "developer_url": "https://hybrid.gltxy.xyz/web/vivacut/Privacy.html",
+        "developer_address": "1 Hok Cheung St, Hung Hom",
+        "app_id": "com.videoeditorpro.android",
+        "url": "https://play.google.com/store/apps/details?id=com.videoeditorpro.android&hl=en&gl=us"
+    },
+    {
+        "title": "AllConnect - Play & Stream",
+        "icon": "https://lh3.googleusercontent.com/nuTT0rzVjvubPiG1kyBnT_pSRDCnsh6Qegks9LePWLffz6paaddVNTEsdIFvsONFHA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 60396,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tuxera+Inc.",
+        "updated": "April 18, 2018",
+        "size": "8.2M",
+        "installs": "10,000,000+",
+        "current_version": "8.20",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tuxera Inc.",
+        "developer_email": "allconnectapp@tuxera.com",
+        "developer_url": "http://www.allconnectapp.com",
+        "developer_address": "Westendintie 1\n02160 Espoo, Finland",
+        "app_id": "com.tuxera.streambels",
+        "url": "https://play.google.com/store/apps/details?id=com.tuxera.streambels&hl=en&gl=us"
+    },
+    {
+        "title": "Reverse Movie FX - magic video",
+        "icon": "https://lh3.googleusercontent.com/-yRvS7Wh1t5TXo-7QM-Dqk2Y3no6Yt2dI-7cpUljQaeHhj4iHzphT3ibY3lpukXEExg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/JAjzea8mVOA",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 839419,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7143198137251857748",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Crude Humor"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$2.49"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Bizo Mobile",
+        "developer_email": "contact@bizomobile.com",
+        "developer_url": "http://www.bizomobile.com",
+        "developer_address": "ul. Borkowska 25B/30\n30-438 Krak\u00f3w, Polska",
+        "app_id": "com.mobile.bizo.reverse",
+        "url": "https://play.google.com/store/apps/details?id=com.mobile.bizo.reverse&hl=en&gl=us"
+    },
+    {
+        "title": "Video Player All Format - Full HD Video Player",
+        "icon": "https://lh3.googleusercontent.com/3XRmBa9MB3BUwZfF57ycUls3X-Cz0M4dtSrxcji9nEXORz5xPJtwOnCpsxlvltX67oQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/V4y9q5UBu88",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21461,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ASD+Dev+Video+Player+for+All+Format",
+        "updated": "July 24, 2019",
+        "size": "15M",
+        "installs": "5,000,000+",
+        "current_version": "8.5.0.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ASD Dev Video Player for All Format",
+        "developer_email": "roxplayer2015@gmail.com",
+        "developer_url": "http://www.rocksplayer.com/",
+        "developer_address": "Preeti Saini\nHouse number 90, village -Kolaheri, Post-Titron , Teh-Nakur\nDist-Saharanpur\nState - Uttar Pradesh, Uttar Pradesh 247343\nIndia",
+        "app_id": "com.rocks.music.videoplayer",
+        "url": "https://play.google.com/store/apps/details?id=com.rocks.music.videoplayer&hl=en&gl=us"
+    },
+    {
+        "title": "DJI GO 4--For drones since P4",
+        "icon": "https://lh3.googleusercontent.com/ffJuQTaGs2aCLPDBxWslRHs9J77eDNJygOpZrUx0gtTTV0OLopmxp9s6N-P9ozJafl6a",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43326,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "DJI+TECHNOLOGY+CO.,+LTD",
+        "updated": "June 10, 2019",
+        "size": "99M",
+        "installs": "1,000,000+",
+        "current_version": "4.3.20",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "DJI TECHNOLOGY CO., LTD",
+        "developer_email": "support@dji.com",
+        "developer_url": "http://www.dji.com/",
+        "developer_address": null,
+        "app_id": "dji.go.v4",
+        "url": "https://play.google.com/store/apps/details?id=dji.go.v4&hl=en&gl=us"
+    },
+    {
+        "title": "PlayStation Vue Mobile",
+        "icon": "https://lh3.googleusercontent.com/W7iuVXYRmX5MTNNRhA0DRShX0Y3FUFYiDOhT43MWDB2x3rnNi5IOAZ4_fOhnhCViUgUS",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8285,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5810481673801929430",
+        "updated": "June 27, 2019",
+        "size": "20M",
+        "installs": "1,000,000+",
+        "current_version": "6.2.3.1764",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PlayStation Mobile Inc.",
+        "developer_email": "sie-playstationvue-android-feedback@sony.com",
+        "developer_url": "http://www.psvue.com",
+        "developer_address": "PlayStation Mobile Inc.\n2207 Bridgepointe Parkway\nSan Mateo, CA 94404\nUnited States",
+        "app_id": "com.snei.vue.android",
+        "url": "https://play.google.com/store/apps/details?id=com.snei.vue.android&hl=en&gl=us"
+    },
+    {
+        "title": "Video Player All Format",
+        "icon": "https://lh3.googleusercontent.com/AaNQNjvPh9NIKzn8GxUufMupVvQ3yLKI8llFLs4lkj7osxqa-2L5guVW0XbeZKx3lA4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/zQH2II9CtZg",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 165351,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "UPlayer",
+        "updated": "July 1, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "1.4.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "UPlayer",
+        "developer_email": "arunnanthalath@gmail.com",
+        "developer_url": "http://appsddoz.blogspot.com/2017/03/terms-of-service-and-privacy-policy.html",
+        "developer_address": "PAPPATH H\nKUTTICHIRA PO\nKUTTICHIRA\nTRISSUR",
+        "app_id": "uplayer.video.player",
+        "url": "https://play.google.com/store/apps/details?id=uplayer.video.player&hl=en&gl=us"
+    },
+    {
+        "title": "Remote for LG TV",
+        "icon": "https://lh3.googleusercontent.com/OhLTGgSDrvJ_IkFc-HORPu_gClsZjLQcmwHcNWJkzfzmphiOsAt1zslNKRMNKellxw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 44971,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FreeAppsTV",
+        "updated": "February 14, 2019",
+        "size": "7.1M",
+        "installs": "5,000,000+",
+        "current_version": "4.6.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FreeAppsTV",
+        "developer_email": "appstv.free@gmail.com",
+        "developer_url": "http://www.remote-app-tv.com/privacy-com.lgremote.view.html",
+        "developer_address": "4 bis, avenue notre dames\n94370 Sucy en brie",
+        "app_id": "com.lgremote.view",
+        "url": "https://play.google.com/store/apps/details?id=com.lgremote.view&hl=en&gl=us"
+    },
+    {
+        "title": "Mobizen Screen Recorder for LG - Record, Capture",
+        "icon": "https://lh3.googleusercontent.com/xPjGPqe_xpy7YxMJosnYNr6YshzqCw1aQJ-2WFXbtrykWpt9LV0qp6Ckj2o8_BG6GA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/SKCYdJnUeIw",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 76899,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5054904379876013930",
+        "updated": "July 9, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "3.6.6.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$43.99"
+        ],
+        "interactive_elements": null,
+        "developer": "MOBIZEN",
+        "developer_email": "support@mobizen.zendesk.com",
+        "developer_url": "http://support.mobizen.com/",
+        "developer_address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc1a1\ud30c\uad6c \uc704\ub840\uc131\ub300\ub85c 10  \uc5d0\uc2a4\ud0c0\uc6cc 11~15\uce35, \ubaa8\ube44\uc98c\n10, Wiryeseong-daero, Songpa-gu, Seoul, MOBIZEN",
+        "app_id": "com.rsupport.mobizen.lg",
+        "url": "https://play.google.com/store/apps/details?id=com.rsupport.mobizen.lg&hl=en&gl=us"
+    },
+    {
+        "title": "Crop & Trim Video",
+        "icon": "https://lh3.googleusercontent.com/-fBrpsf-lQKMlGjouFh_kJfzf8yEDolv2sZADLKenIdmQyZS0r05j23EYWnJF9mxv998",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/AcKlaZ-mN9A",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23140,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Alpha+Project",
+        "updated": "November 6, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$11.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Alpha Project",
+        "developer_email": "fnzstudios@gmail.com",
+        "developer_url": "https://www.appodeal.com/privacy-policy",
+        "developer_address": "Via F. Lippi 48 - 20131 - Milan - Italy",
+        "app_id": "fnzstudios.com.videocrop",
+        "url": "https://play.google.com/store/apps/details?id=fnzstudios.com.videocrop&hl=en&gl=us"
+    },
+    {
+        "title": "Adobe Premiere Clip",
+        "icon": "https://lh3.googleusercontent.com/NU0iOgmix0gWaOykTbDyHeDifJIZA5EzGizKCbA88m4xyYFrYj8tYypEyFq0nYaPHyss",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hbExP2iAgyY",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 51185,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4734916851270416020",
+        "updated": "October 29, 2018",
+        "size": "59M",
+        "installs": "5,000,000+",
+        "current_version": "1.1.6.1316",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Adobe",
+        "developer_email": "clipandroidfeedback@adobe.com",
+        "developer_url": "http://www.adobe.com/go/premiereclip",
+        "developer_address": "Adobe Systems Incorporated\n345 Park Avenue\nSan Jose, CA 95110-2704",
+        "app_id": "com.adobe.premiereclip",
+        "url": "https://play.google.com/store/apps/details?id=com.adobe.premiereclip&hl=en&gl=us"
+    },
+    {
+        "title": "THE LEGO\u00ae MOVIE 2\u2122 Movie Maker",
+        "icon": "https://lh3.googleusercontent.com/HxixF39mFIye7aF20sTnoJCNP8fF1kdbm6mbYnb_CfUcyMBIY69Sv-Sd-8lRfpPkpg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2015,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5382307214726356149",
+        "updated": "June 11, 2019",
+        "size": "95M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone",
+            "Comic Mischief"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "LEGO System A/S",
+        "developer_email": "googleplayapps@lego.com",
+        "developer_url": "http://www.lego.com",
+        "developer_address": "LEGO System A/S\nAastvej 1\nDK-7190 Billund",
+        "app_id": "com.lego.moviemaker.thelegomovie2",
+        "url": "https://play.google.com/store/apps/details?id=com.lego.moviemaker.thelegomovie2&hl=en&gl=us"
+    },
+    {
+        "title": "Screen Recorder",
+        "icon": "https://lh3.googleusercontent.com/Om5i16Gqt9vvAKVMpMp1eEjySx6XQy9bqlzGW6Evxxfu4tu4hI9vUAAjRYb1gJE8zLc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 690,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8646265049076640853",
+        "updated": "July 25, 2019",
+        "size": "3.3M",
+        "installs": "100,000+",
+        "current_version": "1.16",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bzing",
+        "developer_email": "bzingsupport@outlook.com",
+        "developer_url": null,
+        "developer_address": "Dizengoff",
+        "app_id": "com.idans.screenrecord",
+        "url": "https://play.google.com/store/apps/details?id=com.idans.screenrecord&hl=en&gl=us"
+    },
+    {
+        "title": "Video Slideshow With Music And Photos, Video Maker",
+        "icon": "https://lh3.googleusercontent.com/ci0J9XVUXgHK9F6HbN-JjwKaFHCeioHVKeCb_vc2oS-wlHtO8j7I9AC-sFQ2HxKfcg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23802,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Virgilo+Malley",
+        "updated": "July 10, 2019",
+        "size": "38M",
+        "installs": "500,000+",
+        "current_version": "1.0.8",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Virgilo Malley",
+        "developer_email": "virgilomalley.tp0207@gmail.com",
+        "developer_url": "http://bit.ly/2X7obyu",
+        "developer_address": null,
+        "app_id": "com.photomovie.slideshow.videomakerfree",
+        "url": "https://play.google.com/store/apps/details?id=com.photomovie.slideshow.videomakerfree&hl=en&gl=us"
+    },
+    {
+        "title": "Play Tube & Video Tube",
+        "icon": "https://lh3.googleusercontent.com/faSciPNU5GXdokBFrGxSzj7yiXJymOKXOH1SiypVoGZBJC8ZVq5m226JswuYLFf6bNXU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 908,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MTA+Inc.",
+        "updated": "June 21, 2019",
+        "size": "9.0M",
+        "installs": "100,000+",
+        "current_version": "1.03",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen",
+            "Language"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MTA Inc.",
+        "developer_email": "thebestapp.mtainc@gmail.com",
+        "developer_url": "http://npbamultimedia.com/app/privacy-policy-playtube.html",
+        "developer_address": null,
+        "app_id": "com.tube.video.playtube",
+        "url": "https://play.google.com/store/apps/details?id=com.tube.video.playtube&hl=en&gl=us"
+    },
+    {
+        "title": "Super Screen Recorder\u2013No Root REC & Screenshot",
+        "icon": "https://lh3.googleusercontent.com/4QaPS0jFdmOkokRFlBlyDuI_xoRpbHtvZullq_yRJgo5roJvQIHeFF4v_stC5roh2Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/mqygAQYMzAQ",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 66369,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7137133722391185509",
+        "updated": "July 18, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "4.0.1.9",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$19.99"
+        ],
+        "interactive_elements": null,
+        "developer": "HappyBees",
+        "developer_email": "superscreenrecorder@gmail.com",
+        "developer_url": "http://superlab.hlxmf.com/happybees_privacy.html",
+        "developer_address": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u60e0\u65b0\u897f\u885716\u53f72\u5355\u5143802",
+        "app_id": "com.tianxingjian.screenshot",
+        "url": "https://play.google.com/store/apps/details?id=com.tianxingjian.screenshot&hl=en&gl=us"
+    },
+    {
+        "title": "VLLO - Easy and Powerful Video editing app",
+        "icon": "https://lh3.googleusercontent.com/0tr1clZCrac3BcChWLEJxpef-od_BG20NxQo-HUAZonpJtyFbmKKCCbLJPXKXPLMnzzW",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3IFUxPKxpRM",
+        "category": [
+            "VIDEO_PLAYERS"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38832,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "vimosoft",
+        "updated": "July 21, 2019",
+        "size": "82M",
+        "installs": "1,000,000+",
+        "current_version": "5.4.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$5.49"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "vimosoft",
+        "developer_email": "vllo@vimosoft.com",
+        "developer_url": "http://www.vimosoft.com",
+        "developer_address": "\uacbd\uae30\ub3c4 \uc548\uc591\uc2dc \ub3d9\uc548\uad6c \uc2dc\ubbfc\ub300\ub85c 327\ubc88\uae38 11-41 \uc548\uc591\ucc3d\uc870\uacbd\uc81c\uc735\ud569\uc13c\ud130 516\ud638",
+        "app_id": "com.darinsoft.vimo",
+        "url": "https://play.google.com/store/apps/details?id=com.darinsoft.vimo&hl=en&gl=us"
+    }
+]

@@ -1,0 +1,4559 @@
+[
+    {
+        "title": "TikTok",
+        "icon": "https://lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11467300,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "TikTok+Inc.",
+        "updated": "July 25, 2019",
+        "size": "83M",
+        "installs": "500,000,000+",
+        "current_version": "12.3.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TikTok Inc.",
+        "developer_email": "feedback@tiktok.com",
+        "developer_url": "https://www.tiktok.com/",
+        "developer_address": "1920 Olympic Blvd\nSanta Monica, CA 90404\nUnited States",
+        "app_id": "com.zhiliaoapp.musically",
+        "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=us"
+    },
+    {
+        "title": "Instagram",
+        "icon": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 85402768,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Instagram",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location"
+        ],
+        "developer": "Instagram",
+        "developer_email": "android-support@instagram.com",
+        "developer_url": "http://help.instagram.com/",
+        "developer_address": null,
+        "app_id": "com.instagram.android",
+        "url": "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=us"
+    },
+    {
+        "title": "Snapchat",
+        "icon": "https://lh3.googleusercontent.com/ujz8cInt2YuaGLo2wahih771yXzWbyhNhzrCzm5Y5omDnLRt3v-FTTNMVfgT7FgIEfI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19894674,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Snap+Inc",
+        "updated": "July 11, 2019",
+        "size": "57M",
+        "installs": "1,000,000,000+",
+        "current_version": "10.61.0.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "developer": "Snap Inc",
+        "developer_email": "snapchat@snap.com",
+        "developer_url": "http://www.snap.com",
+        "developer_address": "63 Market St.\nVenice CA, 90291",
+        "app_id": "com.snapchat.android",
+        "url": "https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=us"
+    },
+    {
+        "title": "Facebook",
+        "icon": "https://lh3.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 89132579,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Facebook",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$399.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "Facebook",
+        "developer_email": "android-support@fb.com",
+        "developer_url": "https://www.facebook.com/facebook",
+        "developer_address": "1 Hacker Way\nMenlo Park, CA 94025",
+        "app_id": "com.facebook.katana",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=us"
+    },
+    {
+        "title": "YOLO: Anonymous Q&A",
+        "icon": "https://lh3.googleusercontent.com/lEkZzlrLpRpgNgHLaXJ1R95AiHFgeVjgPTsrF7_3c_2_COeIKps4X-nqz185PaV04kA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3751,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Popshow,+Inc.",
+        "updated": "July 3, 2019",
+        "size": "5.1M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Popshow, Inc.",
+        "developer_email": "support@popshow.com",
+        "developer_url": "https://onyolo.com",
+        "developer_address": null,
+        "app_id": "com.popshow.yolo",
+        "url": "https://play.google.com/store/apps/details?id=com.popshow.yolo&hl=en&gl=us"
+    },
+    {
+        "title": "Pinterest",
+        "icon": "https://lh3.googleusercontent.com/dVsv8Hc4TOUeLFAahxR8KANg22W9dj2jBsTW1VHv3CV-5NCZjP9D9i2j5IpfVx2NTB8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5419187,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pinterest",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Pinterest",
+        "developer_email": "help@pinterest.com",
+        "developer_url": "https://help.pinterest.com",
+        "developer_address": null,
+        "app_id": "com.pinterest",
+        "url": "https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=us"
+    },
+    {
+        "title": "Facebook Lite",
+        "icon": "https://lh3.googleusercontent.com/md422iqXDrN1jPagzMfFyDiwv-n_kSiL0Ly6_2G-VhofcnhQB0gAzM9NMjaH3drbHn8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11741258,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Facebook",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location"
+        ],
+        "developer": "Facebook",
+        "developer_email": "lite-android-support@fb.com",
+        "developer_url": "https://www.facebook.com/facebook",
+        "developer_address": "1 Hacker Way\nMenlo Park, CA 94025",
+        "app_id": "com.facebook.lite",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.lite&hl=en&gl=us"
+    },
+    {
+        "title": "QR Scanner Pro : All QR & Barcode",
+        "icon": "https://lh3.googleusercontent.com/40C1LGLBLw3knyRXqBFdpX6YIrl-yNr2h424LdJj0lnfu1eqn1h-dSl5viJrVn0w8yUi",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2836,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mobile+Ecology+Group.",
+        "updated": "June 27, 2019",
+        "size": "8.1M",
+        "installs": "500,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Sexual Content"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mobile Ecology Group.",
+        "developer_email": "alanbest2019@gmail.com",
+        "developer_url": "https://plus.google.com/107814273004016002731/posts/Mq1tru1Vtfh",
+        "developer_address": "No.3 Hok Yuen Street, Hung Hom.H.K",
+        "app_id": "qrcode.reader.qrcode.scanner",
+        "url": "https://play.google.com/store/apps/details?id=qrcode.reader.qrcode.scanner&hl=en&gl=us"
+    },
+    {
+        "title": "POF Free Dating App",
+        "icon": "https://lh3.googleusercontent.com/2haT_AvSP9FCE7On0O8-KsO0lmZX0_y6yQa_N4DRHq-qvzzEclEVfguts26A3vNRgvc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/4aZ9AjWPmf4",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1374833,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5661093148650447713",
+        "updated": "July 20, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$81.40"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Plentyoffish Media ULC",
+        "developer_email": "mobile@pof.com",
+        "developer_url": "http://www.pof.com",
+        "developer_address": "142-757 West Hastings, PMB 670, Vancouver, V6C 1A1",
+        "app_id": "com.pof.android",
+        "url": "https://play.google.com/store/apps/details?id=com.pof.android&hl=en&gl=us"
+    },
+    {
+        "title": "Nextdoor: Local News, Garage Sales & Home Services",
+        "icon": "https://lh3.googleusercontent.com/9qcVcYttI63y6WMLmf5Htx7rOJ69fvU3ZdSxUIdbEX2CELVlh3OncmdVOVz-MLKqowqr",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 81820,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Nextdoor.com",
+        "updated": "July 24, 2019",
+        "size": "14M",
+        "installs": "5,000,000+",
+        "current_version": "2.120",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Nextdoor.com",
+        "developer_email": "emailsupport@nextdoor.com",
+        "developer_url": "https://www.nextdoor.com",
+        "developer_address": null,
+        "app_id": "com.nextdoor",
+        "url": "https://play.google.com/store/apps/details?id=com.nextdoor&hl=en&gl=us"
+    },
+    {
+        "title": "Text Free: Free Text Plus Call",
+        "icon": "https://lh3.googleusercontent.com/X0-EdMi2iAgt4RVkZKUXZiFsUo1Tj1cRwDt8Gwa5XnOLtwGsqCGp_IQLzJge0MIWrdyw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 342592,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4765596083042714620",
+        "updated": "July 25, 2019",
+        "size": "24M",
+        "installs": "10,000,000+",
+        "current_version": "8.45.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "developer": "Pinger, Inc - Second Phone Number App",
+        "developer_email": "support@pinger.com",
+        "developer_url": "http://www.pinger.com/",
+        "developer_address": "97 South 2nd Street, Suite 210\nSan Jose, California 95113",
+        "app_id": "com.pinger.textfree",
+        "url": "https://play.google.com/store/apps/details?id=com.pinger.textfree&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger for Messages, Text and Video Chat",
+        "icon": "https://lh3.googleusercontent.com/I-kEm7gsgUoxSz1P4T8JKfqyLuq_TPZjFZzBYRHnRMFAUbqGkCGoviV9i0GdSVipXw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 120951,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8696216234951434473",
+        "updated": "July 17, 2019",
+        "size": "12M",
+        "installs": "10,000,000+",
+        "current_version": "2.69",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Messenger : Free Texts and Messages by AppyHigh",
+        "developer_email": "help@appyhigh.com",
+        "developer_url": "https://privacypolicy639727281.wordpress.com/2018/04/09/privacy-policy-messenger-pro/",
+        "developer_address": "Tower-7, Sector-48, Gurgaon",
+        "app_id": "messenger.chat.social.messenger",
+        "url": "https://play.google.com/store/apps/details?id=messenger.chat.social.messenger&hl=en&gl=us"
+    },
+    {
+        "title": "MeetMe: Chat & Meet New People",
+        "icon": "https://lh3.googleusercontent.com/iCqsm7cH0HX2rNHu298w-dGKEYY4M5krj6yuy322nvY7cC0QG-A2V8aYJ6Euod5zT30",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1371985,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6473407804312298372",
+        "updated": "July 11, 2019",
+        "size": "54M",
+        "installs": "50,000,000+",
+        "current_version": "14.0.4.2030",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$1.00",
+            "$399.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "MeetMe.com",
+        "developer_email": "support@meetme.com",
+        "developer_url": "http://www.meetme.com/",
+        "developer_address": "100 Union Square Drive\nNew Hope, PA 18938",
+        "app_id": "com.myyearbook.m",
+        "url": "https://play.google.com/store/apps/details?id=com.myyearbook.m&hl=en&gl=us"
+    },
+    {
+        "title": "LinkedIn: Jobs, professional profile, & networking",
+        "icon": "https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1436965,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6860682062931868151",
+        "updated": "July 17, 2019",
+        "size": "23M",
+        "installs": "100,000,000+",
+        "current_version": "4.1.330",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "LinkedIn",
+        "developer_email": "team-mobile@linkedin.com",
+        "developer_url": "http://www.linkedin.com/",
+        "developer_address": null,
+        "app_id": "com.linkedin.android",
+        "url": "https://play.google.com/store/apps/details?id=com.linkedin.android&hl=en&gl=us"
+    },
+    {
+        "title": "IMVU: 3D Avatar! Virtual World & Social Game",
+        "icon": "https://lh3.googleusercontent.com/mrWvg3C7o-ey0xX67G7tWFUabRoXeAnNY_JqSOloLiV-GWV-B3y01fS7c8_Ul-vcBg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3vZVGOkYwsA",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 326298,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "IMVU,+Inc.",
+        "updated": "April 10, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "IMVU, Inc.",
+        "developer_email": "android.support@imvu.com",
+        "developer_url": "http://www.imvu.com",
+        "developer_address": "PO Box 2772\nRedwood City, CA 94063",
+        "app_id": "com.imvu.mobilecordova",
+        "url": "https://play.google.com/store/apps/details?id=com.imvu.mobilecordova&hl=en&gl=us"
+    },
+    {
+        "title": "Neighbors by Ring",
+        "icon": "https://lh3.googleusercontent.com/arLQdsE8uDj-RCZ8RQGIe0cmZ_aFxI0h3GOTzwhayxgRinRpXMO1jhE9NchUSegNCJU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17596,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ring.com",
+        "updated": "July 15, 2019",
+        "size": "18M",
+        "installs": "1,000,000+",
+        "current_version": "2.3.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Ring.com",
+        "developer_email": "neighbors@ring.com",
+        "developer_url": "https://shop.ring.com/pages/neighbors",
+        "developer_address": null,
+        "app_id": "com.ring.neighborhoods",
+        "url": "https://play.google.com/store/apps/details?id=com.ring.neighborhoods&hl=en&gl=us"
+    },
+    {
+        "title": "LiveMe - Video chat, new friends, and make money",
+        "icon": "https://lh3.googleusercontent.com/Q1I5dN_1a5pABToRowOygo5mUklXLb-uWrUoSX4qEurTUI6bTSnowOAVJA4uSxrL_Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 536215,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Live.me+Broadcast",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$399.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Live.me Broadcast",
+        "developer_email": "support@liveme.com",
+        "developer_url": "http://www.liveme.com",
+        "developer_address": "Hong Kong Live.me Corporation Limited. Unit 1309A, 13/F, Cable TV Tower, No. 9 Hoi Shing Road, Tsuen Wan, N.T.,Hong Kong",
+        "app_id": "com.cmcm.live",
+        "url": "https://play.google.com/store/apps/details?id=com.cmcm.live&hl=en&gl=us"
+    },
+    {
+        "title": "Badoo - Free Chat & Dating App",
+        "icon": "https://lh3.googleusercontent.com/n-L_egXxB8eY4EQxl3ymo-ZyV-fVqMJqsiYA9hXR1-ZMcFcMki7Hbst4U3ILW9AnHNM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4389769,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5884062829898474398",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$239.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Badoo",
+        "developer_email": "android.support@badoo.com",
+        "developer_url": "http://www.badoo.com",
+        "developer_address": "13 Hawley Crescent\nLondon\nNW1 8NP\nUnited Kingdom",
+        "app_id": "com.badoo.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.badoo.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Text Me: Text Free, Call Free, Second Phone Number",
+        "icon": "https://lh3.googleusercontent.com/JI1Fn4O_kO-JfSff3hGewQFK1_xXBxt8f0IxZyvRPT6smA56mIDYBsQP0lCQPUmZyik",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 384686,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7744106960263623416",
+        "updated": "June 27, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "TextMe, Inc.",
+        "developer_email": "feedback@go-text.me",
+        "developer_url": "http://www.go-text.me",
+        "developer_address": "275 Post St #500\nSan Francisco, CA 94108",
+        "app_id": "com.textmeinc.textme",
+        "url": "https://play.google.com/store/apps/details?id=com.textmeinc.textme&hl=en&gl=us"
+    },
+    {
+        "title": "Tumblr",
+        "icon": "https://lh3.googleusercontent.com/n3yO4huMJx0FR07yHT1KeP2BW5TWjrlAh7snuxZTDkvk01f_EtUuqLYzYG_nuz1ZWg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/sAn_h1zV4c0",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3309421,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tumblr,+Inc.",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Tumblr, Inc.",
+        "developer_email": "support@tumblr.com",
+        "developer_url": "http://tumblr.com",
+        "developer_address": null,
+        "app_id": "com.tumblr",
+        "url": "https://play.google.com/store/apps/details?id=com.tumblr&hl=en&gl=us"
+    },
+    {
+        "title": "Amino: Communities and Chats",
+        "icon": "https://lh3.googleusercontent.com/4cGwTOpzG3kYz2KugPyVAMVc0icUNPeUQEbX5tKo7RzefXkvVLAcxERMnJKC8bMgVFU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2019672,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Amino+Apps",
+        "updated": "July 24, 2019",
+        "size": "69M",
+        "installs": "10,000,000+",
+        "current_version": "2.3.28023",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Amino Apps",
+        "developer_email": "support@aminoapps.com",
+        "developer_url": "http://www.aminoapps.com",
+        "developer_address": "22 W 19th St. 8th Floor\nNew York, New York, 10011",
+        "app_id": "com.narvii.amino.master",
+        "url": "https://play.google.com/store/apps/details?id=com.narvii.amino.master&hl=en&gl=us"
+    },
+    {
+        "title": "SKOUT - Meet, Chat, Go Live",
+        "icon": "https://lh3.googleusercontent.com/NRiI7pniA7kkkbDnxg1EnQMgxydZuFNE28IBSBpFu_gwM522lD6nLnbMHP0OMXT5Ig",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2PkbQGLprRk",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1127163,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8993195399885453984",
+        "updated": "July 22, 2019",
+        "size": "55M",
+        "installs": "50,000,000+",
+        "current_version": "6.10.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Skout Inc.",
+        "developer_email": "support@skout.com",
+        "developer_url": "http://www.skout.com",
+        "developer_address": "301 Howard St, San Francisco, CA, USA",
+        "app_id": "com.skout.android",
+        "url": "https://play.google.com/store/apps/details?id=com.skout.android&hl=en&gl=us"
+    },
+    {
+        "title": "MeWe",
+        "icon": "https://lh3.googleusercontent.com/MXxTMo9fY9vq7gpXCR6wNgl9wwthyVr0j3qxYAUFxODn54-T4LqN3c8r7cIqHwfvdS8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hMQX9Rbl1Us",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 50229,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "MeWe",
+        "updated": "July 25, 2019",
+        "size": "47M",
+        "installs": "1,000,000+",
+        "current_version": "5.9.6",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$5.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, In-App Purchases"
+        ],
+        "developer": "MeWe",
+        "developer_email": "feedback@mewe.com",
+        "developer_url": "http://mewe.com",
+        "developer_address": "MeWe\nc/o Morrison and Foerster LLP\n425 Market Street\nSan Francisco, CA 94105",
+        "app_id": "com.mewe",
+        "url": "https://play.google.com/store/apps/details?id=com.mewe&hl=en&gl=us"
+    },
+    {
+        "title": "Tagged - Meet, Chat & Dating",
+        "icon": "https://lh3.googleusercontent.com/icjCQlWN3Y04d2-G84JzWWpTtGJIyk4R-Gp_QFHhyasgG_LmOd09VdoBG5e2YyQF9R8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 561153,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8315315095315966598",
+        "updated": "May 28, 2019",
+        "size": "79M",
+        "installs": "10,000,000+",
+        "current_version": "9.13.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Ifwe Inc.",
+        "developer_email": "androidsupport@tagged.com",
+        "developer_url": "http://www.tagged.com",
+        "developer_address": "101A Clay St Box #117\nSan Francisco, CA 94111",
+        "app_id": "com.taggedapp",
+        "url": "https://play.google.com/store/apps/details?id=com.taggedapp&hl=en&gl=us"
+    },
+    {
+        "title": "BAND - App for all groups",
+        "icon": "https://lh3.googleusercontent.com/92AY78SXqDEtztpNoCsHRoAbajB-6OmGaRYA103OsvD_D6Q1u0HVkT6mNt7egXovaw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Lq4YhIgZZIE",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 315640,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6225315284672069550",
+        "updated": "July 16, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$1.46",
+            "$53.09"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "NAVER Corp.",
+        "developer_email": "band_help@naver.com",
+        "developer_url": "http://www.band.us",
+        "developer_address": "1588-3820\n\n\uacbd\uae30\ub3c4 \uc131\ub0a8\uc2dc \ubd84\ub2f9\uad6c \uc815\uc790\ub3d9 178-1 \uadf8\ub9b0\ud329\ud1a0\ub9ac 16\uce35",
+        "app_id": "com.nhn.android.band",
+        "url": "https://play.google.com/store/apps/details?id=com.nhn.android.band&hl=en&gl=us"
+    },
+    {
+        "title": "Houseparty",
+        "icon": "https://lh3.googleusercontent.com/4XgV6Mbpw4XupHJxLXZpPNnxOl_GnNs0YutmQLl3HSm2-aEUdyfaaRmf3h1HAcxz70Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 66014,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Life+on+Air",
+        "updated": "June 19, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "1.34.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Life on Air",
+        "developer_email": "hello@houseparty.com",
+        "developer_url": "http://houseparty.com",
+        "developer_address": "566 Brannan St\nSan Francisco,\nCA 94107",
+        "app_id": "com.herzick.houseparty",
+        "url": "https://play.google.com/store/apps/details?id=com.herzick.houseparty&hl=en&gl=us"
+    },
+    {
+        "title": "Free phone calls, free texting SMS on free number",
+        "icon": "https://lh3.googleusercontent.com/gfFyPg2U6lv_vzVQjE3GdNTwOZ4ka2Eb-W_xRk2JXO3lXUXKokFbH8XrdSKJIV_itw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/kfDT4L9b8Gw",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 503155,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7538110937782306003",
+        "updated": "July 12, 2019",
+        "size": "38M",
+        "installs": "10,000,000+",
+        "current_version": "4.9.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Dingtone, Inc.",
+        "developer_email": "support@dingtone.me",
+        "developer_url": "http://www.dingtone.me",
+        "developer_address": "440 N Wolfe Road",
+        "app_id": "me.dingtone.app.im",
+        "url": "https://play.google.com/store/apps/details?id=me.dingtone.app.im&hl=en&gl=us"
+    },
+    {
+        "title": "Quora",
+        "icon": "https://lh3.googleusercontent.com/aGscp2B1FOJvy2R3H4yr0c3q1ySeP4y_sph6ioJmZ99KS2KayE7iSknPsLGTKcOoYd8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 410101,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Quora,+Inc.",
+        "updated": "July 18, 2019",
+        "size": "6.2M",
+        "installs": "10,000,000+",
+        "current_version": "2.8.16",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Quora, Inc.",
+        "developer_email": "feedback+android@quora.com",
+        "developer_url": "http://www.quora.com",
+        "developer_address": null,
+        "app_id": "com.quora.android",
+        "url": "https://play.google.com/store/apps/details?id=com.quora.android&hl=en&gl=us"
+    },
+    {
+        "title": "The Messenger App: Free for message & chat",
+        "icon": "https://lh3.googleusercontent.com/pB0bMWKABcjUrpAS-LEJkZ9mqqsRoRLdP6kzGgWCqGXn9_oyWQWeZaTq-PMGLF8Gmw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20677,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "The+Messenger+App+:+Free+text+messages+%26+free+call",
+        "updated": "July 25, 2019",
+        "size": "12M",
+        "installs": "5,000,000+",
+        "current_version": "2.0.25",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Unrestricted Internet, In-App Purchases"
+        ],
+        "developer": "The Messenger App : Free text messages & free call",
+        "developer_email": "messenger.messenger.messanger@gmail.com",
+        "developer_url": "https://randomly.club/policies/messenger-privacy-policy.html",
+        "developer_address": "India: Sector 48\nGurgaon, Haryana 122002\n\nEurope: Research & Product Development Center, Stefanikova 62, Kosice\n040 01",
+        "app_id": "messenger.messenger.messanger.messenger",
+        "url": "https://play.google.com/store/apps/details?id=messenger.messenger.messanger.messenger&hl=en&gl=us"
+    },
+    {
+        "title": "Wishbone -  Compare Anything",
+        "icon": "https://lh3.googleusercontent.com/Lk6BDnyFkiRyDmmQ2InA0c5a51FbeOH2YIaWihNjT8VfN6AvfEFlOs5k-pATN3N_r4_F",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 54414,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Science+Mobile+LLC",
+        "updated": "July 24, 2019",
+        "size": "22M",
+        "installs": "1,000,000+",
+        "current_version": "5.6.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$1.00",
+            "$7.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Science Mobile LLC",
+        "developer_email": "info@getwishboneapp.com",
+        "developer_url": "http://www.getwishboneapp.com",
+        "developer_address": "1447 2nd St #200, Santa Monica, CA 90401",
+        "app_id": "com.science.wishboneapp",
+        "url": "https://play.google.com/store/apps/details?id=com.science.wishboneapp&hl=en&gl=us"
+    },
+    {
+        "title": "textPlus: Free Text & Calls",
+        "icon": "https://lh3.googleusercontent.com/TsoAC0y8wLyWiX19Jh3Q-Fs2EJDHCAxFhGwEsIxjel5AQs73j7g4OdRa6EYx8F2O",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/vz2GXFce7HE",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 391931,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5970545234728876768",
+        "updated": "July 22, 2019",
+        "size": "38M",
+        "installs": "10,000,000+",
+        "current_version": "7.5.4",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "textPlus",
+        "developer_email": "support@textplus.com",
+        "developer_url": "http://www.textplus.com",
+        "developer_address": "2150 Park Place, Suite 100\nEl Segundo, CA 90245",
+        "app_id": "com.gogii.textplus",
+        "url": "https://play.google.com/store/apps/details?id=com.gogii.textplus&hl=en&gl=us"
+    },
+    {
+        "title": "HOLLA: Live Random Video Chat, Meet New People",
+        "icon": "https://lh3.googleusercontent.com/brWB0pRz-ovWS_QYOJlQP0oBhknWSRPiGYScnRgB5sKQw6LJCE0S2fJFfslNSatrfQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XZwK0p9rF-A",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 283323,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "HOLLA",
+        "updated": "July 20, 2019",
+        "size": "67M",
+        "installs": "10,000,000+",
+        "current_version": "4.3.4.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "HOLLA",
+        "developer_email": "hi@holla.world",
+        "developer_url": "http://holla.world",
+        "developer_address": "RM 19C LOCKHART CTR 301-307\nLOCKHART RD WAN CHAI\nHONG KONG",
+        "app_id": "com.exutech.chacha",
+        "url": "https://play.google.com/store/apps/details?id=com.exutech.chacha&hl=en&gl=us"
+    },
+    {
+        "title": "FreeTone Free Calls & Texting",
+        "icon": "https://lh3.googleusercontent.com/CJSOBzTTX4ktC9ajS1cATCHz1Ie2W5j1y-hJ-LIpXWfndusRUFX2NtjyHIJWFFEFwxA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 65959,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7744106960263623416",
+        "updated": "June 26, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "TextMe, Inc.",
+        "developer_email": "feedback@go-text.me",
+        "developer_url": "http://www.free-tone.com/",
+        "developer_address": "275 Post St #500\nSan Francisco, CA 94108",
+        "app_id": "com.textmeinc.freetone",
+        "url": "https://play.google.com/store/apps/details?id=com.textmeinc.freetone&hl=en&gl=us"
+    },
+    {
+        "title": "Grindr - Gay chat",
+        "icon": "https://lh3.googleusercontent.com/8sTpBWyCCpQGdsrTu_NLRQLwt4zibVidrYeCcEWiVwGRHdhcnwIg_ZicU2XlD9UfxW4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 347830,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Grindr+LLC",
+        "updated": "July 24, 2019",
+        "size": "31M",
+        "installs": "10,000,000+",
+        "current_version": "5.13.2",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$239.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Grindr LLC",
+        "developer_email": "help-android@grindr.com",
+        "developer_url": "http://www.grindr.com",
+        "developer_address": "750 N. San Vicente Blvd\nWest Hollywood\nCA\n90069\nUSA",
+        "app_id": "com.grindrapp.android",
+        "url": "https://play.google.com/store/apps/details?id=com.grindrapp.android&hl=en&gl=us"
+    },
+    {
+        "title": "Phone Tracker By Number",
+        "icon": "https://lh3.googleusercontent.com/6W-wSqOTlV72TmJRkASaIsPatW8jG3f8afnoDto5iOzVmBf7BBsjnrczBdWjhzu_D4V2",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/sd6lGAvyv-w",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 381884,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5357477381669478484",
+        "updated": "July 23, 2019",
+        "size": "6.8M",
+        "installs": "10,000,000+",
+        "current_version": "5.22",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Location"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Family Locator Inc.",
+        "developer_email": "devteam@onelocator.com",
+        "developer_url": "https://onelocator.com",
+        "developer_address": "3 Albert alawal st,\nsmouha,\nAlexandria",
+        "app_id": "mg.locations.track5",
+        "url": "https://play.google.com/store/apps/details?id=mg.locations.track5&hl=en&gl=us"
+    },
+    {
+        "title": "Meetup: Find events near you",
+        "icon": "https://lh3.googleusercontent.com/eZ8x-rPQhV1aNzL_4X_2bXJLJpjf81s3AEJfYMGD4c5kZ29eIMWbowm4BMIK8wKGOD3v",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/r1Tl0K6kPdM",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 88907,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Meetup",
+        "updated": "July 23, 2019",
+        "size": "13M",
+        "installs": "10,000,000+",
+        "current_version": "3.12.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Meetup",
+        "developer_email": "androiddev@meetup.com",
+        "developer_url": "http://www.meetup.com/",
+        "developer_address": null,
+        "app_id": "com.meetup",
+        "url": "https://play.google.com/store/apps/details?id=com.meetup&hl=en&gl=us"
+    },
+    {
+        "title": "Text Free: WiFi Calling App",
+        "icon": "https://lh3.googleusercontent.com/LL9a5iKVlTVqVtIVExetHDwdsGdv11cvebUSh-cjAr7e5ZkMhEKXA8Q7qqK-29828g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 87856,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4765596083042714620",
+        "updated": "July 24, 2019",
+        "size": "24M",
+        "installs": "5,000,000+",
+        "current_version": "8.46",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "developer": "Pinger, Inc - Second Phone Number App",
+        "developer_email": "support@pinger.com",
+        "developer_url": "http://www.pinger.com",
+        "developer_address": "97 South 2nd Street, Suite 210\nSan Jose, California 95113",
+        "app_id": "com.pinger.textfree.call",
+        "url": "https://play.google.com/store/apps/details?id=com.pinger.textfree.call&hl=en&gl=us"
+    },
+    {
+        "title": "The Video Messenger App : Video Messages, Chats",
+        "icon": "https://lh3.googleusercontent.com/zKf7Z8gktjqFr6sX0HToR8zQ83d-6uY14dAg7WUV2bQDOzMb13nJJgozQiKDP4na7w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15865,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "The+Messenger+App+:+Free+text+messages+%26+free+call",
+        "updated": "June 28, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$174.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "The Messenger App : Free text messages & free call",
+        "developer_email": "messenger.messenger.messanger@gmail.com",
+        "developer_url": "https://randomly.club/policies/video-chat-policy.html",
+        "developer_address": "India: Sector 48\nGurgaon, Haryana 122002\n\nEurope: Research & Product Development Center, Stefanikova 62, Kosice\n040 01",
+        "app_id": "messenger.messenger.videocall.messenger",
+        "url": "https://play.google.com/store/apps/details?id=messenger.messenger.videocall.messenger&hl=en&gl=us"
+    },
+    {
+        "title": "Moot - LFG & Gaming Discussion",
+        "icon": "https://lh3.googleusercontent.com/8GeoPDO4Ed6juEPA6hpSwMiXqIIbp3U_yC1c1OEC-cQi5ihK5QzdRj97ex1b9JZ4OZc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7893,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6225315284672069550",
+        "updated": "July 16, 2019",
+        "size": "40M",
+        "installs": "500,000+",
+        "current_version": "2.16.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "NAVER Corp.",
+        "developer_email": "moot_help@navercorp.com",
+        "developer_url": "https://moot.us",
+        "developer_address": "1588-3820\n\n\uacbd\uae30\ub3c4 \uc131\ub0a8\uc2dc \ubd84\ub2f9\uad6c \uc815\uc790\ub3d9 178-1 \uadf8\ub9b0\ud329\ud1a0\ub9ac 16\uce35",
+        "app_id": "com.campmobile.android.moot",
+        "url": "https://play.google.com/store/apps/details?id=com.campmobile.android.moot&hl=en&gl=us"
+    },
+    {
+        "title": "GPS Phone Tracker",
+        "icon": "https://lh3.googleusercontent.com/aQjc-kwhYpjCIHKblJQg4nHsVu6rcv9Yhon-zqqvUJftFIgBxUOwLePITcO_w8iefQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 290293,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Family+Safety+Production",
+        "updated": "April 19, 2019",
+        "size": "40M",
+        "installs": "10,000,000+",
+        "current_version": "18.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$69.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Family Safety Production",
+        "developer_email": "feedback@lready.org",
+        "developer_url": "http://www.lready.org",
+        "developer_address": "539 Bryant St\nSuite 402\nSan Francisco CA",
+        "app_id": "com.fsp.android.c",
+        "url": "https://play.google.com/store/apps/details?id=com.fsp.android.c&hl=en&gl=us"
+    },
+    {
+        "title": "Find My Friends",
+        "icon": "https://lh3.googleusercontent.com/W3EdHDSLPMouTl2bKI_U-3AIPIzBbuNQFfs01SSlv5bFkqYCJVRgLiy6g1rnfeBG_g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 323824,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Family+Safety+Production",
+        "updated": "April 19, 2019",
+        "size": "40M",
+        "installs": "10,000,000+",
+        "current_version": "18.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$69.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Family Safety Production",
+        "developer_email": "feedback@lready.org",
+        "developer_url": "http://www.lready.org",
+        "developer_address": "539 Bryant St\nSuite 402\nSan Francisco CA",
+        "app_id": "com.fsp.android.friendlocator",
+        "url": "https://play.google.com/store/apps/details?id=com.fsp.android.friendlocator&hl=en&gl=us"
+    },
+    {
+        "title": "Boo - 3D Avatar & AR Chat",
+        "icon": "https://lh3.googleusercontent.com/LB6w9AcBEfCrL7TtMy27Y0ItEv16f2uSI-z2ukzs_SuKn4XWlBZkRICq7HaudJdRiBw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/kscuGYA7zwk",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 101754,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Beijing+Baide+Aisi+Technology+Co.,+Ltd.",
+        "updated": "July 22, 2019",
+        "size": "87M",
+        "installs": "5,000,000+",
+        "current_version": "3.3.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$84.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Beijing Baide Aisi Technology Co., Ltd.",
+        "developer_email": "sxnixi2015@gmail.com",
+        "developer_url": "https://boo.chat/",
+        "developer_address": "Room 5346, 5/F, Shenchang Building, 51 Zhichun Road, Haidian District, Beijing China",
+        "app_id": "com.boo.boomoji",
+        "url": "https://play.google.com/store/apps/details?id=com.boo.boomoji&hl=en&gl=us"
+    },
+    {
+        "title": "GoFundMe - Free Online Crowdfunding & Fundraising",
+        "icon": "https://lh3.googleusercontent.com/4AyJIGUWpsHso1N0XW7H696y-sC5ZzYvix0VhNMj0TMaBl7Pd0EO_KXTZYvY2lxqnGo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24524,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GoFundMe+Inc",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GoFundMe Inc",
+        "developer_email": "support@gofundme.com",
+        "developer_url": "http://www.gofundme.com/",
+        "developer_address": null,
+        "app_id": "com.GoFundMe.GoFundMe",
+        "url": "https://play.google.com/store/apps/details?id=com.GoFundMe.GoFundMe&hl=en&gl=us"
+    },
+    {
+        "title": "Yubo - Make new friends",
+        "icon": "https://lh3.googleusercontent.com/jyjxQdNWK2DLwIjTGtuwqye12Pl_2InaYYWJp8QGXlhnda_vpTbY4knD93MD0HG6MNaf",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 59328,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Twelve+APP",
+        "updated": "July 25, 2019",
+        "size": "13M",
+        "installs": "5,000,000+",
+        "current_version": "3.68.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$40.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Twelve APP",
+        "developer_email": "support@yubo.live",
+        "developer_url": "http://yubo.live",
+        "developer_address": "8 rue de charonne  75011 Paris",
+        "app_id": "co.yellw.yellowapp",
+        "url": "https://play.google.com/store/apps/details?id=co.yellw.yellowapp&hl=en&gl=us"
+    },
+    {
+        "title": "Facebook Local",
+        "icon": "https://lh3.googleusercontent.com/cPPa2q4ZTd4jr8B-Hiqydsm3oI4pbTHJnuiVjRRv4GcpX4EUMZ-KdWghhBUXXJoUmfyP",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12346,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Facebook",
+        "updated": "August 28, 2018",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "14.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Facebook",
+        "developer_email": "android-support@fb.com",
+        "developer_url": "https://www.facebook.com/facebook",
+        "developer_address": "1 Hacker Way\nMenlo Park, CA 94025",
+        "app_id": "com.facebook.Socal",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.Socal&hl=en&gl=us"
+    },
+    {
+        "title": "AmoLatina: Find & Chat with Singles - Flirt Today",
+        "icon": "https://lh3.googleusercontent.com/HhBTo-G_PgAWxOiZrH-gkMrcAvwZxKOZTHsQyQnc1IVX5LYlFLtMqbxjTCsRa7ws9kg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/w-fmLLaCy6U",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14755,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "DMM+SOLUTIONS+INC.",
+        "updated": "May 13, 2019",
+        "size": "54M",
+        "installs": "1,000,000+",
+        "current_version": "3.15.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$12.99",
+            "$354.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "DMM SOLUTIONS INC.",
+        "developer_email": "appsupport@amolatina.com",
+        "developer_url": "https://new.amolatina.com/",
+        "developer_address": "300 Park Ave Fl. 12, New York, NY 10022",
+        "app_id": "com.amolatina",
+        "url": "https://play.google.com/store/apps/details?id=com.amolatina&hl=en&gl=us"
+    },
+    {
+        "title": "WHO - Live video chat dating & Match & Meet me",
+        "icon": "https://lh3.googleusercontent.com/L9ORRk9D8WUX4sqd0Za0CTI7hpDdDmZSGlBpI9tR8c4GuP-6lML5Mk0UyqP5O5QyGcg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45261,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Socialmate+Technologies",
+        "updated": "July 2, 2019",
+        "size": "52M",
+        "installs": "5,000,000+",
+        "current_version": "1.9.24",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$239.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Socialmate Technologies",
+        "developer_email": "socialmatetechnologies@gmail.com",
+        "developer_url": "https://zazar-e5379.firebaseapp.com/privacypolicy.html",
+        "developer_address": "2120 University Ave Berkeley, CA 94704\nUnited States",
+        "app_id": "com.scorp.who",
+        "url": "https://play.google.com/store/apps/details?id=com.scorp.who&hl=en&gl=us"
+    },
+    {
+        "title": "cPro: Buy. Sell. Date. Rent.",
+        "icon": "https://lh3.googleusercontent.com/khT5glHTW1iLRVZt7802BAh0oTTzNwG9wP3Gb2sYquYkRhty-rOvMaXSduywe2Y9esc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/AaYii52wSIs",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 392513,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Escargot+Studios,+LLC",
+        "updated": "July 20, 2019",
+        "size": "19M",
+        "installs": "10,000,000+",
+        "current_version": "3.9924",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Sexual Content, Nudity, Strong Language"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$399.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases, Unrestricted Internet"
+        ],
+        "developer": "Escargot Studios, LLC",
+        "developer_email": "support@escargotstudios.com",
+        "developer_url": "http://www.cpromarket.com",
+        "developer_address": "Escargot Studios, LLC\n3422 Old Capitol Trail #631\nWilmington, DE 19808",
+        "app_id": "craigs.pro.plus",
+        "url": "https://play.google.com/store/apps/details?id=craigs.pro.plus&hl=en&gl=us"
+    },
+    {
+        "title": "Periscope - Live Video",
+        "icon": "https://lh3.googleusercontent.com/bqeMtrn1ZqWaoB84VP-2-ZOIZmEpjVoIQfbF4ULtGzeAriDFVaQLobcvh0puuTaOlA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/aZ0STlw6Nbs",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 499222,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Twitter,+Inc.",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Twitter, Inc.",
+        "developer_email": "contact@pscp.tv",
+        "developer_url": "https://www.pscp.tv",
+        "developer_address": "Twitter, Inc.\n1355 Market Street, Suite 900\nSan Francisco, CA 94103",
+        "app_id": "tv.periscope.android",
+        "url": "https://play.google.com/store/apps/details?id=tv.periscope.android&hl=en&gl=us"
+    },
+    {
+        "title": "Evite: Free Online & Text Invitations",
+        "icon": "https://lh3.googleusercontent.com/v8xioecILQAP1qSjtRWGiv2_ngZndANIKz9qZd8aLFwoNw5OkPLiu1wmdJX-QcPvkw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/R9JSuOghDhY",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14943,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5371451815439822785",
+        "updated": "June 21, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "5.1.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$12.99",
+            "$249.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Evite",
+        "developer_email": "support@evite.com",
+        "developer_url": "http://evite.com",
+        "developer_address": "600 Wilshire Blvd. 4th Floor\nLos Angeles, CA 90017",
+        "app_id": "com.evite",
+        "url": "https://play.google.com/store/apps/details?id=com.evite&hl=en&gl=us"
+    },
+    {
+        "title": "FindNow",
+        "icon": "https://lh3.googleusercontent.com/03gSHSP_447NsytXGYBCYupm49vd6x17RDOhIOFdYx50-jWe_vi67I1lUwtOihEzh3c",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "2.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 203470,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Ratech",
+        "updated": "July 14, 2019",
+        "size": "32M",
+        "installs": "10,000,000+",
+        "current_version": "0.9.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$16.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Ratech",
+        "developer_email": "help@findnowme.com",
+        "developer_url": "https://findnowme.com",
+        "developer_address": "B.dere Cad. 245/7 \u0130stanbul",
+        "app_id": "com.ratelekom.findnow",
+        "url": "https://play.google.com/store/apps/details?id=com.ratelekom.findnow&hl=en&gl=us"
+    },
+    {
+        "title": "Tango - Live Video Broadcasts",
+        "icon": "https://lh3.googleusercontent.com/WDy0OxraYPwUSuFVIcHT7z7A8JZVgMI8_mFs_1NoAKhksoptjQ1e__o0scl_YN2Py6U",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3827035,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Tango",
+        "updated": "June 18, 2019",
+        "size": "83M",
+        "installs": "100,000,000+",
+        "current_version": "6.8.235641",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$399.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Tango",
+        "developer_email": "TangoSupportMarketPlace@Tango.me",
+        "developer_url": "http://www.tango.me",
+        "developer_address": "440 N Wolfe Rd,\nSuite EL265\nSunnyvale, CA 94085",
+        "app_id": "com.sgiggle.production",
+        "url": "https://play.google.com/store/apps/details?id=com.sgiggle.production&hl=en&gl=us"
+    },
+    {
+        "title": "Yome Live - Watch Hot Videos, Make Friends Nearby",
+        "icon": "https://lh3.googleusercontent.com/E64C4czh-34Wfp_-70OOrXe1NT0d6JxMP8G4cL68MWzzt_NkSVBzUCUzIePdmr85jIM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 101578,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Yome+Live",
+        "updated": "July 18, 2019",
+        "size": "44M",
+        "installs": "10,000,000+",
+        "current_version": "1.5.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Sexual Content"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, In-App Purchases"
+        ],
+        "developer": "Yome Live",
+        "developer_email": "feedback@yome.live",
+        "developer_url": "https://www.yome.live/",
+        "developer_address": "17 Floor, MBFC Tower 3,12 Marina Boulevard, Singapore 018982",
+        "app_id": "com.huya.niko",
+        "url": "https://play.google.com/store/apps/details?id=com.huya.niko&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger",
+        "icon": "https://lh3.googleusercontent.com/szocIxEuvbNDcuqhPoKmNZfS8cXwkYiR3UDTpbbFxr87i6D88VGW_p9ChDdAsHf2gfk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 124959,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Text+Free+%26+Free+Call+%26+SMS+%26+MMS+%26+Messenger+Team",
+        "updated": "July 5, 2019",
+        "size": "6.0M",
+        "installs": "10,000,000+",
+        "current_version": "1.2.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Text Free & Free Call & SMS & MMS & Messenger Team",
+        "developer_email": "bobhoskins520@gmail.com",
+        "developer_url": "http://textfun.net/privacy.html",
+        "developer_address": null,
+        "app_id": "messenger.social.chat.apps",
+        "url": "https://play.google.com/store/apps/details?id=messenger.social.chat.apps&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger Pro",
+        "icon": "https://lh3.googleusercontent.com/h9rUNG5U8EEFZarFkeWKoZv9kzYMasePKuRvT2lRwlq_4cQTW-WZLHK3RIjutZyz4g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29042,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Messenger+Pro+team",
+        "updated": "July 24, 2019",
+        "size": "6.4M",
+        "installs": "10,000,000+",
+        "current_version": "1.2.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Unrestricted Internet"
+        ],
+        "developer": "Messenger Pro team",
+        "developer_email": "audreypayne888@gmail.com",
+        "developer_url": "http://messengerhub.net/privacypolicy.html",
+        "developer_address": "Hong Kong",
+        "app_id": "messenger.pro.messenger",
+        "url": "https://play.google.com/store/apps/details?id=messenger.pro.messenger&hl=en&gl=us"
+    },
+    {
+        "title": "Tellonym: Honest Questions & Feedback",
+        "icon": "https://lh3.googleusercontent.com/YybDMM4n70vh8RZ73QKZHVgbRqYtV7lSi2ULKsowXu_NTTNxovvFutFZuGY2D8YKu_w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 126545,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Callosum+Software",
+        "updated": "July 23, 2019",
+        "size": "33M",
+        "installs": "10,000,000+",
+        "current_version": "2.15.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Callosum Software",
+        "developer_email": "support@tellonym.me",
+        "developer_url": "http://tellonym.me",
+        "developer_address": "Wallstr. 88\n10179 Berlin\nGermany",
+        "app_id": "de.tellonym.app",
+        "url": "https://play.google.com/store/apps/details?id=de.tellonym.app&hl=en&gl=us"
+    },
+    {
+        "title": "Rabbit \u2013 Watch Together",
+        "icon": "https://lh3.googleusercontent.com/rWBEz5FTz-YugEncgNfxxZsl8lcR0hOOI5s9hf94o0i4wc9NTkcSoluj6qtMA7FK3ks",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22858,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Rabbit+Inc",
+        "updated": "April 26, 2019",
+        "size": "41M",
+        "installs": "1,000,000+",
+        "current_version": "4.0.92",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Rabbit Inc",
+        "developer_email": "help@rabb.it",
+        "developer_url": "http://rabb.it",
+        "developer_address": "228 Lorton Ave.\nBurlingame, CA 94010",
+        "app_id": "it.rabb.rabbitandroid",
+        "url": "https://play.google.com/store/apps/details?id=it.rabb.rabbitandroid&hl=en&gl=us"
+    },
+    {
+        "title": "Messenger",
+        "icon": "https://lh3.googleusercontent.com/QDOhK12J_H06oKtNrONSsJ6MLFLh5Mex8IcKm8RLR7W3wSNkZ2n0KFXEJHR-g6ZParkZ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12067,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NextAPP",
+        "updated": "July 5, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "1.8.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "NextAPP",
+        "developer_email": "support@domobile.com",
+        "developer_url": "http://www.domobile.com",
+        "developer_address": "19H Maxgrand Plaza, No.3 Tai Yau Street, San Po Kong, Kowloon Hong Kong",
+        "app_id": "com.domobile.messenger",
+        "url": "https://play.google.com/store/apps/details?id=com.domobile.messenger&hl=en&gl=us"
+    },
+    {
+        "title": "PopJam",
+        "icon": "https://lh3.googleusercontent.com/t1VzLo478vmrEzA8WQ4OSs0qkRQGRy0vwlC7aRyb-PssPvYzuj_o_2rBdP6mryY2fOg1",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rPw46gOwqQ0",
+        "category": [
+            "SOCIAL",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25381,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SuperAwesome+LTD",
+        "updated": "July 12, 2019",
+        "size": "35M",
+        "installs": "1,000,000+",
+        "current_version": "5.13.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Crude Humor"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "SuperAwesome LTD",
+        "developer_email": "hi@popjam.com",
+        "developer_url": "http://www.popjam.com",
+        "developer_address": null,
+        "app_id": "com.mindcandy.popjam",
+        "url": "https://play.google.com/store/apps/details?id=com.mindcandy.popjam&hl=en&gl=us"
+    },
+    {
+        "title": "Unlock Device's Techniques & Tricks 2019",
+        "icon": "https://lh3.googleusercontent.com/gXasUgkt49gloHw4vAB_uVNdOVpm-dqea1zP-vh8JUdJU-zhOSTQcbstSAACq97X2Cs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 175,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mughal+Apps",
+        "updated": "July 21, 2019",
+        "size": "4.1M",
+        "installs": "10,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mughal Apps",
+        "developer_email": "mughalapps11@gmail.com",
+        "developer_url": "https://mughalapps11.blogspot.com/2019/04/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "unlock_device.password.mughal_apps.phone_guide",
+        "url": "https://play.google.com/store/apps/details?id=unlock_device.password.mughal_apps.phone_guide&hl=en&gl=us"
+    },
+    {
+        "title": "Hoop",
+        "icon": "https://lh3.googleusercontent.com/IEbtDFfx84oGJxAjMuGDOEA3gRpDqhePZ2pAkpdz2GAPBLp8Pyg5SP5AAVstmPSeSQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5710,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hoop+app",
+        "updated": "July 24, 2019",
+        "size": "29M",
+        "installs": "100,000+",
+        "current_version": "2.13.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Hoop app",
+        "developer_email": "hello@hoop.photo",
+        "developer_url": "https://hoop.photo",
+        "developer_address": null,
+        "app_id": "com.dazz.hoop",
+        "url": "https://play.google.com/store/apps/details?id=com.dazz.hoop&hl=en&gl=us"
+    },
+    {
+        "title": "Club Cooee - 3D Avatar, Chat & Party!",
+        "icon": "https://lh3.googleusercontent.com/0JKDhvlDJrhmknlkOH1AhtSpJFl_Vs7W9ttcHLtNvuZCKTDgfF39VawizuJrBKuoNQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/b_S8qs9ghH8",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22375,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "cooee+GmbH",
+        "updated": "July 24, 2019",
+        "size": "81M",
+        "installs": "1,000,000+",
+        "current_version": "1.9.27",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$94.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "cooee GmbH",
+        "developer_email": "android@clubcooee.com",
+        "developer_url": "https://www.clubcooee.com",
+        "developer_address": "Europaallee 7\n67657 Kaiserslautern\nGermany",
+        "app_id": "com.clubcooee.cooee",
+        "url": "https://play.google.com/store/apps/details?id=com.clubcooee.cooee&hl=en&gl=us"
+    },
+    {
+        "title": "MICO Chat: Live Streaming & Meet New People",
+        "icon": "https://lh3.googleusercontent.com/r73etEn19Q3D3eORPU1WeeWnfMM2fLI0MRcZ8Uc5Va2aLs4yzvKWhUEokGDEtB26nVU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Yla9DLFGopg",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 642685,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8945700516389597914",
+        "updated": "July 25, 2019",
+        "size": "58M",
+        "installs": "10,000,000+",
+        "current_version": "5.8.1.2",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$89.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "MICO WORLD",
+        "developer_email": "contact@micous.com",
+        "developer_url": "http://www.micous.com",
+        "developer_address": "90-92 Jaffe Road,  Wanchai,\nHong Kong",
+        "app_id": "com.mico",
+        "url": "https://play.google.com/store/apps/details?id=com.mico&hl=en&gl=us"
+    },
+    {
+        "title": "All social media and social network in one app.",
+        "icon": "https://lh3.googleusercontent.com/neNGXBuChyr0I2w5pI90VG1gdxI984mfIOvmVFxXDv_scKEHNIBk6KPyUuXw1NLYzA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28283,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "M+Alaa+Zaki+Abutayyem",
+        "updated": "July 2, 2019",
+        "size": "6.0M",
+        "installs": "1,000,000+",
+        "current_version": "7.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location, Unrestricted Internet"
+        ],
+        "developer": "M Alaa Zaki Abutayyem",
+        "developer_email": "mohammedalaazakiit@gmail.com",
+        "developer_url": "https://sites.google.com/view/mohammedalaazaki/home",
+        "developer_address": null,
+        "app_id": "com.web_view_mohammed.ad.webview_app",
+        "url": "https://play.google.com/store/apps/details?id=com.web_view_mohammed.ad.webview_app&hl=en&gl=us"
+    },
+    {
+        "title": "Weverse",
+        "icon": "https://lh3.googleusercontent.com/Qgv-Ui1OXodpjWjgxbC85QPM6jkLnuEBjC0qK4SjtunnNw_m09V_kOXvToaJhsHLwGaT",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 36966,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "beNX+CO.,+LTD",
+        "updated": "July 24, 2019",
+        "size": "32M",
+        "installs": "1,000,000+",
+        "current_version": "1.1.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "beNX CO., LTD",
+        "developer_email": "developer@benx.co",
+        "developer_url": "https://www.weverse.io",
+        "developer_address": "\uc11c\uc6b8 \uac15\ub0a8\uad6c \ud14c\ud5e4\ub780\ub85c108\uae3842 \uc5e0\ub514\uc5e0\ud0c0\uc6cc 3\uce35",
+        "app_id": "co.benx.weverse",
+        "url": "https://play.google.com/store/apps/details?id=co.benx.weverse&hl=en&gl=us"
+    },
+    {
+        "title": "Free Text & Free Call & Text Free",
+        "icon": "https://lh3.googleusercontent.com/CG-wJynuJND2kPvz04GWyGvNJN3ZKdAjIozfj_lAe-7lyFqETm2lkca_a_G_rPf1gAs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17067,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "SMS+Messenger",
+        "updated": "July 25, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "1.8.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "SMS Messenger",
+        "developer_email": "plustextfun@gmail.com",
+        "developer_url": "https://www.facebook.com/BestTextFun/",
+        "developer_address": null,
+        "app_id": "com.textfun.text.free.call",
+        "url": "https://play.google.com/store/apps/details?id=com.textfun.text.free.call&hl=en&gl=us"
+    },
+    {
+        "title": "Instatop - Likes & followers for Instagram",
+        "icon": "https://lh3.googleusercontent.com/BViIu3eh5li29KPSF0gNnengk4vlBl8EPgym9Ffc7hbfUcScE1V4BAswzvLvvTGpfSEt",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2871,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "KakNadal",
+        "updated": "June 19, 2019",
+        "size": "3.3M",
+        "installs": "100,000+",
+        "current_version": "1.5.8",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$15.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "KakNadal",
+        "developer_email": "sumonkelli@gmail.com",
+        "developer_url": "https://instadivider.appsforall.su/pp.html",
+        "developer_address": "\u0411\u0443\u0436\u0438\u043a\u043e\u0432\u0430 23/21",
+        "app_id": "com.shishu.zamochil",
+        "url": "https://play.google.com/store/apps/details?id=com.shishu.zamochil&hl=en&gl=us"
+    },
+    {
+        "title": "FanGenre - Get Followers for Instagram",
+        "icon": "https://lh3.googleusercontent.com/mXOzQWwnArEPkakq8BFM0uzU8SFZQj05A_yeXT1ti3K8qjPuVMmhvW-J4GpcDkNdH2Va",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 27135,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "AppGenre",
+        "updated": "April 20, 2019",
+        "size": "2.9M",
+        "installs": "500,000+",
+        "current_version": "1.0.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "AppGenre",
+        "developer_email": "appgenredev@gmail.com",
+        "developer_url": "http://tagsforig.com/web/privacy_policy.html",
+        "developer_address": null,
+        "app_id": "com.fangenre.fans",
+        "url": "https://play.google.com/store/apps/details?id=com.fangenre.fans&hl=en&gl=us"
+    },
+    {
+        "title": "Waplog -Free Chatting & Dating App to Meet Singles",
+        "icon": "https://lh3.googleusercontent.com/C0aILjpa5VuCicVPtU1gPUHHZx6F1hi882HAFw_MD-9MUeqPVRCBN2Ka68amhbhVKyo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/4SDqBfgIJ9w",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 606323,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8827310789890542270",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$134.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Waplog Social Network",
+        "developer_email": "customerdesk@waplog.com",
+        "developer_url": "http://waplog.com",
+        "developer_address": "\u00dcniversiteler Mahallesi \u0130hsan Do\u011framac\u0131 Bulvar\u0131 Bina No:19 ZK 14/A  \u00c7ankaya/ANKARA",
+        "app_id": "com.waplog.social",
+        "url": "https://play.google.com/store/apps/details?id=com.waplog.social&hl=en&gl=us"
+    },
+    {
+        "title": "Slide Up - games for Stories",
+        "icon": "https://lh3.googleusercontent.com/vAa44_WOv1apdaaW8xZRhN2-5dcECBPXRCqGYCGZKNYu87F3KPb-KGXszlwHS1YpV04",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "2.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 103,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Viral+Stuff,+LLC",
+        "updated": "April 20, 2019",
+        "size": "2.2M",
+        "installs": "10,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Viral Stuff, LLC",
+        "developer_email": "viralstuffxoxo@gmail.com",
+        "developer_url": "http://bereal.to/stats/slide-up/terms.html",
+        "developer_address": null,
+        "app_id": "com.viralstuff.slideup",
+        "url": "https://play.google.com/store/apps/details?id=com.viralstuff.slideup&hl=en&gl=us"
+    },
+    {
+        "title": "Hi Chat - Video chat with people worldwide",
+        "icon": "https://lh3.googleusercontent.com/sNbcl-QhbLPb6WtReDDbGgfOLGOBRFAbo04aZ7w50rQ6D9T_p7PPMrARkJ5fZDrQ7g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 709,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Lian%C2%A0Media%C2%A0Limited",
+        "updated": "July 2, 2019",
+        "size": "8.2M",
+        "installs": "100,000+",
+        "current_version": "1.4.9",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Lian\u00a0Media\u00a0Limited",
+        "developer_email": "lianmedia7@gmail.com",
+        "developer_url": "http://www.lianmedia.com",
+        "developer_address": "Rm 2107, Lippo Center Tower 2, 89 Queensway, Hong Kong",
+        "app_id": "com.pl.hichatting",
+        "url": "https://play.google.com/store/apps/details?id=com.pl.hichatting&hl=en&gl=us"
+    },
+    {
+        "title": "Unfollow for Instagram - Non followers & Fans",
+        "icon": "https://lh3.googleusercontent.com/T4TU1SrsWxl3xkgNvdMtUwoQQbqBZpy4p5u5u9uYv7JgVi1wIv6SJgodFZf4hk5SX8w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 163848,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Team+Unfollow",
+        "updated": "March 30, 2018",
+        "size": "5.7M",
+        "installs": "5,000,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Team Unfollow",
+        "developer_email": "nikhil.bansal.cse16@gmail.com",
+        "developer_url": "http://hashgrow.com/",
+        "developer_address": "Bangalore, India",
+        "app_id": "app.follow.unfollow",
+        "url": "https://play.google.com/store/apps/details?id=app.follow.unfollow&hl=en&gl=us"
+    },
+    {
+        "title": "Insights+ for Instagram",
+        "icon": "https://lh3.googleusercontent.com/rxgB8PnLsRX6S-NlOpcT0sHjE9YcAI7_1A9qQHbfvfkrd6lrFyRrC1Cwcn5mNZaM_A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "2.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Social+Bolt+LLC",
+        "updated": "July 25, 2019",
+        "size": "26M",
+        "installs": "5,000+",
+        "current_version": "1.0.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$5.99",
+            "$35.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Social Bolt LLC",
+        "developer_email": "support@insightsapp.co",
+        "developer_url": "https://www.insightsapp.co/",
+        "developer_address": "10706 71st Road, Forest Hills, NY, 11375",
+        "app_id": "com.SocialBolt.Insights",
+        "url": "https://play.google.com/store/apps/details?id=com.SocialBolt.Insights&hl=en&gl=us"
+    },
+    {
+        "title": "Google+ for G Suite",
+        "icon": "https://lh3.googleusercontent.com/N-AY2XwXafWq4TQWfua6VyjPVQvTGRdz9CKOHaBl2nu2GVg7zxS886X5giZ9yY2qIjPh",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5957444,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "June 19, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "10.33.0.252951054",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://support.google.com/plus/?hl=en#topic=6320382",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.plus",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.plus&hl=en&gl=us"
+    },
+    {
+        "title": "MuMu: Popular random chat with new people",
+        "icon": "https://lh3.googleusercontent.com/U8BnooNvAVuT1ggQB64-mldIbmDcE7en_n742R0ukvOwfDhGJgLsoh0LOQtBN6y-feFI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13156,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "MuMu",
+        "updated": "July 1, 2019",
+        "size": "52M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.3835",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$299.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, In-App Purchases"
+        ],
+        "developer": "MuMu",
+        "developer_email": "v7207@outlook.com",
+        "developer_url": "http://www.mumu.com.s3-website.eu-central-1.amazonaws.com/static/privacy_policy_en.html",
+        "developer_address": "US. Weirton",
+        "app_id": "com.mumu.videochat",
+        "url": "https://play.google.com/store/apps/details?id=com.mumu.videochat&hl=en&gl=us"
+    },
+    {
+        "title": "Chat & Meet New People Nearby - Friendship App",
+        "icon": "https://lh3.googleusercontent.com/i4xFVs2CuwNCUfzDRqNHBA8Sd2WEHgdVHXbEAQhK1DfDh3MVsAE_76dGf3W5gT_w-g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15980,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Glynk",
+        "updated": "July 13, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "3.0.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Glynk",
+        "developer_email": "ping@glynk.com",
+        "developer_url": "https://glynk.com",
+        "developer_address": "#1608,\nSector-1,\nHSR Layout,\nBangalore  - 560102",
+        "app_id": "com.glynk.app",
+        "url": "https://play.google.com/store/apps/details?id=com.glynk.app&hl=en&gl=us"
+    },
+    {
+        "title": "Airtime: Group Facetime + YouTube",
+        "icon": "https://lh3.googleusercontent.com/JkiwSZtzNN5UCr6UlWdKW8hIVO9Io180FWVltRxPRi_9OgQbRmDMwslYJFIuSW9v3is",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8393,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Airtime+Media+Inc.",
+        "updated": "June 26, 2019",
+        "size": "63M",
+        "installs": "1,000,000+",
+        "current_version": "4.8.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Airtime Media Inc.",
+        "developer_email": "support.android@airtime.com",
+        "developer_url": "https://airtime.com",
+        "developer_address": null,
+        "app_id": "com.signal.android",
+        "url": "https://play.google.com/store/apps/details?id=com.signal.android&hl=en&gl=us"
+    },
+    {
+        "title": "Dating.com: meet new people",
+        "icon": "https://lh3.googleusercontent.com/C0fkE7inbQZp_umgAuR06saLZ_8NFPlcEALlp0xx6Ow0J7r7nCWSN9zRBt80OAPUWw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/a2X4bMEJ02w",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28034,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "DMM+SOLUTIONS+INC.",
+        "updated": "May 3, 2019",
+        "size": "54M",
+        "installs": "5,000,000+",
+        "current_version": "3.15.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$13.99",
+            "$354.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "DMM SOLUTIONS INC.",
+        "developer_email": "support@dating.com",
+        "developer_url": "https://www.dating.com/",
+        "developer_address": "300 Park Ave Fl. 12, New York, NY 10022",
+        "app_id": "com.dating.android",
+        "url": "https://play.google.com/store/apps/details?id=com.dating.android&hl=en&gl=us"
+    },
+    {
+        "title": "Wickr Me \u2013 Private Messenger",
+        "icon": "https://lh3.googleusercontent.com/uGaoCAtPTqLlmrHX0NzNb2E0jP4gKNNDrGbzoRFQl3HkruLDxgbBMWCRnRQXlWMc5KjW",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17579,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wickr+Inc",
+        "updated": "July 25, 2019",
+        "size": "81M",
+        "installs": "1,000,000+",
+        "current_version": "5.26.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Wickr Inc",
+        "developer_email": "androidsupport@wickr.com",
+        "developer_url": "https://wickr.com",
+        "developer_address": null,
+        "app_id": "com.mywickr.wickr2",
+        "url": "https://play.google.com/store/apps/details?id=com.mywickr.wickr2&hl=en&gl=us"
+    },
+    {
+        "title": "Video Downloader for Instagram",
+        "icon": "https://lh3.googleusercontent.com/IN8sVuvkDrK6tDEVYWdPlIBBJbe5A9kIlbwgOiGViVfyge003bg1YJnRKDwFVTw-tmE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17203,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Alpa+Bhanushali",
+        "updated": "May 10, 2019",
+        "size": "4.1M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.29",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "Alpa Bhanushali",
+        "developer_email": "katarmal.alpa@gmail.com",
+        "developer_url": "https://sites.google.com/view/alpa-privacy-policy",
+        "developer_address": "Mumbai, Maharashtra. India",
+        "app_id": "com.smartapps.instagramdownloader",
+        "url": "https://play.google.com/store/apps/details?id=com.smartapps.instagramdownloader&hl=en&gl=us"
+    },
+    {
+        "title": "Lipsi - Anonymous messaging",
+        "icon": "https://lh3.googleusercontent.com/fvhF3HGiPY4Biw9TrfFg758mx2fsg4rOg25nLByfXcTo40Yge0NmPgoIxBRTkqs7z2k",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15542,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6824403988285822704",
+        "updated": "June 10, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "3.23.4",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "Lipsi Inc.",
+        "developer_email": "lipsisoftware@gmail.com",
+        "developer_url": "http://www.lipsi.ca",
+        "developer_address": "415 1040 Georgia st. W. V6E 4H1 Vancouver, British Columbia, Canada",
+        "app_id": "com.lipsisoftware.lipsi",
+        "url": "https://play.google.com/store/apps/details?id=com.lipsisoftware.lipsi&hl=en&gl=us"
+    },
+    {
+        "title": "Followers Analytics for Instagram iMetric",
+        "icon": "https://lh3.googleusercontent.com/WWvYmOZaxiTts-Rq70FE_rZ8CDwAsLeehLdY37lIAxJMJllsLTYuYj0ab0NZ579QvGM",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/WI1aUfTAJ38",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1204,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Pikalitiks",
+        "updated": "May 15, 2019",
+        "size": "20M",
+        "installs": "100,000+",
+        "current_version": "2.2.9",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Pikalitiks",
+        "developer_email": "alexander.mann1986@gmail.com",
+        "developer_url": "https://imate.pro",
+        "developer_address": "220004, Belarus, Minsk, p. Tuchinskij 2\u0410/808",
+        "app_id": "com.picalyticsmobileapp",
+        "url": "https://play.google.com/store/apps/details?id=com.picalyticsmobileapp&hl=en&gl=us"
+    },
+    {
+        "title": "Unfollowers for Instagram, Follow Cop",
+        "icon": "https://lh3.googleusercontent.com/i8UaDpq92eEqzq2KUn7k8wIqhS3qqvfQgD5o-NT3mQ-qDMbFEB7AqBnTAhm5c7rubkg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 115832,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Follow+Cop",
+        "updated": "June 10, 2019",
+        "size": "4.0M",
+        "installs": "1,000,000+",
+        "current_version": "4.8.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$89.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Follow Cop",
+        "developer_email": "support@followcop.com",
+        "developer_url": "https://followcop.com/PrivacyPolicy",
+        "developer_address": "20, Datli, Post - Dhedemau, Malihabad, Lucknow - 226106, Uttar Pradesh, India",
+        "app_id": "com.instagram.followcop",
+        "url": "https://play.google.com/store/apps/details?id=com.instagram.followcop&hl=en&gl=us"
+    },
+    {
+        "title": "Random Video Chat With Girl",
+        "icon": "https://lh3.googleusercontent.com/VG_42lU9ydXUTyqq0NMcg2yDiKteVUgBy7YH0kh997GIcUSK0-vtHmAcNSdHTHkp3A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "2.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 286,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ozisy",
+        "updated": "March 12, 2019",
+        "size": "3.8M",
+        "installs": "100,000+",
+        "current_version": "1.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location, In-App Purchases"
+        ],
+        "developer": "Ozisy",
+        "developer_email": "olegogurtsov1992@gmail.com",
+        "developer_url": "https://www.onewife.com/gdpr-compliance-statement.php",
+        "developer_address": null,
+        "app_id": "bg.ozisy.random",
+        "url": "https://play.google.com/store/apps/details?id=bg.ozisy.random&hl=en&gl=us"
+    },
+    {
+        "title": "Repost for Instagram",
+        "icon": "https://lh3.googleusercontent.com/4AB2_qlvxv1Ls-Yzs4H071iGCe72_guyjltac5qsUqz9XSrYgrd2IcQnxx9lWmTvI6TZ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 206509,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Red+Cactus",
+        "updated": "July 20, 2019",
+        "size": "4.0M",
+        "installs": "10,000,000+",
+        "current_version": "3.2.9",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "developer": "Red Cactus",
+        "developer_email": "support@redcact.us",
+        "developer_url": "http://www.repostapp.com",
+        "developer_address": "Red Cactus\n5344 S. Kimbark\nChicago, IL 60615",
+        "app_id": "com.redcactus.repost",
+        "url": "https://play.google.com/store/apps/details?id=com.redcactus.repost&hl=en&gl=us"
+    },
+    {
+        "title": "Seeking",
+        "icon": "https://lh3.googleusercontent.com/3wj7INVN5_2fUUr__yJxgjuH4Jc5yjYadefgBEJFSnOdMfjXvnNeE-TKBduer_jU9JQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13692,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "W8+Tech+Limited",
+        "updated": "July 15, 2019",
+        "size": "58M",
+        "installs": "1,000,000+",
+        "current_version": "4.25.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "W8 Tech Limited",
+        "developer_email": "support@w8tech.com",
+        "developer_url": "https://www.seekingapp.com",
+        "developer_address": "Room 2103, Futura Plaza\n111 How Ming Street\nKwun Tong\nHong Kong 999077",
+        "app_id": "com.infostream.seekingarrangement",
+        "url": "https://play.google.com/store/apps/details?id=com.infostream.seekingarrangement&hl=en&gl=us"
+    },
+    {
+        "title": "Glympse - Share GPS location",
+        "icon": "https://lh3.googleusercontent.com/iKNjSbuP2Cclnc7o90bIXLW3z6oKtV_DgDa5__PAvRAHv3p2DrGCUvLvGAVp5U-OCEk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 107059,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Glympse,+Inc",
+        "updated": "June 12, 2019",
+        "size": "14M",
+        "installs": "5,000,000+",
+        "current_version": "3.33.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Glympse, Inc",
+        "developer_email": "support@glympse.com",
+        "developer_url": "http://glympse.com",
+        "developer_address": null,
+        "app_id": "com.glympse.android.glympse",
+        "url": "https://play.google.com/store/apps/details?id=com.glympse.android.glympse&hl=en&gl=us"
+    },
+    {
+        "title": "Lasso - short, fun videos",
+        "icon": "https://lh3.googleusercontent.com/MXLKfgOvTV6kR23jDIZr4FOjzTlTRPaA8iYwnMVYPhE-He1-nIkvVwLCMrW1Mx5NMg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 777,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Facebook",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "45.0.0.40.117",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Facebook",
+        "developer_email": "android-support@fb.com",
+        "developer_url": "https://lassovideos.com",
+        "developer_address": "1 Hacker Way\nMenlo Park, CA 94025",
+        "app_id": "com.facebook.lasso",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.lasso&hl=en&gl=us"
+    },
+    {
+        "title": "Plato - Games & Group Chats",
+        "icon": "https://lh3.googleusercontent.com/MXQTJw6HNaI8uiGPYHYpuNpk1q9TI0AInRqxvx5GOcr2bZVL7NsAdut8UGMx45yRdtVO",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/fLg_HJJqiS4",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40521,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Plato+Team+Inc.",
+        "updated": "July 10, 2019",
+        "size": "60M",
+        "installs": "5,000,000+",
+        "current_version": "1.7.7",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen",
+            "Language"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "Plato Team Inc.",
+        "developer_email": "hello+googleplay@platoapp.com",
+        "developer_url": "https://www.platoapp.com/faq",
+        "developer_address": "3031 Tisch Way, Suite 306, San Jose CA 95128",
+        "app_id": "com.plato.android",
+        "url": "https://play.google.com/store/apps/details?id=com.plato.android&hl=en&gl=us"
+    },
+    {
+        "title": "Sweet Chat -Free Chat Online, Make Friends",
+        "icon": "https://lh3.googleusercontent.com/-FrvhzjzLkilCQL38YwCz3-KCkNECUfdsemt9SczBuUiHHkh0UL51hFJioVK22e3",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28971,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8618995061425218469",
+        "updated": "July 24, 2019",
+        "size": "33M",
+        "installs": "1,000,000+",
+        "current_version": "2.10.197",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "Chat & Meet Apps",
+        "developer_email": "sweetchat@ufotosoft.com",
+        "developer_url": "http://u6.gg/gmTNe",
+        "developer_address": "1 Stars Avenue Singapore",
+        "app_id": "sweetchat.localdatingtinder.meet",
+        "url": "https://play.google.com/store/apps/details?id=sweetchat.localdatingtinder.meet&hl=en&gl=us"
+    },
+    {
+        "title": "Insta Repost",
+        "icon": "https://lh3.googleusercontent.com/y-h-4vwpDLHtGgJ4ZIvF4LWbBD3e6uhYjK7rxkkOsr1FyI6rL6MPTd6PnK1PJ2UfLGR0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 201,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7761114283550729467",
+        "updated": "July 18, 2019",
+        "size": "6.8M",
+        "installs": "10,000+",
+        "current_version": "1.1.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Piuana Apps",
+        "developer_email": "le.van@piuana.com",
+        "developer_url": "https://piuana.com",
+        "developer_address": "4 Floor, 88 Le Hong Phong, Nam Dinh, Viet Nam",
+        "app_id": "com.instasaver.reposta",
+        "url": "https://play.google.com/store/apps/details?id=com.instasaver.reposta&hl=en&gl=us"
+    },
+    {
+        "title": "YouNow: Live Stream Video Chat - Go Live!",
+        "icon": "https://lh3.googleusercontent.com/0vJ5OyKUuUppoDiQtj7ayzTaVeHWbdsUSAKL3IBa7GGO065F3prW8spvKObPCpcYvg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 319590,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "YouNow+Inc.",
+        "updated": "July 25, 2019",
+        "size": "83M",
+        "installs": "10,000,000+",
+        "current_version": "15.8.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$399.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, Digital Purchases"
+        ],
+        "developer": "YouNow Inc.",
+        "developer_email": "feedback@younow.com",
+        "developer_url": "http://www.younow.com",
+        "developer_address": "245 5th Ave.\nFloor 6\nNew York, NY 10016",
+        "app_id": "younow.live",
+        "url": "https://play.google.com/store/apps/details?id=younow.live&hl=en&gl=us"
+    },
+    {
+        "title": "Romantic Love Quotes",
+        "icon": "https://lh3.googleusercontent.com/B6WWBSm_ovRDKLwqI-HWMsxJzgHD-4LObbwWNR22HufmTfGZn430dAjMHdhtfjdyD_tQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 436,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Love+quotes+daily",
+        "updated": "June 4, 2019",
+        "size": "6.1M",
+        "installs": "50,000+",
+        "current_version": "18.02",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Love quotes daily",
+        "developer_email": "Trinityapps@outlook.com",
+        "developer_url": "http://trinityapps.website/policy/romantic-love-quotes/",
+        "developer_address": null,
+        "app_id": "mobi.androapp.trinityapps.c9114",
+        "url": "https://play.google.com/store/apps/details?id=mobi.androapp.trinityapps.c9114&hl=en&gl=us"
+    },
+    {
+        "title": "Telegram X",
+        "icon": "https://lh3.googleusercontent.com/Zmol9WVk6mjWE38P6wc3Aaz9mQn-VFhviKllLP4kiplfW4xIEjgYmKUalZcFsOOnDQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/d6vgiPGvPOM",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 159015,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Telegram+LLC",
+        "updated": "June 7, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Telegram LLC",
+        "developer_email": "support@telegram.org",
+        "developer_url": "https://telegram.org",
+        "developer_address": null,
+        "app_id": "org.thunderdog.challegram",
+        "url": "https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=en&gl=us"
+    },
+    {
+        "title": "Lookin: \u00daltimas noticias, videos y redes sociales",
+        "icon": "https://lh3.googleusercontent.com/hMQhFPjeDozjWUEpCaRBuxP_2aiRqHloeznNbJTu6JB6IOzoAUUngWUZjbNoHJHLig",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 109,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "WeLookin",
+        "updated": "July 8, 2019",
+        "size": "16M",
+        "installs": "100,000+",
+        "current_version": "4.0.1.0.0.8",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "WeLookin",
+        "developer_email": "juancarlosislas419@gmail.com",
+        "developer_url": "http://www.welookin.com",
+        "developer_address": null,
+        "app_id": "com.welookin.global",
+        "url": "https://play.google.com/store/apps/details?id=com.welookin.global&hl=en&gl=us"
+    },
+    {
+        "title": "CamMeet : Meet Me on Random Live Video Chat",
+        "icon": "https://lh3.googleusercontent.com/0tP4MHdyKwendBg0rgbYazgGwr6ZPNo_0qX1w11B1I8uxr7-NU80-mjtS3v5bCcQujg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CamMeet",
+        "updated": "July 3, 2019",
+        "size": "20M",
+        "installs": "10,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "CamMeet",
+        "developer_email": "support@cammeet.com",
+        "developer_url": "https://cammeetapp.wixsite.com/privacy",
+        "developer_address": null,
+        "app_id": "com.cammeet.socialvideochat.free",
+        "url": "https://play.google.com/store/apps/details?id=com.cammeet.socialvideochat.free&hl=en&gl=us"
+    },
+    {
+        "title": "Kickstarter",
+        "icon": "https://lh3.googleusercontent.com/r4wBopBrIEeH8ICromEm1mDuzawUquXzZzYmeG22nqy_M0_KyRJKNn2v4gjfcsiOZZ0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20818,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Kickstarter+PBC",
+        "updated": "July 3, 2019",
+        "size": "8.5M",
+        "installs": "1,000,000+",
+        "current_version": "1.16.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Kickstarter PBC",
+        "developer_email": "android@kickstarter.com",
+        "developer_url": "https://www.kickstarter.com/",
+        "developer_address": null,
+        "app_id": "com.kickstarter.kickstarter",
+        "url": "https://play.google.com/store/apps/details?id=com.kickstarter.kickstarter&hl=en&gl=us"
+    },
+    {
+        "title": "SCRUFF",
+        "icon": "https://lh3.googleusercontent.com/IB5uK8Z2717RE4pvroPtUT9U3i-ue5dD4E644LMYoYxsggxpGAGM3dDiodjIhBnf89E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 85046,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Perry+Street+Software",
+        "updated": "July 18, 2019",
+        "size": "51M",
+        "installs": "5,000,000+",
+        "current_version": "6.0010",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$1.00",
+            "$159.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "Perry Street Software",
+        "developer_email": "support@scruff.com",
+        "developer_url": "http://www.scruff.com",
+        "developer_address": "489 5th Ave\nNew York, NY 10017",
+        "app_id": "com.appspot.scruffapp",
+        "url": "https://play.google.com/store/apps/details?id=com.appspot.scruffapp&hl=en&gl=us"
+    },
+    {
+        "title": "AsianDate: find Asian singles",
+        "icon": "https://lh3.googleusercontent.com/EE9QPiPLciC9lWbVgyLGFhc9bJD0zW-a_TdUm-6vTDCuSZQmrPML0p2rpWVTqW32S6Wh",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ZTjlSr2rLUE",
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33735,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "SOL+NETWORKS+LTD",
+        "updated": "July 24, 2018",
+        "size": "17M",
+        "installs": "1,000,000+",
+        "current_version": "2.12.3",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$12.99",
+            "$69.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "SOL NETWORKS LTD",
+        "developer_email": "appsupport@asiandate.com",
+        "developer_url": "http://www.asiandate.com",
+        "developer_address": "Unit 3 26/F GREENFIELD TOWER, CONCORDIA PLAZA 1 SCIENCE MUSEUM RD TSIM SHA TSUI EAST KNL HK, Kowloon, Hong Kong",
+        "app_id": "com.asiandate",
+        "url": "https://play.google.com/store/apps/details?id=com.asiandate&hl=en&gl=us"
+    },
+    {
+        "title": "Love Story Stickers - WAStickerApps",
+        "icon": "https://lh3.googleusercontent.com/cT8kWRDDO57-TBuKRSAlbsEl1yFjlraIbkGhKhgGiiaRooMdkm8CvV3bhwJ-sIJiCw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SOCIAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2382,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mirages",
+        "updated": "April 6, 2019",
+        "size": "11M",
+        "installs": "500,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Mirages",
+        "developer_email": "mirageinfos@gmail.com",
+        "developer_url": "https://sites.google.com/view/miragesprivacy",
+        "developer_address": null,
+        "app_id": "com.mirages.lovestory.stickers",
+        "url": "https://play.google.com/store/apps/details?id=com.mirages.lovestory.stickers&hl=en&gl=us"
+    }
+]

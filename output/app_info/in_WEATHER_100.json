@@ -1,0 +1,4316 @@
+[
+    {
+        "title": "Weather radar and live maps - The Weather Channel",
+        "icon": "https://lh3.googleusercontent.com/RV3DftXlA7WUV7w-BpE8zM0X7Y4RQd2vBvZVv6A01DEGb_eXFRjLmUhSqdbqrEl9klI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ypZvKpVq5Sw",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1899852,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5938833519207566184",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Shares Info, Shares Location"
+        ],
+        "interactive_elements": [
+            "Shares Info, Shares Location"
+        ],
+        "developer": "The Weather Channel",
+        "developer_email": "android.support@weather.com",
+        "developer_url": "http://feedback.weather.com/",
+        "developer_address": "1001 Summit Blvd\nBrookhaven, GA 30319",
+        "app_id": "com.weather.Weather",
+        "url": "https://play.google.com/store/apps/details?id=com.weather.Weather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather",
+        "icon": "https://lh3.googleusercontent.com/MMSJ8qhe_zqGNdQFbFgHl5uVk50PO51u8RSmQv92sCwHFl0Phuj1-Lnt3ey3wXvZTQA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/SO_G45WK7sk",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 117785,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Top+Weather+Studio",
+        "updated": "May 2, 2019",
+        "size": "12M",
+        "installs": "5,000,000+",
+        "current_version": "1.102.2003",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Top Weather Studio",
+        "developer_email": "media.topapps@gmail.com",
+        "developer_url": "https://www.facebook.com/Weather-2217926141558713/",
+        "developer_address": null,
+        "app_id": "com.top.weather.forecast.accu",
+        "url": "https://play.google.com/store/apps/details?id=com.top.weather.forecast.accu&hl=en&gl=in"
+    },
+    {
+        "title": "Weather & Radar - Free",
+        "icon": "https://lh3.googleusercontent.com/GH23d7lG4YP8DFf08LsJnLwL6KrHEZ2cwcoJO0ytWoYV5NJuEvG8pLBdWRo4tq59Ww",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/9C3YAFU4cc0",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 778109,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5635094786271580047",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "WetterOnline GmbH",
+        "developer_email": "info@weatherandradar.com",
+        "developer_url": "http://weatherandradar.com",
+        "developer_address": "WetterOnline GmbH\nKarl-Legien-Stra\u00dfe 194a\n53117 Bonn\nGermany",
+        "app_id": "de.wetteronline.wetterapp",
+        "url": "https://play.google.com/store/apps/details?id=de.wetteronline.wetterapp&hl=en&gl=in"
+    },
+    {
+        "title": "Weather forecast",
+        "icon": "https://lh3.googleusercontent.com/ppbAXkS6XiFxs_S5PLQF2oI-VOnry8EjTA1DizbZHfSQJaOrPSMxBP4AAWedbPmwZQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 854991,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Green+Apple+Studio",
+        "updated": "March 13, 2019",
+        "size": "11M",
+        "installs": "10,000,000+",
+        "current_version": "1.61.195",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Green Apple Studio",
+        "developer_email": "appleinfo.studio@gmail.com",
+        "developer_url": "http://bachasoft.com/",
+        "developer_address": "Pd road, Sg, CA",
+        "app_id": "com.chanel.weather.forecast.accu",
+        "url": "https://play.google.com/store/apps/details?id=com.chanel.weather.forecast.accu&hl=en&gl=in"
+    },
+    {
+        "title": "Daily Live Weather Forecast App",
+        "icon": "https://lh3.googleusercontent.com/NA6mEHCOkIQE_C9qoBGZcmAR9wl5OsjBbj1XQ55IAqjANnV5ooi98Gp2wxoQ5V_oLrU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11612,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 23, 2019",
+        "size": "38M",
+        "installs": "1,000,000+",
+        "current_version": "16.1.0.47410_47501",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.livewallpaper.forecast.weather.widget.location",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.livewallpaper.forecast.weather.widget.location&hl=en&gl=in"
+    },
+    {
+        "title": "Real-time weather forecasts",
+        "icon": "https://lh3.googleusercontent.com/d0MxcUNxvWD4bkRS6W-wQzDPHmGmd0uHj_CyUf1UXy4toIPJ-NPsS_rXmP9jTS8IIN5w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37322,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 24, 2019",
+        "size": "35M",
+        "installs": "5,000,000+",
+        "current_version": "16.1.0.47350_47482",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "luoluo@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.rainy",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.rainy&hl=en&gl=in"
+    },
+    {
+        "title": "Weather forecast",
+        "icon": "https://lh3.googleusercontent.com/L88OtVQ78D-XWBbBHtPF1n48Ej8DZOI_6eGULrh1oBlIwNsoaCe6CzPVWIcWhEDIPEk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 393150,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5060643507394548139",
+        "updated": "June 20, 2019",
+        "size": "10M",
+        "installs": "10,000,000+",
+        "current_version": "56",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "smart-pro android apps",
+        "developer_email": "hykn.android@gmail.com",
+        "developer_url": "https://sites.google.com/view/ynkapp",
+        "developer_address": "Ha Noi, Viet Nam",
+        "app_id": "com.graph.weather.forecast.channel",
+        "url": "https://play.google.com/store/apps/details?id=com.graph.weather.forecast.channel&hl=en&gl=in"
+    },
+    {
+        "title": "Local Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/hJcSAxyWdW2D3H5emPMX8BZnTxzr_VSg_oTUa8jtrvnpeWRK7JKEY82kgJY7FyRFOMvh",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9694,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tools+Dev",
+        "updated": "July 8, 2019",
+        "size": "8.3M",
+        "installs": "1,000,000+",
+        "current_version": "2.10.3",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tools Dev",
+        "developer_email": "tools.mobnet@gmail.com",
+        "developer_url": "http://privacypolicy.oss-us-west-1.aliyuncs.com/Tools_Dev/privacyPolicy.txt",
+        "developer_address": null,
+        "app_id": "tools.weather.forecast",
+        "url": "https://play.google.com/store/apps/details?id=tools.weather.forecast&hl=en&gl=in"
+    },
+    {
+        "title": "Weather app",
+        "icon": "https://lh3.googleusercontent.com/GdXjVGXQ90eVNpb1VoXWGT3pff2M9oe3yDdYGIsde7W9h3s2S6FDLfo1uO-gljBZ1QXO",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62933,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Best+Weather+App",
+        "updated": "March 5, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "4.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Best Weather App",
+        "developer_email": "app.weather@tohsoft.com",
+        "developer_url": "https://sites.google.com/view/weather-privacy",
+        "developer_address": "Hanoi, Vietnam",
+        "app_id": "com.weather.forecast.weatherchannel",
+        "url": "https://play.google.com/store/apps/details?id=com.weather.forecast.weatherchannel&hl=en&gl=in"
+    },
+    {
+        "title": "Live Weather Forecast 2019",
+        "icon": "https://lh3.googleusercontent.com/hM81YE3Yo6J4FDFGk1DFIr-BX3YJGY4koBBWKLgCcGyoiGyArQf_QlNZyCj35wp2_mGL",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1035,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Best+App+-+Top+Droid+Team",
+        "updated": "June 7, 2019",
+        "size": "13M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Best App - Top Droid Team",
+        "developer_email": "app.contact@tohsoft.com",
+        "developer_url": "https://sites.google.com/view/weather-privacy",
+        "developer_address": "Hanoi, Vietnam",
+        "app_id": "com.tohsoft.weather.radar.widget.live.forecast",
+        "url": "https://play.google.com/store/apps/details?id=com.tohsoft.weather.radar.widget.live.forecast&hl=en&gl=in"
+    },
+    {
+        "title": "Weather",
+        "icon": "https://lh3.googleusercontent.com/yf-Efq74r9B5b0fDa7fLEcAIMjQ6p_ElrJffb9ZRgehkV67vUebzV0-TvZu8IEKDWYs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 124915,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Quark+Ltd",
+        "updated": "March 7, 2019",
+        "size": "7.1M",
+        "installs": "10,000,000+",
+        "current_version": "2.6",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Quark Ltd",
+        "developer_email": "honghua.mao@yahoo.com",
+        "developer_url": "http://safewaymiller.online/support/swmgames/weather/policy.html",
+        "developer_address": "C 19/03, OPUS HONG KONG, 53 Stubbs Road, The Peak Area, Island, Hong Kong",
+        "app_id": "com.live.wea.widget.channel",
+        "url": "https://play.google.com/store/apps/details?id=com.live.wea.widget.channel&hl=en&gl=in"
+    },
+    {
+        "title": "AccuWeather: Weather Alerts & Live Storm Radar",
+        "icon": "https://lh3.googleusercontent.com/iS1JDAsBL9-_dessIjyaqtSfQl80XGVVnMoaNt1s-TzUydIDu4xId8Chjog3e6etA0k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/oU2mk6hHUnk",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2303559,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "AccuWeather",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "AccuWeather",
+        "developer_email": "support@accuweather.com",
+        "developer_url": "http://www.accuweather.com",
+        "developer_address": "385 Science Park Road\nState College, PA 16803",
+        "app_id": "com.accuweather.android",
+        "url": "https://play.google.com/store/apps/details?id=com.accuweather.android&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast - Accurate Weather Channel",
+        "icon": "https://lh3.googleusercontent.com/Yr4P8aD44KoiU5pbAIPdM7jc8atI7zumteGrKOi8uqTRFjxmAyAlqPXTwYgbOjrSRyo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 81,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5961211893873529920",
+        "updated": "July 22, 2019",
+        "size": "9.6M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "recorder & smart apps",
+        "developer_email": "olympic.game.studio@gmail.com",
+        "developer_url": "https://sites.google.com/view/ogsprivacy",
+        "developer_address": "Hanoi",
+        "app_id": "com.sky.forecast.weather.radar.freeweather",
+        "url": "https://play.google.com/store/apps/details?id=com.sky.forecast.weather.radar.freeweather&hl=en&gl=in"
+    },
+    {
+        "title": "weather",
+        "icon": "https://lh3.googleusercontent.com/H1lY5MrSHgV890bpuXIlzlREHVrcm9ioq-E_JdCQp4hMwy7Tp8GGefy_EkCVXUGA0Ze3",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24900,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7149891497244951725",
+        "updated": "December 20, 2017",
+        "size": "7.5M",
+        "installs": "1,000,000+",
+        "current_version": "7.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "quality apps (recorder, weather, music)",
+        "developer_email": "summer.mobile.apps@gmail.com",
+        "developer_url": "https://sites.google.com/view/voicerecorderpivacy",
+        "developer_address": "Ha noi",
+        "app_id": "com.realtimeforecast.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.realtimeforecast.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Live",
+        "icon": "https://lh3.googleusercontent.com/DKgGPlcZ27uD1fOt0Qyte1L5dH3s32HuC9OC0R7_Q01K6gtNSqG7YaUuw0zHfndNA_I",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ix1dm8b4fwI",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4813,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "APLUS+Global",
+        "updated": "July 4, 2019",
+        "size": "11M",
+        "installs": "500,000+",
+        "current_version": "1.17",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "APLUS Global",
+        "developer_email": "mobile.woop2000@gmail.com",
+        "developer_url": "https://winnybrown.wordpress.com/2017/03/23/privacy-policy/",
+        "developer_address": "205 Henry Ford Avenue, Tulsa, OK",
+        "app_id": "forecast.io.weather",
+        "url": "https://play.google.com/store/apps/details?id=forecast.io.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Skymet Weather",
+        "icon": "https://lh3.googleusercontent.com/NyG8M86P0TOUVei_0dxhtdGGwCzzQfh_86dimOu7XZKyNqnWh844qJ2bELZnk0K2TtQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Qfs_mvpA-vQ",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5577,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Skymet+Weather+Services+Pvt.+Ltd.",
+        "updated": "July 19, 2019",
+        "size": "19M",
+        "installs": "100,000+",
+        "current_version": "4.21",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Skymet Weather Services Pvt. Ltd.",
+        "developer_email": "rohit.singh@skymetweather.com",
+        "developer_url": "http://www.skymetweather.com",
+        "developer_address": null,
+        "app_id": "com.skymet.indianweather",
+        "url": "https://play.google.com/store/apps/details?id=com.skymet.indianweather&hl=en&gl=in"
+    },
+    {
+        "title": "Live Local Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/FdbWi1RGyDzDX7ktQrX3X1aVVGHZqoHw8FwOOsJMZhiA3m5iTvz69Trci5xggF3Oxok",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23083,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 24, 2019",
+        "size": "32M",
+        "installs": "1,000,000+",
+        "current_version": "16.1.0.47410_47492",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.weather.location.app",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.weather.location.app&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Live",
+        "icon": "https://lh3.googleusercontent.com/TqFRrCNlY4ZulWifi6TVczZ4SWIMRUzGkXgmRdTxcdDBl4Xsg2dZIPhYP6no-iPDzam-",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 824229,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7148047194848561719",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Apalon Apps",
+        "developer_email": "support@apalon.com",
+        "developer_url": "http://www.apalon.com/weather_live_android.html",
+        "developer_address": "Block D, Iveagh Court\nHarcourt Road\nDublin 2, D02 VH 94 Ireland",
+        "app_id": "com.apalon.weatherlive.free",
+        "url": "https://play.google.com/store/apps/details?id=com.apalon.weatherlive.free&hl=en&gl=in"
+    },
+    {
+        "title": "Live Weather&Local Weather",
+        "icon": "https://lh3.googleusercontent.com/YDjn0jC018AIKXNd6qIl6Mq-2o5LnoI3EDlVbbu0a7qwF_AzxzVVHe64grkio2-3F5g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 47918,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 24, 2019",
+        "size": "35M",
+        "installs": "5,000,000+",
+        "current_version": "16.1.0.47350_47482",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "luoluo@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.storm",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.storm&hl=en&gl=in"
+    },
+    {
+        "title": "Aaj Ka Mausam: Aaj Ka Tapman, Mausam Ki Jankari",
+        "icon": "https://lh3.googleusercontent.com/mQnVKIiquJZosevSt4MEvqbP7NXYpJ-k8V5N450QFpdMYfbq3c_4kvKuC0w-Jqk8xnQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/k5-9-eeTlqA",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 745,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8991979831681376339",
+        "updated": "July 14, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "INsamachar.com",
+        "developer_email": "news24headlines@gmail.com",
+        "developer_url": "https://insamachar.com/privacy-policy/",
+        "developer_address": null,
+        "app_id": "com.mausam",
+        "url": "https://play.google.com/store/apps/details?id=com.mausam&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast - Live Weather & Radar & Clock",
+        "icon": "https://lh3.googleusercontent.com/DAcIG8lUpJYfDz7aTVnb8LC7c_Go59c42sb0AyligfDsV487DfGcFFWHKGniBjzdvn8u",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24429,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Weather+Forecast+%26+Phone+Tools++Studio",
+        "updated": "July 16, 2019",
+        "size": "11M",
+        "installs": "1,000,000+",
+        "current_version": "1.42.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Weather Forecast & Phone Tools  Studio",
+        "developer_email": "wangyuewangyue17@gmail.com",
+        "developer_url": "https://sites.google.com/view/promo-tools",
+        "developer_address": "Beihai New District, Youth City Park\uff0cXian Province",
+        "app_id": "com.channel.weather.forecast",
+        "url": "https://play.google.com/store/apps/details?id=com.channel.weather.forecast&hl=en&gl=in"
+    },
+    {
+        "title": "India Satellite Weather",
+        "icon": "https://lh3.googleusercontent.com/v9ENGQlF5OVEIf1DoGPzTixlMUEB0wj0Y8ItIuWqhnKKHSQYCUQ0AuhDJCwtPgBufw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21698,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Shahul3D",
+        "updated": "July 2, 2018",
+        "size": "4.4M",
+        "installs": "1,000,000+",
+        "current_version": "5.0.4",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Shahul3D",
+        "developer_email": "shahul3d@gmail.com",
+        "developer_url": "https://github.com/Shahul3D/IndiaSatelliteWeather",
+        "developer_address": null,
+        "app_id": "com.shahul3d.indiasatelliteweather",
+        "url": "https://play.google.com/store/apps/details?id=com.shahul3d.indiasatelliteweather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather \ud83c\udf1e",
+        "icon": "https://lh3.googleusercontent.com/pAvr2RlCMfefNBXzBP_b1OhGespQ13yhb05rzmKFARbDdy0XimTyaKgdo3y___7Ngjg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 78854,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Saevio",
+        "updated": "July 25, 2019",
+        "size": "25M",
+        "installs": "5,000,000+",
+        "current_version": "1.5.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Saevio",
+        "developer_email": "contact@saevioapps.com",
+        "developer_url": "http://www.saevioapps.com",
+        "developer_address": "Cluj Napoca, Romania",
+        "app_id": "com.bvl.weatherapp",
+        "url": "https://play.google.com/store/apps/details?id=com.bvl.weatherapp&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast - Live Weather",
+        "icon": "https://lh3.googleusercontent.com/YzPD1ztEXIZZPO-Ae6F6nmutiZI2QfxOcOLBP7Ppq0DWQm1prjTdNm9wR4sUMift6A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20891,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "fatmobi+team",
+        "updated": "December 23, 2018",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "7.4.1",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "fatmobi team",
+        "developer_email": "fatmobiteam@gmail.com",
+        "developer_url": "https://sites.google.com/view/fatmobiteam-privacypolicy/accueil",
+        "developer_address": null,
+        "app_id": "com.fatmobiweather.forecast",
+        "url": "https://play.google.com/store/apps/details?id=com.fatmobiweather.forecast&hl=en&gl=in"
+    },
+    {
+        "title": "Windy.com - Wind, Waves and Hurricanes Forecast",
+        "icon": "https://lh3.googleusercontent.com/KMcFf-IZ_Fw0C25UQd3IfE945-bcWMYoy61O8kQJTmW2YISXeGMkT-C3oP70vXLWrsQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 102457,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Windyty+SE",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Windyty SE",
+        "developer_email": "android-support@windy.com",
+        "developer_url": "https://www.windy.com",
+        "developer_address": "Strakonicka 1199/2d\nPraha 5\n15000\nCzech Republic",
+        "app_id": "com.windyty.android",
+        "url": "https://play.google.com/store/apps/details?id=com.windyty.android&hl=en&gl=in"
+    },
+    {
+        "title": "NOAA Weather Radar Live & Alerts",
+        "icon": "https://lh3.googleusercontent.com/JjquM50NWKzMajINKBmh5TAfmInp-PUw_dh0lS7FDblyIRze5zjB5mlWwxMR6ONMAsw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/RR5PbQ-J4Io",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 288597,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7148047194848561719",
+        "updated": "July 15, 2019",
+        "size": "8.9M",
+        "installs": "10,000,000+",
+        "current_version": "1.26",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Apalon Apps",
+        "developer_email": "support@apalon.com",
+        "developer_url": "http://apalon.com",
+        "developer_address": "Block D, Iveagh Court\nHarcourt Road\nDublin 2, D02 VH 94 Ireland",
+        "app_id": "com.apalon.weatherradar.free",
+        "url": "https://play.google.com/store/apps/details?id=com.apalon.weatherradar.free&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast: Aaj Ke Mausam Ki Jankari",
+        "icon": "https://lh3.googleusercontent.com/LVbJYH-t41_hB1mFYUd2v9dkOTG0wP-z2oUSD_zwjokPUQAzFNuQB-WSfSYEesQXm9M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 214,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Vintage+App+Studio",
+        "updated": "July 13, 2019",
+        "size": "10M",
+        "installs": "100,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Vintage App Studio",
+        "developer_email": "vintageappstudio@gmail.com",
+        "developer_url": "http://vintageappstudio.blogspot.com/",
+        "developer_address": null,
+        "app_id": "vintageappstudio.ajkamausamkijankari",
+        "url": "https://play.google.com/store/apps/details?id=vintageappstudio.ajkamausamkijankari&hl=en&gl=in"
+    },
+    {
+        "title": "The Weather Channel App",
+        "icon": "https://lh3.googleusercontent.com/UeNewb4NX8_OY6zdUtxEEmHW8OQTRYhmU_38ZcHVcO02JEeCpsd9BMH8rJDZ_reBb1I2",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 41308,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5938833519207566184",
+        "updated": "August 1, 2018",
+        "size": "5.0M",
+        "installs": "1,000,000+",
+        "current_version": "1.22.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Weather Channel",
+        "developer_email": "AndroidApp@weather.com",
+        "developer_url": "http://www.weather.com/en-GB",
+        "developer_address": "1001 Summit Blvd\nBrookhaven, GA 30319",
+        "app_id": "com.weather.alps",
+        "url": "https://play.google.com/store/apps/details?id=com.weather.alps&hl=en&gl=in"
+    },
+    {
+        "title": "Aaj Ke Mausam Ki Jankari : Live Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/lsakAeTUxnAInvZ6P6LCzYz-rH059BhzjRx4JNXlnahCCbRd7570NrsEKg5XGGyPpw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 233,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pineapple+apps",
+        "updated": "December 17, 2018",
+        "size": "2.8M",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Pineapple apps",
+        "developer_email": "pineappleapps267@gmail.com",
+        "developer_url": "https://pineappleappsprivacypolicy.blogspot.com/",
+        "developer_address": null,
+        "app_id": "maktech.aajkamausamjane",
+        "url": "https://play.google.com/store/apps/details?id=maktech.aajkamausamjane&hl=en&gl=in"
+    },
+    {
+        "title": "Weather & Clock Widget for Android",
+        "icon": "https://lh3.googleusercontent.com/jgRxxSNZWjiG9pGQNIoE0F-9Xgn7BzvgeyCXb-55TnR7sixhfOsLStXcZLlMwPheaic",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/zCOfk6YYNMY",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2438968,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7658770298258695404",
+        "updated": "July 23, 2019",
+        "size": "14M",
+        "installs": "50,000,000+",
+        "current_version": "6.1.0.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "Devexpert.NET",
+        "developer_email": "support@devexpert.net",
+        "developer_url": "http://www.devexpert.net/weather",
+        "developer_address": "Devexpert.NET\nOulya st.\nRiyadh 11372,\nSaudi Arabia.",
+        "app_id": "com.devexpert.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.devexpert.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Local Radar Now with Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/rPhGnYERMV49MIRrlyzBuziN5996YXe1DhectkkdsJQnggU-o-AlBjqXvRUWOkosUg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6877,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 24, 2019",
+        "size": "36M",
+        "installs": "1,000,000+",
+        "current_version": "16.1.0.47350_47482",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.weatherlive",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.weatherlive&hl=en&gl=in"
+    },
+    {
+        "title": "Weather",
+        "icon": "https://lh3.googleusercontent.com/YV-DwwJKHaf2-VuUm0CHW8cMAca4nt_aJzFlKXKG36fKKTcABoeocsEWNQQ5nq-t2LA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/jxLEmZKTsiE",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 48427,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Team+%28forecast,+radar,+widget,+recorder%29",
+        "updated": "May 15, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "4.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Team (forecast, radar, widget, recorder)",
+        "developer_email": "weather.droidteam@gmail.com",
+        "developer_url": "https://sites.google.com/view/weather-droid-team/",
+        "developer_address": null,
+        "app_id": "com.weatherteam.rainy.forecast.radar.widgets",
+        "url": "https://play.google.com/store/apps/details?id=com.weatherteam.rainy.forecast.radar.widgets&hl=en&gl=in"
+    },
+    {
+        "title": "Weather XL PRO",
+        "icon": "https://lh3.googleusercontent.com/5ezl1ZJf8Cia_zb2jLuK8GwY_LsRKhfgnwTqyUqydzfBjaQ1fC3e6f_7VXO1cS00acGf",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 396342,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6534515373655701527",
+        "updated": "July 5, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "1.4.5.4",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Exovoid S\u00e0rl",
+        "developer_email": "support@exovoid.ch",
+        "developer_url": "http://www.exovoid.ch",
+        "developer_address": "Bois-de-Ban 28\n1066 Epalinges\nSwitzerland",
+        "app_id": "com.exovoid.weather.app",
+        "url": "https://play.google.com/store/apps/details?id=com.exovoid.weather.app&hl=en&gl=in"
+    },
+    {
+        "title": "Weather - Weather Information and Forecast",
+        "icon": "https://lh3.googleusercontent.com/hhyDxUpPGukSFLJFgMvoCGQWJ3XN2OzdqUiXkouiRjeITVaErdvMIF8cXN2Vn_uKXis",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 465,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5442271158867847331",
+        "updated": "July 8, 2019",
+        "size": "16M",
+        "installs": "100,000+",
+        "current_version": "2.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Black Mobi Star - Making The Difference",
+        "developer_email": "black.mobile19star@gmail.com",
+        "developer_url": "https://sites.google.com/site/blackmobilestarpolicy/",
+        "developer_address": null,
+        "app_id": "com.weather.weatherforecast.theweather",
+        "url": "https://play.google.com/store/apps/details?id=com.weather.weatherforecast.theweather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather 14 Days - Meteored",
+        "icon": "https://lh3.googleusercontent.com/xnp4bOz1uV-AzKnEqz1LPNJ4Q3P2GAxFqSfXCanCH0AzEBzUGNqM9VtNU5K_QCxUYVSG",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/UsGlhc2w-PU",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 370643,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8458932010894797678",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Meteored",
+        "developer_email": "support@meteored.com",
+        "developer_url": "http://www.tiempo.com",
+        "developer_address": "C/ Patr\u00f3n, 19\n30893 - Almendricos\nMurcia - Espa\u00f1a",
+        "app_id": "aplicacion.tiempo",
+        "url": "https://play.google.com/store/apps/details?id=aplicacion.tiempo&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/bd_NKdYYAlw1dFo4xOTzUdgOwyBy-dpbdWD3M02-0poqLo-F5jmT_elsmJHRU2UfcA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 64688,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Top+Weather+Studio",
+        "updated": "May 2, 2019",
+        "size": "9.9M",
+        "installs": "1,000,000+",
+        "current_version": "2.10.55.1848",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Top Weather Studio",
+        "developer_email": "media.topapps@gmail.com",
+        "developer_url": "https://sites.google.com/view/weather-forecast-pro/home",
+        "developer_address": null,
+        "app_id": "com.weather.forecast.accurate",
+        "url": "https://play.google.com/store/apps/details?id=com.weather.forecast.accurate&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Radar Free",
+        "icon": "https://lh3.googleusercontent.com/viO1eFNEL_Fcb2Aa8h9lMW-nEemYoXplcQ6kdn-HXozerpvweFHG9FCFrK5TktKnjDM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 54322,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Best+Weather+App",
+        "updated": "May 22, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "1.10",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Best Weather App",
+        "developer_email": "app.weather@tohsoft.com",
+        "developer_url": "http://goweatherforecast.com",
+        "developer_address": "Hanoi, Vietnam",
+        "app_id": "com.meteo.weather.forecast.radar.v2",
+        "url": "https://play.google.com/store/apps/details?id=com.meteo.weather.forecast.radar.v2&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/FtXU75IJt6FK4sEmV0w2e6ORPsh-P8KyZfe6a6FKh769OCEpagD2Jlbq5Z9RNxxy6UI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4976,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "KUCAPP+-+Free+Music+%26+Video+Apps",
+        "updated": "July 19, 2019",
+        "size": "11M",
+        "installs": "100,000+",
+        "current_version": "1.0.5.8",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "KUCAPP - Free Music & Video Apps",
+        "developer_email": "appokuco@gmail.com",
+        "developer_url": "http://privacypolicy.oss-us-west-1.aliyuncs.com/APPOKUCO/MusicPrivacy.txt",
+        "developer_address": null,
+        "app_id": "weather.forecast.storm.radar",
+        "url": "https://play.google.com/store/apps/details?id=weather.forecast.storm.radar&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Live",
+        "icon": "https://lh3.googleusercontent.com/XB9SOrgvBooBFEY6tQkb416euTNYaYd_uHQ7be8-x0sTQCB7UyfMCBA80f4JuZlihQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7386,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mody+Apps",
+        "updated": "June 1, 2019",
+        "size": "11M",
+        "installs": "500,000+",
+        "current_version": "5.1.1",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mody Apps",
+        "developer_email": "modygims@gmail.com",
+        "developer_url": "https://sites.google.com/view/weather-live-privacy-policy/home",
+        "developer_address": null,
+        "app_id": "mody.notepad.todolist",
+        "url": "https://play.google.com/store/apps/details?id=mody.notepad.todolist&hl=en&gl=in"
+    },
+    {
+        "title": "Yahoo Weather",
+        "icon": "https://lh3.googleusercontent.com/AQgEWq9WMSMD1MPd2RDqS6HJCzq8nu-iRFW3PvKqTb1IglzRh5DChrruWlcJmvoQ_zo",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ew1sL2VbHMI",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1375439,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5536369398281991413",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Yahoo",
+        "developer_email": "weather-app-support@yahoo-inc.com",
+        "developer_url": "http://mobile.yahoo.com/weather/",
+        "developer_address": "701 First Avenue, Sunnyvale, CA 94089-0703, U.S.A",
+        "app_id": "com.yahoo.mobile.client.android.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/9bn0FoX_5AclqWDP2I-yMJjN8NzhJsey3atd-RHTuaZrvE_xP-GKgCelxSh2fmEwHg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21923,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4978685861148140298",
+        "updated": "June 24, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "1.7.6",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Cleaner & Booster & Security & Weather",
+        "developer_email": "cghxstudio@gmail.com",
+        "developer_url": "https://sites.google.com/view/vegoo-privacy-policy",
+        "developer_address": "ROOM 503, 5/F, WAYSON COMMERCIAL BUILDING 28 CONNAUGHT ROAD WEST, SHEUNG WA HONG KONG",
+        "app_id": "com.nice.accurate.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.nice.accurate.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather US",
+        "icon": "https://lh3.googleusercontent.com/Ns1fTPecJsSmGB10Qguga6XvgOoxUmZREloe5-Eybvpx6giA4eL53uEh5pe9JAQI_n8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 39123,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "BVL+Apps",
+        "updated": "December 22, 2018",
+        "size": "6.6M",
+        "installs": "1,000,000+",
+        "current_version": "164",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Shares Location, Digital Purchases"
+        ],
+        "developer": "BVL Apps",
+        "developer_email": "bvlaps@gmail.com",
+        "developer_url": "http://www.tennumbers.com",
+        "developer_address": "Floresti, Cluj Napoca, Romania",
+        "app_id": "com.tennumbers.weatherapp",
+        "url": "https://play.google.com/store/apps/details?id=com.tennumbers.weatherapp&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Wow United States",
+        "icon": "https://lh3.googleusercontent.com/ZxP8meV-HxZEKeL2iTfL-77BVTWdIAHixrHZD9m9DRt6dg9rOXAWA0wW3rif549ONPFV",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5345,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Saevio",
+        "updated": "July 24, 2019",
+        "size": "15M",
+        "installs": "100,000+",
+        "current_version": "1.5.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Saevio",
+        "developer_email": "contact@saevioapps.com",
+        "developer_url": "http://www.saevioapps.com",
+        "developer_address": "Cluj Napoca, Romania",
+        "app_id": "com.weather.wetter.meteo.wow",
+        "url": "https://play.google.com/store/apps/details?id=com.weather.wetter.meteo.wow&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast - Weather Radar & Weather Live",
+        "icon": "https://lh3.googleusercontent.com/3U76FVkaIXtgk6TMokc3Ci_5aYTwiAFAA4iJT5LF2BSRiP2c9DZYzw3GBaWpoWUmNfc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3374,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "4978685861148140298",
+        "updated": "June 21, 2019",
+        "size": "12M",
+        "installs": "500,000+",
+        "current_version": "1.3.6",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Cleaner & Booster & Security & Weather",
+        "developer_email": "feedback@zhuilai.com.cn",
+        "developer_url": "https://sites.google.com/view/vegoo-privacy-policy",
+        "developer_address": "ROOM 503, 5/F, WAYSON COMMERCIAL BUILDING 28 CONNAUGHT ROAD WEST, SHEUNG WA HONG KONG",
+        "app_id": "com.accurate.weather.forecast.radar",
+        "url": "https://play.google.com/store/apps/details?id=com.accurate.weather.forecast.radar&hl=en&gl=in"
+    },
+    {
+        "title": "Weather",
+        "icon": "https://lh3.googleusercontent.com/zKxCMk0WEukPPgE9kBDhoDebAWxniEZey4XuGeQQHh-G8aW-JflSP3vYz2S8bMh9jo-C",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2VyhIipHI14",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1271746,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5090037829240044490",
+        "updated": "April 15, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "5.1.7",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "MacroPinch",
+        "developer_email": "support@macropinch.com",
+        "developer_url": "http://macropinch.com",
+        "developer_address": "ul. Rakovska 128, et. 6\n1000 Sofia\nBulgaria",
+        "app_id": "com.macropinch.swan",
+        "url": "https://play.google.com/store/apps/details?id=com.macropinch.swan&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Live",
+        "icon": "https://lh3.googleusercontent.com/E3-wz2oVLExWJqjkjd90WhwLApkSIbK8szZmC1wZBw-eT6yh_jNeCag9XqRQl8fP1f4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1744,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Perfect_Design",
+        "updated": "December 10, 2018",
+        "size": "11M",
+        "installs": "100,000+",
+        "current_version": "2.1.1",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Perfect_Design",
+        "developer_email": "apps62362@gmail.com",
+        "developer_url": "https://sites.google.com/view/weather-live-app/home",
+        "developer_address": null,
+        "app_id": "perfect.weather.live",
+        "url": "https://play.google.com/store/apps/details?id=perfect.weather.live&hl=en&gl=in"
+    },
+    {
+        "title": "Weather forecast app for Android phone\u2600\ufe0f",
+        "icon": "https://lh3.googleusercontent.com/oqn8xQYEJGl440r-zK8QSmw2VtG6JGcgvbVDq8xiB_HufvjhrIQchGh95N402unaxo1G",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1974,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 18, 2019",
+        "size": "35M",
+        "installs": "100,000+",
+        "current_version": "16.1.0.47410",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.weather.thermometer",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.weather.thermometer&hl=en&gl=in"
+    },
+    {
+        "title": "Mausam - Indian Weather",
+        "icon": "https://lh3.googleusercontent.com/708PoQvnhIwsQYQdA3PINrXLtkp3OrpszUfnVxbhbjlGtqDhgRpMFdEJwr2ZscCA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3306,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NARESH+DHAKECHA",
+        "updated": "June 29, 2018",
+        "size": "6.5M",
+        "installs": "100,000+",
+        "current_version": "5.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Rated for 16+",
+            "Sex"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NARESH DHAKECHA",
+        "developer_email": "nareshdhakecha@gmail.com",
+        "developer_url": "http://ndtech.in/",
+        "developer_address": "GANGANAGAR-1,\nCHAKKARGADH ROAD,\nAMRELI-365601\nGUJARAT,\nINDIA",
+        "app_id": "com.ndsoftwares.mausam",
+        "url": "https://play.google.com/store/apps/details?id=com.ndsoftwares.mausam&hl=en&gl=in"
+    },
+    {
+        "title": "Weather - The Most Accurate Weather App",
+        "icon": "https://lh3.googleusercontent.com/TeSDPSNYzTWA1YGDHHwE-_U77vFROVenRoAA_byB4-lUplz6HZg2WO9Ooh5cOYZ0sA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2479,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Coocent",
+        "updated": "July 17, 2019",
+        "size": "8.6M",
+        "installs": "100,000+",
+        "current_version": "1.0.2.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Coocent",
+        "developer_email": "KuXun.AppTeam@gmail.com",
+        "developer_url": "http://privacypolicy.oss-us-west-1.aliyuncs.com/KuXunAppTeam/privacy.txt",
+        "developer_address": null,
+        "app_id": "weather.forecast.alerts.widget",
+        "url": "https://play.google.com/store/apps/details?id=weather.forecast.alerts.widget&hl=en&gl=in"
+    },
+    {
+        "title": "Room Temperature",
+        "icon": "https://lh3.googleusercontent.com/o2Qish34pCNsEMoKN_zY_PVt_cDhT9z2NXYcwVbQ2OA84UJC9XtH34eA6HRoBzl2voA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8335,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Master+Technologis",
+        "updated": "May 12, 2019",
+        "size": "4.1M",
+        "installs": "1,000,000+",
+        "current_version": "1.8.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Master Technologis",
+        "developer_email": "mastertechnologis@gmail.com",
+        "developer_url": "http://masterfashion.in/",
+        "developer_address": null,
+        "app_id": "asav.roomtemprature",
+        "url": "https://play.google.com/store/apps/details?id=asav.roomtemprature&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast: Aaj Ke Mausam Ki Jankari",
+        "icon": "https://lh3.googleusercontent.com/kYlfMMNrn5yQGe0QiU_IGnZR-9r4qidIGyRi0fwDAtWSXbB_dpcuoxCrhV2nMJgf9g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 100,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Magical+App+Zone",
+        "updated": "July 15, 2019",
+        "size": "4.7M",
+        "installs": "50,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Magical App Zone",
+        "developer_email": "magicalapp1919@gmail.com",
+        "developer_url": "https://magicalappzone.blogspot.com/",
+        "developer_address": "Surat",
+        "app_id": "magicalappzone.weatherforecast",
+        "url": "https://play.google.com/store/apps/details?id=magicalappzone.weatherforecast&hl=en&gl=in"
+    },
+    {
+        "title": "Real Time Live weather Forecast & Weather Alerts",
+        "icon": "https://lh3.googleusercontent.com/TuxNIebXCdkTCwhziUWIoq8zEPCWrDF0pqdgY3s6KJxaJAv0jgA4ryvLYyePpNTOBVQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1715,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "T%26D+Apps+Studio+Inc",
+        "updated": "July 9, 2019",
+        "size": "6.5M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "T&D Apps Studio Inc",
+        "developer_email": "sardiapps786@gmail.com",
+        "developer_url": "https://sites.google.com/view/td-apps-studio-inc/home",
+        "developer_address": null,
+        "app_id": "com.live.weatheralerts.realtime.weatherforecast",
+        "url": "https://play.google.com/store/apps/details?id=com.live.weatheralerts.realtime.weatherforecast&hl=en&gl=in"
+    },
+    {
+        "title": "Live Weather",
+        "icon": "https://lh3.googleusercontent.com/UoxL6ChJ2S3-xWwSZ63HGbc68AtzYcYjUNs1L9_UdiciyAa2f5UsBbAkqSZFlZx6Z8Fl",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15419,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Slow+Motion+Video+LLC",
+        "updated": "June 15, 2019",
+        "size": "9.8M",
+        "installs": "1,000,000+",
+        "current_version": "3.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Slow Motion Video LLC",
+        "developer_email": "nehacybase@gmail.com",
+        "developer_url": "http://www.secretapplock.com/privacy-policy.html",
+        "developer_address": "Bodhan, Mandvi",
+        "app_id": "com.secretapplock.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.secretapplock.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather",
+        "icon": "https://lh3.googleusercontent.com/gHmHs3konbecN2gtSGAYx8xdFselk9C54SPqx807zMLheChYLVdH4UybBF2GBFf8cKE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21695,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Saevio",
+        "updated": "July 25, 2019",
+        "size": "25M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Saevio",
+        "developer_email": "contact@saevioapps.com",
+        "developer_url": "http://www.saevioapps.com",
+        "developer_address": "Cluj Napoca, Romania",
+        "app_id": "com.saevio.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.saevio.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/hcWN9dQJtGFtefShhXUkPO6UgzWINGX3WSTr8058nw-LO3vLqDOIofa3ihtFpinbhQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33082,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Coocent",
+        "updated": "July 24, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Coocent",
+        "developer_email": "KuXun.AppTeam@gmail.com",
+        "developer_url": "http://privacypolicy.oss-us-west-1.aliyuncs.com/KuXunAppTeam/privacy.txt",
+        "developer_address": null,
+        "app_id": "weather.forecast.alert.storm.radar",
+        "url": "https://play.google.com/store/apps/details?id=weather.forecast.alert.storm.radar&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/3swTjXSE9k9v3zOoIC3ixMAHh53hWyv15867vSZWU58rTrw51kmxSXulyzqR7aSIig",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15220,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Dreams+Room",
+        "updated": "July 25, 2019",
+        "size": "8.1M",
+        "installs": "1,000,000+",
+        "current_version": "2.3.21",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Dreams Room",
+        "developer_email": "panjiaqiong@gmail.com",
+        "developer_url": "http://privacypolicy.oss-us-west-1.aliyuncs.com/Dreeam_Room/privacy.txt",
+        "developer_address": null,
+        "app_id": "weather.forecast.barometer.storm.radar",
+        "url": "https://play.google.com/store/apps/details?id=weather.forecast.barometer.storm.radar&hl=en&gl=in"
+    },
+    {
+        "title": "Live Rain Weather Forecast - Real Time Radar",
+        "icon": "https://lh3.googleusercontent.com/ErKiubK3Tk-R7PhFerk9B6C433KNed2UytSRt05qcJeDBQEupT6k_CyZLxKC4qisqn4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 146,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "maxplayer.in",
+        "updated": "June 25, 2019",
+        "size": "10M",
+        "installs": "50,000+",
+        "current_version": "7.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "maxplayer.in",
+        "developer_email": "maxplayerin@gmail.com",
+        "developer_url": "http://maxplayer.in/#privacy_policy",
+        "developer_address": null,
+        "app_id": "app.liverain.maxweather",
+        "url": "https://play.google.com/store/apps/details?id=app.liverain.maxweather&hl=en&gl=in"
+    },
+    {
+        "title": "India Weather",
+        "icon": "https://lh3.googleusercontent.com/MJFXu7mXAtPvtqoy49bIUsqfECA_0TwRnI-fVwv6Ob6wtJMdRAvuInLE-PboqGpfvXsv",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1434,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Smart+Apps+Android",
+        "updated": "August 9, 2016",
+        "size": "3.4M",
+        "installs": "500,000+",
+        "current_version": "1.0",
+        "required_android_version": "2.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Smart Apps Android",
+        "developer_email": "smartuniverapps@gmail.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "smart.weather.India",
+        "url": "https://play.google.com/store/apps/details?id=smart.weather.India&hl=en&gl=in"
+    },
+    {
+        "title": "Rain Radar",
+        "icon": "https://lh3.googleusercontent.com/f0m4zQOFtdvhIkRB5Ucez2W5j33C6CRTrie4Cl3bWR3GxEX9z0CasmqRCwpa5Vvnhn4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/bkHpCbjWIUY",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4619,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8916960147478671370",
+        "updated": "July 19, 2019",
+        "size": "5.2M",
+        "installs": "500,000+",
+        "current_version": "10.0.75",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Simon Ho\u010devar",
+        "developer_email": "info@webfreak.si",
+        "developer_url": "https://webfreak.si",
+        "developer_address": "Tr\u017ea\u0161ka 47,\n1000 Ljubljana\nSlovenia",
+        "app_id": "webfreak.si.rainradar",
+        "url": "https://play.google.com/store/apps/details?id=webfreak.si.rainradar&hl=en&gl=in"
+    },
+    {
+        "title": "Daily Live Weather - Weather Temperature",
+        "icon": "https://lh3.googleusercontent.com/g1dyDcAS6RsOJ9KGZlHTTRxrxGlgEQYmZgeYrWKUW9Y-JuSjm0PUYVHKpGiXwrCsgRk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Media+Tool+Developer",
+        "updated": "June 7, 2019",
+        "size": "4.9M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Media Tool Developer",
+        "developer_email": "mediatooldeveloper@gmail.com",
+        "developer_url": "https://mediatooldeveloper.blogspot.com/",
+        "developer_address": null,
+        "app_id": "media.tool.liveweather.developer",
+        "url": "https://play.google.com/store/apps/details?id=media.tool.liveweather.developer&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast - Live Weather & Radar & Widget",
+        "icon": "https://lh3.googleusercontent.com/6LSSwUa2chpMwTD8_ZcbWUNdcT5nDFMnZC07-OaDZVx5xlGRNKTNGV_HPb_Yn56RD2iW",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 52,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Forecast+%26+Widget+%26+Radar",
+        "updated": "July 13, 2019",
+        "size": "10M",
+        "installs": "5,000+",
+        "current_version": "1.1.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Weather Forecast & Widget & Radar",
+        "developer_email": "weatherfeedback@outlook.com",
+        "developer_url": "https://sites.google.com/view/weatherteam",
+        "developer_address": "HONG KONG",
+        "app_id": "com.accurate.live.weather.forecast",
+        "url": "https://play.google.com/store/apps/details?id=com.accurate.live.weather.forecast&hl=en&gl=in"
+    },
+    {
+        "title": "Mausam - Gujarati Weather App",
+        "icon": "https://lh3.googleusercontent.com/ioZJbLu0ASXa34eZFPgrrDshSw86t8M5OtuDwIj4fhq14RJIJWyJYTp37JNR4CVQke8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3535,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NARESH+DHAKECHA",
+        "updated": "June 29, 2018",
+        "size": "7.2M",
+        "installs": "100,000+",
+        "current_version": "5.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Rated for 16+",
+            "Sex"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NARESH DHAKECHA",
+        "developer_email": "nareshdhakecha@gmail.com",
+        "developer_url": "http://shalasetu.co.in/",
+        "developer_address": "GANGANAGAR-1,\nCHAKKARGADH ROAD,\nAMRELI-365601\nGUJARAT,\nINDIA",
+        "app_id": "com.ndsoftwares.insat",
+        "url": "https://play.google.com/store/apps/details?id=com.ndsoftwares.insat&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast - Daily Live Weather & Radar",
+        "icon": "https://lh3.googleusercontent.com/FtvngM_fxr9RdMDEfMiqoa-9GeVmKaK58WDnrtjn9e73wGcgcivC7qJ-BpoUMf-6yw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2885,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "iJoysoft",
+        "updated": "July 25, 2019",
+        "size": "5.4M",
+        "installs": "100,000+",
+        "current_version": "1.1.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "iJoysoft",
+        "developer_email": "smartchen2015@gmail.com",
+        "developer_url": "https://appprivacy.oss-us-east-1.aliyuncs.com/AppPrivacy.txt",
+        "developer_address": "\u9999\u6e2f\u4e5d\u9f8d\u4e5d\u9f8d\u7063\u555f\u696d\u6751\u555f\u8ce2\u6a131313\u5ba4",
+        "app_id": "weather.forecast.live.weather",
+        "url": "https://play.google.com/store/apps/details?id=weather.forecast.live.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather radar & Global weather",
+        "icon": "https://lh3.googleusercontent.com/KH7a3fgQp2S5y2HkvgRWsIQgvKbK5oWVjyN9ssmgCxU_HVoZKayHmCPZAhBksLez0g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10417,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 19, 2019",
+        "size": "42M",
+        "installs": "1,000,000+",
+        "current_version": "16.1.0.47350_47471",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.weatherandradar",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.weatherandradar&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Live : Forecast & Radar",
+        "icon": "https://lh3.googleusercontent.com/8ri1ha_EmpCiLxdTocwBLYPyChB2wxc7oDQ468FG646cVHbiYGffWayiakUB2q5cwmw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mixed+up+apps",
+        "updated": "July 21, 2019",
+        "size": "19M",
+        "installs": "5,000+",
+        "current_version": "2.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mixed up apps",
+        "developer_email": "mixedupapp1991@gmail.com",
+        "developer_url": "https://mixedupapp.blogspot.com/",
+        "developer_address": null,
+        "app_id": "com.mixedup.liveweatherapp",
+        "url": "https://play.google.com/store/apps/details?id=com.mixedup.liveweatherapp&hl=en&gl=in"
+    },
+    {
+        "title": "Weather",
+        "icon": "https://lh3.googleusercontent.com/3N9IG2nxxDLLph-v8qlqiuhydlu_hl_dXicP1sH2sYQdDURe5vcd5ZuCBo0P5u89Gw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 110877,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Best+App+-+Top+Droid+Team",
+        "updated": "February 23, 2019",
+        "size": "10M",
+        "installs": "1,000,000+",
+        "current_version": "3.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Best App - Top Droid Team",
+        "developer_email": "talentdroidteam@tohsoft.com",
+        "developer_url": "https://sites.google.com/view/weather-privacy",
+        "developer_address": "Hanoi, Vietnam",
+        "app_id": "com.tohsoft.weather.radar.widget",
+        "url": "https://play.google.com/store/apps/details?id=com.tohsoft.weather.radar.widget&hl=en&gl=in"
+    },
+    {
+        "title": "OnePlus Weather",
+        "icon": "https://lh3.googleusercontent.com/eH52lMhOwNOXTP0hkM-6dI5bIsdAFmdkvbWgQYOefCjKd9v3FBif-YMIWTyWhHyqOrI3",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7369,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8677746436809616031",
+        "updated": "July 12, 2019",
+        "size": "10M",
+        "installs": "100,000+",
+        "current_version": "2.5.0.190626200651.ab2032c",
+        "required_android_version": "7.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "OnePlus Ltd.",
+        "developer_email": "apps_weather@oneplus.com",
+        "developer_url": "https://www.oneplus.com/",
+        "developer_address": null,
+        "app_id": "net.oneplus.weather",
+        "url": "https://play.google.com/store/apps/details?id=net.oneplus.weather&hl=en&gl=in"
+    },
+    {
+        "title": "New 2018 Weather App & Widget",
+        "icon": "https://lh3.googleusercontent.com/iiwfrnAIGoKytc5cZkck97y_D3GJ_ZhTbxx80N1ja13kjehj5UYsDdSKCvzl2oSwis4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5719,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 19, 2019",
+        "size": "35M",
+        "installs": "1,000,000+",
+        "current_version": "16.1.0.47350_47471",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.rainy.new2018",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.rainy.new2018&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/aU3e8b1uXZkVIpYQqpZ9iNobzTqsJ3Zpwar-VxCjLV-IjCpKkjNVMDrXsoiZ4SiHYw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 143728,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Best+App+-+Top+Droid+Team",
+        "updated": "March 5, 2019",
+        "size": "8.7M",
+        "installs": "5,000,000+",
+        "current_version": "9.9",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Best App - Top Droid Team",
+        "developer_email": "talentdroidteam@tohsoft.com",
+        "developer_url": "https://sites.google.com/view/weather-privacy",
+        "developer_address": "Hanoi, Vietnam",
+        "app_id": "com.droidteam.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.droidteam.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Live",
+        "icon": "https://lh3.googleusercontent.com/rDUjQuPx3fh_sYv-9iUQmETaU8ff-_0C5d8NBpyjvU76sDGm_zkdK4GTgosB0vl_pw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 822,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Innovative+Team",
+        "updated": "April 8, 2019",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "1.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Innovative Team",
+        "developer_email": "thanhhuongpham1504@gmail.com",
+        "developer_url": "https://sites.google.com/view/weather-live/",
+        "developer_address": "Thai Binh - Viet Nam",
+        "app_id": "com.innovative.weather.live",
+        "url": "https://play.google.com/store/apps/details?id=com.innovative.weather.live&hl=en&gl=in"
+    },
+    {
+        "title": "Thermometer++",
+        "icon": "https://lh3.googleusercontent.com/A6F8poaA3_9T0BPFEO3q2urkduT4dVehy6Gzlob6HZzSc9qKv7fgiGgsJ2xM6yQo-Hvy",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 115456,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Singulario+Programos+UAB",
+        "updated": "June 6, 2019",
+        "size": "3.8M",
+        "installs": "5,000,000+",
+        "current_version": "5.0.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Singulario Programos UAB",
+        "developer_email": "thermometerapp@gmail.com",
+        "developer_url": "http://www.singularioapps.com",
+        "developer_address": "\u0160vitrigailos g. 11B\n03228, Vilnius\nLithuania",
+        "app_id": "amuseworks.thermometer",
+        "url": "https://play.google.com/store/apps/details?id=amuseworks.thermometer&hl=en&gl=in"
+    },
+    {
+        "title": "India Weather: Satellite Weather Images",
+        "icon": "https://lh3.googleusercontent.com/cVK_QAbaVWEKMCtu9j8BqaFpTJEBVamfgc-9KrnoxQdWEKY0XbhGKh3cYDAmdghwqw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 113,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ASREntertainment",
+        "updated": "July 10, 2019",
+        "size": "6.9M",
+        "installs": "10,000+",
+        "current_version": "1.0.7",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ASREntertainment",
+        "developer_email": "asrentertainment1618@gmail.com",
+        "developer_url": "http://asrentertainment1618.blogspot.com/2018/07/asr-entertainment-apps-privacy-policy.html",
+        "developer_address": "GUJARAT, INDIA.",
+        "app_id": "com.ASREntertainment.IndiaLiveRainfallWeather",
+        "url": "https://play.google.com/store/apps/details?id=com.ASREntertainment.IndiaLiveRainfallWeather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather updates&temperature report",
+        "icon": "https://lh3.googleusercontent.com/Bauk7r0Ku_in7MIQzXD6Fc_D-oQYjk_291ueBOd0A-yC792WMxmT-f4aNiYdm2Cch8Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28942,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 19, 2019",
+        "size": "35M",
+        "installs": "5,000,000+",
+        "current_version": "16.1.0.47410",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://infolife.mobi",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.gcolour",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.gcolour&hl=en&gl=in"
+    },
+    {
+        "title": "GO Weather Lite - Forecast, Widget, Light",
+        "icon": "https://lh3.googleusercontent.com/1qeuuPNXgulUuzBSFZRlVWYi8_bxmFVV1RQjX9JLre-jyVbuFhut0_GsUV-Db7YFk885",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2066,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7536219039467846430",
+        "updated": "January 30, 2018",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GOMO Go",
+        "developer_email": "goweatherexfeedback@gmail.com",
+        "developer_url": "http://www.gomo.com/",
+        "developer_address": "17th floor ,Tower A,China International Center NO.33 Zhongshan 3rd Road Yue Xiu district,GuangZhou,China",
+        "app_id": "com.gau.go.weatherapp.weatherwidget.lite",
+        "url": "https://play.google.com/store/apps/details?id=com.gau.go.weatherapp.weatherwidget.lite&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Radar - Weather forecast: Today & Tomorrow",
+        "icon": "https://lh3.googleusercontent.com/CbcnEQKshQIV997iLdT8BYo8UF9NnWPmlmy0dBxpG6AMNibzcUjPtJj5N3A3VJswSQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Jor7kLVvQIs",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13022,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8706106284531263713",
+        "updated": "June 28, 2019",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "3.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "AMOTech Inc.",
+        "developer_email": "amoweatherinfo@gmail.com",
+        "developer_url": "http://amoweather.com/",
+        "developer_address": "605 DC Road, Sg",
+        "app_id": "com.weather.weatherforecast.weatherchannelinfo",
+        "url": "https://play.google.com/store/apps/details?id=com.weather.weatherforecast.weatherchannelinfo&hl=en&gl=in"
+    },
+    {
+        "title": "Damini : Lightning Alert",
+        "icon": "https://lh3.googleusercontent.com/s0w7s9olKPDplJzWS3tgIL48QMW50n4TRiQGNoji5d0z3smhQCqIT37VopoW4a6vLQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 604,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "IITM+PUNE",
+        "updated": "November 17, 2018",
+        "size": "3.1M",
+        "installs": "50,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "IITM PUNE",
+        "developer_email": "apps.iitm@gmail.com",
+        "developer_url": "http://www.tropmet.res.in",
+        "developer_address": null,
+        "app_id": "com.lightening.live.damini",
+        "url": "https://play.google.com/store/apps/details?id=com.lightening.live.damini&hl=en&gl=in"
+    },
+    {
+        "title": "WeatherPro: Forecast, Radar & Widgets",
+        "icon": "https://lh3.googleusercontent.com/rWWb2gQZNBmL2wBqHX4fTHmLw0H3nlxblIW4JMcQgYdEG8SX5blGfx06-NG5va2Ke8cj",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 68084,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7282071594481600051",
+        "updated": "July 18, 2019",
+        "size": "32M",
+        "installs": "500,000+",
+        "current_version": "5.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "MeteoGroup",
+        "developer_email": "support@android.weatherpro.de",
+        "developer_url": "http://www.weatherpro.com",
+        "developer_address": "Am Studio 20a\n12489 Berlin\nGermany",
+        "app_id": "com.mg.android",
+        "url": "https://play.google.com/store/apps/details?id=com.mg.android&hl=en&gl=in"
+    },
+    {
+        "title": "Aaj Ka Mausam Jane: Live Weather",
+        "icon": "https://lh3.googleusercontent.com/qo10qUhbFUSa55KxKjNgcxQzbtqJL_jDITsEYD_PfENhTOmi5qk2liX4NOFUnznzyw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 42,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bestie+App+Zone",
+        "updated": "October 5, 2018",
+        "size": "5.1M",
+        "installs": "50,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bestie App Zone",
+        "developer_email": "videoplayerapps20@gmail.com",
+        "developer_url": "http://videoplayeranddownloader.blogspot.com/",
+        "developer_address": null,
+        "app_id": "videoplayers.aajkamausamjane",
+        "url": "https://play.google.com/store/apps/details?id=videoplayers.aajkamausamjane&hl=en&gl=in"
+    },
+    {
+        "title": "Local Weather Forecast & Real-time Radar checker",
+        "icon": "https://lh3.googleusercontent.com/kWFJgbreZCN3lPOa42wS0tvJTwjSB4jVoQEXYSuXhKiIU8TUR16sm6jag-grIAw6Sgw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4701,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 10, 2019",
+        "size": "42M",
+        "installs": "500,000+",
+        "current_version": "16.1.0.47350_47380",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.radar.weatherforecast",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.radar.weatherforecast&hl=en&gl=in"
+    },
+    {
+        "title": "Amber Weather&Radar Free",
+        "icon": "https://lh3.googleusercontent.com/t9Fq3fwtNlZM8HvSmj_c-Go_eoz5VExfLDOP69kzJjBVJ9PQcuUYBBT1WCsPEr-0g0C7",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28238,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7686194056937543414",
+        "updated": "June 7, 2019",
+        "size": "23M",
+        "installs": "1,000,000+",
+        "current_version": "4.5.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Amber Mobile Limited",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "com.amber.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.amber.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Neon",
+        "icon": "https://lh3.googleusercontent.com/sabgslk-YL9TabLS0smbwKMANGEMjAYeykrcTS1OetVuk5exeuCCReFlqSyHHlGK5fw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/2dDbH6ioBXM",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11203,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7790177431403907507",
+        "updated": "July 13, 2019",
+        "size": "8.2M",
+        "installs": "500,000+",
+        "current_version": "4.2.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "MobileRise",
+        "developer_email": "alicevik@gmail.com",
+        "developer_url": "http://www.mobilerise.com",
+        "developer_address": "Simsek sok. 36/2 A.Ayranci Ankara/ Turkey",
+        "app_id": "com.mobilerise.weather.neon",
+        "url": "https://play.google.com/store/apps/details?id=com.mobilerise.weather.neon&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Channel 2019, New York Weather Radar",
+        "icon": "https://lh3.googleusercontent.com/l0qu-zo9ddwqZ0gtj4w22Ys3Qno_d2pc6XHv1eQ9MDJwXTIkpy0ouUpL2sT9s71YpE1E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 127,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Trends.on.Go+%7C+AR+Navigation+GPS+Maps+Street+View",
+        "updated": "November 14, 2018",
+        "size": "4.1M",
+        "installs": "50,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Trends.on.Go | AR Navigation GPS Maps Street View",
+        "developer_email": "trends.ongo@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1cvgPhyH0veiNsSSvJzrZ1MX4zHjtLv3StEtgRgXGKS0/edit?usp=sharing",
+        "developer_address": "Down Town GS-56",
+        "app_id": "com.current.weatherforecast",
+        "url": "https://play.google.com/store/apps/details?id=com.current.weatherforecast&hl=en&gl=in"
+    },
+    {
+        "title": "Weather",
+        "icon": "https://lh3.googleusercontent.com/WAoETs6E90Be_qvj9pPgrvPdxariJw14m7i3Cg8-tX3IDIpjZECiS5j0njAn9gJmtg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 78951,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Word+Connect+Games",
+        "updated": "March 3, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "Word Connect Games",
+        "developer_email": "joygamellc@gmail.com",
+        "developer_url": "http://www.joygame.site/support/joygames/weather/policy.html",
+        "developer_address": "13031 Bloomfield St, Studio City, CA 91604",
+        "app_id": "com.wea.climate.clock.widget",
+        "url": "https://play.google.com/store/apps/details?id=com.wea.climate.clock.widget&hl=en&gl=in"
+    },
+    {
+        "title": "WEATHER NOW",
+        "icon": "https://lh3.googleusercontent.com/xStBcJPuPBtrPnQi8swLwib0wnIQOZp2J7ckVAj7NHXHcJBAg4IiwRbYxAHd4Cj2TQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19072,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7909324824138815737",
+        "updated": "July 2, 2019",
+        "size": "47M",
+        "installs": "1,000,000+",
+        "current_version": "0.3.19",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Weather Now",
+        "developer_email": "android@weathernow.app",
+        "developer_url": "https://www.weathernow.app",
+        "developer_address": "7 LEWIS CIRCLE STE 396490 WILMINGTON\nDE 19804-1618 U.S.A.\nELSMERE, DE 19804",
+        "app_id": "com.weathernowapp.weathernow",
+        "url": "https://play.google.com/store/apps/details?id=com.weathernowapp.weathernow&hl=en&gl=in"
+    },
+    {
+        "title": "Weather",
+        "icon": "https://lh3.googleusercontent.com/1KQ_tN9qwNX8mtN7VlEeHMVBIxF9QtKFS-VjVoVapIkBGc25MVsAa62_oY0CtK73Lzk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 74987,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Green+Apple+Studio",
+        "updated": "September 26, 2018",
+        "size": "9.2M",
+        "installs": "1,000,000+",
+        "current_version": "1.23.306",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Green Apple Studio",
+        "developer_email": "appleinfo.studio@gmail.com",
+        "developer_url": "http://bachasoft.com/",
+        "developer_address": "Pd road, Sg, CA",
+        "app_id": "com.limate.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.limate.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Aaj Ke Mausam Ki Jankari : Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/aOOTOuraOwmdqq8_89foRp4dCHj4-nha-p07NOIzll1EJvNG-KHKZserbJqUJf7-0nU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 65,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "APK+Master+2019",
+        "updated": "April 8, 2019",
+        "size": "8.6M",
+        "installs": "50,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "APK Master 2019",
+        "developer_email": "nramani114@gmail.com",
+        "developer_url": "https://helpapkmaster.blogspot.com",
+        "developer_address": null,
+        "app_id": "application.master.weatherforecast.com",
+        "url": "https://play.google.com/store/apps/details?id=application.master.weatherforecast.com&hl=en&gl=in"
+    },
+    {
+        "title": "Weather by WeatherBug: Real Time Forecast & Alerts",
+        "icon": "https://lh3.googleusercontent.com/ZJyyFrBAGTXi2tG2AITFmxYKkvDuHeuuhoxs6xmjMe_-0HIMFR1mlbD2h1rISKmDFZo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1146087,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "WeatherBug",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "WeatherBug",
+        "developer_email": "weatherbug.android@gmail.com",
+        "developer_url": "https://www.weatherbug.com/",
+        "developer_address": "One World Trade Center\n60th floor\n285 Fulton St\nNew York, NY 10007",
+        "app_id": "com.aws.android",
+        "url": "https://play.google.com/store/apps/details?id=com.aws.android&hl=en&gl=in"
+    },
+    {
+        "title": "Accurate Weather Forecast",
+        "icon": "https://lh3.googleusercontent.com/SJt0lEojbbF3wrQ8tDCj5xFk_eCUY96uvB_q-B-I0t_g80VVHulVmN4EJCiSRokWRQg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 115,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Modevlop",
+        "updated": "June 23, 2019",
+        "size": "12M",
+        "installs": "10,000+",
+        "current_version": "3.2.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Modevlop",
+        "developer_email": "mohssinekafih@gmail.com",
+        "developer_url": "https://sites.google.com/view/modevelop/accueil",
+        "developer_address": null,
+        "app_id": "modevelop.apps.accurate.weather.forecast",
+        "url": "https://play.google.com/store/apps/details?id=modevelop.apps.accurate.weather.forecast&hl=en&gl=in"
+    },
+    {
+        "title": "Weather report & temperature widget",
+        "icon": "https://lh3.googleusercontent.com/akReV82bL6vkHBJLJq2vNdJdkSVKLHpILzzTYwfIAiGXOycyjUed9IwBj9EAp-1ir9I",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 998,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 17, 2019",
+        "size": "39M",
+        "installs": "100,000+",
+        "current_version": "16.6.0.47411",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.weatherchannel.wetteronline",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.weatherchannel.wetteronline&hl=en&gl=in"
+    },
+    {
+        "title": "Transparent clock & weather",
+        "icon": "https://lh3.googleusercontent.com/m8EynyZOrO7fBaBkuB6UCgdp2OtwdrOAHN3YtPKbaF4Nt8Gtaiqc9hQfzgfnkPBC20c",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/cL4CTihhpIg",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 862254,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7032303803416115669",
+        "updated": "July 23, 2019",
+        "size": "19M",
+        "installs": "50,000,000+",
+        "current_version": "3.10.05",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Shares Location"
+        ],
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "MACHAPP Software Ltd",
+        "developer_email": "support@machapp.net",
+        "developer_url": "http://www.machapp.net",
+        "developer_address": "8 Avenue Georgiou Neofytou\nAgate House #201\nLimassol 4006\nCyprus",
+        "app_id": "com.droid27.transparentclockweather",
+        "url": "https://play.google.com/store/apps/details?id=com.droid27.transparentclockweather&hl=en&gl=in"
+    },
+    {
+        "title": "The\u00a0weather\u00a0forecast - Real Time Forecast & Alerts",
+        "icon": "https://lh3.googleusercontent.com/xr1Lf_Um2jGYXyl6HiILzeRXNttI_QSimHWJ43AiyoPMh5ZJlNp-PsTZ3B_ra1AkEnyz",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 32,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "KX+Camera+Team",
+        "updated": "July 24, 2019",
+        "size": "8.9M",
+        "installs": "10,000+",
+        "current_version": "1.0.0.7",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "In-App Purchases"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "KX Camera Team",
+        "developer_email": "gamecenter.tan@gmail.com",
+        "developer_url": "http://privacypolicy.oss-us-west-1.aliyuncs.com/KXAppCenter.Inc./privacy.txt",
+        "developer_address": null,
+        "app_id": "weather.alert.storm.radar",
+        "url": "https://play.google.com/store/apps/details?id=weather.alert.storm.radar&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast App",
+        "icon": "https://lh3.googleusercontent.com/-7QeXIdIl5mB8bLoS8oiJhFVGW95S4D4itzFk2RZwKHtg-oYL2ft0RIW4lyTjmvM2w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1854,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 17, 2019",
+        "size": "39M",
+        "installs": "100,000+",
+        "current_version": "16.6.0.47411",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm&hl=en&gl=in"
+    },
+    {
+        "title": "Weather Forecast & Live Wallpaper",
+        "icon": "https://lh3.googleusercontent.com/k_zZP5v5p8OmQy23kvo1FYtj5BAhqDKDUx-MyW9khJ5tfb4lyogAv9G3yTZ4YANsjAU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1463,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 17, 2019",
+        "size": "46M",
+        "installs": "100,000+",
+        "current_version": "16.6.0.47411",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.livewallpaper.weather.forecast.liveweather",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.livewallpaper.weather.forecast.liveweather&hl=en&gl=in"
+    },
+    {
+        "title": "Temperature Free",
+        "icon": "https://lh3.googleusercontent.com/8YCU7CPgUdVStbxzENFybO0_xIbR1SfmZb6541OE5XFOsjwwLUkYJXql8PEET0Ngtg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6053,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SpeedyMarks",
+        "updated": "June 21, 2018",
+        "size": "2.0M",
+        "installs": "1,000,000+",
+        "current_version": "1.4.1",
+        "required_android_version": "2.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SpeedyMarks",
+        "developer_email": "piet.jonas@googlemail.com",
+        "developer_url": "http://start.speedymarks.com",
+        "developer_address": "Zur Marktflagge 5\n10247 Berlin\nGermany",
+        "app_id": "com.speedymarks.android.temperatureFree",
+        "url": "https://play.google.com/store/apps/details?id=com.speedymarks.android.temperatureFree&hl=en&gl=in"
+    },
+    {
+        "title": "Neffos Weather",
+        "icon": "https://lh3.googleusercontent.com/IHYOlzpQKhWYyQHKNR-DVEjXpLspJZW73WbVDGddOvjq3_Q_DDEfic3rbFrVxzAvUZk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1139,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Neffos",
+        "updated": "December 28, 2018",
+        "size": "4.3M",
+        "installs": "1,000,000+",
+        "current_version": "9.0-20181217.10025-rel",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Neffos",
+        "developer_email": "app.support@tp-link.com.cn",
+        "developer_url": "http://www.neffos.com/",
+        "developer_address": null,
+        "app_id": "com.tplink.weather",
+        "url": "https://play.google.com/store/apps/details?id=com.tplink.weather&hl=en&gl=in"
+    },
+    {
+        "title": "Wind Map \ud83c\udf2a Hurricane Tracker (3D Globe & Alerts)",
+        "icon": "https://lh3.googleusercontent.com/spjZjzjT3ny31LE9Sc7ZOmd41B0mtxNirJ3EEOVFXL6X8kIOhLdA1VtkVE1YM2FRhFic",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/R07nSPqxOiA",
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5690,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6677587029913822659",
+        "updated": "May 7, 2019",
+        "size": "6.5M",
+        "installs": "500,000+",
+        "current_version": "2.2.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Location, In-App Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, In-App Purchases"
+        ],
+        "developer": "\ud83c\udf2a SP-Apps",
+        "developer_email": "info@sp-apps.com",
+        "developer_url": "http://windsmap.com",
+        "developer_address": "Amman - Jordan\nPO box 925946\npostal code 11190",
+        "app_id": "spapps.com.windmap",
+        "url": "https://play.google.com/store/apps/details?id=spapps.com.windmap&hl=en&gl=in"
+    },
+    {
+        "title": "Temperature : Mobile, Room & City",
+        "icon": "https://lh3.googleusercontent.com/OsxE3mIdrHZ51nevlmvxlr0eBSc5aJ7kPkIfVELi1Jo59R-m_8ljMg6n64-QVWK5qw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 680,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "PPN+Developers",
+        "updated": "June 28, 2019",
+        "size": "6.5M",
+        "installs": "100,000+",
+        "current_version": "1.11",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Rated for 3+"
+        ],
+        "interactive_elements": null,
+        "developer": "PPN Developers",
+        "developer_email": "praful123984@gmail.com",
+        "developer_url": "https://ppndevelopers.000webhostapp.com/PrivacyPolicy/privacy_policy.html",
+        "developer_address": "Vini Elegance\nBorivali (W)\nMumbai - 400902",
+        "app_id": "com.ppn.temperature.checker",
+        "url": "https://play.google.com/store/apps/details?id=com.ppn.temperature.checker&hl=en&gl=in"
+    },
+    {
+        "title": "weather forecast and weather alert app \u26c8\u26c8",
+        "icon": "https://lh3.googleusercontent.com/NRGO3MGZ8R8nWg_wDQfMh0AdHFpB82qZnVkLYIzPfigpl_Lgd4sfn7EnDVygi1UfNnI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6450,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Weather+Widget+Theme+Dev+Team",
+        "updated": "July 18, 2019",
+        "size": "36M",
+        "installs": "500,000+",
+        "current_version": "16.1.0.47410",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Weather Widget Theme Dev Team",
+        "developer_email": "support@amberweather.com",
+        "developer_url": "http://www.amberweather.com/",
+        "developer_address": "RM 1401, 14/F WORLD COMMERCE CTR HARBOUR CITY 7-11 CANTON RD TST KLN HONG KONG",
+        "app_id": "mobi.infolife.ezweather.widget.g23n3",
+        "url": "https://play.google.com/store/apps/details?id=mobi.infolife.ezweather.widget.g23n3&hl=en&gl=in"
+    },
+    {
+        "title": "Live Rain wheather:Wheather Forecast Report Widget",
+        "icon": "https://lh3.googleusercontent.com/A8orWsNubpNqaF-fbWS2RcG7izOMzJenUyssr_zB-FsvNxaYzsFJwxTnkAn3Hl-i1A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 175,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Zeflur+Infotech",
+        "updated": "January 16, 2019",
+        "size": "12M",
+        "installs": "50,000+",
+        "current_version": "1.1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Zeflur Infotech",
+        "developer_email": "worlddex.2017@gmail.com",
+        "developer_url": "http://worlddex2017.blogspot.in/2017/07/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "wd.liverainy.weather",
+        "url": "https://play.google.com/store/apps/details?id=wd.liverainy.weather&hl=en&gl=in"
+    },
+    {
+        "title": "RainViewer: NOAA Weather Radar, Rain Forecast",
+        "icon": "https://lh3.googleusercontent.com/f79speJKWQ6huCPolZTL_cYMOagjIEhBoDwpJ7cU2Xb901Ius1bSydacYQ3_z9tlwME",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "WEATHER"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7741,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Oleksii+Schastlyvyi",
+        "updated": "July 11, 2019",
+        "size": "4.7M",
+        "installs": "500,000+",
+        "current_version": "1.11.6",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Oleksii Schastlyvyi",
+        "developer_email": "support@rainviewer.com",
+        "developer_url": "https://www.rainviewer.com",
+        "developer_address": "20 Tarasivska str., apt. 85\nKyiv, 01033\nUkraine",
+        "app_id": "com.lucky_apps.RainViewer",
+        "url": "https://play.google.com/store/apps/details?id=com.lucky_apps.RainViewer&hl=en&gl=in"
+    }
+]

@@ -1,0 +1,4309 @@
+[
+    {
+        "title": "Wish - Shopping Made Fun",
+        "icon": "https://lh3.googleusercontent.com/wu3_Q4_441IArxi9_u0xS-ZL0BFFxzd1dEU-8u3ls1XsoREpRArMLmY1lXfJ4pahyec",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/_K7w3nJY6aU",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8115488,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wish+Inc.",
+        "updated": "July 17, 2019",
+        "size": "17M",
+        "installs": "100,000,000+",
+        "current_version": "4.32.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Wish Inc.",
+        "developer_email": "support@wish.com",
+        "developer_url": "http://www.wish.com",
+        "developer_address": null,
+        "app_id": "com.contextlogic.wish",
+        "url": "https://play.google.com/store/apps/details?id=com.contextlogic.wish&hl=en&gl=us"
+    },
+    {
+        "title": "Amazon Shopping",
+        "icon": "https://lh3.googleusercontent.com/hgY6vh39bAeGCT4-wwycXZT1oL8Ko7zL97DlcqVGXy7HrB_yjb_hkQ599yZzCx0Trg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NaVdJsW8yMw",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1141157,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "feedback-amazon-app-android@amazon.com",
+        "developer_url": "http://www.amazon.com",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "com.amazon.mShop.android.shopping",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping&hl=en&gl=us"
+    },
+    {
+        "title": "Walmart",
+        "icon": "https://lh3.googleusercontent.com/tyqhEqe5DP9sTEi0I7XMDmaGhjOtWpQENTSSMZRr95dahMFlYlaGVe3v3EWV-wMmug",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/HSRzcu6N6-o",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 476591,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Walmart",
+        "updated": "July 24, 2019",
+        "size": "63M",
+        "installs": "10,000,000+",
+        "current_version": "19.27",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "developer": "Walmart",
+        "developer_email": "androidapp@walmart.com",
+        "developer_url": "https://www.walmart.com",
+        "developer_address": null,
+        "app_id": "com.walmart.android",
+        "url": "https://play.google.com/store/apps/details?id=com.walmart.android&hl=en&gl=us"
+    },
+    {
+        "title": "Poshmark - Buy & Sell Fashion",
+        "icon": "https://lh3.googleusercontent.com/ym5qieA_f2YnCjZ85tlOP0M-3jVqEUeX95iK8b8PGYK5YFwLeUbwv1PpN8-SP5X0MSQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61285,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Poshmark,+Inc",
+        "updated": "July 25, 2019",
+        "size": "20M",
+        "installs": "10,000,000+",
+        "current_version": "3.08",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Poshmark, Inc",
+        "developer_email": "support@poshmark.com",
+        "developer_url": "https://poshmark.com",
+        "developer_address": null,
+        "app_id": "com.poshmark.app",
+        "url": "https://play.google.com/store/apps/details?id=com.poshmark.app&hl=en&gl=us"
+    },
+    {
+        "title": "OfferUp - Buy. Sell. Offer Up",
+        "icon": "https://lh3.googleusercontent.com/MNNdGo36PQxr5bWTvsWarxKLjsNM5_Lp8F9m2EE2thkZ1a0IbIUDyD1askUtokxW_A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 729232,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "OfferUp+Inc.",
+        "updated": "July 24, 2019",
+        "size": "20M",
+        "installs": "10,000,000+",
+        "current_version": "3.27.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "OfferUp Inc.",
+        "developer_email": "support@offerup.com",
+        "developer_url": "http://offerup.com",
+        "developer_address": "OfferUp Inc.\n227 Bellevue Way NE #57\nBellevue, WA 98004",
+        "app_id": "com.offerup",
+        "url": "https://play.google.com/store/apps/details?id=com.offerup&hl=en&gl=us"
+    },
+    {
+        "title": "letgo: Buy & Sell Used Stuff, Cars, Furniture",
+        "icon": "https://lh3.googleusercontent.com/5sg1kvqmYDZS4tB8Ub8t3UwILVfHwS7To4lJy_pCbjRQ7HStTe45GKM1NpXC0bgfiw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1259900,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "letgo",
+        "updated": "July 24, 2019",
+        "size": "27M",
+        "installs": "50,000,000+",
+        "current_version": "2.7.24",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$44.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Location, In-App Purchases"
+        ],
+        "developer": "letgo",
+        "developer_email": "info@letgo.com",
+        "developer_url": "http://www.letgo.com",
+        "developer_address": "Letgo Global B.V.\nTaurusavenue 105\n2132 LS Hoofddorp\nThe Netherlands",
+        "app_id": "com.abtnprojects.ambatana",
+        "url": "https://play.google.com/store/apps/details?id=com.abtnprojects.ambatana&hl=en&gl=us"
+    },
+    {
+        "title": "eBay Online Shopping - Buy and Sell This Summer",
+        "icon": "https://lh3.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2934373,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6005619443614255030",
+        "updated": "July 22, 2019",
+        "size": "40M",
+        "installs": "100,000,000+",
+        "current_version": "5.33.1.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "eBay Mobile",
+        "developer_email": "androidhelp@ebay.com",
+        "developer_url": "http://www.ebay.com",
+        "developer_address": null,
+        "app_id": "com.ebay.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.ebay.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Wayfair - Shop All Things Home",
+        "icon": "https://lh3.googleusercontent.com/NnEL8J7Z4621ATPA1rmy3J-G0aeiY_JqP0HKVabhqqnoRibHPMdaoRtu_rv5Wr3AdkA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/lk15Gi1eXNc",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33268,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6384738406445896780",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Wayfair, LLC",
+        "developer_email": "appsupport@wayfair.com",
+        "developer_url": "http://www.wayfair.com",
+        "developer_address": "4 Copley Place\nFloor 7\nBoston, MA 02116",
+        "app_id": "com.wayfair.wayfair",
+        "url": "https://play.google.com/store/apps/details?id=com.wayfair.wayfair&hl=en&gl=us"
+    },
+    {
+        "title": "Flipp - Weekly Shopping",
+        "icon": "https://lh3.googleusercontent.com/GLRF_RG3DzUK7Bc4pPXW4PVuhADiVZeZX2wZpQ86NAz7KLIz-qaEq1rSZd9n4XTzbw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/9TMAoDkrnlI",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 104423,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Flipp+Corporation",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Flipp Corporation",
+        "developer_email": "flippsupport@flipp.com",
+        "developer_url": "http://app.flipp.com",
+        "developer_address": null,
+        "app_id": "com.wishabi.flipp",
+        "url": "https://play.google.com/store/apps/details?id=com.wishabi.flipp&hl=en&gl=us"
+    },
+    {
+        "title": "Chewy - Where Pet Lovers Shop",
+        "icon": "https://lh3.googleusercontent.com/qFEQ33ocRE7XuP1hIkzHvBdZSiCzf-pmMLgdXmjG_0Qr-MEpJFAsmfW6nRKcDUTDDCE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15590,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Chewy,+Inc.",
+        "updated": "July 6, 2019",
+        "size": "4.5M",
+        "installs": "1,000,000+",
+        "current_version": "2.15.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Chewy, Inc.",
+        "developer_email": "service@chewy.com",
+        "developer_url": "http://www.chewy.com",
+        "developer_address": null,
+        "app_id": "com.chewy.android",
+        "url": "https://play.google.com/store/apps/details?id=com.chewy.android&hl=en&gl=us"
+    },
+    {
+        "title": "Walmart Grocery",
+        "icon": "https://lh3.googleusercontent.com/G54pKoxBqP5wiypn47_FQ70WXk-JhHkFVm3O-d7CuYYYG9Jfi7zFBtoI-JsybjOOTII",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3Agtwn2hTPU",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9120,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Walmart",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Walmart",
+        "developer_email": "groceryappfeedback@walmart.com",
+        "developer_url": "http://www.walmart.com/grocery",
+        "developer_address": null,
+        "app_id": "com.walmart.grocery",
+        "url": "https://play.google.com/store/apps/details?id=com.walmart.grocery&hl=en&gl=us"
+    },
+    {
+        "title": "Groupon - Shop Deals, Discounts & Coupons",
+        "icon": "https://lh3.googleusercontent.com/ZEv9s5qAuSug0FPBDgsTLru5gRULx01C7XiUuVC9eu_-3zbVj14648EeHY52wWMFTkc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1501680,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Groupon,+Inc.",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Groupon, Inc.",
+        "developer_email": "support+android@groupon.com",
+        "developer_url": "https://www.groupon.com/privacy",
+        "developer_address": null,
+        "app_id": "com.groupon",
+        "url": "https://play.google.com/store/apps/details?id=com.groupon&hl=en&gl=us"
+    },
+    {
+        "title": "Ibotta: Cash Back Savings, Rewards & Coupons App",
+        "icon": "https://lh3.googleusercontent.com/d52k3ri1ZYlD0tx_j33YDxQ1v-nz9w6FoOjT324_xMSF5rk9xDPK6ojnmaa3XbzXOnU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/H0IUGA3L2cc",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 408547,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ibotta",
+        "updated": "July 25, 2019",
+        "size": "45M",
+        "installs": "10,000,000+",
+        "current_version": "5.70.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Ibotta",
+        "developer_email": "support@ibotta.com",
+        "developer_url": "http://www.ibotta.com",
+        "developer_address": null,
+        "app_id": "com.ibotta.android",
+        "url": "https://play.google.com/store/apps/details?id=com.ibotta.android&hl=en&gl=us"
+    },
+    {
+        "title": "Target",
+        "icon": "https://lh3.googleusercontent.com/2CGELmJiSElPwjREp7RvpDDzbnq9bGMGhvOBHkqcHrVPdGjJesHHuzKtC6LkCq-F0Fw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 125860,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Target+Corporation",
+        "updated": "July 24, 2019",
+        "size": "35M",
+        "installs": "10,000,000+",
+        "current_version": "6.48.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Target Corporation",
+        "developer_email": "Target.comGuestServices@target.com",
+        "developer_url": "http://www.target.com/c/target-privacy-policy/-/N-4sr7p",
+        "developer_address": null,
+        "app_id": "com.target.ui",
+        "url": "https://play.google.com/store/apps/details?id=com.target.ui&hl=en&gl=us"
+    },
+    {
+        "title": "AliExpress - Smarter Shopping, Better Living",
+        "icon": "https://lh3.googleusercontent.com/8XePOjdAbTm12TJ4Cu3-DnQxT7kG-ptsu6yqXMusO5nbCs1s9GeVPwDMqMAMi4rxTYSV",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8043103,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Alibaba+Mobile",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Alibaba Mobile",
+        "developer_email": "developer.android@aliexpress.com",
+        "developer_url": "http://www.aliexpress.com",
+        "developer_address": "NO.699 WANGSHANG ROAD,BINJIANG DISTRICT,HANGZHOU,ZHEJIANG,CHINA",
+        "app_id": "com.alibaba.aliexpresshd",
+        "url": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd&hl=en&gl=us"
+    },
+    {
+        "title": "Klarna - Shop now. Pay later.",
+        "icon": "https://lh3.googleusercontent.com/tDXSaAt_I_qx6am_rTcQ1WHaXo6ncfiB-b742DnSXZkJGASvs15yRYnvzogzbYwse0QD",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 107486,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Klarna+Bank+AB+%28publ%29",
+        "updated": "July 19, 2019",
+        "size": "44M",
+        "installs": "1,000,000+",
+        "current_version": "19.28.31",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Klarna Bank AB (publ)",
+        "developer_email": "app@klarna.com",
+        "developer_url": "https://www.klarna.com",
+        "developer_address": null,
+        "app_id": "com.myklarnamobile",
+        "url": "https://play.google.com/store/apps/details?id=com.myklarnamobile&hl=en&gl=us"
+    },
+    {
+        "title": "Dollar General - Digital Coupons, Ads And More",
+        "icon": "https://lh3.googleusercontent.com/zmpLqYpnOKYpcofWRFH3b81n-KJSAkdj_buevFyzrIkXwPhZrvQgZdbVpK26EqdIY7Fd",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22578,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Dolgencorp,+LLC",
+        "updated": "July 2, 2019",
+        "size": "11M",
+        "installs": "5,000,000+",
+        "current_version": "5.0.48",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Dolgencorp, LLC",
+        "developer_email": "DGDCP@dollargeneral.com",
+        "developer_url": "http://www.dollargeneral.com/home/index.jsp",
+        "developer_address": "100 Mission Ridge\nGoodlettsville, TN 37072",
+        "app_id": "com.dollargeneral.android",
+        "url": "https://play.google.com/store/apps/details?id=com.dollargeneral.android&hl=en&gl=us"
+    },
+    {
+        "title": "Mercari: The Selling App",
+        "icon": "https://lh3.googleusercontent.com/FKdrI1iuREHJ9SUw4RBfKFPmAuVNnvH_74QBCJYMqkRJp993FtP6WD5okQm1wO0ibUU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 137663,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mercari,+Inc.",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Mercari, Inc.",
+        "developer_email": "contact@mercari.com",
+        "developer_url": "http://www.mercari.com/",
+        "developer_address": "\u6771\u4eac\u90fd\u6e2f\u533a\u516d\u672c\u67286-10-1 \u516d\u672c\u6728\u30d2\u30eb\u30ba\u68ee\u30bf\u30ef\u30fc 18F",
+        "app_id": "com.mercariapp.mercari",
+        "url": "https://play.google.com/store/apps/details?id=com.mercariapp.mercari&hl=en&gl=us"
+    },
+    {
+        "title": "Sam's Club",
+        "icon": "https://lh3.googleusercontent.com/D2R4T9pJkfpavoH9UZV0CbYPLnTZ6sMAe9DPETid6bYeRSx9grkly95XyMaYmj5rhc0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62054,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sam%27s+Club",
+        "updated": "July 22, 2019",
+        "size": "38M",
+        "installs": "5,000,000+",
+        "current_version": "6.6.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sam's Club",
+        "developer_email": "mobile@samsclub.com",
+        "developer_url": "http://www.samsclub.com",
+        "developer_address": null,
+        "app_id": "com.rfi.sams.android",
+        "url": "https://play.google.com/store/apps/details?id=com.rfi.sams.android&hl=en&gl=us"
+    },
+    {
+        "title": "Walgreens",
+        "icon": "https://lh3.googleusercontent.com/0nUIECwuvnb-sKqYF1DgY28JkLGFom8RZxdUZ2GFdfcvNrQ0ncz6V4elTBKUGKUuY8Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/9HSorVke8sY",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 277079,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Walgreen+Co.",
+        "updated": "July 15, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "16.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Walgreen Co.",
+        "developer_email": "customerservice@mail2.walgreens.com",
+        "developer_url": "http://www.walgreens.com",
+        "developer_address": "36 S. Wabash St Suite 410, Chicago, IL 60603",
+        "app_id": "com.usablenet.mobile.walgreen",
+        "url": "https://play.google.com/store/apps/details?id=com.usablenet.mobile.walgreen&hl=en&gl=us"
+    },
+    {
+        "title": "SHEIN-Fashion Shopping Online",
+        "icon": "https://lh3.googleusercontent.com/qHMq-NDTYOWT4g9Km61D4lv1-bfLNAuQW2K7iKmhQvf1hLktadTWwxeQycpZcf0pPHw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/H_mH4YXmzvA",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 658471,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ZOETOP+BUSINESS+CO.,+LIMITED",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ZOETOP BUSINESS CO., LIMITED",
+        "developer_email": "service@shein.com",
+        "developer_url": "http://www.shein.com/",
+        "developer_address": null,
+        "app_id": "com.zzkko",
+        "url": "https://play.google.com/store/apps/details?id=com.zzkko&hl=en&gl=us"
+    },
+    {
+        "title": "JOOM: Shop low price deals, clothes offers & gifts",
+        "icon": "https://lh3.googleusercontent.com/9rejlDV7rmxBhqgpPzTPozieMKzFH1c3L7ybosBPou6N4AriULYJGeEoBllF7RmNzVA",
+        "screenshots": [],
+        "video": null,
+        "category": [],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2131126,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Joom",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Joom",
+        "developer_email": "support@joom.com",
+        "developer_url": "https://joom.com",
+        "developer_address": null,
+        "app_id": "com.joom",
+        "url": "https://play.google.com/store/apps/details?id=com.joom&hl=en&gl=us"
+    },
+    {
+        "title": "Nike",
+        "icon": "https://lh3.googleusercontent.com/eLqKK4MkDoXXbD_F3A_2rs-othxTESxbocvyOGyhAmbNCydgnYKczItIY2-HLYJmhr6Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 129574,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5943102410143165456",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Nike, Inc.",
+        "developer_email": "Nike.googleplaysupport@nike.com",
+        "developer_url": "http://www.nike.com/",
+        "developer_address": "Nike World Headquarters\nOne Bowerman Drive\nBeaverton, OR 97005",
+        "app_id": "com.nike.omega",
+        "url": "https://play.google.com/store/apps/details?id=com.nike.omega&hl=en&gl=us"
+    },
+    {
+        "title": "Fetch Rewards: Scan receipts, earn gift cards",
+        "icon": "https://lh3.googleusercontent.com/O8Tl_QpymeXVovuKnI5bd7LA9mBEkOiFuWdFNH6rRn1O7YcAE6WB3Af65Ylqg3fiBqo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29136,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fetch+Rewards",
+        "updated": "July 23, 2019",
+        "size": "62M",
+        "installs": "1,000,000+",
+        "current_version": "2.19.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Fetch Rewards",
+        "developer_email": "support@fetchrewards.com",
+        "developer_url": "http://www.fetchrewards.com",
+        "developer_address": null,
+        "app_id": "com.fetchrewards.fetchrewards.hop",
+        "url": "https://play.google.com/store/apps/details?id=com.fetchrewards.fetchrewards.hop&hl=en&gl=us"
+    },
+    {
+        "title": "Rakuten Ebates: Cash Back Rewards, Coupons & Deals",
+        "icon": "https://lh3.googleusercontent.com/l_pyQNxbwRBqta9npMQd7nx0k08gyWJ_PZfCGMvsgP18b9ZZNapeW5NHNf4AGXERfPq2",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 48976,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Rakuten+Rewards",
+        "updated": "July 11, 2019",
+        "size": "34M",
+        "installs": "5,000,000+",
+        "current_version": "5.13.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Rakuten Rewards",
+        "developer_email": "memberservices@ebates.com",
+        "developer_url": "http://www.ebates.com",
+        "developer_address": "Rakuten Rewards\n800 Concar Drive\nSan Mateo, CA\n94402",
+        "app_id": "com.ebates",
+        "url": "https://play.google.com/store/apps/details?id=com.ebates&hl=en&gl=us"
+    },
+    {
+        "title": "The Home Depot",
+        "icon": "https://lh3.googleusercontent.com/n-vPcnP-kTyZ5eH6QJkIvAhylJuU__wOZyfcJR3D3u2N1aChqfXEroE4KVSfNlGd2Hs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 48456,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+Home+Depot,+Inc.",
+        "updated": "July 8, 2019",
+        "size": "64M",
+        "installs": "5,000,000+",
+        "current_version": "5.23.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Home Depot, Inc.",
+        "developer_email": "onlinecustomercare@homedepot.com",
+        "developer_url": "http://www.homedepot.com",
+        "developer_address": null,
+        "app_id": "com.thehomedepot",
+        "url": "https://play.google.com/store/apps/details?id=com.thehomedepot&hl=en&gl=us"
+    },
+    {
+        "title": "Family Dollar",
+        "icon": "https://lh3.googleusercontent.com/SvoeOo4_m4BTWWbGGpcnHGsG457-8ZeX4DDAb35xQD6-Co2Jdc2-F_zdw2Fz7AYSyh8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15784,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Family+Dollar+Stores",
+        "updated": "March 12, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Family Dollar Stores",
+        "developer_email": "cfeedback@familydollar.com",
+        "developer_url": "http://www.familydollar.com",
+        "developer_address": null,
+        "app_id": "com.familydollar",
+        "url": "https://play.google.com/store/apps/details?id=com.familydollar&hl=en&gl=us"
+    },
+    {
+        "title": "Kroger",
+        "icon": "https://lh3.googleusercontent.com/b7jdiJiy5CMuMxPeflQg6dRn-SicZ2OUYQbo4gMMpy5GaQckZTnM46_BnhieexBvaRaI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61388,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7528642552836646633",
+        "updated": "July 18, 2019",
+        "size": "58M",
+        "installs": "10,000,000+",
+        "current_version": "17.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Kroger Co.",
+        "developer_email": "android.support@kroger.com",
+        "developer_url": "http://www.kroger.com",
+        "developer_address": null,
+        "app_id": "com.kroger.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.kroger.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Macy's",
+        "icon": "https://lh3.googleusercontent.com/1Ci897R4dXK4JofIt4kNJ2elvG9dztWPXSWq3AJDeMCTCPZa6iFLpoBnRtJASVD_wE4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 58482,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Macy%27s+Inc",
+        "updated": "July 24, 2019",
+        "size": "87M",
+        "installs": "1,000,000+",
+        "current_version": "6.9.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Macy's Inc",
+        "developer_email": "mcom.mobileappsupport@macys.com",
+        "developer_url": "http://www.macys.com",
+        "developer_address": "680 Folsom St San Francisco CA 94107",
+        "app_id": "com.macys.android",
+        "url": "https://play.google.com/store/apps/details?id=com.macys.android&hl=en&gl=us"
+    },
+    {
+        "title": "Zulily: A new store every day",
+        "icon": "https://lh3.googleusercontent.com/z6TRu9yMYdgNTG6JLajooGt6_thExRsj1-AqAmgEqNI9SyEX3tJoOCgubUaI7DZVxz4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31766,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "zulily",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "zulily",
+        "developer_email": "android_feedback@zulily.com",
+        "developer_url": "https://www.zulily.com",
+        "developer_address": null,
+        "app_id": "com.zulily.android",
+        "url": "https://play.google.com/store/apps/details?id=com.zulily.android&hl=en&gl=us"
+    },
+    {
+        "title": "Etsy: Handmade & Vintage Goods",
+        "icon": "https://lh3.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/WOCwg5ARtgU",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 99122,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Etsy,+Inc",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Etsy, Inc",
+        "developer_email": "support@etsy.com",
+        "developer_url": "http://www.etsy.com",
+        "developer_address": "117 Adams Street, Brooklyn, New York 11201",
+        "app_id": "com.etsy.android",
+        "url": "https://play.google.com/store/apps/details?id=com.etsy.android&hl=en&gl=us"
+    },
+    {
+        "title": "Kohl's: Scan, Shop, Pay & Save",
+        "icon": "https://lh3.googleusercontent.com/LOYnesaLrG-rRiXbYrzKn0cqc2IUGMi6kkNxkvu22PwfarMqCeqkozzEU-HTqceMN9I",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/WlhDdxd6wyc",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 91468,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Kohl%27s",
+        "updated": "July 17, 2019",
+        "size": "51M",
+        "installs": "5,000,000+",
+        "current_version": "7.47",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Kohl's",
+        "developer_email": "is-mobile@kohls.com",
+        "developer_url": "http://www.kohls.com",
+        "developer_address": null,
+        "app_id": "com.kohls.mcommerce.opal",
+        "url": "https://play.google.com/store/apps/details?id=com.kohls.mcommerce.opal&hl=en&gl=us"
+    },
+    {
+        "title": "Tophatter: Fun Deals, Shopping Offers & Savings",
+        "icon": "https://lh3.googleusercontent.com/n3HNYhREZmWmrdhsHQOl6BSls-sXNkb3CtcZic9_753nWyEwtkuOFOt_Le2hwkFjJfc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 145556,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5988493234345857503",
+        "updated": "July 21, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Tophatter Inc.",
+        "developer_email": "help@tophatter.com",
+        "developer_url": "http://tophatter.com",
+        "developer_address": null,
+        "app_id": "com.tophatter",
+        "url": "https://play.google.com/store/apps/details?id=com.tophatter&hl=en&gl=us"
+    },
+    {
+        "title": "Instacart Shopper",
+        "icon": "https://lh3.googleusercontent.com/kYe3fuLx-AVQ_NpI8GZlVcosvkw771I5rqFxpolYnMs_2IRebXenAyC9zUuac0-OcQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2880,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Instacart",
+        "updated": "July 24, 2019",
+        "size": "27M",
+        "installs": "100,000+",
+        "current_version": "4.138.2-p",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Instacart",
+        "developer_email": "shoppers@instacart.com",
+        "developer_url": "http://www.instacart.com",
+        "developer_address": null,
+        "app_id": "com.instacart.shopper",
+        "url": "https://play.google.com/store/apps/details?id=com.instacart.shopper&hl=en&gl=us"
+    },
+    {
+        "title": "Amazon Assistant",
+        "icon": "https://lh3.googleusercontent.com/mIeBLLu8xOi-1bPbtRO_HYb5d1VchJDLDH4hebMO7R-GNOfueGDtHCKgPWFjwyCAORQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 44113,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Assistant",
+        "updated": "July 3, 2019",
+        "size": "11M",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Amazon Assistant",
+        "developer_email": "assistantfeedback@amazon.com",
+        "developer_url": "http://www.amazon.com",
+        "developer_address": null,
+        "app_id": "com.amazon.aa",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.aa&hl=en&gl=us"
+    },
+    {
+        "title": "Receipt Pal: Shop, Earn Paid Rewards & Gift Cards",
+        "icon": "https://lh3.googleusercontent.com/botZnlXVwxFuxEBRZaHnGqhG6uuNPGIDETeP2NPJjx1LuQ-o_3Lc2bEHCmhBmWEPxE4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/-1QFF7AG3qw",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6841,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+NPD+Group,+Inc.",
+        "updated": "July 2, 2019",
+        "size": "51M",
+        "installs": "500,000+",
+        "current_version": "4.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "The NPD Group, Inc.",
+        "developer_email": "support@receiptpalapp.com",
+        "developer_url": "http://www.receiptpalapp.com",
+        "developer_address": null,
+        "app_id": "com.receiptpalapp.android",
+        "url": "https://play.google.com/store/apps/details?id=com.receiptpalapp.android&hl=en&gl=us"
+    },
+    {
+        "title": "ROMWE - Daily Outfit  Fashion",
+        "icon": "https://lh3.googleusercontent.com/LiKFppHjo7qrGua7puiE3xYqQdn0i7c5lJ9suD2Z3T1-KHzLg26Ekk1NqxHmfSQ-Op0",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/--LEa8XeUYA",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 206082,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ROMWE",
+        "updated": "July 23, 2019",
+        "size": "15M",
+        "installs": "10,000,000+",
+        "current_version": "4.3.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "ROMWE",
+        "developer_email": "service@romwe.com",
+        "developer_url": "http://www.romwe.com",
+        "developer_address": null,
+        "app_id": "com.romwe",
+        "url": "https://play.google.com/store/apps/details?id=com.romwe&hl=en&gl=us"
+    },
+    {
+        "title": "DHgate-Online Wholesale Stores",
+        "icon": "https://lh3.googleusercontent.com/0Kyrv3SbVLdSzZMm2XRQReCFi1bqfbkcx0L2mDWfYjQVkUkOyKHPmAVE0kdqart62pdr",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/hrr3Ynwjhq4",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 220708,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "dhgate.com",
+        "updated": "July 19, 2019",
+        "size": "42M",
+        "installs": "10,000,000+",
+        "current_version": "4.8.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "dhgate.com",
+        "developer_email": "dhgate.sjhg@gmail.com",
+        "developer_url": "https://www.dhgate.com",
+        "developer_address": "\u4e2d\u56fd \u5317\u4eac \u6d77\u6dc0\u533a \u6210\u5e9c\u8def28\u53f7\u4f18\u76db\u5927\u53a6A",
+        "app_id": "com.dhgate.buyermob",
+        "url": "https://play.google.com/store/apps/details?id=com.dhgate.buyermob&hl=en&gl=us"
+    },
+    {
+        "title": "Google Express - Shopping done fast",
+        "icon": "https://lh3.googleusercontent.com/uSFe4Ax3r-ANfJK4I7ySeXt61siQr8Tb03UkC_FtPWzN-qIr-zPRm54w598NfLct4z8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8974,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "June 20, 2019",
+        "size": "15M",
+        "installs": "1,000,000+",
+        "current_version": "v43",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "shopping-express@google.com",
+        "developer_url": "https://www.google.com/shopping/express/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.shopping.express",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.shopping.express&hl=en&gl=us"
+    },
+    {
+        "title": "Cashback Deals & Rewards on Shopping with Shopkick",
+        "icon": "https://lh3.googleusercontent.com/Il9wj9hUD2iib0ZJ9pwJVgZ56k7rp7__cPLXB4bfbWFqr9AO27uogdhYGUIuZXSW-yE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/wxN9x0JBCkE",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 220443,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Shopkick",
+        "updated": "July 25, 2019",
+        "size": "23M",
+        "installs": "10,000,000+",
+        "current_version": "5.5.61",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Shopkick",
+        "developer_email": "help@shopkick.com",
+        "developer_url": "http://www.shopkick.com",
+        "developer_address": null,
+        "app_id": "com.shopkick.app",
+        "url": "https://play.google.com/store/apps/details?id=com.shopkick.app&hl=en&gl=us"
+    },
+    {
+        "title": "JCPenney: Online Shopping - Clothes, Shoes & More",
+        "icon": "https://lh3.googleusercontent.com/gIdiqvPgMbyVT8YyaRtI7ljm8yaxmguxIPy7frfxItZxb6LvpE8WUDi1f0mr4Q7MwWA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 56402,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "JCPenney+Inc.",
+        "updated": "July 25, 2019",
+        "size": "20M",
+        "installs": "5,000,000+",
+        "current_version": "7.6.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "JCPenney Inc.",
+        "developer_email": "apphelp@jcp.com",
+        "developer_url": "http://www.jcpenney.com/",
+        "developer_address": null,
+        "app_id": "com.jcp",
+        "url": "https://play.google.com/store/apps/details?id=com.jcp&hl=en&gl=us"
+    },
+    {
+        "title": "thredUP - Shop & Sell Clothing",
+        "icon": "https://lh3.googleusercontent.com/nh2xFgwf5JCQva3IlwLXfAOnvQIFO4bJeu068Y0yC9UzPgIYWR48hE57yvdv19NQGtFT",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35602,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "thredUP,+Inc",
+        "updated": "July 17, 2019",
+        "size": "18M",
+        "installs": "1,000,000+",
+        "current_version": "5.4.10",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "thredUP, Inc",
+        "developer_email": "mobile@thredup.com",
+        "developer_url": "https://www.thredup.com",
+        "developer_address": null,
+        "app_id": "com.thredup.android",
+        "url": "https://play.google.com/store/apps/details?id=com.thredup.android&hl=en&gl=us"
+    },
+    {
+        "title": "JOANN - Shopping & Crafts",
+        "icon": "https://lh3.googleusercontent.com/3Uc1RDMwD6piAsI6MD5lswFLrp45MjRiY-slvJp42capqbGHfw3RZKmuwuhgB-wGLVg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62377,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Jo-Ann+Stores",
+        "updated": "July 22, 2019",
+        "size": "28M",
+        "installs": "5,000,000+",
+        "current_version": "6.2.6",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jo-Ann Stores",
+        "developer_email": "customer.service@joann.com",
+        "developer_url": "https://www.joann.com/contactus",
+        "developer_address": null,
+        "app_id": "com.fifthfinger.clients.joann",
+        "url": "https://play.google.com/store/apps/details?id=com.fifthfinger.clients.joann&hl=en&gl=us"
+    },
+    {
+        "title": "Amazon for Tablets",
+        "icon": "https://lh3.googleusercontent.com/tYVbv_WhIcP6BlLJggNeOoBcRvm1c8Kcbr2mmnbjzLf6aAXmZqruO3o9dIwol4RZsyQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 153631,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "July 24, 2019",
+        "size": "28M",
+        "installs": "10,000,000+",
+        "current_version": "18.14.0.850",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "feedback-amazon-app-android-tablet@amazon.com",
+        "developer_url": "http://www.amazon.com",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "com.amazon.windowshop",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.windowshop&hl=en&gl=us"
+    },
+    {
+        "title": "Victoria\u2019s Secret",
+        "icon": "https://lh3.googleusercontent.com/ZwXJAozFwfMy_20oCA2iHbkiY4EYLfUmtky1kzjTekgJEtVNtHgrVoBZiWalmNHXNKA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30909,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Victoria%27s+Secret+Mobile+App",
+        "updated": "June 24, 2019",
+        "size": "12M",
+        "installs": "5,000,000+",
+        "current_version": "6.1.2.48",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Victoria's Secret Mobile App",
+        "developer_email": "customercare@victoriassecret.com",
+        "developer_url": "http://www.victoriassecret.com/contact/",
+        "developer_address": null,
+        "app_id": "com.victoriassecret.vsaa",
+        "url": "https://play.google.com/store/apps/details?id=com.victoriassecret.vsaa&hl=en&gl=us"
+    },
+    {
+        "title": "GOAT: Buy & Sell Sneakers",
+        "icon": "https://lh3.googleusercontent.com/LpvrEtjqhp3KICOEDcHk8Z1_qMD_GaJXGw6-MZHMCAZkB4WZDkCw8066sy3tLMRuj3o",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 19999,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GOAT",
+        "updated": "July 25, 2019",
+        "size": "20M",
+        "installs": "1,000,000+",
+        "current_version": "1.40.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "GOAT",
+        "developer_email": "help@goat.com",
+        "developer_url": "https://www.goat.com",
+        "developer_address": null,
+        "app_id": "com.airgoat.goat",
+        "url": "https://play.google.com/store/apps/details?id=com.airgoat.goat&hl=en&gl=us"
+    },
+    {
+        "title": "StockX - Buy & Sell Sneakers, Streetwear + More",
+        "icon": "https://lh3.googleusercontent.com/IgVV0qgESgfX8Xbn1i4yyOG4t6LOFVGWxbceAyUmzwa55k_AfLV9eppzVv48q4z1-88",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/t9lvKrVxZdQ",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24669,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "StockX",
+        "updated": "July 23, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "4.1.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "StockX",
+        "developer_email": "support@stockx.com",
+        "developer_url": "https://stockx.com",
+        "developer_address": null,
+        "app_id": "com.stockx.stockx",
+        "url": "https://play.google.com/store/apps/details?id=com.stockx.stockx&hl=en&gl=us"
+    },
+    {
+        "title": "Alibaba.com - Leading online B2B Trade Marketplace",
+        "icon": "https://lh3.googleusercontent.com/Btfes5_yrMt5peCLS3QDjKYZN9rUYqGdPxrmBXdJ0b-6SJFI5-JLd5QSHl4aAplt_FE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/a5qw92b6CXE",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 463189,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Alibaba+Mobile",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Alibaba Mobile",
+        "developer_email": "developer.android@aliexpress.com",
+        "developer_url": "http://www.alibaba.com",
+        "developer_address": "NO.699 WANGSHANG ROAD,BINJIANG DISTRICT,HANGZHOU,ZHEJIANG,CHINA",
+        "app_id": "com.alibaba.intl.android.apps.poseidon",
+        "url": "https://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon&hl=en&gl=us"
+    },
+    {
+        "title": "CarGurus",
+        "icon": "https://lh3.googleusercontent.com/GQttwZ7-WoZDViZ_fXzT4imbpnNGbtkOropKMo9A0mkqpVKYM894R6UuDDqljn56sQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6585,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "CarGurus,+Inc",
+        "updated": "September 28, 2017",
+        "size": "175k",
+        "installs": "1,000,000+",
+        "current_version": "1.85",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "CarGurus, Inc",
+        "developer_email": "android_developer@cargurus.com",
+        "developer_url": "http://www.cargurus.com",
+        "developer_address": "2 Canal Park, 4th Floor\nCambridge, MA 02141",
+        "app_id": "com.cargurus.mobileApp",
+        "url": "https://play.google.com/store/apps/details?id=com.cargurus.mobileApp&hl=en&gl=us"
+    },
+    {
+        "title": "Lowe's",
+        "icon": "https://lh3.googleusercontent.com/HHuucfK99kudKljkoIlyzBuCEIEhS7hL3JOq75wSYFzEh74Bc6oD5ch-SUZaqJ4JbgA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/JPeouA6qoaY",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20835,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Lowe%27s+Companies,+Inc.",
+        "updated": "July 17, 2019",
+        "size": "43M",
+        "installs": "5,000,000+",
+        "current_version": "4.29",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Lowe's Companies, Inc.",
+        "developer_email": "customercare@lowes.com",
+        "developer_url": "http://www.lowes.com",
+        "developer_address": null,
+        "app_id": "com.lowes.android",
+        "url": "https://play.google.com/store/apps/details?id=com.lowes.android&hl=en&gl=us"
+    },
+    {
+        "title": "Best Buy",
+        "icon": "https://lh3.googleusercontent.com/BZedOBhMePlztbiDMqKgLP3sVIhsWIJiS7vcKynXBGdTgdht74Zo4WaQmySlLFH2Cg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 190024,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Best+Buy,+Inc",
+        "updated": "July 23, 2019",
+        "size": "42M",
+        "installs": "5,000,000+",
+        "current_version": "19.7.10",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location, Digital Purchases"
+        ],
+        "developer": "Best Buy, Inc",
+        "developer_email": "bestbuymobileapps@bestbuy.com",
+        "developer_url": "http://m.bestbuy.com",
+        "developer_address": null,
+        "app_id": "com.bestbuy.android",
+        "url": "https://play.google.com/store/apps/details?id=com.bestbuy.android&hl=en&gl=us"
+    },
+    {
+        "title": "Costco Wholesale",
+        "icon": "https://lh3.googleusercontent.com/7KT5m12yK_F-IVSrIeJu6GdI6wQdlEEcK0JCd2S9_0Gb9hwR6q7Xw3Gau10Vun68WpQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24742,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Costco+Wholesale",
+        "updated": "July 10, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Costco Wholesale",
+        "developer_email": "webservice@contactcostco.com",
+        "developer_url": "http://www.costco.com",
+        "developer_address": null,
+        "app_id": "com.costco.app.android",
+        "url": "https://play.google.com/store/apps/details?id=com.costco.app.android&hl=en&gl=us"
+    },
+    {
+        "title": "Fashion Nova",
+        "icon": "https://lh3.googleusercontent.com/E4si0YZf7eKx_IvJ23D2aRK5__b4Nr6oweP2STOk2F4KfhQzKwZ0mn1-AOj09l-44Hw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1513,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "FashionNova.com",
+        "updated": "May 30, 2019",
+        "size": "20M",
+        "installs": "1,000,000+",
+        "current_version": "1.4.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "FashionNova.com",
+        "developer_email": "support@fashionnova.com",
+        "developer_url": "https://www.fashionnova.com",
+        "developer_address": null,
+        "app_id": "co.tapcart.app.npQt0DXZpj",
+        "url": "https://play.google.com/store/apps/details?id=co.tapcart.app.npQt0DXZpj&hl=en&gl=us"
+    },
+    {
+        "title": "Amazon Prime Now",
+        "icon": "https://lh3.googleusercontent.com/e8mzoFH48MMkrmwYk584DFsiRf4u8dmSnkPyvVF3hLuRg_fvx9vScGAwXXaPNpMzblI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25512,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "June 10, 2019",
+        "size": "38M",
+        "installs": "10,000,000+",
+        "current_version": "4.19.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "feedback-amazon-app-android@amazon.com",
+        "developer_url": "http://www.amazon.com/primenow",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "com.amazon.now",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.now&hl=en&gl=us"
+    },
+    {
+        "title": "Pampers Club: Gifts for Babies & Parents",
+        "icon": "https://lh3.googleusercontent.com/55c7jOx4W29w71OnEPeTs4R5Mc-wtTQZubageW8GZE4AwHUcXtnh3RX4XLLrG2xz_Zs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21103,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pampers+by+P%26G+-+Diapers,+Baby+products+%26+Rewards",
+        "updated": "July 10, 2019",
+        "size": "53M",
+        "installs": "1,000,000+",
+        "current_version": "3.7.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Pampers by P&G - Diapers, Baby products & Rewards",
+        "developer_email": "proctergambleproductions@gmail.com",
+        "developer_url": "http://www.pg.com",
+        "developer_address": null,
+        "app_id": "com.pg.clubpampers.android.us",
+        "url": "https://play.google.com/store/apps/details?id=com.pg.clubpampers.android.us&hl=en&gl=us"
+    },
+    {
+        "title": "Joss & Main",
+        "icon": "https://lh3.googleusercontent.com/meXDzZ9ej5e4xwgfoid7CueJyMUWR00KrEe1xHf-IXVPU1NHhdWk_i9NJV0ypXAiDVNt",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 542,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6384738406445896780",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wayfair, LLC",
+        "developer_email": "service@jossandmain.com",
+        "developer_url": "http://www.jossandmain.com",
+        "developer_address": "4 Copley Place\nFloor 7\nBoston, MA 02116",
+        "app_id": "com.wayfair.jossandmain",
+        "url": "https://play.google.com/store/apps/details?id=com.wayfair.jossandmain&hl=en&gl=us"
+    },
+    {
+        "title": "adidas",
+        "icon": "https://lh3.googleusercontent.com/Y2TLz4aFDW8lKhxUi4E5bFG0HPnL67uI90m76gidPw-2CO-qDSFT6lYt340mo65dhw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13771,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8181465493603741900",
+        "updated": "July 24, 2019",
+        "size": "23M",
+        "installs": "5,000,000+",
+        "current_version": "3.8.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "adidas",
+        "developer_email": "adidas.app@adidas.com",
+        "developer_url": "http://www.adidas.com/adidasapp",
+        "developer_address": "adi-dassler-str 1\n91074 herzogenaurach\ngermany",
+        "app_id": "com.adidas.app",
+        "url": "https://play.google.com/store/apps/details?id=com.adidas.app&hl=en&gl=us"
+    },
+    {
+        "title": "Coupons.com \u2013 Grocery Coupons & Cash Back Savings",
+        "icon": "https://lh3.googleusercontent.com/iNenzyz3o-qwcWQkpiiZW8j7uvEBj1_tlaZT4irA1YfcfW2Z3GHOxE6FzbA1u_-XS5s",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/W3IRokf20HY",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33246,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Quotient+Technology+Inc.+f/k/a+Coupons.com+Inc.",
+        "updated": "April 22, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "5.1.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Quotient Technology Inc. f/k/a Coupons.com Inc.",
+        "developer_email": "androidapp-support@coupons.com",
+        "developer_url": "https://www.coupons.com",
+        "developer_address": "Quotient Technology Inc.\n400 Logue Ave.\nMountain View, CA 94043",
+        "app_id": "com.coupons.ciapp",
+        "url": "https://play.google.com/store/apps/details?id=com.coupons.ciapp&hl=en&gl=us"
+    },
+    {
+        "title": "Foot Locker: Sneakers, Culture & More",
+        "icon": "https://lh3.googleusercontent.com/Ai7aoj9m7VEks3edYlTNX6wC-cXfXthS6HfC86ZQes8OfKTsaJanvD8HMXTI0u9fIAlV",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 52071,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Foot+Locker+App+Development",
+        "updated": "July 9, 2019",
+        "size": "43M",
+        "installs": "1,000,000+",
+        "current_version": "3.7.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Foot Locker App Development",
+        "developer_email": "AppFeedbackFTL@footlocker.com",
+        "developer_url": "http://www.footlocker.com",
+        "developer_address": "111 S 1st Ave\nWausau WI, 54401",
+        "app_id": "com.footlocker.approved",
+        "url": "https://play.google.com/store/apps/details?id=com.footlocker.approved&hl=en&gl=us"
+    },
+    {
+        "title": "Ollie's Bargain Outlet, Inc",
+        "icon": "https://lh3.googleusercontent.com/Oujw5RHseP6giJAThOIWV25ZQpBZFoW6JSpwiTDxznOAXdhyVHzETh4HAwY3Vw_iJ_0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 361,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ollie%27s+Bargain+Outlet,+Inc",
+        "updated": "December 13, 2018",
+        "size": "9.0M",
+        "installs": "100,000+",
+        "current_version": "1.2.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ollie's Bargain Outlet, Inc",
+        "developer_email": "olliesarmy@ollies.us",
+        "developer_url": "http://www.ollies.us",
+        "developer_address": null,
+        "app_id": "us.ollies.app",
+        "url": "https://play.google.com/store/apps/details?id=us.ollies.app&hl=en&gl=us"
+    },
+    {
+        "title": "GOTit -  Social Shopping",
+        "icon": "https://lh3.googleusercontent.com/8ignLo9qHp-BcJ1Qj35QaKaxRAbMNKAgB9skKFsfh7cGlLDmXmsimUaK5zrTmwGQwis",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1151,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GOTit+Inc",
+        "updated": "June 22, 2019",
+        "size": "34M",
+        "installs": "500,000+",
+        "current_version": "2.0.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "GOTit Inc",
+        "developer_email": "info@gotitapp.net",
+        "developer_url": "http://www.gotitapp.net",
+        "developer_address": "600 california street suite 600\nSan Francisco\nCA, 94108",
+        "app_id": "gotit.com.gotit",
+        "url": "https://play.google.com/store/apps/details?id=gotit.com.gotit&hl=en&gl=us"
+    },
+    {
+        "title": "The Krazy Coupon Lady: Shop Smart. Save Money.",
+        "icon": "https://lh3.googleusercontent.com/1NvBGHJwQ6dpzuKOSniTUfPCwUJSLE6Q07d3ic3KxQB6fJz0NRfOCQavWtF_EuC4ig",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11759,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4737038016995379477",
+        "updated": "July 15, 2019",
+        "size": "46M",
+        "installs": "1,000,000+",
+        "current_version": "2.6.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Krazy Coupon Lady",
+        "developer_email": "inquiries@thekrazycouponlady.com",
+        "developer_url": "http://thekrazycouponlady.com",
+        "developer_address": "PO Box 836 Eagle, ID 83616",
+        "app_id": "com.thekrazycouponlady.kcl",
+        "url": "https://play.google.com/store/apps/details?id=com.thekrazycouponlady.kcl&hl=en&gl=us"
+    },
+    {
+        "title": "ALDI USA",
+        "icon": "https://lh3.googleusercontent.com/m3a7lbOgH4dSrn1eP5MvXef0MiWlnR_4B6zvsuyrvUxTgS4WC-jI2pd8FN5E-PL0tQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 8577,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ALDI+S%C3%9CD+Dienstleistungs-GmbH+%26+Co.+oHG",
+        "updated": "June 6, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ALDI S\u00dcD Dienstleistungs-GmbH & Co. oHG",
+        "developer_email": "us.mobileapp@aldi.us",
+        "developer_url": "http://www.aldi.us/",
+        "developer_address": "Mintarder Str. 36-40\n45481 M\u00fclheim an der Ruhr\nGermany",
+        "app_id": "de.apptiv.business.android.aldi_us",
+        "url": "https://play.google.com/store/apps/details?id=de.apptiv.business.android.aldi_us&hl=en&gl=us"
+    },
+    {
+        "title": "5miles: Buy and Sell Used Stuff Locally",
+        "icon": "https://lh3.googleusercontent.com/QIX_U_OBW32_eoaXloUSheN3fDPm_qDmMgV8nBiyDBGL3mC9LqoblKjVJKCiWJ2AOjA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 109247,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5miles+LLC",
+        "updated": "July 22, 2019",
+        "size": "22M",
+        "installs": "5,000,000+",
+        "current_version": "7.5.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "5miles LLC",
+        "developer_email": "hello@5milesapp.com",
+        "developer_url": "https://www.5miles.com",
+        "developer_address": null,
+        "app_id": "com.thirdrock.fivemiles",
+        "url": "https://play.google.com/store/apps/details?id=com.thirdrock.fivemiles&hl=en&gl=us"
+    },
+    {
+        "title": "Whole Foods Market",
+        "icon": "https://lh3.googleusercontent.com/kaBfRT1FV1B5gnogmAbpD7z85U8zuBhbYO5oMf9p-knsO0EVdLz6dk6TPh98Z6vZkTM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3569,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Whole+Foods+Market,+Inc.",
+        "updated": "June 7, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "5.0.642",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Whole Foods Market, Inc.",
+        "developer_email": "customer.questions@wholefoods.com",
+        "developer_url": "https://www.wholefoodsmarket.com/",
+        "developer_address": null,
+        "app_id": "com.wholefoods.wholefoodsmarket",
+        "url": "https://play.google.com/store/apps/details?id=com.wholefoods.wholefoodsmarket&hl=en&gl=us"
+    },
+    {
+        "title": "RetailMeNot: Coupons, Deals & Discounts",
+        "icon": "https://lh3.googleusercontent.com/UL72J7GpbQ2Ry0tvpv74sA5LSPC85Jjj-FFq0W7_R0dxPWW4DPYU_3yufWIIZB1TYYA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/W2uFaB42_es",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 214019,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RetailMeNot+Inc.",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "RetailMeNot Inc.",
+        "developer_email": "appsupport@retailmenot.com",
+        "developer_url": "http://www.retailmenot.com/contact",
+        "developer_address": null,
+        "app_id": "com.whaleshark.retailmenot",
+        "url": "https://play.google.com/store/apps/details?id=com.whaleshark.retailmenot&hl=en&gl=us"
+    },
+    {
+        "title": "Coupons for Harbor Freight Tools",
+        "icon": "https://lh3.googleusercontent.com/9EVotK6YJxUsEoI5o6gzXTd4WqoWYY34UWJKAQS43-yyCNYCIh2Jh4JoJfq4aQKl75CH",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12863,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "G2018+Studio",
+        "updated": "July 14, 2019",
+        "size": "5.1M",
+        "installs": "100,000+",
+        "current_version": "1.0.9",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "G2018 Studio",
+        "developer_email": "g20.coupons@gmail.com",
+        "developer_url": "http://62.153.77.90/privacy/policy.html",
+        "developer_address": null,
+        "app_id": "com.g2018.hfcoupons",
+        "url": "https://play.google.com/store/apps/details?id=com.g2018.hfcoupons&hl=en&gl=us"
+    },
+    {
+        "title": "Forever 21",
+        "icon": "https://lh3.googleusercontent.com/eyg5RNvapHbtwSM25fmlr0hO79HhPsoIvQaP3-KV50t7zsYDc8gIiL3me_FbeG2xEg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30726,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9018983157662899197",
+        "updated": "July 23, 2019",
+        "size": "31M",
+        "installs": "5,000,000+",
+        "current_version": "3.4.5.168",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Forever 21",
+        "developer_email": "mobile@forever21.com",
+        "developer_url": "https://www.forever21.com/us/shop",
+        "developer_address": "3880 N. Mission Rd.\nLos Angeles, CA 90031",
+        "app_id": "com.rarewire.forever21",
+        "url": "https://play.google.com/store/apps/details?id=com.rarewire.forever21&hl=en&gl=us"
+    },
+    {
+        "title": "HSN Phone Shop App",
+        "icon": "https://lh3.googleusercontent.com/UBtADB2Ewc7Im4yon-MTolc6PYtCiqBtv1n61_SUkOfIy5aFeQUc5LVHwHWwiKzVMIc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9510,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "HSN+LP",
+        "updated": "July 5, 2019",
+        "size": "4.1M",
+        "installs": "1,000,000+",
+        "current_version": "8.125.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HSN LP",
+        "developer_email": "HSNShopApp_Feedback@hsn.net",
+        "developer_url": "http://www.hsn.com",
+        "developer_address": null,
+        "app_id": "com.hsn.android",
+        "url": "https://play.google.com/store/apps/details?id=com.hsn.android&hl=en&gl=us"
+    },
+    {
+        "title": "Checkout 51: Grocery coupons",
+        "icon": "https://lh3.googleusercontent.com/_oNf5FwU1RcLXhQsLtXe8cwjAVFzDcs4HRcGHOcXprxCyBIwaaC4i9_r3sICPGMBOI6U",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 63434,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Checkout+51+Mobile+Apps+ULC",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Checkout 51 Mobile Apps ULC",
+        "developer_email": "hello@checkout51.com",
+        "developer_url": "http://www.checkout51.com",
+        "developer_address": "366 Adelaide St E 5th floor, Toronto, ON M5A 3X9",
+        "app_id": "com.c51",
+        "url": "https://play.google.com/store/apps/details?id=com.c51&hl=en&gl=us"
+    },
+    {
+        "title": "Box Tops\u00ae for Education",
+        "icon": "https://lh3.googleusercontent.com/vZa4T-xhtzjcqq7XVLBOXEwFow9fjwL3M3Wt04gTBUplqktd7d7zbDBA1g2_enIZ-t0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 561,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "General+Mills,+Inc.",
+        "updated": "July 25, 2019",
+        "size": "28M",
+        "installs": "100,000+",
+        "current_version": "4.3.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "General Mills, Inc.",
+        "developer_email": "BTFE.App@genmills.com",
+        "developer_url": "https://www.boxtops4education.com",
+        "developer_address": null,
+        "app_id": "com.generalmills.btfe",
+        "url": "https://play.google.com/store/apps/details?id=com.generalmills.btfe&hl=en&gl=us"
+    },
+    {
+        "title": "My Bath & Body Works",
+        "icon": "https://lh3.googleusercontent.com/BcunFn98IGB6iqsdcN7HbD8rJi-cmxmGiZRtrJh4Lfd-9Baf-hBupPgtY0ctrw4U0I1Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5683,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bath+and+Body+Works+Mobile",
+        "updated": "May 9, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "1.8.0.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Bath and Body Works Mobile",
+        "developer_email": "customercare@bathandbodyworks.com",
+        "developer_url": "http://www.bathandbodyworks.com",
+        "developer_address": null,
+        "app_id": "com.bathandbody.bbw",
+        "url": "https://play.google.com/store/apps/details?id=com.bathandbody.bbw&hl=en&gl=us"
+    },
+    {
+        "title": "Shop Samsung",
+        "icon": "https://lh3.googleusercontent.com/ItE-QoiOUq0g_A7H2n9kvlKBrAcCxi4ASp5VNcWqurAS85QKsLSkUZkiJZkFE1MH5g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28756,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4670314572380601657",
+        "updated": "June 22, 2019",
+        "size": "59M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.14709",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Samsung Electronics Co. Ltd",
+        "developer_email": "s.help@samsung.com",
+        "developer_url": "http://www.samsung.com/us/explore/shop-samsung-app/",
+        "developer_address": "645 Clyde Avenue\nMountain View, Ca 94043",
+        "app_id": "com.samsung.ecomm",
+        "url": "https://play.google.com/store/apps/details?id=com.samsung.ecomm&hl=en&gl=us"
+    },
+    {
+        "title": "IKEA Store",
+        "icon": "https://lh3.googleusercontent.com/88Sv5RpH_h4lVJkNIyErEs9wZkvsRs9xXQZWcWlYBkqZAudnuF_3ZpdZeS_MTtewXw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/FPH4FRB32GA",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31066,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "IKEA",
+        "updated": "February 6, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "IKEA",
+        "developer_email": "ikearetailandroidapp@ikea.com",
+        "developer_url": "http://www.ikea.com",
+        "developer_address": null,
+        "app_id": "com.ikea.kompis",
+        "url": "https://play.google.com/store/apps/details?id=com.ikea.kompis&hl=en&gl=us"
+    },
+    {
+        "title": "Reverb.com: Buy & Sell Music Gear",
+        "icon": "https://lh3.googleusercontent.com/ITPubDq5pdsg7VniTJqffCzORm3mll20nDxBJYH83HEYSrUwNHwGPSUlj6dtl7K_x_Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5706,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4800573928133291397",
+        "updated": "July 24, 2019",
+        "size": "18M",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Reverb.com",
+        "developer_email": "android-help@reverb.com",
+        "developer_url": "https://reverb.com",
+        "developer_address": null,
+        "app_id": "com.reverb.app",
+        "url": "https://play.google.com/store/apps/details?id=com.reverb.app&hl=en&gl=us"
+    },
+    {
+        "title": "Overstock \u2013 Deals on Furniture, Decor, Rugs & More",
+        "icon": "https://lh3.googleusercontent.com/r1RyQV0Tva6dHjjLQ4xikDyc2uU9OMXxUmnvDM3edGwfBI6tZvDC9XGltno9pH-jkw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NVvhbVd63ew",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 26941,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Overstock.com",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Overstock.com",
+        "developer_email": "androidfeedback@overstock.com",
+        "developer_url": "http://www.overstock.com",
+        "developer_address": "Overstock.com\n799 W. Coliseum Way\nMidvale, UT 84047",
+        "app_id": "com.overstock",
+        "url": "https://play.google.com/store/apps/details?id=com.overstock&hl=en&gl=us"
+    },
+    {
+        "title": "Albertsons",
+        "icon": "https://lh3.googleusercontent.com/uRTz6aLiwYKpX33gI-v-AeKybkeIZihU3v4V5k8XRbrZ3CNW5Q58XHi0x89DFUsG1Z82",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16815,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Albertsons+Companies,+Inc.",
+        "updated": "June 28, 2019",
+        "size": "39M",
+        "installs": "1,000,000+",
+        "current_version": "7.4.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Albertsons Companies, Inc.",
+        "developer_email": "mobile.appcontact@safeway.com",
+        "developer_url": "http://www.safeway.com/ShopStores/Privacy-Policy.page",
+        "developer_address": null,
+        "app_id": "com.safeway.client.android.albertsons",
+        "url": "https://play.google.com/store/apps/details?id=com.safeway.client.android.albertsons&hl=en&gl=us"
+    },
+    {
+        "title": "Depop - Fashion marketplace for buying & selling",
+        "icon": "https://lh3.googleusercontent.com/vQDJSrBUCSwaPwTf5tPm0rF9XUuOPG1xiOqHQT6PNphwnQ0ye3W-rED_AG_6wZZj2Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 32341,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Depop",
+        "updated": "July 24, 2019",
+        "size": "30M",
+        "installs": "1,000,000+",
+        "current_version": "2.55",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Depop",
+        "developer_email": "support@depop.com",
+        "developer_url": "http://www.depop.com",
+        "developer_address": null,
+        "app_id": "com.depop",
+        "url": "https://play.google.com/store/apps/details?id=com.depop&hl=en&gl=us"
+    },
+    {
+        "title": "DealDash: Bid, Save, Win & Shop Deals and Auctions",
+        "icon": "https://lh3.googleusercontent.com/vE72gDGD8a-lqch1XH071IS6K9zJ5Y4cgovvPtULN5YC8QtwG1XBKmkfJfEZhFfnUXU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3kNKDLXBQKc",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33133,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "DealDash.com",
+        "updated": "June 20, 2019",
+        "size": "26M",
+        "installs": "5,000,000+",
+        "current_version": "3.0.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "DealDash.com",
+        "developer_email": "support@dealdash.com",
+        "developer_url": "http://www.dealdash.com/",
+        "developer_address": "Urho Kekkosen katu 5B (3rd floor)\n00100 Helsinki, Finland",
+        "app_id": "com.dealdash",
+        "url": "https://play.google.com/store/apps/details?id=com.dealdash&hl=en&gl=us"
+    },
+    {
+        "title": "Rosegal: Shop Fashion Clothes",
+        "icon": "https://lh3.googleusercontent.com/zMUDxNGdyDY8k2u13d8oAWW3PLgzt7yVBwixkP3DNAZndp7R318oF63L9kuw8nTBGQw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 26776,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "rosegal.com",
+        "updated": "June 28, 2019",
+        "size": "20M",
+        "installs": "5,000,000+",
+        "current_version": "3.5.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "rosegal.com",
+        "developer_email": "rosegal0609@gmail.com",
+        "developer_url": "http://www.rosegal.com",
+        "developer_address": null,
+        "app_id": "com.rosegal",
+        "url": "https://play.google.com/store/apps/details?id=com.rosegal&hl=en&gl=us"
+    },
+    {
+        "title": "Barcode Scanner",
+        "icon": "https://lh3.googleusercontent.com/os72icmFlDtbxpYbZCP-v6kOereSLGDmlKsBl1ISTPdgbcpoc4rSIuXDuoDECvgcvoFJ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 629595,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ZXing+Team",
+        "updated": "February 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ZXing Team",
+        "developer_email": "srowen@gmail.com",
+        "developer_url": "https://github.com/zxing/zxing/wiki/Frequently-Asked-Questions",
+        "developer_address": null,
+        "app_id": "com.google.zxing.client.android",
+        "url": "https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en&gl=us"
+    },
+    {
+        "title": "The Children's Place",
+        "icon": "https://lh3.googleusercontent.com/mN6xQzUeNmYyWv_eBgaLb39dac4rulUGOA6YbhOk4NvdqIvw-cjjL-NKsNPqtSXImIU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7817,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+Children%27s+Place,+Inc",
+        "updated": "June 12, 2019",
+        "size": "32M",
+        "installs": "100,000+",
+        "current_version": "14.0.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Children's Place, Inc",
+        "developer_email": "playstore.tcp@gmail.com",
+        "developer_url": "http://www.childrensplace.com",
+        "developer_address": "500 Plaza Drive\nSecaucus NJ 07094",
+        "app_id": "com.childrensplace.tcpmobileapp",
+        "url": "https://play.google.com/store/apps/details?id=com.childrensplace.tcpmobileapp&hl=en&gl=us"
+    },
+    {
+        "title": "AutoZone",
+        "icon": "https://lh3.googleusercontent.com/P6SP0Efj-R1zdVCt5DxX4779TRHqZ09wzt-HUJi8KvPRvCEudyvNXXhfXsAfc6BE4A_N",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22709,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AutoZone,+Inc.",
+        "updated": "July 21, 2019",
+        "size": "49M",
+        "installs": "1,000,000+",
+        "current_version": "2.12.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "AutoZone, Inc.",
+        "developer_email": "android.support@autozone.com",
+        "developer_url": "http://www.autozone.com",
+        "developer_address": null,
+        "app_id": "com.autozone.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.autozone.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Nike SNKRS",
+        "icon": "https://lh3.googleusercontent.com/kWXy8EJ9rL4iH2lDxiDv0LYd6DeTPHLbzGXDHwZLvRy5UBhYHezTDm51onReoWZdzjPX",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/gEfYCdKzU54",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34792,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5943102410143165456",
+        "updated": "July 18, 2019",
+        "size": "77M",
+        "installs": "1,000,000+",
+        "current_version": "2.12.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Nike, Inc.",
+        "developer_email": "Nike.googleplaysupport@nike.com",
+        "developer_url": "http://nike.com/snkrs",
+        "developer_address": "Nike World Headquarters\nOne Bowerman Drive\nBeaverton, OR 97005",
+        "app_id": "com.nike.snkrs",
+        "url": "https://play.google.com/store/apps/details?id=com.nike.snkrs&hl=en&gl=us"
+    },
+    {
+        "title": "Saks Fifth Avenue",
+        "icon": "https://lh3.googleusercontent.com/MZhIpkL5B5DgEVg5m8n7wTxNL2HqcFSVy1r9KN1E_p0dySpFZ8TS057m_rkRMNBbcw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 333,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Saks+Fifth+Avenue",
+        "updated": "July 23, 2019",
+        "size": "6.3M",
+        "installs": "100,000+",
+        "current_version": "1.9.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Saks Fifth Avenue",
+        "developer_email": "saks-android-feedback@hbc.com",
+        "developer_url": "https://www.saksfifthavenue.com/",
+        "developer_address": "225 Liberty Street\nNew York, NY 10080",
+        "app_id": "com.saksfifthavenue.android",
+        "url": "https://play.google.com/store/apps/details?id=com.saksfifthavenue.android&hl=en&gl=us"
+    },
+    {
+        "title": "ZAFUL - My Fashion Story",
+        "icon": "https://lh3.googleusercontent.com/lt2vF0f-iukmR4uZflTqePiMqKNby2HrkxFVNohTTtr9P6zVbbpXgMi4Wybzo_2ktw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/1PkB3PUXhyg",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 38124,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Zaful",
+        "updated": "July 23, 2019",
+        "size": "22M",
+        "installs": "10,000,000+",
+        "current_version": "4.7.0",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Zaful",
+        "developer_email": "support@zaful.com",
+        "developer_url": "http://www.zaful.com",
+        "developer_address": null,
+        "app_id": "com.zaful",
+        "url": "https://play.google.com/store/apps/details?id=com.zaful&hl=en&gl=us"
+    },
+    {
+        "title": "Bed Bath & Beyond: Home Essentials + Gift Registry",
+        "icon": "https://lh3.googleusercontent.com/TznAnQpw5rjyleoxGLA-dt_HFVKA1eO9hHU82Ur9LoXBHmHCKGd1laMPqjQ7WzFgyqo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2481,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bed+Bath+%26+Beyond",
+        "updated": "July 23, 2019",
+        "size": "50M",
+        "installs": "1,000,000+",
+        "current_version": "12.00.58",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bed Bath & Beyond",
+        "developer_email": "androidfeedback@bedbath.com",
+        "developer_url": "http://www.bedbathandbeyond.com",
+        "developer_address": null,
+        "app_id": "com.bbby.bedbathandbeyond",
+        "url": "https://play.google.com/store/apps/details?id=com.bbby.bedbathandbeyond&hl=en&gl=us"
+    },
+    {
+        "title": "CIRCLE K",
+        "icon": "https://lh3.googleusercontent.com/yKAznahdP3geeNBGg4Y_74mm90ZWgq4cIGWnzy6nP6oC6z1tIlWmMNoVwpLyze1J3Wg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18452,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Outsite+Networks+Inc.",
+        "updated": "July 9, 2019",
+        "size": "7.6M",
+        "installs": "500,000+",
+        "current_version": "6.4.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Outsite Networks Inc.",
+        "developer_email": "allpointsapp@gmail.com",
+        "developer_url": "https://www.circlek.com/",
+        "developer_address": null,
+        "app_id": "com.outsitenetworks.circlek",
+        "url": "https://play.google.com/store/apps/details?id=com.outsitenetworks.circlek&hl=en&gl=us"
+    },
+    {
+        "title": "Geek - Smarter Shopping",
+        "icon": "https://lh3.googleusercontent.com/c5Eklk6ZTTHxtCsdZgfHYic9PL4tBkpgycacb_uDZ2MftogUbjk-5RFJgWNqNtSXKQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1139346,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wish+Inc.",
+        "updated": "January 15, 2019",
+        "size": "21M",
+        "installs": "10,000,000+",
+        "current_version": "2.4.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Wish Inc.",
+        "developer_email": "support@wish.com",
+        "developer_url": "http://www.wish.com/geek/m",
+        "developer_address": null,
+        "app_id": "com.contextlogic.geek",
+        "url": "https://play.google.com/store/apps/details?id=com.contextlogic.geek&hl=en&gl=us"
+    },
+    {
+        "title": "Boost Perks",
+        "icon": "https://lh3.googleusercontent.com/AF1q_PX1EM_NVB8fE1gWVcLE68EMrR40ROwGl4MoEkrR8GktfYOlIJT5wTcwaZ9MDUg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1031,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sprint",
+        "updated": "May 3, 2019",
+        "size": "19M",
+        "installs": "100,000+",
+        "current_version": "1.1.40",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Sprint",
+        "developer_email": "help@boostperkssupport.com",
+        "developer_url": "https://www.boostmobile.com/why-boost/boost-perks.html",
+        "developer_address": "6200 Sprint Parkway\nOverland Park, KS 66251",
+        "app_id": "com.bh.boost",
+        "url": "https://play.google.com/store/apps/details?id=com.bh.boost&hl=en&gl=us"
+    },
+    {
+        "title": "Dresslily\u2014\u2014Fashion Shopping Trend",
+        "icon": "https://lh3.googleusercontent.com/PAoZCJdYaCZkLkUtF2J_m9x8DzmkmBQbdlGWUACbE3om9-nlX-6vpMrH_c4IHVOMQds",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6831,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Dresslily",
+        "updated": "July 23, 2019",
+        "size": "23M",
+        "installs": "1,000,000+",
+        "current_version": "3.4.3",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Dresslily",
+        "developer_email": "support@dresslily.com",
+        "developer_url": "http://www.dresslily.com/",
+        "developer_address": null,
+        "app_id": "com.globalegrow.app.dresslily",
+        "url": "https://play.google.com/store/apps/details?id=com.globalegrow.app.dresslily&hl=en&gl=us"
+    },
+    {
+        "title": "Barcode Scanner Pro",
+        "icon": "https://lh3.googleusercontent.com/pSFlU7vAakyZhuczm_BTz-rNZ-6qM73pDX22spOuBU_R4_rdof3944Pk_33Pz3PDX7M",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 153226,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Geeks.Lab.2015",
+        "updated": "April 22, 2019",
+        "size": "2.2M",
+        "installs": "10,000,000+",
+        "current_version": "1.2.95",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Geeks.Lab.2015",
+        "developer_email": "geeks.lab.2015@gmail.com",
+        "developer_url": "http://geekslab-privacypolicy.blogspot.com",
+        "developer_address": "AnNingZhuang West Road No.15, Haidian District, Beijing, China",
+        "app_id": "com.geekslab.qrbarcodescanner.pro",
+        "url": "https://play.google.com/store/apps/details?id=com.geekslab.qrbarcodescanner.pro&hl=en&gl=us"
+    },
+    {
+        "title": "Nordstrom Rack",
+        "icon": "https://lh3.googleusercontent.com/7uDomuMy102vCq-hgAbhR_Ntkj1IelP7x2OJUXvWw7jJk5P8gSeqe48ITB98cTfQZ1ag",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1411,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Nordstrom,+Inc.",
+        "updated": "June 25, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Nordstrom, Inc.",
+        "developer_email": "mobile@hautelook.com",
+        "developer_url": "https://www.nordstromrack.com",
+        "developer_address": null,
+        "app_id": "com.nordstrom.rack.app",
+        "url": "https://play.google.com/store/apps/details?id=com.nordstrom.rack.app&hl=en&gl=us"
+    },
+    {
+        "title": "Wawa",
+        "icon": "https://lh3.googleusercontent.com/k8-yvVdb4V-Z6N5NujnHfv1f3A0vfFil928PaAKpkwdEZR-bcLX1LQc6l3ibgm6E1xsv",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6189,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wawa,+Inc",
+        "updated": "June 18, 2019",
+        "size": "34M",
+        "installs": "500,000+",
+        "current_version": "4.6.1.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wawa, Inc",
+        "developer_email": "wawacr@wawa.com",
+        "developer_url": "http://www.wawa.com",
+        "developer_address": "260 W. Baltimore Pike\nWawa, PA 19063",
+        "app_id": "com.wawa.android.appv2",
+        "url": "https://play.google.com/store/apps/details?id=com.wawa.android.appv2&hl=en&gl=us"
+    },
+    {
+        "title": "OptUP",
+        "icon": "https://lh3.googleusercontent.com/RQ042mWowfG2WCKgGJC5ewSwAnQ33chPZgXZdF79qcfoAXWEtJeQf6iiKxBKenPHQg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 616,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7528642552836646633",
+        "updated": "July 10, 2019",
+        "size": "9.4M",
+        "installs": "100,000+",
+        "current_version": "2.16",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Kroger Co.",
+        "developer_email": "android.support@kroger.com",
+        "developer_url": "http://www.kroger.com",
+        "developer_address": null,
+        "app_id": "com.kroger.mobile.healthyshopper",
+        "url": "https://play.google.com/store/apps/details?id=com.kroger.mobile.healthyshopper&hl=en&gl=us"
+    },
+    {
+        "title": "Meijer",
+        "icon": "https://lh3.googleusercontent.com/3btK-wt3hnoh0Je2ZI3Zks1LyVoakObEEaF2DNx5FM0KGTAKM5yuULzknMDOBN--7ZlH",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 28229,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Meijer",
+        "updated": "July 23, 2019",
+        "size": "9.3M",
+        "installs": "1,000,000+",
+        "current_version": "5.21.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Meijer",
+        "developer_email": "kyle.durocher@meijer.com",
+        "developer_url": "https://www.meijer.com",
+        "developer_address": null,
+        "app_id": "com.meijer.mobile.meijer",
+        "url": "https://play.google.com/store/apps/details?id=com.meijer.mobile.meijer&hl=en&gl=us"
+    },
+    {
+        "title": "Mellogang",
+        "icon": "https://lh3.googleusercontent.com/l7gM1HmQuERdttDE339ZW6rDzYsSF-fT3W2BccxmP5IvcKUozYPYnwebje1oTuAtM-A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 153,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Marshmello",
+        "updated": "July 17, 2019",
+        "size": "19M",
+        "installs": "1,000+",
+        "current_version": "1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Marshmello",
+        "developer_email": "info@mellogang.com",
+        "developer_url": "https://mellogang.com/",
+        "developer_address": "16000 Ventura Blvd. Suite 600\nEncino, CA 91436",
+        "app_id": "co.tapcart.app.id_juBZUxNaDx",
+        "url": "https://play.google.com/store/apps/details?id=co.tapcart.app.id_juBZUxNaDx&hl=en&gl=us"
+    },
+    {
+        "title": "Famous Footwear - Shop Shoes",
+        "icon": "https://lh3.googleusercontent.com/pSemg387Im3EGWcGUcm8j6dx6EmSUIahQDW8fQfMNV1XMJNXWrM4fGw2T-GWpJ1i-Xq7",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xPCuVcHKh1k",
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6961,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Caleres,+Inc.",
+        "updated": "July 24, 2019",
+        "size": "17M",
+        "installs": "1,000,000+",
+        "current_version": "2.10.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Caleres, Inc.",
+        "developer_email": "rewardsfeedback@mailmw.custhelp.com",
+        "developer_url": "http://famousfootwear.custhelp.com/app/ask",
+        "developer_address": null,
+        "app_id": "com.famousfootwear.android",
+        "url": "https://play.google.com/store/apps/details?id=com.famousfootwear.android&hl=en&gl=us"
+    },
+    {
+        "title": "Hollister So Cal Style",
+        "icon": "https://lh3.googleusercontent.com/V0MkeyQky-EOGDMVYfk-alg2n4JpU4qszXhPUTYdHemi4AAjy9kTycgoDRQNJmwLfN0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43794,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Abercrombie+%26+Fitch",
+        "updated": "July 9, 2019",
+        "size": "44M",
+        "installs": "1,000,000+",
+        "current_version": "5.27.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Abercrombie & Fitch",
+        "developer_email": "hollisterco@hollisterco.com",
+        "developer_url": "http://www.hollisterco.com",
+        "developer_address": null,
+        "app_id": "com.abercrombie.hollister",
+        "url": "https://play.google.com/store/apps/details?id=com.abercrombie.hollister&hl=en&gl=us"
+    },
+    {
+        "title": "WICShopper",
+        "icon": "https://lh3.googleusercontent.com/yhPzjgUqnU_o9_lx67l1bGwxBzhuxEprU5sAMdCfeU3oZGLSD5IUM5CrNdZC2aQvXyo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "SHOPPING"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3598,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "JPMA,+Inc",
+        "updated": "June 3, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "JPMA, Inc",
+        "developer_email": "WICShopper@jpma.com",
+        "developer_url": "http://www.ebtshopper.com",
+        "developer_address": "Denver, Colorado",
+        "app_id": "com.jpma.EBTShopper",
+        "url": "https://play.google.com/store/apps/details?id=com.jpma.EBTShopper&hl=en&gl=us"
+    }
+]

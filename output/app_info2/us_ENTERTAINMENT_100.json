@@ -1,0 +1,4479 @@
+[
+    {
+        "title": "Netflix",
+        "icon": "https://lh3.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6910408,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Netflix,+Inc.",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$7.99",
+            "$13.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Netflix, Inc.",
+        "developer_email": "playstore@netflix.com",
+        "developer_url": "http://www.netflix.com",
+        "developer_address": "100 Winchester Circle\nLos Gatos, CA 95032-1815\nUSA",
+        "app_id": "com.netflix.mediaclient",
+        "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en&gl=us"
+    },
+    {
+        "title": "Roblox",
+        "icon": "https://lh3.googleusercontent.com/I6yarYpJllr0JP4I3STA3gxqYMIDAzhW-vtbWoR6G8yncVsN8dM-PWv1GAUEcVFq3g",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/wrplzM-ue-Y",
+        "category": [
+            "ENTERTAINMENT",
+            "FAMILY_ACTION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9001054,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5360036014478858866",
+        "updated": "July 30, 2019",
+        "size": "93M",
+        "installs": "100,000,000+",
+        "current_version": "2.394.322464",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Fantasy Violence"
+        ],
+        "iap_range": [
+            "$0.49",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Roblox Corporation",
+        "developer_email": "info@roblox.com",
+        "developer_url": "http://www.roblox.com",
+        "developer_address": "970 Park Place\nSan Mateo, CA 94403\n(USA)",
+        "app_id": "com.roblox.client",
+        "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=us"
+    },
+    {
+        "title": "Google Play Games",
+        "icon": "https://lh3.googleusercontent.com/szHQCpMAb0MikYIhvNG1MlruXFUggd6DJHXkMPG1H4lJPB7Lee_BkODfwxpQazxfO9mA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/dL0mW81gxRo",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9420903,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://play.google.com/store/apps/category/GAME",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.play.games",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.play.games&hl=en&gl=us"
+    },
+    {
+        "title": "Pluto TV - It\u2019s Free TV",
+        "icon": "https://lh3.googleusercontent.com/ToPEw_V3U_RyQwh4Eh1mmA2qJMNBLkcsvElbvlww9nDDcyj2E9_gM0h4hEh6A3ZxEBY",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/yDuiMkn9d4I",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 92234,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pluto,+Inc.",
+        "updated": "June 3, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Pluto, Inc.",
+        "developer_email": "support@pluto.tv",
+        "developer_url": "https://support.pluto.tv",
+        "developer_address": "750 N. San Vicente Blvd Suite 900 East\nWest Hollywood, CA 90069",
+        "app_id": "tv.pluto.android",
+        "url": "https://play.google.com/store/apps/details?id=tv.pluto.android&hl=en&gl=us"
+    },
+    {
+        "title": "Tubi - Free Movies & TV Shows",
+        "icon": "https://lh3.googleusercontent.com/xKjC4JyU02cL0DW1QetqU-U9lGgfybyBRztq43BlQW9SQQEJme2WXN9IX224lg-paw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 563815,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9005207387328486775",
+        "updated": "July 30, 2019",
+        "size": "16M",
+        "installs": "50,000,000+",
+        "current_version": "3.1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tubi TV",
+        "developer_email": "support@tubi.tv",
+        "developer_url": "https://tubitv.com",
+        "developer_address": null,
+        "app_id": "com.tubitv",
+        "url": "https://play.google.com/store/apps/details?id=com.tubitv&hl=en&gl=us"
+    },
+    {
+        "title": "Amazon Prime Video",
+        "icon": "https://lh3.googleusercontent.com/-Zgwtg4Ox6QCOKy6syNCWEnlI3uMw9C3ZUS-Fb_uicTh69xwExuSW9FC91A2kaWHoE6E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 942595,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$100.00"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "aiv-android-feedback@amazon.com",
+        "developer_url": "http://www.primevideo.com",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "com.amazon.avod.thirdpartyclient",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en&gl=us"
+    },
+    {
+        "title": "Hulu: Stream TV, Movies & more",
+        "icon": "https://lh3.googleusercontent.com/cu_cP9JE9-SCJzsk8hDOLQuEK9CSq-qTCUYP3g4wH4ojXkIjzd2DjxAjju6PdDwwSFk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 362177,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hulu",
+        "updated": "July 30, 2019",
+        "size": "7.6M",
+        "installs": "50,000,000+",
+        "current_version": "3.55.0.307330",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Hulu",
+        "developer_email": "support@hulu.com",
+        "developer_url": "http://www.hulu.com",
+        "developer_address": null,
+        "app_id": "com.hulu.plus",
+        "url": "https://play.google.com/store/apps/details?id=com.hulu.plus&hl=en&gl=us"
+    },
+    {
+        "title": "Paint By Number - Free Coloring Book & Puzzle Game",
+        "icon": "https://lh3.googleusercontent.com/SDM2OtiKT5bc76242_N1IibmmZVAq1hieDOP7rk-EJVL8dUBxqXMTqlHajHJUysTKw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 357238,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8186440931703540103",
+        "updated": "July 26, 2019",
+        "size": "24M",
+        "installs": "10,000,000+",
+        "current_version": "1.19.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Use of Alcohol and Tobacco"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$12.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Better Life - Color and Draw",
+        "developer_email": "paint_support@dailyinnovation.biz",
+        "developer_url": "http://www.dailyinnovation.biz/privacy.html",
+        "developer_address": "RM 603, 6/F HANG PONT COMM\nBLDG 31 TONKIN ST CHEUNG SHA\nWAN KLN",
+        "app_id": "paint.by.number.pixel.art.coloring.drawing.puzzle",
+        "url": "https://play.google.com/store/apps/details?id=paint.by.number.pixel.art.coloring.drawing.puzzle&hl=en&gl=us"
+    },
+    {
+        "title": "YouTube Kids",
+        "icon": "https://lh3.googleusercontent.com/k_HSvNKlleJNrzuL3OqDuXFm3Es8d77UQtiZvPqLg8lera9Xj99GRkDwWaJGMz8nkb1B",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 764994,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "ytkids-support@google.com",
+        "developer_url": "https://support.google.com/youtubekids",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.youtube.kids",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids&hl=en&gl=us"
+    },
+    {
+        "title": "Roku",
+        "icon": "https://lh3.googleusercontent.com/bAPotNdH58s4mYRsvgqOnM5FVpyX0U7-uf2orQuYvdfWeVa9ADcKPCCnp6U1DTfnH9w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 321982,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Roku+Inc.",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Roku Inc.",
+        "developer_email": "feedback@roku.com",
+        "developer_url": "http://www.roku.com",
+        "developer_address": "150 Winchester Circle, Los Gatos, CA 95032",
+        "app_id": "com.roku.remote",
+        "url": "https://play.google.com/store/apps/details?id=com.roku.remote&hl=en&gl=us"
+    },
+    {
+        "title": "HiddenMe -Face Aging App, Baby Maker, face scanner",
+        "icon": "https://lh3.googleusercontent.com/iJ2Gd8aNAczmOPsiUw69N1Z_6Bhj7ZCWjfC83vz5RVzsSxg-X1lCRZQDQj9qQpV9EA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 135230,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Colorfulnight",
+        "updated": "July 6, 2019",
+        "size": "25M",
+        "installs": "10,000,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$8.66",
+            "$96.00"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Colorfulnight",
+        "developer_email": "face.mystery.official@gmail.com",
+        "developer_url": "http://facemystery.com/HiddenMe_Privacy_Policy.html",
+        "developer_address": null,
+        "app_id": "faceapp.facemystery.learnmoreaboutyourself",
+        "url": "https://play.google.com/store/apps/details?id=faceapp.facemystery.learnmoreaboutyourself&hl=en&gl=us"
+    },
+    {
+        "title": "Xbox",
+        "icon": "https://lh3.googleusercontent.com/YqlXGn_KbC5zxxEDr12vsYWjcMpZokEmGZ76opYh4VmRwa2FCP6fHYzFcad5-xj4C677",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 700227,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 2, 2019",
+        "size": "48M",
+        "installs": "10,000,000+",
+        "current_version": "1906.0627.0045",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "xboxonandroid@microsoft.com",
+        "developer_url": "http://support.xbox.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.microsoft.xboxone.smartglass",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass&hl=en&gl=us"
+    },
+    {
+        "title": "Twitch: Livestream Multiplayer Games & Esports",
+        "icon": "https://lh3.googleusercontent.com/Ti7DQ5NH92V-_uuOiTbMOMwAjVXzl2rubjygxQp3KGutzuRHnjYvpCtfWJybeDYh4g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2698237,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Twitch+Interactive,+Inc.",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$299.50"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Twitch Interactive, Inc.",
+        "developer_email": "android@twitch.tv",
+        "developer_url": "http://www.twitch.tv",
+        "developer_address": "350 Bush St Suite 200\nSan Francisco, CA 94104",
+        "app_id": "tv.twitch.android.app",
+        "url": "https://play.google.com/store/apps/details?id=tv.twitch.android.app&hl=en&gl=us"
+    },
+    {
+        "title": "Bitmoji \u2013 your personal emoji",
+        "icon": "https://lh3.googleusercontent.com/VgApWOljUS_6OKp80OV--HjqsECnd95s0gpzslLJ277G-tYZH6X6ZF8KnQy_fjvvChA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2929273,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Bitstrips",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen",
+            "Use of Alcohol, Language, Crude Humor"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Bitstrips",
+        "developer_email": "bitmoji-support@snap.com",
+        "developer_url": "https://www.bitmoji.com",
+        "developer_address": "2024-777 Richmond Street West",
+        "app_id": "com.bitstrips.imoji",
+        "url": "https://play.google.com/store/apps/details?id=com.bitstrips.imoji&hl=en&gl=us"
+    },
+    {
+        "title": "Vudu - Rent, Buy or Watch Movies with No Fee!",
+        "icon": "https://lh3.googleusercontent.com/SzCjicJHq6JajCf-dM1WpTz2MaVaiTeTtnJM528xQi5Ur99RT6Es9euTpB9mQY4B_rY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 66783,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "VUDU",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "VUDU",
+        "developer_email": "googleplay@vudu.com",
+        "developer_url": "http://forum.vudu.com/",
+        "developer_address": null,
+        "app_id": "air.com.vudu.air.DownloaderTablet",
+        "url": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet&hl=en&gl=us"
+    },
+    {
+        "title": "DisneyNOW \u2013 Episodes & Live TV",
+        "icon": "https://lh3.googleusercontent.com/dBfAxTwtK4V4gQD-n7eKIPVu9Ou7r9yIHASAv2XqeBz2qu3v-8quT59m_xCN9-ZQD-A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 106292,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Disney",
+        "updated": "July 9, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Disney",
+        "developer_email": "support@customercare.disneynow.com",
+        "developer_url": "http://watchdisneychannel.go.com/help",
+        "developer_address": "500 South Buena Vista Street\nBurbank, CA 91521-0105\nUnited States",
+        "app_id": "com.disney.datg.videoplatforms.android.watchdc",
+        "url": "https://play.google.com/store/apps/details?id=com.disney.datg.videoplatforms.android.watchdc&hl=en&gl=us"
+    },
+    {
+        "title": "Face Reading - Age Face, Signs",
+        "icon": "https://lh3.googleusercontent.com/wsltgsRnPNw8EoNB_SPOeQ3Oxat5oMIxF6U3kHx1bXykM3Z2w4-12UkPZMXS453DDeM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 71472,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Face+Read+Lab",
+        "updated": "July 30, 2019",
+        "size": "8.5M",
+        "installs": "1,000,000+",
+        "current_version": "1.3.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$94.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Face Read Lab",
+        "developer_email": "facelab2019@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/155DenWT_jo2HEuA5THrPevotK28JTl_tLO9ypTsOecw/edit?usp=sharing",
+        "developer_address": "HongKong",
+        "app_id": "app.facereading.signs",
+        "url": "https://play.google.com/store/apps/details?id=app.facereading.signs&hl=en&gl=us"
+    },
+    {
+        "title": "CBS - Full Episodes & Live TV",
+        "icon": "https://lh3.googleusercontent.com/UIOmWlNAkLUewqCpdflKqhauhPltoKfsafmdfqpamfvo4IFHboBhJB4XHIVfYyhVCQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/29_gA_GDGvE",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 107063,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "CBS+Interactive,+Inc.",
+        "updated": "July 11, 2019",
+        "size": "22M",
+        "installs": "10,000,000+",
+        "current_version": "6.3.6",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$1.00",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
+        "developer": "CBS Interactive, Inc.",
+        "developer_email": "cbs-android-app-feedback@cbsinteractive.com",
+        "developer_url": "http://www.cbs.com",
+        "developer_address": "CBS INTERACTIVE, INC.\n235 SECOND STREET.\nSAN FRANCISCO, CA 94105.",
+        "app_id": "com.cbs.app",
+        "url": "https://play.google.com/store/apps/details?id=com.cbs.app&hl=en&gl=us"
+    },
+    {
+        "title": "EPIX NOW: Stream New TV Series & Movies",
+        "icon": "https://lh3.googleusercontent.com/TOJG5jcAgzk7qf-dS0oBIYloH86uK2cSurglSaPbX9kZ8FkU2bMG0Kfu0SKmrrvJvNE",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/CaZRVR4zbcE",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 825,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "EPIX+Entertainment",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "interactive_elements": null,
+        "developer": "EPIX Entertainment",
+        "developer_email": "support@epixnow.com",
+        "developer_url": "https://www.epixnow.com",
+        "developer_address": "260 Madison Ave, 9th Floor, New York NY 10016",
+        "app_id": "com.epix.epix.now",
+        "url": "https://play.google.com/store/apps/details?id=com.epix.epix.now&hl=en&gl=us"
+    },
+    {
+        "title": "Bolt Launcher - Charging Show & Themes",
+        "icon": "https://lh3.googleusercontent.com/hEsA88Fr2jh2uMTz98C0DDXVOlKEE0cvH4Zr_mj5esYypObvW1BQbSx44zBsFQduiA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 176210,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5466748676256225329",
+        "updated": "July 30, 2019",
+        "size": "32M",
+        "installs": "5,000,000+",
+        "current_version": "1.2.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Sexual Themes"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Color Phone Studios",
+        "developer_email": "colorphonestudios@outlook.com",
+        "developer_url": "http://ef4f0bf15ed803feed9d910377fd807b-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.easy.cool.next.home.screen",
+        "url": "https://play.google.com/store/apps/details?id=com.easy.cool.next.home.screen&hl=en&gl=us"
+    },
+    {
+        "title": "YouTube TV - Watch & Record Live TV",
+        "icon": "https://lh3.googleusercontent.com/Q8I-ES8iTv1WbITG42AEIZkW872_PyoDxUZg-r77QIXaIEFkr3c87UT4XRqsF9zZFvI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 72378,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 29, 2019",
+        "size": "18M",
+        "installs": "5,000,000+",
+        "current_version": "3.29.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "youtube-support@google.com",
+        "developer_url": "http://tv.youtube.com",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.youtube.unplugged",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged&hl=en&gl=us"
+    },
+    {
+        "title": "Yarn - Chat Fiction",
+        "icon": "https://lh3.googleusercontent.com/0IVtWPfmiXWiQcvH_Y3dqeAKp_tP_gsxAtHtMv9qKV-9Fw4RziOO1kmhjrb0smHWqv3J",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 82259,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Science+Mobile+LLC",
+        "updated": "July 30, 2019",
+        "size": "14M",
+        "installs": "5,000,000+",
+        "current_version": "6.17.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Mild Blood, Suggestive Themes, Language"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Science Mobile LLC",
+        "developer_email": "hello@yarnapp.co",
+        "developer_url": "https://mammoth.la/apps/moreinfo/",
+        "developer_address": "1447 2nd St #200, Santa Monica, CA 90401",
+        "app_id": "com.science.yarnapp",
+        "url": "https://play.google.com/store/apps/details?id=com.science.yarnapp&hl=en&gl=us"
+    },
+    {
+        "title": "Akinator",
+        "icon": "https://lh3.googleusercontent.com/rjX8LZCV-MaY3o927R59GkEwDOIRLGCXFphaOTeFFzNiYY6SQ4a-B_5t7eUPlGANrcw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/bDzu2ZlPh1Y",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2179264,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9041369024808341661",
+        "updated": "July 9, 2019",
+        "size": "46M",
+        "installs": "100,000,000+",
+        "current_version": "7.0.7b",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen",
+            "Sexual Themes"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Elokence",
+        "developer_email": "support.android@akinator.com",
+        "developer_url": "http://www.elokence.com",
+        "developer_address": "8, Rue Jules Valles\n28300 Mainvilliers\nFrance",
+        "app_id": "com.digidust.elokence.akinator.freemium",
+        "url": "https://play.google.com/store/apps/details?id=com.digidust.elokence.akinator.freemium&hl=en&gl=us"
+    },
+    {
+        "title": "Scanner Radio - Fire and Police Scanner",
+        "icon": "https://lh3.googleusercontent.com/ARiTQTN1ALkU372ifDsaLzr9QPOiG0_ec8ly6Vv6dSH5lsIPw5IGgnmLkwNuDB8Sjs0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 185845,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GordonEdwards.net+LLC",
+        "updated": "June 20, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GordonEdwards.net LLC",
+        "developer_email": "android-support@gordonedwards.net",
+        "developer_url": "https://scannerradio.app",
+        "developer_address": "7380 Spout Springs Road Suite 210-186\nFlowery Branch, GA 30542",
+        "app_id": "com.scannerradio",
+        "url": "https://play.google.com/store/apps/details?id=com.scannerradio&hl=en&gl=us"
+    },
+    {
+        "title": "Add Ghost to Photo Prank",
+        "icon": "https://lh3.googleusercontent.com/eVP-ZFTkZ5yH11pL2sCXrHa-8mX6WQce5UmvtHz9QaxJMKmXHr8VjMZtrAY9TMUKwg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/y3ZkDwoPnv8",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 58367,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7713713929802184825",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Just4Fun",
+        "developer_email": "just4funhelp@gmail.com",
+        "developer_url": "https://www.just4funmobile.com/privacy-policy/",
+        "developer_address": "Just4Fun Mobile Sp. z o.o.\nPolna 31, 05-800 Pruszk\u00f3w, Poland",
+        "app_id": "com.just4fun.addghost",
+        "url": "https://play.google.com/store/apps/details?id=com.just4fun.addghost&hl=en&gl=us"
+    },
+    {
+        "title": "IN Launcher - Love Emojis & GIFs, Themes",
+        "icon": "https://lh3.googleusercontent.com/v19R3L5JuelyrsDnC1IMuNkOo2f49Mq-atKLQBKa6L_As1z5KJL-iRJRxq8Pnzxueg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1088793,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5696634249111804078",
+        "updated": "July 30, 2019",
+        "size": "18M",
+        "installs": "50,000,000+",
+        "current_version": "1.3.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "ONE App Team",
+        "developer_email": "developer.oneappteam@outlook.com",
+        "developer_url": "http://c4ec2577bf5de59c241e6869081b44af-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.emoticon.screen.home.launcher",
+        "url": "https://play.google.com/store/apps/details?id=com.emoticon.screen.home.launcher&hl=en&gl=us"
+    },
+    {
+        "title": "PlayStation App",
+        "icon": "https://lh3.googleusercontent.com/s7pAv2ne1q3xH3xfaISTliNiFHTV5tm_6WbtYmI_Xs8FcDv7GIjKlPSB8J9IYeYW5k8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 702231,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5810481673801929430",
+        "updated": "May 30, 2019",
+        "size": "25M",
+        "installs": "50,000,000+",
+        "current_version": "19.05.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "PlayStation Mobile Inc.",
+        "developer_email": "psapp-contact@hq.scei.sony.co.jp",
+        "developer_url": "http://www.playstation.com/support/",
+        "developer_address": "PlayStation Mobile Inc.\n2207 Bridgepointe Parkway\nSan Mateo, CA 94404\nUnited States",
+        "app_id": "com.scee.psxandroid",
+        "url": "https://play.google.com/store/apps/details?id=com.scee.psxandroid&hl=en&gl=us"
+    },
+    {
+        "title": "Pixel Color - Color by Number, Pixel Art",
+        "icon": "https://lh3.googleusercontent.com/STe05fZ3LnLLQS4xtDx7vQValt-AtpKWFV7dfOZKqLS_kmZxxEj9bQgx_Jss8qQKKs8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45322,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5115057263789938963",
+        "updated": "July 24, 2019",
+        "size": "17M",
+        "installs": "10,000,000+",
+        "current_version": "1.5.51",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$7.99",
+            "$49.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Magic Arts",
+        "developer_email": "developer.magicarts@outlook.com",
+        "developer_url": "http://61f73a8b38604270e6e9fa89f8beb389-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.bongolight.pixelcoloring",
+        "url": "https://play.google.com/store/apps/details?id=com.bongolight.pixelcoloring&hl=en&gl=us"
+    },
+    {
+        "title": "Nick",
+        "icon": "https://lh3.googleusercontent.com/BNqvxTEo3Bv1v2VB_2cR1H1f1igihMRFUq6OCaz33OvP6lKHdkUSn76IZJdvaaeiOVPm",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 129722,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Nickelodeon",
+        "updated": "January 11, 2019",
+        "size": "20M",
+        "installs": "10,000,000+",
+        "current_version": "18.21.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Nickelodeon",
+        "developer_email": "appsupport@nick.com",
+        "developer_url": "http://nick.com/appsupport/",
+        "developer_address": "1515 Broadway\nNew York, NY 10036",
+        "app_id": "com.nickonline.android.nickapp",
+        "url": "https://play.google.com/store/apps/details?id=com.nickonline.android.nickapp&hl=en&gl=us"
+    },
+    {
+        "title": "Face Secret Master: Aging, Face Scanner, Horoscope",
+        "icon": "https://lh3.googleusercontent.com/HfwveGCSb8M66JNmYDrOqHISZSXDSXebTMCzQ6b82kcyiPHC3RPrf-rOr_sdBL6Bo89x",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16913,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Face+Secret+Master",
+        "updated": "July 24, 2019",
+        "size": "22M",
+        "installs": "1,000,000+",
+        "current_version": "1.22",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$95.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "Face Secret Master",
+        "developer_email": "facesecretmaster@gmail.com",
+        "developer_url": "http://bit.ly/2SQleBa",
+        "developer_address": "On Tat Estate, Kwun Tong, Kowloon",
+        "app_id": "com.dailyhoroscope.facesecret",
+        "url": "https://play.google.com/store/apps/details?id=com.dailyhoroscope.facesecret&hl=en&gl=us"
+    },
+    {
+        "title": "Future Time -  Aging Face\uff0cPalm Reading\uff0cFace Scan",
+        "icon": "https://lh3.googleusercontent.com/jY7lOb5HIoQSC6mr3059odJTGdKnKXcQ9WFE9yu1a39xnPLkzSNLpHzIecfJFLw1FA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40281,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FutureMe+Apps",
+        "updated": "July 29, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "1.1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$28.99",
+            "$94.99"
+        ],
+        "interactive_elements": null,
+        "developer": "FutureMe Apps",
+        "developer_email": "fururemeapps@gmail.com",
+        "developer_url": "http://resource.cdn.bbcget.com/FutureMe_Apps/FutureMe.html",
+        "developer_address": "3330 S Figueroa St. ,Los Angeles, CA,  USA, 90007",
+        "app_id": "future.me.old.baby.astrology",
+        "url": "https://play.google.com/store/apps/details?id=future.me.old.baby.astrology&hl=en&gl=us"
+    },
+    {
+        "title": "Mega Music-Online Free Music & Video Player",
+        "icon": "https://lh3.googleusercontent.com/PU0wSJPD5g6zRuRKRUHR1DRar0ryVVEXHtpSFXLQZbErSgcrrwSXMEqcgNsjjA8G",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1461,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Super+Music+Studio",
+        "updated": "July 29, 2019",
+        "size": "16M",
+        "installs": "100,000+",
+        "current_version": "1.4.3.1720",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Super Music Studio",
+        "developer_email": "lovemusic1826@gmail.com",
+        "developer_url": "https://s3.amazonaws.com/megamusic/Mega_Privacy_Policy.html",
+        "developer_address": "Yau Tsim Wang District, Yau Ma Tei\uff0cHongKong",
+        "app_id": "com.joy.freemusic",
+        "url": "https://play.google.com/store/apps/details?id=com.joy.freemusic&hl=en&gl=us"
+    },
+    {
+        "title": "Talking Ginger 2",
+        "icon": "https://lh3.googleusercontent.com/lA2g6-tGuf-xNa5jSEIK-rpKbctKHHL5YNhahCrgZkIDa5eahmnVbLBYH-S7nhoLDQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 730878,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5630538819012062144",
+        "updated": "July 30, 2019",
+        "size": "49M",
+        "installs": "100,000,000+",
+        "current_version": "2.8.1.24",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone",
+            "Comic Mischief"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$16.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Outfit7 Limited",
+        "developer_email": "support@outfit7.com",
+        "developer_url": "http://outfit7.com/contact/android/",
+        "developer_address": "Outfit7 Limited\nAgiou Georgiou\n4607 Pissouri\nCyprus",
+        "app_id": "com.outfit7.gingersbirthdayfree",
+        "url": "https://play.google.com/store/apps/details?id=com.outfit7.gingersbirthdayfree&hl=en&gl=us"
+    },
+    {
+        "title": "Smash Diy Slime - Fidget Slimy",
+        "icon": "https://lh3.googleusercontent.com/9kxAjW8_sOu1bkUhCGCAvrefmNbWOmKEoTOJqo3TlpR_upxEGkhI5CAZx7ck0DjRdsUV",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/QotP97u3-K0",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43395,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Brothers+Apps+And+Games",
+        "updated": "July 30, 2019",
+        "size": "46M",
+        "installs": "10,000,000+",
+        "current_version": "10.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Brothers Apps And Games",
+        "developer_email": "BrothersAppsAndGames@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1e9wDNA2fk9SETfdRVJxZxuIHwNTOUS57BrZrjsaW_jw/edit",
+        "developer_address": "\u0433. \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a \u0443\u043b. \u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432\u0441\u043a\u043e\u0433\u043e 15",
+        "app_id": "ru.brothersappsandgames.smashdiyslimefidgetslimy",
+        "url": "https://play.google.com/store/apps/details?id=ru.brothersappsandgames.smashdiyslimefidgetslimy&hl=en&gl=us"
+    },
+    {
+        "title": "Facial Mystery - love compatibility & future face",
+        "icon": "https://lh3.googleusercontent.com/Df8HrXMK2G9UvPDQXMayafhzM1GfwsRNIw2f5UG_JH7S8bSDb-1tphZRFdXn8dx9Uw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1301,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Secret+face",
+        "updated": "July 29, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "1.2.19",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$29.99",
+            "$84.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Secret face",
+        "developer_email": "zy18951631400@gmail.com",
+        "developer_url": "http://www.bestfacialsecret.com",
+        "developer_address": null,
+        "app_id": "com.facefun.app.facialmystery",
+        "url": "https://play.google.com/store/apps/details?id=com.facefun.app.facialmystery&hl=en&gl=us"
+    },
+    {
+        "title": "Horoscope Me - Face Scanner, Palm Reader, Aging",
+        "icon": "https://lh3.googleusercontent.com/T70NvW6qiLkO9qaM6hfujDJrHW3U789-wlUgF6zrgyWeOL0GwH_ZvE7jxRTuRz716nU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14008,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Tina+Wang",
+        "updated": "July 18, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$25.99",
+            "$95.88"
+        ],
+        "interactive_elements": null,
+        "developer": "Tina Wang",
+        "developer_email": "tinastudio2019@gmail.com",
+        "developer_url": "http://d2prafqgniatg5.cloudfront.net/astrologypredictor/astrologypredictor_privacy.html",
+        "developer_address": null,
+        "app_id": "com.handline.secrets.astrology.predictor",
+        "url": "https://play.google.com/store/apps/details?id=com.handline.secrets.astrology.predictor&hl=en&gl=us"
+    },
+    {
+        "title": "Eventbrite - Discover popular events & nearby fun",
+        "icon": "https://lh3.googleusercontent.com/hfY-55MeAXJj6RQZzE9cLUNhQhdjm8Bt7gxJOYQtE718HjaFL9oFtEQg7RjBhyqByA-v",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 90997,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Eventbrite",
+        "updated": "July 29, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "6.10.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Eventbrite",
+        "developer_email": "support@eventbrite.com",
+        "developer_url": "https://www.eventbrite.com/support/articleredirect?anum=11001",
+        "developer_address": null,
+        "app_id": "com.eventbrite.attendee",
+        "url": "https://play.google.com/store/apps/details?id=com.eventbrite.attendee&hl=en&gl=us"
+    },
+    {
+        "title": "Daily Pixel - Color by Number, Happy Pixel Art",
+        "icon": "https://lh3.googleusercontent.com/Amv4R1NMZnHF2tFPnWmfGNo7QHZqza0au2dhvgkJcLd8dmixeOffbX8MLW2TppmgR8E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33771,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5115057263789938963",
+        "updated": "July 30, 2019",
+        "size": "17M",
+        "installs": "10,000,000+",
+        "current_version": "2.3.17",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Magic Arts",
+        "developer_email": "developer.magicarts@outlook.com",
+        "developer_url": "http://6f298a56fa4ac5c656260a91559ec07b-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.pixel.art.coloring.color.by.number",
+        "url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.by.number&hl=en&gl=us"
+    },
+    {
+        "title": "Spectrum TV",
+        "icon": "https://lh3.googleusercontent.com/DROwEP0A0YoEN-CRW75VDSioFbdiflNegw5APSi6QfxOQt1So-kh_l89LYVyF-qzv3Q",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 59525,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Charter/Spectrum",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Charter/Spectrum",
+        "developer_email": "SpectrumApp@charter.com",
+        "developer_url": "http://www.charter.net/support/tv/spectrum-tv-app/",
+        "developer_address": null,
+        "app_id": "com.TWCableTV",
+        "url": "https://play.google.com/store/apps/details?id=com.TWCableTV&hl=en&gl=us"
+    },
+    {
+        "title": "Splicer Funny Video Meme Maker",
+        "icon": "https://lh3.googleusercontent.com/XkqOCesVNZAJTA7Bd3PAqCzhGdMt7bsJcxhqdgyKeGYgGF3hH2YDCt0tAPD4cDun2w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "2.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1034,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "PIL+PARAMOUNT+INVESTMENTS+LIMITED",
+        "updated": "July 26, 2019",
+        "size": "33M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Use of Alcohol and Tobacco, Crude Humor"
+        ],
+        "iap_range": [
+            "$2.49",
+            "$54.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
+        "developer": "PIL PARAMOUNT INVESTMENTS LIMITED",
+        "developer_email": "report@splicer.org",
+        "developer_url": "http://splicer.org",
+        "developer_address": "Polyviou 27, 1016, Nicosia Cyprus",
+        "app_id": "org.splicer",
+        "url": "https://play.google.com/store/apps/details?id=org.splicer&hl=en&gl=us"
+    },
+    {
+        "title": "Nick Jr. - Shows & Games",
+        "icon": "https://lh3.googleusercontent.com/7rNpt1nQKnkl0ZH4895AABgWSGLnLzF4M8KiOp8qMVvN-e0ubMyUlMqAwtQ_JSv4bGw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/-0hArCIrdkA",
+        "category": [
+            "ENTERTAINMENT",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10957,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Nickelodeon",
+        "updated": "January 23, 2018",
+        "size": "35M",
+        "installs": "5,000,000+",
+        "current_version": "1.0.20",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Nickelodeon",
+        "developer_email": "appsupport@nickjr.com",
+        "developer_url": "http://www.nickjr.com/appsupport/",
+        "developer_address": "1515 Broadway\nNew York, NY 10036",
+        "app_id": "com.nick.android.nickjr",
+        "url": "https://play.google.com/store/apps/details?id=com.nick.android.nickjr&hl=en&gl=us"
+    },
+    {
+        "title": "Xfinity Stream",
+        "icon": "https://lh3.googleusercontent.com/1DGoriUkkNuFNMuQGtHz7BP9_xx5vGq6WPMB94rvSA0sceRWl27ooOqHX18cn-AmH5U",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 47382,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Comcast",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+",
+            "Violence, Blood, Sexual Themes, Use of Drugs, Strong Language"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Comcast",
+        "developer_email": "Xfinity_TVApp@comcast.com",
+        "developer_url": "http://xfinity.com/x1",
+        "developer_address": "One Comcast Center, 15th Floor\nPhiladelphia, PA 19103",
+        "app_id": "com.xfinity.cloudtvr",
+        "url": "https://play.google.com/store/apps/details?id=com.xfinity.cloudtvr&hl=en&gl=us"
+    },
+    {
+        "title": "FOX NOW: Watch Live & On Demand TV & Sports",
+        "icon": "https://lh3.googleusercontent.com/O1q618TQFEDTl2twQ-Udq6_u7LfCVvydzPSmc0v3ASZNELzOpyHyHvKHlGjw2diUIzA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 73990,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fox+Broadcasting+Company",
+        "updated": "July 2, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Fox Broadcasting Company",
+        "developer_email": "support@fox.com",
+        "developer_url": "http://ask.fox.com",
+        "developer_address": null,
+        "app_id": "com.fox.now",
+        "url": "https://play.google.com/store/apps/details?id=com.fox.now&hl=en&gl=us"
+    },
+    {
+        "title": "Crunchyroll",
+        "icon": "https://lh3.googleusercontent.com/CjzbMcLbmTswzCGauGQExkFsSHvwjKEeWLbVVJx0B-J9G6OQ-UCl2eOuGBfaIozFqow",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 379211,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Ellation,+Inc.",
+        "updated": "May 10, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$7.99",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Ellation, Inc.",
+        "developer_email": "support@crunchyroll.com",
+        "developer_url": "http://www.crunchyroll.com",
+        "developer_address": "Ellation Inc., 835 Market St Suite 700, San Francisco, CA 94103",
+        "app_id": "com.crunchyroll.crunchyroid",
+        "url": "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid&hl=en&gl=us"
+    },
+    {
+        "title": "Sony\u00a0Crackle\u00a0\u2013\u00a0Free TV & Movies",
+        "icon": "https://lh3.googleusercontent.com/vGK_kUJ9k677roQ9zanB5A59zmxyRB_4F8O-MS18TVFSQpU0esjDiiPB7DfottLm_uha",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/veiZJ2ktiBY",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 396544,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sony+Crackle",
+        "updated": "November 20, 2018",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Sony Crackle",
+        "developer_email": "support@sonycrackle.com",
+        "developer_url": "http://www.sonycrackle.com",
+        "developer_address": "Sony Crackle - Sony Pictures Entertainment\n10202 Washington Blvd\nCulver City, CA 90232",
+        "app_id": "com.gotv.crackle.handset",
+        "url": "https://play.google.com/store/apps/details?id=com.gotv.crackle.handset&hl=en&gl=us"
+    },
+    {
+        "title": "Daily Tarot Plus 2019 - Free Tarot Card Reading",
+        "icon": "https://lh3.googleusercontent.com/gOxoqZvRt3z0qxVpHfQpmI55orilrO11oVZQ_YWoRn9qTYFr6RxjIrSKPMbrtsaJyg8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14033,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5777825361571976548",
+        "updated": "July 9, 2019",
+        "size": "14M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Partial Nudity"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$19.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Tap Genius Ltd.",
+        "developer_email": "developer.tapgeniusltd@outlook.com",
+        "developer_url": "http://1f792c908978a53eec20d73e34af91ee-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.dailyhoroscopeplus.tarotcard",
+        "url": "https://play.google.com/store/apps/details?id=com.dailyhoroscopeplus.tarotcard&hl=en&gl=us"
+    },
+    {
+        "title": "The NBC App - Stream Live TV and Episodes for Free",
+        "icon": "https://lh3.googleusercontent.com/Z6V9Tre6J74984zd44Rv8CsbXiCSNQcP-lDfpAEXVBMd_YwAQFOOvsW8bfKOvAsT-LA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Sf4du-53HsE",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 93345,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NBCUniversal+Media,+LLC",
+        "updated": "July 19, 2019",
+        "size": "21M",
+        "installs": "5,000,000+",
+        "current_version": "7.0.3",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Blood"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NBCUniversal Media, LLC",
+        "developer_email": "android@nbcdigital.zendesk.com",
+        "developer_url": "http://www.nbc.com",
+        "developer_address": "30 Rockefeller Plaza\nNew York, New York\n10012\nUnited States",
+        "app_id": "com.nbcuni.nbc",
+        "url": "https://play.google.com/store/apps/details?id=com.nbcuni.nbc&hl=en&gl=us"
+    },
+    {
+        "title": "HBO NOW: Stream TV & Movies",
+        "icon": "https://lh3.googleusercontent.com/-T4pMeZAq57LlT6jcZgGxqP3r0m_ZMZ4BDa92yNjG3ONxbXTulHLegMmi0TxqhMXelAq",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/RpyV5L1T84s",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 67790,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "HBO+NOW",
+        "updated": "June 19, 2019",
+        "size": "52M",
+        "installs": "10,000,000+",
+        "current_version": "22.0.0.540",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "HBO NOW",
+        "developer_email": "support@hbonow.com",
+        "developer_url": "http://order.hbonow.com",
+        "developer_address": "1100 Avenue of Americas, New York, NY 10036",
+        "app_id": "com.hbo.hbonow",
+        "url": "https://play.google.com/store/apps/details?id=com.hbo.hbonow&hl=en&gl=us"
+    },
+    {
+        "title": "Fart Cushion",
+        "icon": "https://lh3.googleusercontent.com/mswDx7Rg8Aezx38PIoCT7C6JqfIVAjOZ4AJYg7cu_YrNuaePgTG6LpKqk1Hxn1Ft1fKd",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1360,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5233585477558273402",
+        "updated": "June 10, 2019",
+        "size": "17M",
+        "installs": "1,000,000+",
+        "current_version": "4.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone",
+            "Comic Mischief"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TMSOFT",
+        "developer_email": "support@tmsoft.com",
+        "developer_url": "http://www.tmsoft.com/fartcushion/",
+        "developer_address": "4201 Wilson Blvd\n#110-221\nArlington, VA 22203",
+        "app_id": "com.tmsoft.fartcushion",
+        "url": "https://play.google.com/store/apps/details?id=com.tmsoft.fartcushion&hl=en&gl=us"
+    },
+    {
+        "title": "Talking Ben the Dog",
+        "icon": "https://lh3.googleusercontent.com/cvcQMYwlebh23KkUjShTZ4nzq1ubapxjOAjA5cdL41kdfOWKjfR7kgp0DOilfAnxTa8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1696792,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5630538819012062144",
+        "updated": "July 30, 2019",
+        "size": "57M",
+        "installs": "100,000,000+",
+        "current_version": "3.6.5.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone",
+            "Comic Mischief"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Outfit7 Limited",
+        "developer_email": "support@outfit7.com",
+        "developer_url": "http://outfit7.com/contact/android/",
+        "developer_address": "Outfit7 Limited\nAgiou Georgiou\n4607 Pissouri\nCyprus",
+        "app_id": "com.outfit7.talkingben",
+        "url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingben&hl=en&gl=us"
+    },
+    {
+        "title": "Screen Recorder Pro: Video Editor, Game ShortVideo",
+        "icon": "https://lh3.googleusercontent.com/tfXv1_9bZl0zkkSOraXN4udEsE3N606bp11zsuw1lr5pEWyEJMfbZXhaLgyQR-cbNqI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5530,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Mobile+Ecology+Group.",
+        "updated": "July 18, 2019",
+        "size": "15M",
+        "installs": "500,000+",
+        "current_version": "1.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$8.99",
+            "$94.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Mobile Ecology Group.",
+        "developer_email": "alanbest2019@gmail.com",
+        "developer_url": "https://plus.google.com/107814273004016002731/posts/Mq1tru1Vtfh",
+        "developer_address": "No.3 Hok Yuen Street, Hung Hom.H.K",
+        "app_id": "screenrecorder.pro",
+        "url": "https://play.google.com/store/apps/details?id=screenrecorder.pro&hl=en&gl=us"
+    },
+    {
+        "title": "Talking Ginger",
+        "icon": "https://lh3.googleusercontent.com/OqNTEbe2G0RvIyTuz5tALqjW3_G_A5vOK6XJ7H7uCXzYNpKd9vq7rRtUbzH4NimSxQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1806212,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5630538819012062144",
+        "updated": "July 30, 2019",
+        "size": "52M",
+        "installs": "100,000,000+",
+        "current_version": "2.6.0.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$19.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Outfit7 Limited",
+        "developer_email": "support@outfit7.com",
+        "developer_url": "http://outfit7.com/contact/android/",
+        "developer_address": "Outfit7 Limited\nAgiou Georgiou\n4607 Pissouri\nCyprus",
+        "app_id": "com.outfit7.talkinggingerfree",
+        "url": "https://play.google.com/store/apps/details?id=com.outfit7.talkinggingerfree&hl=en&gl=us"
+    },
+    {
+        "title": "New Ringtones Free 2019",
+        "icon": "https://lh3.googleusercontent.com/NL12rV0JTNsMUo432261V8gU9lx4QzKC6f82aP4K5roNXMoHIUiZH0zJ5hT8Sefkd2gQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/XYdDWfgrvFU",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 72807,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Free+Ringtone+For+Phone",
+        "updated": "July 25, 2019",
+        "size": "5.5M",
+        "installs": "5,000,000+",
+        "current_version": "1.2.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Free Ringtone For Phone",
+        "developer_email": "jenettemalach6@gmail.com",
+        "developer_url": "https://sites.google.com/view/privacy-policy-of-freeringtone/home",
+        "developer_address": null,
+        "app_id": "com.entertainment.free.ringtone",
+        "url": "https://play.google.com/store/apps/details?id=com.entertainment.free.ringtone&hl=en&gl=us"
+    },
+    {
+        "title": "PETS Coloring : Pixel Art by Number - Lol Colors",
+        "icon": "https://lh3.googleusercontent.com/1w3T5acqZF3df5i68CAfpowNu6WQiIkWABXtt-OC7FOUXeqQm4R61V_trDz7RMeQdjs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2621,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5425858462510307651",
+        "updated": "July 19, 2019",
+        "size": "9.3M",
+        "installs": "1,000,000+",
+        "current_version": "1.2.2",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.49",
+            "$24.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Lab Cave Games",
+        "developer_email": "customersupport@labcavegames.com",
+        "developer_url": "http://labcavegames.com",
+        "developer_address": "Calle Quintana 2, 2\u00aa Planta\n28008 Madrid\nSpain",
+        "app_id": "com.bb8qq.pixel.petscoloringyespixelartbynumber",
+        "url": "https://play.google.com/store/apps/details?id=com.bb8qq.pixel.petscoloringyespixelartbynumber&hl=en&gl=us"
+    },
+    {
+        "title": "DIRECTV",
+        "icon": "https://lh3.googleusercontent.com/DWyaHQp2q1khe80bf1xNhIGRaQ7PaX4cWrQNBa2ulnIfbZ35Ntdmn7Ql1SZgzEgaiw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 272340,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "DIRECTV,+LLC",
+        "updated": "June 27, 2019",
+        "size": "61M",
+        "installs": "10,000,000+",
+        "current_version": "5.16.004",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "DIRECTV, LLC",
+        "developer_email": "DTVfeedback@att.com",
+        "developer_url": "http://forums.directv.com",
+        "developer_address": "2230 E. Imperial Hwy\nEl Segundo, CA 90245",
+        "app_id": "com.directv.dvrscheduler",
+        "url": "https://play.google.com/store/apps/details?id=com.directv.dvrscheduler&hl=en&gl=us"
+    },
+    {
+        "title": "Your Personal Avatar Maker & Emoji Maker | Zmoji",
+        "icon": "https://lh3.googleusercontent.com/sfqL9ZXWinErcwThSaKWdBQRzQ4NjmAt-eveN0yTjr0RAlULbfFZ3BiYFCYZcm8omg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 62071,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8544875573538800637",
+        "updated": "July 30, 2019",
+        "size": "37M",
+        "installs": "1,000,000+",
+        "current_version": "1.4.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$19.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Tap Genius (sweet message & emoji chat)",
+        "developer_email": "tapgenius@outlook.com",
+        "developer_url": "http://9d57e492c6c1c9d12abfe8e9db304ab8-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.futurebits.zmoji.free",
+        "url": "https://play.google.com/store/apps/details?id=com.futurebits.zmoji.free&hl=en&gl=us"
+    },
+    {
+        "title": "Tom Loves Angela",
+        "icon": "https://lh3.googleusercontent.com/VsbM_o1u-kiPTs7iVQ-2OZ7ytNN1t_YbNYiOw8RGXcmMWbYQvfu7kGkqTvoDJvAcMlUS",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1161670,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5630538819012062144",
+        "updated": "April 30, 2018",
+        "size": "50M",
+        "installs": "100,000,000+",
+        "current_version": "2.2.1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Outfit7 Limited",
+        "developer_email": "support@outfit7.com",
+        "developer_url": "http://outfit7.com/contact/android/",
+        "developer_address": "Outfit7 Limited\nAgiou Georgiou\n4607 Pissouri\nCyprus",
+        "app_id": "com.outfit7.tomlovesangelafree",
+        "url": "https://play.google.com/store/apps/details?id=com.outfit7.tomlovesangelafree&hl=en&gl=us"
+    },
+    {
+        "title": "Dollify",
+        "icon": "https://lh3.googleusercontent.com/Hi7k8wfinC0rHPy7O2F3GB-8xIiyMdquojxhAm2KFbwsHN1ryQe7R5APh_MZa6xVSHcF",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/93D0LxNzCdA",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 277495,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Dave+XP",
+        "updated": "July 4, 2019",
+        "size": "16M",
+        "installs": "10,000,000+",
+        "current_version": "1.1.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Dave XP",
+        "developer_email": "dollifyapp@gmail.com",
+        "developer_url": "https://www.instagram.com/dave.xp/",
+        "developer_address": "David \u00c1lvarez\nPO Box 151-2100,\n10801, San Jos\u00e9, Costa Rica",
+        "app_id": "com.davexp.dollify",
+        "url": "https://play.google.com/store/apps/details?id=com.davexp.dollify&hl=en&gl=us"
+    },
+    {
+        "title": "ABC \u2013 Live TV & Full Episodes",
+        "icon": "https://lh3.googleusercontent.com/_rWrFbLrh8ql_UKhku4-kI1AOng2X36ErRsCcYrsWZ1KM7C8hnPhj2wHuQOl0tx2_g",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55851,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ABC+Digital",
+        "updated": "July 16, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ABC Digital",
+        "developer_email": "support@customercare.abc.com",
+        "developer_url": "http://abc.go.com/faq",
+        "developer_address": "925 4th Ave Seattle WA",
+        "app_id": "com.disney.datg.videoplatforms.android.abc",
+        "url": "https://play.google.com/store/apps/details?id=com.disney.datg.videoplatforms.android.abc&hl=en&gl=us"
+    },
+    {
+        "title": "No.Pix - Color Pixel Art Coloring Book,Draw Number",
+        "icon": "https://lh3.googleusercontent.com/3HRcOo3pFgFNpmPsqCON6yaf_H0ZFYjmgE_4WeWOv_Wf2NzjCCYtGBkZFQ7PxlriLQU0",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xsj_g81hvTs",
+        "category": [
+            "ENTERTAINMENT",
+            "FAMILY_BRAINGAMES"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 685249,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7148680220855906998",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ideaFun - Relaxing Coloring Book, FREE Color Games",
+        "developer_email": "SunTingqwe@gmail.com",
+        "developer_url": "https://sites.google.com/view/ideafun/",
+        "developer_address": null,
+        "app_id": "com.no.color",
+        "url": "https://play.google.com/store/apps/details?id=com.no.color&hl=en&gl=us"
+    },
+    {
+        "title": "Horoscope & Palm Master - Face Aging, Palm Scanner",
+        "icon": "https://lh3.googleusercontent.com/USxikC17Lgufon1sitfQqRuLfMu6oB6SNTlQ1MuerrfK0gF_fj1_smfEL7JmVNo-CA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 82446,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Horoscope+Master+Team",
+        "updated": "July 24, 2019",
+        "size": "36M",
+        "installs": "10,000,000+",
+        "current_version": "1.52",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$9.99",
+            "$94.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Horoscope Master Team",
+        "developer_email": "horoscopepalmmaster@gmail.com",
+        "developer_url": "http://d2prafqgniatg5.cloudfront.net/HoroscopeMaster/HoroscopePalmMaster_statement.html",
+        "developer_address": "2363 Ridge Road, Colony, Kansas",
+        "app_id": "com.horoscope.palmmaster",
+        "url": "https://play.google.com/store/apps/details?id=com.horoscope.palmmaster&hl=en&gl=us"
+    },
+    {
+        "title": "AMC Theatres",
+        "icon": "https://lh3.googleusercontent.com/ZyXND62RNZGY8PhZYLpwzuWdddLyPfJVQbwsPLZHlK2fOHLPzUUxSGSbF8BXcrIZS-2o",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 102747,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "AMC+Theatres",
+        "updated": "July 10, 2019",
+        "size": "73M",
+        "installs": "1,000,000+",
+        "current_version": "6.20.21",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone",
+            "Alcohol Reference"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "AMC Theatres",
+        "developer_email": "appsupport@amctheatres.com",
+        "developer_url": "http://www.amctheatres.com",
+        "developer_address": null,
+        "app_id": "com.amc",
+        "url": "https://play.google.com/store/apps/details?id=com.amc&hl=en&gl=us"
+    },
+    {
+        "title": "SketchBook - draw and paint",
+        "icon": "https://lh3.googleusercontent.com/7ZmhLBKfkPg7kJ7N7lH4GccTl80iLMNvVe1zxZz2lAG7yLLtckQXnpp3ShF1ayOE56Q",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/sOPCtVn9U_M",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 301100,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6418760394979464117",
+        "updated": "May 27, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Autodesk Inc.",
+        "developer_email": "sketchbook.help@autodesk.com",
+        "developer_url": "http://www.sketchbook.com",
+        "developer_address": "111 McInnis Parkway\nSan Rafael, California 94903",
+        "app_id": "com.adsk.sketchbook",
+        "url": "https://play.google.com/store/apps/details?id=com.adsk.sketchbook&hl=en&gl=us"
+    },
+    {
+        "title": "Gogo Entertainment",
+        "icon": "https://lh3.googleusercontent.com/IV-L4oSSvYOe-t_ydWxWZukjCNAP5AkUvPHJdirDwwSZLEUf7nKgkaHMQx-q1gedrQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "2.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5138,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Gogo+LLC",
+        "updated": "June 10, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "1.9.15",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Gogo LLC",
+        "developer_email": "customercare@gogoair.com",
+        "developer_url": "http://www.gogoair.com",
+        "developer_address": "111 N Canal\nSuite 1500\nChicago, IL, 60606",
+        "app_id": "com.gogoair.ife",
+        "url": "https://play.google.com/store/apps/details?id=com.gogoair.ife&hl=en&gl=us"
+    },
+    {
+        "title": "Ojoo - Comunidad de Videos Interesantes",
+        "icon": "https://lh3.googleusercontent.com/QVsOipMbXVW5HD1hOtCsHptWGnmY6kd_hr4DTLeKcpcfdgC_njakHhfpGb1tsb8X_B4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/pkVfFN3it-0",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 756,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fun.Studio",
+        "updated": "July 26, 2019",
+        "size": "30M",
+        "installs": "100,000+",
+        "current_version": "1.5.99",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Violence, Blood, Sexual Content, Partial Nudity"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Fun.Studio",
+        "developer_email": "patricktim502@gmail.com",
+        "developer_url": "https://ojoo-official-website.firebaseapp.com/",
+        "developer_address": null,
+        "app_id": "com.fun.top.video",
+        "url": "https://play.google.com/store/apps/details?id=com.fun.top.video&hl=en&gl=us"
+    },
+    {
+        "title": "GoNoodle - Kid Movement & Mindfulness Videos!",
+        "icon": "https://lh3.googleusercontent.com/Nj9tlvr5I9HgdO4rPtbft-mTIP3Ctzlo07ZEmPcxtJCqc-wsF3Wdjl7WOp6nwe7pSb4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT",
+            "FAMILY_MUSICVIDEO"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5053,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GoNoodle",
+        "updated": "July 26, 2019",
+        "size": "19M",
+        "installs": "1,000,000+",
+        "current_version": "1.19.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GoNoodle",
+        "developer_email": "hello@gonoodle.com",
+        "developer_url": "https://www.gonoodle.com",
+        "developer_address": null,
+        "app_id": "com.gonoodle.gonoodle",
+        "url": "https://play.google.com/store/apps/details?id=com.gonoodle.gonoodle&hl=en&gl=us"
+    },
+    {
+        "title": "VIZIO SmartCast Mobile\u2122",
+        "icon": "https://lh3.googleusercontent.com/-bk6ouJ62GuZowlB0RTz3el8_oJ9Kvt1uOTPI25asFC1mIAWcHvj8ia53BSgqAcJZJY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30089,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "VIZIO",
+        "updated": "June 7, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info, Digital Purchases"
+        ],
+        "developer": "VIZIO",
+        "developer_email": "customersupport@vizio.com",
+        "developer_url": "http://www.vizio.com",
+        "developer_address": null,
+        "app_id": "com.vizio.vue.launcher",
+        "url": "https://play.google.com/store/apps/details?id=com.vizio.vue.launcher&hl=en&gl=us"
+    },
+    {
+        "title": "STARZ",
+        "icon": "https://lh3.googleusercontent.com/3k9_BX6SKqQOu_jPxGlm8tvI5lKrxOOjUreqoJIGuWS1rBPiLlwBAHfS58j70vxwhNc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 108860,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Starz+Entertainment,+LLC",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Sexual Themes, Nudity, Use of Alcohol, Drug Reference, Strong Language"
+        ],
+        "iap_range": [
+            "$2.99",
+            "$89.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Starz Entertainment, LLC",
+        "developer_email": "help@starz.com",
+        "developer_url": "http://www.starz.com",
+        "developer_address": "Starz Entertainment\n8900 Liberty Cir\nEnglewood, CO 80112",
+        "app_id": "com.bydeluxe.d3.android.program.starz",
+        "url": "https://play.google.com/store/apps/details?id=com.bydeluxe.d3.android.program.starz&hl=en&gl=us"
+    },
+    {
+        "title": "Map Hello Neighbor In Minecraft",
+        "icon": "https://lh3.googleusercontent.com/_fKMErwf2ueyqlX5nAasVJiJQnyoSnrBdMpK9gAdM4JubGs_g90fVZFmTi0YYmuxyJI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 670,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MCPE+MASTER",
+        "updated": "July 1, 2019",
+        "size": "9.4M",
+        "installs": "50,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MCPE MASTER",
+        "developer_email": "freeminecraftpestudio@gmail.com",
+        "developer_url": "https://minecraft-addons.flycricket.io/privacy.html",
+        "developer_address": null,
+        "app_id": "addon.minecraft.helloneighbor",
+        "url": "https://play.google.com/store/apps/details?id=addon.minecraft.helloneighbor&hl=en&gl=us"
+    },
+    {
+        "title": "Color Fun - Color by Number & Coloring Books",
+        "icon": "https://lh3.googleusercontent.com/Nzx93XOcVtlriApgaSbsssP4lYzyFUgnbV2kn9tLicn0gbaBkOOTBJhs-GpKVOo7Dy4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 977,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5115057263789938963",
+        "updated": "July 24, 2019",
+        "size": "23M",
+        "installs": "50,000+",
+        "current_version": "1.1.0",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Magic Arts",
+        "developer_email": "developer.magicarts@outlook.com",
+        "developer_url": "http://4445579e7e478cf9d442f4803483ba5e-store.appcloudbox.net",
+        "developer_address": "Flat/Rm 603, 6/F Laws Commercial Plaza 788, Cheung Sha Wan Road, KL",
+        "app_id": "com.art.color.number.coloring.book",
+        "url": "https://play.google.com/store/apps/details?id=com.art.color.number.coloring.book&hl=en&gl=us"
+    },
+    {
+        "title": "Colors by Number \u00ae - No.Draw",
+        "icon": "https://lh3.googleusercontent.com/eTKhgnUwGkqdWQ6ICW7j1MM3MUfVMnDYH8zJJaZOcdEKMhWsIWtL-rUjXq5Wd5667TU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/i2pyHuxpoxE",
+        "category": [
+            "ENTERTAINMENT",
+            "FAMILY_BRAINGAMES"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 280381,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Creative+APPS",
+        "updated": "March 18, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "1.3.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.49",
+            "$79.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Creative APPS",
+        "developer_email": "creative.feedback@hotmail.com",
+        "developer_url": "http://creative100.cc/privacy.html",
+        "developer_address": "2/F, Block 14, 28 Cheung Sha Wan Road, Kowloon, Hong Kong",
+        "app_id": "com.creative.sandbox.number.drawning.coloring",
+        "url": "https://play.google.com/store/apps/details?id=com.creative.sandbox.number.drawning.coloring&hl=en&gl=us"
+    },
+    {
+        "title": "FunimationNow",
+        "icon": "https://lh3.googleusercontent.com/j9xGV5EyLp3NTJF4hPIEsmgndOrf7ctcPPwS9YEazizntklUcG_BESWdptNzGz9Klg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 36180,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Funimation+Productions,+LTD",
+        "updated": "July 24, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "2.4",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$7.99",
+            "$59.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Funimation Productions, LTD",
+        "developer_email": "funimationstore@funimation.com",
+        "developer_url": "http://www.funimation.com",
+        "developer_address": "1200 Lakeside Parkway\nBldg 1\nFlower Mound, TX 75028",
+        "app_id": "com.Funimation.FunimationNow",
+        "url": "https://play.google.com/store/apps/details?id=com.Funimation.FunimationNow&hl=en&gl=us"
+    },
+    {
+        "title": "HD Movies Free 2019 - Free Movies HD",
+        "icon": "https://lh3.googleusercontent.com/d-7KNMHcA9qTH_Uf5nN1ajAnYBylT-FGTAcwRzWTXXW2sU0nZOSeGeVxBTihg9Wf9cPk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2836,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "WEsmi+KOl",
+        "updated": "June 11, 2019",
+        "size": "8.5M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "WEsmi KOl",
+        "developer_email": "selamatpaman@gmail.com",
+        "developer_url": "http://63.142.253.95/prepolice.php",
+        "developer_address": null,
+        "app_id": "com.freemoviesonlinee.hdmovies",
+        "url": "https://play.google.com/store/apps/details?id=com.freemoviesonlinee.hdmovies&hl=en&gl=us"
+    },
+    {
+        "title": "Drink Your Phone - iDrink Drinking Games (joke)",
+        "icon": "https://lh3.googleusercontent.com/dGlXqhOTFCAP9gnwLaSvj1jg6fqqImGPAllvDefYApCO-RDFnHozgulEUOcuc8m47w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 59758,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7148680220855906998",
+        "updated": "July 9, 2018",
+        "size": "15M",
+        "installs": "5,000,000+",
+        "current_version": "5.6",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen",
+            "Alcohol Reference"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ideaFun - Relaxing Coloring Book, FREE Color Games",
+        "developer_email": "SunTingqwe@gmail.com",
+        "developer_url": "https://sites.google.com/view/ideafun/",
+        "developer_address": null,
+        "app_id": "com.drink.water.fun",
+        "url": "https://play.google.com/store/apps/details?id=com.drink.water.fun&hl=en&gl=us"
+    },
+    {
+        "title": "Lifetime - Watch Full Episodes & Original Movies",
+        "icon": "https://lh3.googleusercontent.com/Hr997S7Cm2b4PrepIanR-opFFpiYU7Ezm8lRf93BM2Hofbc1ehGwerJdHvgy9wVT0A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40342,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "A%26E+Television+Networks+Mobile",
+        "updated": "June 18, 2019",
+        "size": "20M",
+        "installs": "1,000,000+",
+        "current_version": "3.2.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "A&E Television Networks Mobile",
+        "developer_email": "watchapps@aenetworks.com",
+        "developer_url": "http://www.mylifetime.com",
+        "developer_address": "235 E 45th Street\nNew York, NY 10017",
+        "app_id": "com.aetn.lifetime.watch",
+        "url": "https://play.google.com/store/apps/details?id=com.aetn.lifetime.watch&hl=en&gl=us"
+    },
+    {
+        "title": "iFunny \u2013 fresh memes, gifs and videos",
+        "icon": "https://lh3.googleusercontent.com/RrBooEAYsbpbSUMRTUbimMji_O0XESGCuFEqvK8Ph-qhJAm0PObfd6kh3xlnxrZrpY4T",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 524036,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "iFunny+Inc.",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Mature 17+",
+            "Suggestive Themes, Strong Language"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$3.49"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "iFunny Inc.",
+        "developer_email": "support@ifunny.co",
+        "developer_url": "http://ifunny.co/",
+        "developer_address": "Vistra Corporate Services Centre, Wickhams Cay II, Road Town, Tortola, British Virgin Islands",
+        "app_id": "mobi.ifunny",
+        "url": "https://play.google.com/store/apps/details?id=mobi.ifunny&hl=en&gl=us"
+    },
+    {
+        "title": "Sling TV: Stop Paying Too Much For TV!",
+        "icon": "https://lh3.googleusercontent.com/wPBcFHwavxL44zysk9bo9NWSmYOKR1lFXCnA9knMnwkMjp4MGOrOpLJrErD5DWdiNjJi",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/flcrwNy5QIs",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 59198,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sling+TV,+L.L.C.",
+        "updated": "July 4, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "6.6.924",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sling TV, L.L.C.",
+        "developer_email": "feedback@sling.com",
+        "developer_url": "http://sling.com",
+        "developer_address": null,
+        "app_id": "com.sling",
+        "url": "https://play.google.com/store/apps/details?id=com.sling&hl=en&gl=us"
+    },
+    {
+        "title": "Pantaya",
+        "icon": "https://lh3.googleusercontent.com/57_0fn8FoYqCH7xr854KdHlAsSlkLbkzcEuHZJl6Lzt3sZWMvdSk1OXmvUP9KjzdazA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7701,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Pantaya",
+        "updated": "July 26, 2019",
+        "size": "28M",
+        "installs": "1,000,000+",
+        "current_version": "4.2.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": [
+            "$5.99",
+            "$59.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Pantaya",
+        "developer_email": "dev@pantaya.com",
+        "developer_url": "https://www.pantaya.com",
+        "developer_address": "2700 Colorado Avenue\nSanta Monica, CA 90404",
+        "app_id": "com.lionsgate.pantaya",
+        "url": "https://play.google.com/store/apps/details?id=com.lionsgate.pantaya&hl=en&gl=us"
+    },
+    {
+        "title": "Mixer \u2013 Interactive Streaming",
+        "icon": "https://lh3.googleusercontent.com/LEbneLr8TBrLL-bWYlcxNwHJhwqXJLNXfTf1ozzF5Vgv3eSVkxcc9VfZ9fOoEA-Kt_8",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/sF-q9XSJGYA",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 88060,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6720847872553662727",
+        "updated": "July 30, 2019",
+        "size": "54M",
+        "installs": "5,000,000+",
+        "current_version": "4.7.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$199.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "support@mixer.com",
+        "developer_url": "https://mixer.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.mcprohosting.beam",
+        "url": "https://play.google.com/store/apps/details?id=com.mcprohosting.beam&hl=en&gl=us"
+    },
+    {
+        "title": "Loudest Air Horn (Prank)",
+        "icon": "https://lh3.googleusercontent.com/m4-c3WwGdYn98pVe21lduh1K552M71rHIrpA84tmyuOvaTD7HoRA0UOpGRrbFd93jw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18248,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Avar+Apps",
+        "updated": "July 13, 2019",
+        "size": "12M",
+        "installs": "10,000,000+",
+        "current_version": "4.12",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Avar Apps",
+        "developer_email": "avarmg@gmail.com",
+        "developer_url": "http://avargames.com/android/privacy_policy/",
+        "developer_address": "Russia Moscow",
+        "app_id": "com.avarmmg.net.loudestairhorn",
+        "url": "https://play.google.com/store/apps/details?id=com.avarmmg.net.loudestairhorn&hl=en&gl=us"
+    },
+    {
+        "title": "XUMO: Free Streaming TV Shows and Movies",
+        "icon": "https://lh3.googleusercontent.com/7zqArLAJjQcyd-FzJPJGo76VgyfK2qqlHKXZnY-FAKs1LvZhTG_nAhdarXe84vta",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/OFXy4biJEnw",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1222,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Xumo",
+        "updated": "July 23, 2019",
+        "size": "12M",
+        "installs": "100,000+",
+        "current_version": "2.7.14",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Xumo",
+        "developer_email": "support@xumo.com",
+        "developer_url": "https://www.xumo.com/support-requests/",
+        "developer_address": null,
+        "app_id": "com.xumo.xumo",
+        "url": "https://play.google.com/store/apps/details?id=com.xumo.xumo&hl=en&gl=us"
+    },
+    {
+        "title": "The CW",
+        "icon": "https://lh3.googleusercontent.com/TS_MKXdBZaPJn2vAZ_NZos9MdedCJtOdhxOs0C15WTH1bVHPKsa5RNnJi4Wyq19UEw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Ygf0CkM09-s",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 332972,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+CW+Network",
+        "updated": "June 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The CW Network",
+        "developer_email": "cwappfeedback@cwtv.com",
+        "developer_url": "https://support.cwtv.com",
+        "developer_address": "3300 W Olive Ave\nBurbank, CA 91522",
+        "app_id": "com.cw.fullepisodes.android",
+        "url": "https://play.google.com/store/apps/details?id=com.cw.fullepisodes.android&hl=en&gl=us"
+    },
+    {
+        "title": "Thumbnail Maker for YouTube Videos",
+        "icon": "https://lh3.googleusercontent.com/W-z2puouUJ_ZDRiZxZ4NJl1Mi-TDJ9NVTz6XBbtO17po8Ave86MTPin_9NVm6_QF-V8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 51700,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "ryzenrise",
+        "updated": "July 25, 2019",
+        "size": "31M",
+        "installs": "1,000,000+",
+        "current_version": "2.0.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Blood"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$5.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "ryzenrise",
+        "developer_email": "ryzengchang@gmail.com",
+        "developer_url": "http://www.wisharcbuilder.com",
+        "developer_address": "\u5e7f\u5dde\u5e02\u5929\u6cb3\u533a\u5efa\u4e2d\u8def36\u53f7404",
+        "app_id": "com.ryzenrise.thumbnailmaker",
+        "url": "https://play.google.com/store/apps/details?id=com.ryzenrise.thumbnailmaker&hl=en&gl=us"
+    },
+    {
+        "title": "Custom Skin Creator For Minecraft",
+        "icon": "https://lh3.googleusercontent.com/VzxUUZaP1X3JZ-6UdWgvNy-485Q9qDpvVCAG79NFd_ya6eJorHK3Z7ukxhLPzpUvgf5o",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT",
+            "FAMILY_CREATE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 43553,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Blakzero",
+        "updated": "June 25, 2019",
+        "size": "31M",
+        "installs": "1,000,000+",
+        "current_version": "6.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$3.49"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Blakzero",
+        "developer_email": "james.kuronen@gmail.com",
+        "developer_url": "http://blakzero.com/wp-content/privacypolicyy.htm",
+        "developer_address": "K\u00e4r\u00e4ng\u00e4nkatu 1 B16\n70840 Kuopio\nFINLAND",
+        "app_id": "com.enhanced.skineditorstudio",
+        "url": "https://play.google.com/store/apps/details?id=com.enhanced.skineditorstudio&hl=en&gl=us"
+    },
+    {
+        "title": "Xbox Game Pass",
+        "icon": "https://lh3.googleusercontent.com/WNGkvG9EUooV8NgZRmcJdogMflxCZQ0Uefu-pC0Xf07W8_N5_WkBDHMscBR71q1BBA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29798,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6720847872553662727",
+        "updated": "July 12, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "1906.238.711",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Microsoft Corporation",
+        "developer_email": "gpmobfeedback@microsoft.com",
+        "developer_url": "http://support.xbox.com",
+        "developer_address": "One Microsoft Way",
+        "app_id": "com.gamepass",
+        "url": "https://play.google.com/store/apps/details?id=com.gamepass&hl=en&gl=us"
+    },
+    {
+        "title": "PS4 Second Screen",
+        "icon": "https://lh3.googleusercontent.com/MOEA58OIqW-hC3kimSZEvex_J9X_m4Tf8wVS0PL57oDh8lH1EIbjUb0cpEqtBhqnmTg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "2.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23501,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5810481673801929430",
+        "updated": "May 27, 2019",
+        "size": "3.4M",
+        "installs": "5,000,000+",
+        "current_version": "19.3.9",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "PlayStation Mobile Inc.",
+        "developer_email": "psapp-contact@hq.scei.sony.co.jp",
+        "developer_url": "http://www.playstation.com/support/",
+        "developer_address": "PlayStation Mobile Inc.\n2207 Bridgepointe Parkway\nSan Mateo, CA 94404\nUnited States",
+        "app_id": "com.playstation.mobile2ndscreen",
+        "url": "https://play.google.com/store/apps/details?id=com.playstation.mobile2ndscreen&hl=en&gl=us"
+    },
+    {
+        "title": "Free Music \u2013 Online Unlimited Music For Free",
+        "icon": "https://lh3.googleusercontent.com/-qBSGtP-nO2GLGQvt4tRxbEAhF6U8OVAE4cYsAE6vgeUpPeAiPQEvo_cGDo72f3T4w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3536,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Unlimited+Free+Music+For+You",
+        "updated": "July 29, 2019",
+        "size": "16M",
+        "installs": "500,000+",
+        "current_version": "1.4.4.1718",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$124.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Unlimited Free Music For You",
+        "developer_email": "developer20190226@gmail.com",
+        "developer_url": "https://s3.amazonaws.com/freemusicplayer/Privacy+Policy.html",
+        "developer_address": "Yau Tsim Wang District, Yau Ma Tei\uff0cHongKong",
+        "app_id": "free.music.player.tube.songs.stream",
+        "url": "https://play.google.com/store/apps/details?id=free.music.player.tube.songs.stream&hl=en&gl=us"
+    },
+    {
+        "title": "Fandango Movie Tickets & Times",
+        "icon": "https://lh3.googleusercontent.com/KAwaawSQsbNfdd8Q04F8-htxvJRJBALdOJ5eg1xDNcJSPX5HaKLdX_NlxXFlW7miGi4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 272668,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7423484006267934328",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen",
+            "Violence, Blood, Suggestive Themes, Simulated Gambling"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Fandango",
+        "developer_email": "androidappcomments@fandango.com",
+        "developer_url": "http://www.fandango.com/",
+        "developer_address": null,
+        "app_id": "com.fandango",
+        "url": "https://play.google.com/store/apps/details?id=com.fandango&hl=en&gl=us"
+    },
+    {
+        "title": "Regal Cinemas",
+        "icon": "https://lh3.googleusercontent.com/3s5-gaFo285S_LjOeeXnl77Rujg55_wgXAODboib2TZgJNbo-1TMjE_cJ8SIIhIy29T1",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 36247,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Regal+Cinemas",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Regal Cinemas",
+        "developer_email": "android@regalcinemas.com",
+        "developer_url": "http://www.regmovies.com/",
+        "developer_address": null,
+        "app_id": "com.fandango.regal",
+        "url": "https://play.google.com/store/apps/details?id=com.fandango.regal&hl=en&gl=us"
+    },
+    {
+        "title": "IMDb Movies & TV Shows: Trailers, Reviews, Tickets",
+        "icon": "https://lh3.googleusercontent.com/sb30umyAPj9A4ixl4jnPJO15ET-mo4TihKOI0xwFzRbxOfZo6fozeKmAjf8Lhl3mqHY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 556783,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "IMDb",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "IMDb",
+        "developer_email": "android@imdb.com",
+        "developer_url": "http://www.imdb.com",
+        "developer_address": null,
+        "app_id": "com.imdb.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.imdb.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Voice changer with effects",
+        "icon": "https://lh3.googleusercontent.com/QECal7GeffHkboeQzWEkSyPi_UPCDS8G9QcUS-CmAJPZKy3CS3ouqpXa3Xxb4BYffg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/f6baNxaIPyo",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1319783,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6648939854131219701",
+        "updated": "July 30, 2019",
+        "size": "9.3M",
+        "installs": "50,000,000+",
+        "current_version": "3.7.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone",
+            "Alcohol Reference"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Baviux",
+        "developer_email": "sviudes@baviux.com",
+        "developer_url": "http://www.baviux.com",
+        "developer_address": "Juan de la Cierva 27 2-C\n03203 Elche (Alicante)",
+        "app_id": "com.baviux.voicechanger",
+        "url": "https://play.google.com/store/apps/details?id=com.baviux.voicechanger&hl=en&gl=us"
+    },
+    {
+        "title": "Fake call - prank",
+        "icon": "https://lh3.googleusercontent.com/rwrsyk3P6jbVrBo2LOe3AQDPnw396Oh9hFWE1h5zsM3SwMQX99jkxylmGZGdwdpfN54",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 447915,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GameAndro",
+        "updated": "May 7, 2019",
+        "size": "1.8M",
+        "installs": "50,000,000+",
+        "current_version": "0.29",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GameAndro",
+        "developer_email": "gameandrosupp@gmail.com",
+        "developer_url": "https://hihrjobs.wixsite.com/gameandro/privacy-policy",
+        "developer_address": null,
+        "app_id": "com.fakecallgame",
+        "url": "https://play.google.com/store/apps/details?id=com.fakecallgame&hl=en&gl=us"
+    },
+    {
+        "title": "Face Secret Scanner - Aging Camera, Comic Emoji",
+        "icon": "https://lh3.googleusercontent.com/OE9ftEr9uTeoJN-_khJF4PVwqQ9b0mhIXkI8tFci3kjUsZwEc84Su4ON240AhLhBqg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5144,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Face+Camera+Lab",
+        "updated": "July 24, 2019",
+        "size": "9.4M",
+        "installs": "100,000+",
+        "current_version": "1.0.9",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$15.99",
+            "$94.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Face Camera Lab",
+        "developer_email": "sinalu37@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1qZQZkFbFpWbW6MU4jbt7aElgN8gKICpNK3FrptWfAW4/edit?usp=sharing",
+        "developer_address": "HongKong",
+        "app_id": "facesecret.scanner.camera",
+        "url": "https://play.google.com/store/apps/details?id=facesecret.scanner.camera&hl=en&gl=us"
+    },
+    {
+        "title": "Steam",
+        "icon": "https://lh3.googleusercontent.com/52_DMY5417awaEgJf3_9mWgEuO2t1JfkGab8kM-LD6l5u6cGm_1-GsoQ_IyWFHdbkA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 781940,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Valve+Corporation",
+        "updated": "May 29, 2019",
+        "size": "2.7M",
+        "installs": "50,000,000+",
+        "current_version": "2.3.10",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Valve Corporation",
+        "developer_email": "steamandroidapp@valvesoftware.com",
+        "developer_url": "http://store.steampowered.com/about/mobile",
+        "developer_address": null,
+        "app_id": "com.valvesoftware.android.steam.community",
+        "url": "https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community&hl=en&gl=us"
+    },
+    {
+        "title": "MTV",
+        "icon": "https://lh3.googleusercontent.com/zKMAeD3mGsbIO_FWp6K4PeMdC-7SivoA_jaodW0bcqFWiHZVVUn4rKdghbREZpWQZA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 36915,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MTV",
+        "updated": "July 16, 2019",
+        "size": "19M",
+        "installs": "1,000,000+",
+        "current_version": "26.7.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MTV",
+        "developer_email": "mtvappsupport@mtv.com",
+        "developer_url": "http://www.mtv.com/app",
+        "developer_address": "1515 Broadway\nNew York, NY 10036",
+        "app_id": "com.mtvn.mtvPrimeAndroid",
+        "url": "https://play.google.com/store/apps/details?id=com.mtvn.mtvPrimeAndroid&hl=en&gl=us"
+    },
+    {
+        "title": "Vimeo",
+        "icon": "https://lh3.googleusercontent.com/hIckHVP84kogkZ7yGwlMZD8xPnJBDkS_EntshszgtI4kJK0_uCCpbqcuX0GLnJUvN3k",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/kZsDj5dUzpg",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 100778,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Vimeo+Inc",
+        "updated": "July 30, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$83.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Vimeo Inc",
+        "developer_email": "support@vimeo.com",
+        "developer_url": "http://vimeo.com",
+        "developer_address": "Vimeo\n555 West 18th Street\nNew York, NY 10011",
+        "app_id": "com.vimeo.android.videoapp",
+        "url": "https://play.google.com/store/apps/details?id=com.vimeo.android.videoapp&hl=en&gl=us"
+    },
+    {
+        "title": "Guns for Minecraft",
+        "icon": "https://lh3.googleusercontent.com/xVXVZy89VBCWBmHlsu9JVUrk5wnkfMBjIcz4-rMqhN21kG7QGxi6Arz2RDK8308F00s",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24472,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tolkumpeet+Nutlekopum",
+        "updated": "September 27, 2018",
+        "size": "11M",
+        "installs": "5,000,000+",
+        "current_version": "2.3.29",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tolkumpeet Nutlekopum",
+        "developer_email": "getnumahkuup@gmail.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "guns.for.minecraft",
+        "url": "https://play.google.com/store/apps/details?id=guns.for.minecraft&hl=en&gl=us"
+    },
+    {
+        "title": "Discovery GO",
+        "icon": "https://lh3.googleusercontent.com/5TlM9uT_zzO4MucdOV_0smjcNx1wK4EqcAYbClnXPOzGR5LmTSdKApu_vtg8KCUgor8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9284,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Discovery+Communications",
+        "updated": "July 11, 2019",
+        "size": "9.7M",
+        "installs": "1,000,000+",
+        "current_version": "2.13.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen",
+            "Violence, Blood, Use of Tobacco"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Discovery Communications",
+        "developer_email": "discoverychannel@mailmw.custhelp.com",
+        "developer_url": "https://www.discovery.com",
+        "developer_address": "Discovery Communications\n1 Discovery Pl\nSilver Spring, MD 20910",
+        "app_id": "com.discovery.discoverygo",
+        "url": "https://play.google.com/store/apps/details?id=com.discovery.discoverygo&hl=en&gl=us"
+    },
+    {
+        "title": "Talking Tom Cat 2",
+        "icon": "https://lh3.googleusercontent.com/UPORQPZ1ivAb2Vrm9vFAgadhxLXteosZDFFTNpsnMuYN7UBCIogQrYgoRTZAuFKFlw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3267517,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5630538819012062144",
+        "updated": "April 15, 2019",
+        "size": "55M",
+        "installs": "100,000,000+",
+        "current_version": "5.3.10.26",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Fantasy Violence, Comic Mischief"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$24.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Outfit7 Limited",
+        "developer_email": "support@outfit7.com",
+        "developer_url": "http://outfit7.com/contact/android/",
+        "developer_address": "Outfit7 Limited\nAgiou Georgiou\n4607 Pissouri\nCyprus",
+        "app_id": "com.outfit7.talkingtom2free",
+        "url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free&hl=en&gl=us"
+    },
+    {
+        "title": "Wonder Me: Face Aging & Palm Reading",
+        "icon": "https://lh3.googleusercontent.com/5vXhoheZUcqlKC3rF-g5Vz1gFrR1crXIWN8-Z45s_mpuWs5fNQoouwZOArBxW141ZAXj",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "2.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18084,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Marco+Clark",
+        "updated": "June 17, 2019",
+        "size": "19M",
+        "installs": "1,000,000+",
+        "current_version": "2.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$4.99",
+            "$89.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Marco Clark",
+        "developer_email": "getwonderme@gmail.com",
+        "developer_url": "https://facewonder.wixsite.com/getfacewonder/privacy-policy",
+        "developer_address": "1825 Keswick Ave\nRichmond, VA 23224",
+        "app_id": "com.face.wonder",
+        "url": "https://play.google.com/store/apps/details?id=com.face.wonder&hl=en&gl=us"
+    }
+]

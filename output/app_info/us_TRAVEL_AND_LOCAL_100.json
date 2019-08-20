@@ -1,0 +1,4314 @@
+[
+    {
+        "title": "Google Earth",
+        "icon": "https://lh3.googleusercontent.com/AEUm_nsufnYaRVkZ4opiyGVWqbcbo7PF1fWxQvxGSaA5G4kN5s80oxf16pwkP6aOHV8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2478383,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "9.2.50.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/earth/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.earth",
+        "url": "https://play.google.com/store/apps/details?id=com.google.earth&hl=en&gl=us"
+    },
+    {
+        "title": "Airbnb",
+        "icon": "https://lh3.googleusercontent.com/BQnvuZR500pg2ulvv3FBmRI93ODz3AjNfbz92hCieuJLvmbGY36AKhETMTTfTDgpPQI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 704901,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Airbnb,+Inc",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Airbnb, Inc",
+        "developer_email": "m.feedback.android@airbnb.com",
+        "developer_url": "https://www.airbnb.com/mobile",
+        "developer_address": null,
+        "app_id": "com.airbnb.android",
+        "url": "https://play.google.com/store/apps/details?id=com.airbnb.android&hl=en&gl=us"
+    },
+    {
+        "title": "Booking.com: Hotels, Apartments & Accommodation",
+        "icon": "https://lh3.googleusercontent.com/7STAjs-WNfZHmYllyLag4gdhmHm8JrbmzVrznejwAeLEbpu0yDt-GlJaDipzXAZBN18",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1978436,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8601716327451933581",
+        "updated": "July 24, 2019",
+        "size": "33M",
+        "installs": "100,000,000+",
+        "current_version": "18.5",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Booking.com Hotels & Vacation Rentals",
+        "developer_email": "customer.service@booking.com",
+        "developer_url": "http://www.booking.com/apps.html?source=googleplay",
+        "developer_address": null,
+        "app_id": "com.booking",
+        "url": "https://play.google.com/store/apps/details?id=com.booking&hl=en&gl=us"
+    },
+    {
+        "title": "Expedia Hotels, Flights & Car Rental Travel Deals",
+        "icon": "https://lh3.googleusercontent.com/kkf2Siy556vDQE_iqF0rAfmtdnHSo75AjBpRIfvCIxMruZdfGeb24S1UFDvb4wTQESg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 195846,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9168645875493882147",
+        "updated": "July 25, 2019",
+        "size": "15M",
+        "installs": "10,000,000+",
+        "current_version": "19.29.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Expedia",
+        "developer_email": "support@expedia.com",
+        "developer_url": "http://www.mobiata.com/support/expedia/android",
+        "developer_address": "Becky Roth\nExpedia\n114 Sansome St. Suite 1100\nSan Francisco, CA 94104",
+        "app_id": "com.expedia.bookings",
+        "url": "https://play.google.com/store/apps/details?id=com.expedia.bookings&hl=en&gl=us"
+    },
+    {
+        "title": "GetUpside: Earn Money & Get Gas Prices Near You",
+        "icon": "https://lh3.googleusercontent.com/cyzeNxTMMMztFfObyG34zEPOLWUsCBNc_jhxBwJoXp3lpczkZa6Fc015AiWR-l4AcQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/sLeFLU3LKLM",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16941,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8321212273852535480",
+        "updated": "July 17, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "4.19",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "Upside Services Inc.",
+        "developer_email": "support@getupside.com",
+        "developer_url": "https://www.getupside.com",
+        "developer_address": "777 6th St NW, Floor 11\nWashington, DC 20001",
+        "app_id": "com.upside.consumer.android",
+        "url": "https://play.google.com/store/apps/details?id=com.upside.consumer.android&hl=en&gl=us"
+    },
+    {
+        "title": "American Airlines",
+        "icon": "https://lh3.googleusercontent.com/Fv8XHfieFcN6A0QgXH68DjdowRHqagzndBt6DpfJtW1UBJktfCYHx7jiU5dVuFSVXrM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21824,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "American+Airlines,+Inc.",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "American Airlines, Inc.",
+        "developer_email": "aa.mobile@aa.com",
+        "developer_url": "http://www.aa.com/app",
+        "developer_address": null,
+        "app_id": "com.aa.android",
+        "url": "https://play.google.com/store/apps/details?id=com.aa.android&hl=en&gl=us"
+    },
+    {
+        "title": "Southwest Airlines",
+        "icon": "https://lh3.googleusercontent.com/vrjZfz_lztdUB8Aai-hyM7esx1Ru9Jm5pPsvtuHxTub64v4ekRe8RxqnuXhTdiO6vXs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37243,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Southwest+Airlines",
+        "updated": "July 16, 2019",
+        "size": "12M",
+        "installs": "10,000,000+",
+        "current_version": "6.7.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Southwest Airlines",
+        "developer_email": "MobileAppSupport@wnco.com",
+        "developer_url": "https://www.southwest.com/",
+        "developer_address": null,
+        "app_id": "com.southwestairlines.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.southwestairlines.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "United Airlines",
+        "icon": "https://lh3.googleusercontent.com/2FNnag8WvCP4Z4Cr8cjZzrABvCv8Cw21FcIfI55fjAW3jMvJVnN7-ZSaWRzmC2v7Wkg_",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34958,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "United+Airlines",
+        "updated": "July 11, 2019",
+        "size": "89M",
+        "installs": "10,000,000+",
+        "current_version": "3.0.13",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "United Airlines",
+        "developer_email": "ssqa@united.com",
+        "developer_url": "https://hub.united.com/united-app-travel-enhancements-2019-2625355292.html",
+        "developer_address": null,
+        "app_id": "com.united.mobile.android",
+        "url": "https://play.google.com/store/apps/details?id=com.united.mobile.android&hl=en&gl=us"
+    },
+    {
+        "title": "Lime - Your Ride Anytime",
+        "icon": "https://lh3.googleusercontent.com/AoZKSJZ-Wjixbnc4AVg30YBhSqhBM1JvDXNBXVU8Qry6wO-hrx5r2zzlzfE3emDhi_E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 70319,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Neutron+Holdings,+Inc.",
+        "updated": "July 24, 2019",
+        "size": "30M",
+        "installs": "5,000,000+",
+        "current_version": "2.55.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Neutron Holdings, Inc.",
+        "developer_email": "android-dev@li.me",
+        "developer_url": "https://www.li.me/el/",
+        "developer_address": null,
+        "app_id": "com.limebike",
+        "url": "https://play.google.com/store/apps/details?id=com.limebike&hl=en&gl=us"
+    },
+    {
+        "title": "Yelp: Food, Shopping, Services Nearby",
+        "icon": "https://lh3.googleusercontent.com/3v1k57gUELCDXM4MDhV56ckU-0N2eO80KTYrWYixj7UujYpaxh305j83xMycHQaCPNw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 431162,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Yelp,+Inc",
+        "updated": "July 18, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location"
+        ],
+        "developer": "Yelp, Inc",
+        "developer_email": "feedback+android@yelp.com",
+        "developer_url": "http://www.yelp.com",
+        "developer_address": null,
+        "app_id": "com.yelp.android",
+        "url": "https://play.google.com/store/apps/details?id=com.yelp.android&hl=en&gl=us"
+    },
+    {
+        "title": "Fly Delta",
+        "icon": "https://lh3.googleusercontent.com/zP1693CpuJuDpuZrXZgze8VmiusYr3w4v7bYJuyCzSi6jsgpaENFdcqjObBTy1fQ9HE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 30053,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Delta+Air+Lines,+Inc.",
+        "updated": "July 1, 2019",
+        "size": "51M",
+        "installs": "10,000,000+",
+        "current_version": "4.19.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Delta Air Lines, Inc.",
+        "developer_email": "MobileApp@delta.com",
+        "developer_url": "http://www.delta.com/app",
+        "developer_address": null,
+        "app_id": "com.delta.mobile.android",
+        "url": "https://play.google.com/store/apps/details?id=com.delta.mobile.android&hl=en&gl=us"
+    },
+    {
+        "title": "Hopper - Watch & Book Cheap Flights",
+        "icon": "https://lh3.googleusercontent.com/r6tUNKZ1tOURyvZIr5z-5pVfOAerB1hUeOiiY-Tqjrsw0MFv9BnFjijqS5yrfNsANQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 70102,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hopper+Inc.",
+        "updated": "July 2, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hopper Inc.",
+        "developer_email": "support@hopper.com",
+        "developer_url": "https://www.hopper.com",
+        "developer_address": null,
+        "app_id": "com.hopper.mountainview.play",
+        "url": "https://play.google.com/store/apps/details?id=com.hopper.mountainview.play&hl=en&gl=us"
+    },
+    {
+        "title": "Bird - Be Free, Enjoy the Ride",
+        "icon": "https://lh3.googleusercontent.com/2AUopE7H3j5Slcw2Zeo8py9M_SLmhqSOsppg2aGVI_s0RZYF3YWsH-ubYrDGBB3o9w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 24674,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4677932693479430860",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "4.44.1.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bird Rides, Inc.",
+        "developer_email": "hello@bird.co",
+        "developer_url": "http://www.bird.co",
+        "developer_address": null,
+        "app_id": "co.bird.android",
+        "url": "https://play.google.com/store/apps/details?id=co.bird.android&hl=en&gl=us"
+    },
+    {
+        "title": "Navigation for Google Maps Go",
+        "icon": "https://lh3.googleusercontent.com/G5wEkEgBoyIPGlsDE9Oasx1O5UDs1Jj0GD_wY0WmGxbRiFD8eRpGYhL_fOnJBnPQMpU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 42185,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "May 17, 2019",
+        "size": "12M",
+        "installs": "50,000,000+",
+        "current_version": "10.2.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://maps.google.com/about/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.navlite",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.navlite&hl=en&gl=us"
+    },
+    {
+        "title": "Vrbo Vacation Rentals",
+        "icon": "https://lh3.googleusercontent.com/kMaMdsJ7pmxKdfK5u0SF4z4NpBbcAgjgCw_0VAcmlnjhN9810kGuNcrnAMG8U_b_U_w",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/I_IIb6Pkw_4",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6448,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8891730306330184942",
+        "updated": "July 18, 2019",
+        "size": "8.6M",
+        "installs": "1,000,000+",
+        "current_version": "2019.16.02.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Vrbo",
+        "developer_email": "mobile@homeaway.com",
+        "developer_url": "http://www.vrbo.com",
+        "developer_address": "11800 Domain Blvd\nSuite 300\nAustin, TX 78758",
+        "app_id": "com.vrbo.android",
+        "url": "https://play.google.com/store/apps/details?id=com.vrbo.android&hl=en&gl=us"
+    },
+    {
+        "title": "Hotels.com: Book hotel rooms & more!",
+        "icon": "https://lh3.googleusercontent.com/onuxspmiR0fJZRWXZCToyBPht5yZE55drqWqoWWDj9YwJvKpg2AY4lt1LdymRYkRlh0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 297180,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5320296801126709706",
+        "updated": "July 17, 2019",
+        "size": "14M",
+        "installs": "10,000,000+",
+        "current_version": "44.1.1.1.release-44_1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Hotels.com LP",
+        "developer_email": "handroid@expedia.com",
+        "developer_url": "http://www.hotels.com",
+        "developer_address": null,
+        "app_id": "com.hcom.android",
+        "url": "https://play.google.com/store/apps/details?id=com.hcom.android&hl=en&gl=us"
+    },
+    {
+        "title": "trivago: Hotels & Travel",
+        "icon": "https://lh3.googleusercontent.com/C0gdwkwRgeWwtBRklQBD8XMd7ctEVuQweHscdmXIY9JWX-0NvPcpnxDcmz-m0II08mmO",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/TZL91W_wHFI",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 259312,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6990042735476603793",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "trivago",
+        "developer_email": "mobile@trivago.com",
+        "developer_url": "http://www.trivago.com",
+        "developer_address": "trivago N.V., Kesselstra\u00dfe 5-7, 40221 D\u00fcsseldorf, Germany",
+        "app_id": "com.trivago",
+        "url": "https://play.google.com/store/apps/details?id=com.trivago&hl=en&gl=us"
+    },
+    {
+        "title": "My Disney Experience - Walt Disney World",
+        "icon": "https://lh3.googleusercontent.com/I8YrZTwo6ClK4SAIBenPcy-M6I39tLkmP6hfHgRNf5iD96XIy2SCRASgX-X4DzHFQXY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 53717,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Disney",
+        "updated": "July 15, 2019",
+        "size": "90M",
+        "installs": "1,000,000+",
+        "current_version": "5.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Disney",
+        "developer_email": "app.support@disneyworld.com",
+        "developer_url": "https://disneyworld.disney.go.com/help/",
+        "developer_address": "500 South Buena Vista Street\nBurbank, CA 91521-0105\nUnited States",
+        "app_id": "com.disney.wdw.android",
+        "url": "https://play.google.com/store/apps/details?id=com.disney.wdw.android&hl=en&gl=us"
+    },
+    {
+        "title": "Google Maps Go - Directions, Traffic & Transit",
+        "icon": "https://lh3.googleusercontent.com/b1T7r3wg4_TlWfbwPEpfmn2p_-fSFdIZRr3uXyQpZYF9ypaXj3gWT7rl01Xs_Q9GXSI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33100,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "November 30, 2018",
+        "size": "208k",
+        "installs": "100,000,000+",
+        "current_version": "98",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "https://maps.google.com/about/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.mapslite",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.mapslite&hl=en&gl=us"
+    },
+    {
+        "title": "Turo - Better Than Car Rental",
+        "icon": "https://lh3.googleusercontent.com/oFMHo6hkOVgS_m6fuIvBioKQxIXcyiFZJXQs9qwjq7uIScKVIs-sucJFZ5XubJ0Orhg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 25261,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Turo+Inc.",
+        "updated": "July 14, 2019",
+        "size": "19M",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location"
+        ],
+        "developer": "Turo Inc.",
+        "developer_email": "support@turo.com",
+        "developer_url": "https://turo.com",
+        "developer_address": "116 New Montgomery St, Suite 700\nSan Francisco, CA 94105",
+        "app_id": "com.relayrides.android.relayrides",
+        "url": "https://play.google.com/store/apps/details?id=com.relayrides.android.relayrides&hl=en&gl=us"
+    },
+    {
+        "title": "Spirit Airlines",
+        "icon": "https://lh3.googleusercontent.com/TZVwjhAD2M9I8UmskdBFbtwWn7Dy5H-s3_iypRvozsK2yPaHONkEOS4LrPiEPyWScWM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "2.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 895,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Spirit+Airlines+Inc.",
+        "updated": "July 17, 2019",
+        "size": "45M",
+        "installs": "100,000+",
+        "current_version": "1.2.3",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Spirit Airlines Inc.",
+        "developer_email": "mobilehelp@spirit.com",
+        "developer_url": "http://www.spirit.com/app",
+        "developer_address": null,
+        "app_id": "com.spirit.customerapp",
+        "url": "https://play.google.com/store/apps/details?id=com.spirit.customerapp&hl=en&gl=us"
+    },
+    {
+        "title": "Marriott Bonvoy",
+        "icon": "https://lh3.googleusercontent.com/OFd2FOQ-nnMioui-9MEQWwW-1NLlDwN9LtP1jybaPnP7t0Dm60foT9pEJism0V_Pr0A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33595,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Marriott+International",
+        "updated": "July 2, 2019",
+        "size": "63M",
+        "installs": "1,000,000+",
+        "current_version": "9.9.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Marriott International",
+        "developer_email": "Marriott.Mobile.Customer.Care@Marriott.com",
+        "developer_url": "http://www.marriott.com/suggest/default.mi",
+        "developer_address": null,
+        "app_id": "com.marriott.mrt",
+        "url": "https://play.google.com/store/apps/details?id=com.marriott.mrt&hl=en&gl=us"
+    },
+    {
+        "title": "Hilton Honors",
+        "icon": "https://lh3.googleusercontent.com/EgYq5LoHFknRfovswalE-HT4CG7C244WmM135MyJp1XJ8hikzQU8zLIPgBgLrKlJTQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 63192,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hilton",
+        "updated": "July 12, 2019",
+        "size": "38M",
+        "installs": "5,000,000+",
+        "current_version": "3.5.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hilton",
+        "developer_email": "androidsupport@hilton.com",
+        "developer_url": "https://secure3.hilton.com/en/support/index.html",
+        "developer_address": null,
+        "app_id": "com.hilton.android.hhonors",
+        "url": "https://play.google.com/store/apps/details?id=com.hilton.android.hhonors&hl=en&gl=us"
+    },
+    {
+        "title": "Priceline Hotel Deals, Rental Cars & Flights",
+        "icon": "https://lh3.googleusercontent.com/pz2qt0zkWn9IOwvT1lnaNY2mtX9JKU4haH-rXSzOaYKf3K9eFpkJYU4JwKp5gIHm36hu",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 68275,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "9038987167384069337",
+        "updated": "July 18, 2019",
+        "size": "19M",
+        "installs": "5,000,000+",
+        "current_version": "4.66.200",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "priceline.com",
+        "developer_email": "mobile@priceline.com",
+        "developer_url": "http://www.priceline.com",
+        "developer_address": null,
+        "app_id": "com.priceline.android.negotiator",
+        "url": "https://play.google.com/store/apps/details?id=com.priceline.android.negotiator&hl=en&gl=us"
+    },
+    {
+        "title": "Frontier Airlines",
+        "icon": "https://lh3.googleusercontent.com/CxxwvzQvCrJvgWRRSmh4Y4wOi7AQAgGMCOFlvY-SU7jpjdEgD1_qxF2QN0roGwbixD0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2400,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Frontier+Airlines",
+        "updated": "June 18, 2019",
+        "size": "19M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.12",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Frontier Airlines",
+        "developer_email": "googleplay@flyfrontier.com",
+        "developer_url": "http://www.flyfrontier.com/",
+        "developer_address": null,
+        "app_id": "com.flyfrontier.android",
+        "url": "https://play.google.com/store/apps/details?id=com.flyfrontier.android&hl=en&gl=us"
+    },
+    {
+        "title": "GasBuddy - Find Free & Cheap Gas",
+        "icon": "https://lh3.googleusercontent.com/gV1wVrK1CeuR66_KNqjS3ZizYvGo-P4BDlns5hOe4g_A80NYLbuRek70BTK-QNsPXAE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 767892,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "GasBuddy",
+        "updated": "July 24, 2019",
+        "size": "18M",
+        "installs": "10,000,000+",
+        "current_version": "6.0.76 21276",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Sexual Content"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "GasBuddy",
+        "developer_email": "gbsupport@gasbuddy.com",
+        "developer_url": "http://www.gasbuddy.com",
+        "developer_address": "77 N Washington St\nBoston MA 02114",
+        "app_id": "gbis.gbandroid",
+        "url": "https://play.google.com/store/apps/details?id=gbis.gbandroid&hl=en&gl=us"
+    },
+    {
+        "title": "Ol\u00e9 translate-breaking news,voice,text translate",
+        "icon": "https://lh3.googleusercontent.com/De_p7Ks3l7eudr9V0XH_LVaU6K75WEPBPvZDZOS9ITnbL2AlJua7_3jv0pvmEhoTXNo",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hola+Translate",
+        "updated": "July 24, 2019",
+        "size": "17M",
+        "installs": "10,000+",
+        "current_version": "1.0.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hola Translate",
+        "developer_email": "hedygrant76@gmail.com",
+        "developer_url": "https://firebasestorage.googleapis.com/v0/b/translate15-1aa08.appspot.com/o/policy.html?alt=media&token=3e7ccaa2-b3fa-4304-a598-68cf3ea48fbc",
+        "developer_address": null,
+        "app_id": "com.voice.translate.ole",
+        "url": "https://play.google.com/store/apps/details?id=com.voice.translate.ole&hl=en&gl=us"
+    },
+    {
+        "title": "Allegiant",
+        "icon": "https://lh3.googleusercontent.com/wc0zdmDmkzAHo6sqnxAcVVqbrSPSZGIX7frfm6Z4jWHW4ge_26G0UgYPQkJc8yTsdkw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6334,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Allegiant+Travel+Company",
+        "updated": "June 13, 2019",
+        "size": "22M",
+        "installs": "1,000,000+",
+        "current_version": "5.21.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Allegiant Travel Company",
+        "developer_email": "mobiledev@allegiantair.com",
+        "developer_url": "http://www.allegiantair.com",
+        "developer_address": null,
+        "app_id": "com.lixar.allegiant",
+        "url": "https://play.google.com/store/apps/details?id=com.lixar.allegiant&hl=en&gl=us"
+    },
+    {
+        "title": "Travelocity Hotels & Flights",
+        "icon": "https://lh3.googleusercontent.com/QjVPl2FGj4kjSGweNfhfe_cW60e7Y4md80recln1SmL9vToMd5Z6qrV7djOwLV2AVA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/N-RgAM_YTNo",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11462,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Travelocity.com",
+        "updated": "July 22, 2019",
+        "size": "53M",
+        "installs": "1,000,000+",
+        "current_version": "19.29.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Travelocity.com",
+        "developer_email": "android@travelocity.com",
+        "developer_url": "https://www.travelocity.com/app",
+        "developer_address": null,
+        "app_id": "com.travelocity.android",
+        "url": "https://play.google.com/store/apps/details?id=com.travelocity.android&hl=en&gl=us"
+    },
+    {
+        "title": "Carnival HUB",
+        "icon": "https://lh3.googleusercontent.com/U-eeN5ygUqmrym--Xh9Um4FI9eXUKhcob6X8OzzGKH6-HksFARZdd0an1E6k2xm3qsM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 76134,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Carnival+Corporation",
+        "updated": "June 27, 2019",
+        "size": "40M",
+        "installs": "1,000,000+",
+        "current_version": "3.1.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Carnival Corporation",
+        "developer_email": "app@carnival.com",
+        "developer_url": "http://www.carnivalhubapp.com",
+        "developer_address": "3655 NW 87th Avenue\nMiami, FL 33178",
+        "app_id": "com.carnival.android",
+        "url": "https://play.google.com/store/apps/details?id=com.carnival.android&hl=en&gl=us"
+    },
+    {
+        "title": "JetBlue - Book & manage trips",
+        "icon": "https://lh3.googleusercontent.com/J-Al5eRdUvFSw4eeiNR6IC0R4WYVur3KA-eRmwT_8RRKCMBP7p96QFY0eXuzEQKveQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34845,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "JetBlue+Airways+Corporation",
+        "updated": "July 16, 2019",
+        "size": "35M",
+        "installs": "1,000,000+",
+        "current_version": "4.8.3",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "JetBlue Airways Corporation",
+        "developer_email": "JetBlueAppDev@gmail.com",
+        "developer_url": "http://www.jetblue.com/mobile",
+        "developer_address": null,
+        "app_id": "com.jetblue.JetBlueAndroid",
+        "url": "https://play.google.com/store/apps/details?id=com.jetblue.JetBlueAndroid&hl=en&gl=us"
+    },
+    {
+        "title": "Disneyland\u00ae",
+        "icon": "https://lh3.googleusercontent.com/L6S4Kmuybtqak4hYxiZGl-wp2HhCaBUAc50tT5kDJqcc2GPXGayDQccIB-5kGj_5wg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 40860,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Disney",
+        "updated": "June 21, 2019",
+        "size": "71M",
+        "installs": "1,000,000+",
+        "current_version": "5.3.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Disney",
+        "developer_email": "app.support@disneyland.com",
+        "developer_url": "https://disneyland.disney.go.com/help/mobile-apps/",
+        "developer_address": "500 South Buena Vista Street\nBurbank, CA 91521-0105\nUnited States",
+        "app_id": "com.disney.wdpro.dlr",
+        "url": "https://play.google.com/store/apps/details?id=com.disney.wdpro.dlr&hl=en&gl=us"
+    },
+    {
+        "title": "SPIN \u2014 Ride The Moment",
+        "icon": "https://lh3.googleusercontent.com/_otNpvMjw8O6xdaj9rXeGZ8S5JctW4RZ_c4rLlV59tYfaSPUkYQ42dbV4U9JggP8fQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7169,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Spin+Inc.",
+        "updated": "July 25, 2019",
+        "size": "30M",
+        "installs": "100,000+",
+        "current_version": "2.1.131",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Spin Inc.",
+        "developer_email": "zaizhuang@spin.pm",
+        "developer_url": "https://spin.pm",
+        "developer_address": null,
+        "app_id": "pm.spin",
+        "url": "https://play.google.com/store/apps/details?id=pm.spin&hl=en&gl=us"
+    },
+    {
+        "title": "HotelTonight: Book amazing deals at great hotels",
+        "icon": "https://lh3.googleusercontent.com/UESLH_anlGGEcHcvIjlZEguBlm2frJUqjojHe2ViQGYrsgfdfm4n_2Ufl8pv4x_TeRU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61367,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "HotelTonight",
+        "updated": "July 19, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "HotelTonight",
+        "developer_email": "sleeptight@hoteltonight.com",
+        "developer_url": "http://hoteltonight.com",
+        "developer_address": null,
+        "app_id": "com.hoteltonight.android.prod",
+        "url": "https://play.google.com/store/apps/details?id=com.hoteltonight.android.prod&hl=en&gl=us"
+    },
+    {
+        "title": "Speedway Fuel & Speedy Rewards",
+        "icon": "https://lh3.googleusercontent.com/WK2FnXiO3fP7iCrnaW8ryhPUCL0DYwctUJEvQSImOtY9PAYFpRBeOBfFK7xM_OjXdA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 66344,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Speedway+LLC",
+        "updated": "July 11, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Speedway LLC",
+        "developer_email": "CustServ@speedway.com",
+        "developer_url": "http://www.speedway.com",
+        "developer_address": null,
+        "app_id": "com.speedway.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.speedway.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Six Flags",
+        "icon": "https://lh3.googleusercontent.com/bM4mLSsveWo_k-Aa1r2iP_k9TKjN9OnQlhpIaK7lSAb2U5_rCK5unioPh_-V6nIpwDT6",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11383,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Six+Flags+Entertainment+Corp.",
+        "updated": "June 26, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Six Flags Entertainment Corp.",
+        "developer_email": "appSupport@sixflags.com",
+        "developer_url": "https://www.sixflags.com/app",
+        "developer_address": "924 Avenue J East, Grand Prairie, Texas 75050",
+        "app_id": "com.sixflags.android",
+        "url": "https://play.google.com/store/apps/details?id=com.sixflags.android&hl=en&gl=us"
+    },
+    {
+        "title": "Mobile Passport",
+        "icon": "https://lh3.googleusercontent.com/rX4yNvu1PmDS6VQw97n75CGQYGqvFwV7LFLcNASvm2GMtge9cKDHt6hKn_K9zx2lkQdW",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45154,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Airside+Mobile+Inc.",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "2.21.0.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$11.99",
+            "$14.99"
+        ],
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Airside Mobile Inc.",
+        "developer_email": "flightcrew@airsidemobile.com",
+        "developer_url": "https://mobilepassport.us/",
+        "developer_address": "1560 Wilson Blvd  Suite 625\nArlington VA\n22209",
+        "app_id": "us.mobilepassport",
+        "url": "https://play.google.com/store/apps/details?id=us.mobilepassport&hl=en&gl=us"
+    },
+    {
+        "title": "Skyscanner - Cheap Flights, Hotels and Car Rental",
+        "icon": "https://lh3.googleusercontent.com/Xbp56knuVYGBqwopXkORz37d5ExKWmL-u5B8yFrl8SmQSdZDV7iCOWMNcjN0ZxL58G4",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/4vVXfQizi80",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 617704,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6030117397513680821",
+        "updated": "July 24, 2019",
+        "size": "24M",
+        "installs": "10,000,000+",
+        "current_version": "5.72.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Skyscanner Ltd",
+        "developer_email": "android@skyscanner.net",
+        "developer_url": "https://www.skyscanner.net",
+        "developer_address": "Quartermile One 15 Lauriston Place.\nEdinburgh EH3 9EN.\nUnited Kingdom",
+        "app_id": "net.skyscanner.android.main",
+        "url": "https://play.google.com/store/apps/details?id=net.skyscanner.android.main&hl=en&gl=us"
+    },
+    {
+        "title": "Alaska Airlines - Travel",
+        "icon": "https://lh3.googleusercontent.com/7KdxOhGsbkU7t_OJKqO_qGgvG8eH4W7H0CWG3ExpwJbdHk1B1YRmbzNXXMGMEZMxjaQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 46035,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Alaska+Airlines",
+        "updated": "July 23, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Alaska Airlines",
+        "developer_email": "androidapp@alaskaair.com",
+        "developer_url": "http://www.alaskaair.com",
+        "developer_address": null,
+        "app_id": "com.alaskaairlines.android",
+        "url": "https://play.google.com/store/apps/details?id=com.alaskaairlines.android&hl=en&gl=us"
+    },
+    {
+        "title": "Amtrak",
+        "icon": "https://lh3.googleusercontent.com/aiM6MbdAT5-avK9ajSlNk2Av036Bu4Yq7RR5QhqLnG6j2lkrW73g1sVRrcfJ5-m-nXs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18250,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amtrak",
+        "updated": "June 18, 2019",
+        "size": "29M",
+        "installs": "1,000,000+",
+        "current_version": "3.2.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Amtrak",
+        "developer_email": "call1-800-USA-RAIL@amtrak.com",
+        "developer_url": "http://www.amtrak.com/",
+        "developer_address": "60 Massachusetts Ave, NE\nWashington, DC 20002",
+        "app_id": "com.amtrak.rider",
+        "url": "https://play.google.com/store/apps/details?id=com.amtrak.rider&hl=en&gl=us"
+    },
+    {
+        "title": "IHG\u00ae: Hotel Deals & Rewards",
+        "icon": "https://lh3.googleusercontent.com/ctCOylBTmromXwI2rysmdNNZsqQDIRxCluU-8cgncZQUsPCMlIuUAf1viVPB5vrSmQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/cnM89Yr-svo",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21361,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "IHG+Mobile",
+        "updated": "July 15, 2019",
+        "size": "46M",
+        "installs": "1,000,000+",
+        "current_version": "4.30.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "IHG Mobile",
+        "developer_email": "ihgapp@ihg.com",
+        "developer_url": "https://www.ihg.com/hotels/us/en/reservation",
+        "developer_address": "3 ravinia drive\natlanta, georgia 30346\nUnited States",
+        "app_id": "com.ihg.apps.android",
+        "url": "https://play.google.com/store/apps/details?id=com.ihg.apps.android&hl=en&gl=us"
+    },
+    {
+        "title": "Smart Compass for Android 2019",
+        "icon": "https://lh3.googleusercontent.com/T2N482gI2Lr37YEazeE8uboYnFuEO7v6wT-a4uPX3iOccCEC7XlnNqWPq68Yjc4vsCM",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/7fEjPlHfnHU",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4752,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sunsine+Mobi",
+        "updated": "June 7, 2019",
+        "size": "5.8M",
+        "installs": "500,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sunsine Mobi",
+        "developer_email": "phananh194@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1zFsNnoEGGQ7BG8spOoL-UUlPe9haMDD-8uaPKD-K3qo/edit?usp=sharing",
+        "developer_address": null,
+        "app_id": "com.gpstool.smartcompass.skt",
+        "url": "https://play.google.com/store/apps/details?id=com.gpstool.smartcompass.skt&hl=en&gl=us"
+    },
+    {
+        "title": "Flightradar24 Flight Tracker",
+        "icon": "https://lh3.googleusercontent.com/IxxF4rt1_5dQmlqaT2B-0KrF2mmwa_BNsHnkrPg1RsRAWCpT124I_r7rPKBbL1GtSo_e",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/l_Hv_6nwb0Y",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 250273,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Flightradar24+AB",
+        "updated": "July 13, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$64.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Flightradar24 AB",
+        "developer_email": "support@fr24.com",
+        "developer_url": "https://www.flightradar24.com",
+        "developer_address": "Kungsgatan 12-14\n11138 Stockholm\nSweden",
+        "app_id": "com.flightradar24free",
+        "url": "https://play.google.com/store/apps/details?id=com.flightradar24free&hl=en&gl=us"
+    },
+    {
+        "title": "Universal Orlando Resort\u2122 The Official App",
+        "icon": "https://lh3.googleusercontent.com/fX9lkAzuzE8Pj9omgEIIhOu4oXstuJ2IUF4uKf4rm5781V6xHvKHftiTBggkDS1ttIc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5963,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NBCUniversal+Media,+LLC",
+        "updated": "July 17, 2019",
+        "size": "49M",
+        "installs": "1,000,000+",
+        "current_version": "1.22.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NBCUniversal Media, LLC",
+        "developer_email": "android@nbcuni.com",
+        "developer_url": "http://www.UniversalOrlando.com",
+        "developer_address": "30 Rockefeller Plaza\nNew York, New York\n10012\nUnited States",
+        "app_id": "com.universalstudios.orlandoresort",
+        "url": "https://play.google.com/store/apps/details?id=com.universalstudios.orlandoresort&hl=en&gl=us"
+    },
+    {
+        "title": "Live Earth Map 2019 - Satellite View & Street View",
+        "icon": "https://lh3.googleusercontent.com/Xno939RVG8TPO4GTSpf3y17vNY-qmjw2yQgZ0N8HNVjrMcw4dmUX2zko9YoRSIdJNw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 586,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Modern+Apps+Dev",
+        "updated": "May 4, 2019",
+        "size": "4.7M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Modern Apps Dev",
+        "developer_email": "modernapp400@gmail.com",
+        "developer_url": "https://app.termly.io/document/privacy-policy/f1a94494-2f37-4dfd-8b06-31ae88b59ff7",
+        "developer_address": "Modern Apps Dev",
+        "app_id": "com.live.earth.maps.liveearth.satelliteview.livelocations.mylocation.streetview",
+        "url": "https://play.google.com/store/apps/details?id=com.live.earth.maps.liveearth.satelliteview.livelocations.mylocation.streetview&hl=en&gl=us"
+    },
+    {
+        "title": "Orbitz - Hotels, Flights & Package deals",
+        "icon": "https://lh3.googleusercontent.com/iDJcD3QwGE4WjwTSABYNEhaFjd1kA0KzReDuYXFl0Y0GPtBomumZph7MH8k1uUe7Yg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ca8LoP1AVtM",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37226,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "orbitz.com",
+        "updated": "July 22, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "19.29.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "orbitz.com",
+        "developer_email": "android@orbitz.com",
+        "developer_url": "http://www.orbitz.com",
+        "developer_address": null,
+        "app_id": "com.orbitz",
+        "url": "https://play.google.com/store/apps/details?id=com.orbitz&hl=en&gl=us"
+    },
+    {
+        "title": "Pilot Flying J",
+        "icon": "https://lh3.googleusercontent.com/h3WGuMWxBl7JcP0kpvi76Fy2LyNt3PmVai6HLUmVHCjQeDMHmJvBI72Kv10p5v2KuBFm",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12910,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Pilot+Flying+J",
+        "updated": "July 17, 2019",
+        "size": "41M",
+        "installs": "1,000,000+",
+        "current_version": "5.3.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Pilot Flying J",
+        "developer_email": "Customer.Service@pilottravelcenters.com",
+        "developer_url": "http://www.pilotflyingj.com",
+        "developer_address": null,
+        "app_id": "com.pilottravelcenters.mypilot",
+        "url": "https://play.google.com/store/apps/details?id=com.pilottravelcenters.mypilot&hl=en&gl=us"
+    },
+    {
+        "title": "TripAdvisor Hotels Flights Restaurants Attractions",
+        "icon": "https://lh3.googleusercontent.com/McXqJKxoukJgHHX8aQ7TiQXt9a3Ux70nkcsQNpI06UZ2TGll6wW2ml2QlLllw6gEtA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1263732,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TripAdvisor",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TripAdvisor",
+        "developer_email": "mobilehelp@tripadvisor.com",
+        "developer_url": "https://www.tripadvisor.com/help",
+        "developer_address": null,
+        "app_id": "com.tripadvisor.tripadvisor",
+        "url": "https://play.google.com/store/apps/details?id=com.tripadvisor.tripadvisor&hl=en&gl=us"
+    },
+    {
+        "title": "CheapOair: Cheap Flights, Cheap Hotels Booking App",
+        "icon": "https://lh3.googleusercontent.com/4rpt2vPD7MpVCXJktOux6VlleQ4ATH_KE3bQcWjHlunW4t98JK1dBVKgOfjFcKlu_g",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/5m_O1yHtY18",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13654,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Fareportal+Inc.",
+        "updated": "July 15, 2019",
+        "size": "19M",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Fareportal Inc.",
+        "developer_email": "android_feedback@fareportal.com",
+        "developer_url": "http://www.fareportal.com/",
+        "developer_address": null,
+        "app_id": "com.fp.cheapoair",
+        "url": "https://play.google.com/store/apps/details?id=com.fp.cheapoair&hl=en&gl=us"
+    },
+    {
+        "title": "FlixBus - Smart bus travel",
+        "icon": "https://lh3.googleusercontent.com/y6yRp5aoyC7b7zgHbmKPxhPlIJ44dNhxNFZBGtZZcGFTGhgsTUYn9Bk03QcgZVYuk9E",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 72134,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8692689253912447957",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "FlixMobility GmbH",
+        "developer_email": "app@flixbus.com",
+        "developer_url": "https://www.flixbus.de",
+        "developer_address": "Birketweg 33\n80639 M\u00fcnchen\nDeutschland",
+        "app_id": "de.flixbus.app",
+        "url": "https://play.google.com/store/apps/details?id=de.flixbus.app&hl=en&gl=us"
+    },
+    {
+        "title": "KAYAK Flights, Hotels & Cars",
+        "icon": "https://lh3.googleusercontent.com/R8GlaMgRWy9m-QHkULzv4hA7lDhstnDkJ-DsilPdr64expTSU0WVeXpWTKzxh4se8A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 231172,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "KAYAK.com",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Unrestricted Internet"
+        ],
+        "developer": "KAYAK.com",
+        "developer_email": "android@kayak.com",
+        "developer_url": "https://www.kayak.com",
+        "developer_address": null,
+        "app_id": "com.kayak.android",
+        "url": "https://play.google.com/store/apps/details?id=com.kayak.android&hl=en&gl=us"
+    },
+    {
+        "title": "Hertz Car Rental",
+        "icon": "https://lh3.googleusercontent.com/sw2S80-j389KtOq_7lYrR_lq6-z56UjXa1XBp8hS26Nl4elTdqpN6y1QCnvTLgQ3WQ",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/0kkaToIlWK8",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 296,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "The+Hertz+Corporation",
+        "updated": "June 30, 2019",
+        "size": "41M",
+        "installs": "100,000+",
+        "current_version": "3.1.22",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Hertz Corporation",
+        "developer_email": "mobilesupport@hertz.com",
+        "developer_url": "http://www.hertz.com",
+        "developer_address": null,
+        "app_id": "com.hertz.android.digital",
+        "url": "https://play.google.com/store/apps/details?id=com.hertz.android.digital&hl=en&gl=us"
+    },
+    {
+        "title": "Super GPS Compass Map for Android 2019",
+        "icon": "https://lh3.googleusercontent.com/w4sRh4lxiNm001u8GJf-9iG2pxk9d7GjOmp14DpaEi3C6857TDfTeOWX_t8T17Fxrw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/jhQGnFPZO2I",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1536,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ViTech+Tool",
+        "updated": "July 8, 2019",
+        "size": "9.3M",
+        "installs": "100,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ViTech Tool",
+        "developer_email": "vitechmobile68@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1Kn89PPDpfmaaomxX39X5nEIm8yztASEjOoSx5R7e-Yc/edit?usp=sharing",
+        "developer_address": null,
+        "app_id": "app.gpschecker.direction.digitalcompass.weatherdaily",
+        "url": "https://play.google.com/store/apps/details?id=app.gpschecker.direction.digitalcompass.weatherdaily&hl=en&gl=us"
+    },
+    {
+        "title": "HomeAway Vacation Rentals",
+        "icon": "https://lh3.googleusercontent.com/gtud8n9pH8d273CQAvNlTnywmIVPfM87c_lKdM1z-CCG9GxBHXjVozPRipxi-Z7FILAa",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 35750,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8891730306330184942",
+        "updated": "July 18, 2019",
+        "size": "8.3M",
+        "installs": "5,000,000+",
+        "current_version": "2019.16.02.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Vrbo",
+        "developer_email": "mobile@homeaway.com",
+        "developer_url": "https://www.homeaway.com/mobile",
+        "developer_address": "11800 Domain Blvd\nSuite 300\nAustin, TX 78758",
+        "app_id": "com.vacationrentals.homeaway",
+        "url": "https://play.google.com/store/apps/details?id=com.vacationrentals.homeaway&hl=en&gl=us"
+    },
+    {
+        "title": "U-Haul",
+        "icon": "https://lh3.googleusercontent.com/4WNBdCEFB7fDBxcNl-T14EltZYyVsBweNmg11mGHRJHBkdHoyJqpOw7q_E4rLxlkQGU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3707,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "U-Haul+International",
+        "updated": "June 26, 2019",
+        "size": "38M",
+        "installs": "100,000+",
+        "current_version": "2.3.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "U-Haul International",
+        "developer_email": "mobile_development@uhaul.com",
+        "developer_url": "https://www.uhaul.com",
+        "developer_address": null,
+        "app_id": "com.uhaul.android.myuhaul",
+        "url": "https://play.google.com/store/apps/details?id=com.uhaul.android.myuhaul&hl=en&gl=us"
+    },
+    {
+        "title": "TripIt: Travel Planner",
+        "icon": "https://lh3.googleusercontent.com/Q5MO1O16dA5Bg22LIcNsmeyJYT8smqyRblAnUbJ7fJOCZsYrea_2khF0_XZvBo4f6NM",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xt7AnaWUokY",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 55458,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TripIt,+Inc.",
+        "updated": "July 24, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "8.7.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "TripIt, Inc.",
+        "developer_email": "support@tripit.com",
+        "developer_url": "http://www.tripit.com/",
+        "developer_address": "888 Brannan St\nSuite 100\nSan Francisco, CA 94103",
+        "app_id": "com.tripit",
+        "url": "https://play.google.com/store/apps/details?id=com.tripit&hl=en&gl=us"
+    },
+    {
+        "title": "Enterprise Rent-A-Car",
+        "icon": "https://lh3.googleusercontent.com/SkZ_0N5KVeNSpYWvgUPhKPrbHa4o504S6XHsOVNcyaZQuRVds5Pk-3qAus5g-FQfnQk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 17746,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Enterprise+Rent-A-Car",
+        "updated": "July 22, 2019",
+        "size": "46M",
+        "installs": "1,000,000+",
+        "current_version": "3.0.1.197",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Enterprise Rent-A-Car",
+        "developer_email": "care@enterprise.com",
+        "developer_url": "http://www.enterprise.com",
+        "developer_address": null,
+        "app_id": "com.ehi.enterprise.android",
+        "url": "https://play.google.com/store/apps/details?id=com.ehi.enterprise.android&hl=en&gl=us"
+    },
+    {
+        "title": "Royal Caribbean International",
+        "icon": "https://lh3.googleusercontent.com/b-BHxMx4JLVD-e3uR7vs_GBjkHalGxuxv27AZquvowvJKVtiqs8W5621FodloTofrA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5555,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Royal+Caribbean+Cruises+Ltd.",
+        "updated": "July 24, 2019",
+        "size": "54M",
+        "installs": "500,000+",
+        "current_version": "1.19.2",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Royal Caribbean Cruises Ltd.",
+        "developer_email": "AppFeedback@rccl.com",
+        "developer_url": "http://www.royalcaribbean.com",
+        "developer_address": null,
+        "app_id": "com.rccl.royalcaribbean",
+        "url": "https://play.google.com/store/apps/details?id=com.rccl.royalcaribbean&hl=en&gl=us"
+    },
+    {
+        "title": "Universal Hollywood\u2122 App",
+        "icon": "https://lh3.googleusercontent.com/INs1zWDbwI2BVjJy1vvk7iBhWoqoWtuOtl3swCEQy6ZKhViLi-fXsSEYyHd3Cth6aXE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 743,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NBCUniversal+Media,+LLC",
+        "updated": "July 17, 2019",
+        "size": "55M",
+        "installs": "500,000+",
+        "current_version": "1.22.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "NBCUniversal Media, LLC",
+        "developer_email": "appdistribution@nbcuni.com",
+        "developer_url": "http://m.universalstudioshollywood.com/feedback",
+        "developer_address": "30 Rockefeller Plaza\nNew York, New York\n10012\nUnited States",
+        "app_id": "com.universalstudios.hollywoodresort",
+        "url": "https://play.google.com/store/apps/details?id=com.universalstudios.hollywoodresort&hl=en&gl=us"
+    },
+    {
+        "title": "Agoda \u2013 Deals on Hotels & Homes",
+        "icon": "https://lh3.googleusercontent.com/QFl5RnJnCaApuwSY5GkyPk1YqFRdeq-64EHaeNeYId3HwY9Uqjf5JkRVeATZxuuKez5o",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 336834,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6238151696356560844",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "agoda.com",
+        "developer_email": "it-android@agoda.com",
+        "developer_url": "http://www.agoda.com",
+        "developer_address": null,
+        "app_id": "com.agoda.mobile.consumer",
+        "url": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer&hl=en&gl=us"
+    },
+    {
+        "title": "Google Street View",
+        "icon": "https://lh3.googleusercontent.com/50-i3khy6z44n6xQsiJKx6WqLWK4zeb6IyXJYW2qZJGBE_2QvWSI5an09m-H7WgMlRqQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2186810,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 22, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info, Shares Location"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://www.google.com/mobile/maps/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.street",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.street&hl=en&gl=us"
+    },
+    {
+        "title": "JUMP - by Uber",
+        "icon": "https://lh3.googleusercontent.com/YpSsnYkEyXMd9HyfyYecMwtAhIp0MnyaHXUKa8_spUExarsGEEzwn_JoXrRCE_wUkCZ_",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1014,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7908612043055486674",
+        "updated": "July 24, 2019",
+        "size": "17M",
+        "installs": "100,000+",
+        "current_version": "2.11.10001",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Uber Technologies, Inc.",
+        "developer_email": "support@jumpbikes.com",
+        "developer_url": "https://jump.com",
+        "developer_address": null,
+        "app_id": "com.jumpmobility",
+        "url": "https://play.google.com/store/apps/details?id=com.jumpmobility&hl=en&gl=us"
+    },
+    {
+        "title": "Hotwire Hotel & Car Rental App",
+        "icon": "https://lh3.googleusercontent.com/Ec8auE-ucVJ8Z1V6TF9U2M8eWECJIqD1fUxL-pAoNioRfhDKTDXrHntvtzRaPRLElNs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11417,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hotwire,+Inc",
+        "updated": "July 18, 2019",
+        "size": "35M",
+        "installs": "1,000,000+",
+        "current_version": "11.13.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hotwire, Inc",
+        "developer_email": "support@hotwire.com",
+        "developer_url": "http://www.hotwire.com",
+        "developer_address": null,
+        "app_id": "com.hotwire.hotels",
+        "url": "https://play.google.com/store/apps/details?id=com.hotwire.hotels&hl=en&gl=us"
+    },
+    {
+        "title": "Offline Maps & Navigation",
+        "icon": "https://lh3.googleusercontent.com/cteqELk4M4_ogi3BDndl8x-EpaX4EVPUpCfygLpUfXCe6DD_bPAKINuHSDxZcG33gQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 344779,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Maps,+GPS+Navigation",
+        "updated": "July 23, 2019",
+        "size": "34M",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Maps, GPS Navigation",
+        "developer_email": "support@beonroad.com",
+        "developer_url": "http://www.beonroad.com",
+        "developer_address": "Tripomatic s.r.o.\n\u0160umavsk\u00e1 35\n602 00 Brno\nCzech Republic",
+        "app_id": "com.navigation.offlinemaps.gps",
+        "url": "https://play.google.com/store/apps/details?id=com.navigation.offlinemaps.gps&hl=en&gl=us"
+    },
+    {
+        "title": "Maps - Navigate & Explore",
+        "icon": "https://lh3.googleusercontent.com/MOf9Kxxkj7GvyZlTZOnUzuYv0JAweEhlxJX6gslQvbvlhLK5_bSTK6duxY2xfbBsj43H",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10428283,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 24, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://maps.google.com/about/",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.maps",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en&gl=us"
+    },
+    {
+        "title": "Play Disney Parks",
+        "icon": "https://lh3.googleusercontent.com/u6kzHNQVSRf699-dON_sXKCv1SormGrJvDknMWFfsR91zQuAbqf_nWSadjQbc3bW0oc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/aSWn7hREQ5s",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1422,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Disney",
+        "updated": "July 25, 2019",
+        "size": "70M",
+        "installs": "100,000+",
+        "current_version": "1.15.5",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$4.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Disney",
+        "developer_email": "play.support@disneyparks.com",
+        "developer_url": "http://www.disneyworld.com/play",
+        "developer_address": "500 South Buena Vista Street\nBurbank, CA 91521-0105\nUnited States",
+        "app_id": "com.disney.playdisneyparks.goo",
+        "url": "https://play.google.com/store/apps/details?id=com.disney.playdisneyparks.goo&hl=en&gl=us"
+    },
+    {
+        "title": "WiFi Map \u2014 Free Passwords & Hotspots",
+        "icon": "https://lh3.googleusercontent.com/SnhTxeJgxWHS7AlwEl_QNa2lpwCNFsL3Dqrzl-jMqvwFzYMIZW5V3IHUWFU3bKe6N8Kg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/yl95ZgDTYp0",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 713946,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8565181914239008089",
+        "updated": "July 5, 2019",
+        "size": "52M",
+        "installs": "50,000,000+",
+        "current_version": "4.1.22",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.49",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "WiFi Map LLC",
+        "developer_email": "support@wifimap.io",
+        "developer_url": "https://www.wifimap.io/",
+        "developer_address": "25 Broadway, 9th Floor\nNew York, NY 10004",
+        "app_id": "io.wifimap.wifimap",
+        "url": "https://play.google.com/store/apps/details?id=io.wifimap.wifimap&hl=en&gl=us"
+    },
+    {
+        "title": "Wyndham Rewards",
+        "icon": "https://lh3.googleusercontent.com/WUlijyIvxBT_a6WCeG1E_5U2GClkkEnvtMrNkSB7pFBktEb8eatQmcbTaiOHf1FOMP4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4819,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wyndham+Hotel+Group",
+        "updated": "April 22, 2019",
+        "size": "48M",
+        "installs": "500,000+",
+        "current_version": "3.9.2.3983",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wyndham Hotel Group",
+        "developer_email": "wynmobile@wyndham.com",
+        "developer_url": "https://www.wyndhamrewards.com",
+        "developer_address": null,
+        "app_id": "com.wyndhamhotelgroup.wyndhamrewards",
+        "url": "https://play.google.com/store/apps/details?id=com.wyndhamhotelgroup.wyndhamrewards&hl=en&gl=us"
+    },
+    {
+        "title": "Vacation Countdown App",
+        "icon": "https://lh3.googleusercontent.com/icxoiNVK2oPw1rLsLqbD-gzLWGwTtM9iJQhsi6KcYUweq2iwpKd8MRgM2mvtIfwx3w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 22289,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Kulana+Media+Productions+LLC",
+        "updated": "May 17, 2019",
+        "size": "48M",
+        "installs": "1,000,000+",
+        "current_version": "2.611",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$10.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Kulana Media Productions LLC",
+        "developer_email": "apps@kulanamedia.com",
+        "developer_url": "http://www.kulanamedia.com%20",
+        "developer_address": "P.O. Box 25764\nHonolulu, HI 96825\nUSA",
+        "app_id": "kulana.tools.vacationcountdown",
+        "url": "https://play.google.com/store/apps/details?id=kulana.tools.vacationcountdown&hl=en&gl=us"
+    },
+    {
+        "title": "Hawaiian Airlines",
+        "icon": "https://lh3.googleusercontent.com/TKRFWYi2fYSnxBiDcDpaosPF6XRzFxL1DPlqMrH4h0TUcl30WgN3wbj805wVdK1c8GDu",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 205,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hawaiian+Airlines",
+        "updated": "June 6, 2019",
+        "size": "99M",
+        "installs": "100,000+",
+        "current_version": "1.0.4.2562",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hawaiian Airlines",
+        "developer_email": "HAMobileApp@hawaiianair.com",
+        "developer_url": "https://www.hawaiianairlines.com/",
+        "developer_address": null,
+        "app_id": "com.hawaiianairlines.app",
+        "url": "https://play.google.com/store/apps/details?id=com.hawaiianairlines.app&hl=en&gl=us"
+    },
+    {
+        "title": "FlightAware Flight Tracker",
+        "icon": "https://lh3.googleusercontent.com/Qv36I3HbUBEjNqv_P_PE2X-L0njxXjpcF6soGWNrbdPcIl716_0pz_zM3WuJMlnH3QU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 39806,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "FlightAware",
+        "updated": "July 22, 2019",
+        "size": "14M",
+        "installs": "5,000,000+",
+        "current_version": "5.5.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location, Digital Purchases"
+        ],
+        "developer": "FlightAware",
+        "developer_email": "support-android@flightaware.com",
+        "developer_url": "https://flightaware.com",
+        "developer_address": "11 Greenway Plaza Suite 2900\nHouston, TX 77046",
+        "app_id": "com.flightaware.android.liveFlightTracker",
+        "url": "https://play.google.com/store/apps/details?id=com.flightaware.android.liveFlightTracker&hl=en&gl=us"
+    },
+    {
+        "title": "Hospitality by GladToHaveYou",
+        "icon": "https://lh3.googleusercontent.com/YAZ7Im2penb1IeJSlmLefN610MVZtzfQEJhyGjHKPtBPOKlhZWpS_4VTOY4-NbneqNk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 276,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Glad+to+Have+You,+Inc.",
+        "updated": "June 12, 2019",
+        "size": "24M",
+        "installs": "100,000+",
+        "current_version": "2019.1.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Glad to Have You, Inc.",
+        "developer_email": "support@gladtohaveyou.com",
+        "developer_url": "http://www.gladtohaveyou.com",
+        "developer_address": null,
+        "app_id": "com.gladtohaveyou.hospitality",
+        "url": "https://play.google.com/store/apps/details?id=com.gladtohaveyou.hospitality&hl=en&gl=us"
+    },
+    {
+        "title": "Super Digital Compass for Android 2019",
+        "icon": "https://lh3.googleusercontent.com/_WR1NkX-g-PNV3e7-0Zdpi84tXg_xOYxHH4VNnlCIUpRSoZFXWgWLY-jVPYurgzS8fA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/tRRKsV6sQFg",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 226,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Lizadon",
+        "updated": "July 17, 2019",
+        "size": "8.4M",
+        "installs": "10,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Lizadon",
+        "developer_email": "lizadon2x@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/17HDQOltvS1Cp22YYS2U2Ma3DEBeqP2cwQPLrOpI4nYc/edit?usp=sharing",
+        "developer_address": null,
+        "app_id": "app.digital.compass.master",
+        "url": "https://play.google.com/store/apps/details?id=app.digital.compass.master&hl=en&gl=us"
+    },
+    {
+        "title": "Cedar Point",
+        "icon": "https://lh3.googleusercontent.com/UQMW_PGitvGdLB4dhNduAY7lC9_enwpYdUL7y1zL41QhRA02hPxFeZQfORpGXWAIB0Ec",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1161,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Cedar+Fair+Entertainment+Company",
+        "updated": "July 19, 2019",
+        "size": "45M",
+        "installs": "100,000+",
+        "current_version": "7.18.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Cedar Fair Entertainment Company",
+        "developer_email": "mobileapp@cedarfair.com",
+        "developer_url": "https://www.cedarpoint.com/",
+        "developer_address": null,
+        "app_id": "com.cedarfair.cedarpoint",
+        "url": "https://play.google.com/store/apps/details?id=com.cedarfair.cedarpoint&hl=en&gl=us"
+    },
+    {
+        "title": "Find It, Fix It",
+        "icon": "https://lh3.googleusercontent.com/iPB4AhzGlkovUUCHIoLeEyALg3NaSnVrNjBc3e_Q8tgT49IFDryHJlgRDNwAuYmyDfY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "1.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 327,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "City+of+Seattle+Mobile+Dev",
+        "updated": "December 31, 2018",
+        "size": "6.1M",
+        "installs": "10,000+",
+        "current_version": "3.18.1 (1529)",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "City of Seattle Mobile Dev",
+        "developer_email": "mobile.web@seattle.gov",
+        "developer_url": "http://servicerequest.seattle.gov",
+        "developer_address": null,
+        "app_id": "gov.seattle.searequests",
+        "url": "https://play.google.com/store/apps/details?id=gov.seattle.searequests&hl=en&gl=us"
+    },
+    {
+        "title": "Skiplagged \u2014 Exclusive Flights & Hotels",
+        "icon": "https://lh3.googleusercontent.com/gIDCCr3xIKZtY-V_tq_ArPgHLLZxreDpPwaC447GF12MTSb2xP9iseNsTlETxE7Kbf5B",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15264,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Skiplagged",
+        "updated": "May 3, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Skiplagged",
+        "developer_email": "support@skiplagged.com",
+        "developer_url": "http://skiplagged.com",
+        "developer_address": null,
+        "app_id": "com.skiplagged",
+        "url": "https://play.google.com/store/apps/details?id=com.skiplagged&hl=en&gl=us"
+    },
+    {
+        "title": "Kum & Go",
+        "icon": "https://lh3.googleusercontent.com/jVkjm_FH9TloL7xQSdZ1jeOtgwRvRPX_gn9T3Of_OIjbhOMiRn41GnRc2tSpowgr-pg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2663,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Kum+%26+Go",
+        "updated": "June 12, 2019",
+        "size": "30M",
+        "installs": "500,000+",
+        "current_version": "2.2.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Kum & Go",
+        "developer_email": "customerrelations@kumandgo.com",
+        "developer_url": "https://www.kumandgo.com/rewards",
+        "developer_address": "1459 Grand Ave, Des Moines, IA 50309",
+        "app_id": "com.kumandgo.rewards",
+        "url": "https://play.google.com/store/apps/details?id=com.kumandgo.rewards&hl=en&gl=us"
+    },
+    {
+        "title": "Freebird Get Cash Back & Rewards on your Rideshare",
+        "icon": "https://lh3.googleusercontent.com/UHGjksAsk0t_Q5Gmw6jl3gmQtcCpkSAt_k58NELY9cmmtLz_UkQYjWl2gLh8214YVg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1002,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Freebird+Rides",
+        "updated": "July 22, 2019",
+        "size": "39M",
+        "installs": "100,000+",
+        "current_version": "5.4",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Freebird Rides",
+        "developer_email": "support@freebirdrides.com",
+        "developer_url": "https://www.freebirdrides.com",
+        "developer_address": "409 Santa Monica, Suite 2A, CA 90401",
+        "app_id": "com.freebirdrides.android",
+        "url": "https://play.google.com/store/apps/details?id=com.freebirdrides.android&hl=en&gl=us"
+    },
+    {
+        "title": "Speedbot. Free GPS/OBD2 Speedometer",
+        "icon": "https://lh3.googleusercontent.com/b68w_erxVcZ1hSbkZ_RftGqy93SAIpsyQ1AIumKeLfBAe2OPmENFYJDzCFrJ3FUstPc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/DYsSdiTmQhg",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3157,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "6250558401774233464",
+        "updated": "May 23, 2019",
+        "size": "6.1M",
+        "installs": "500,000+",
+        "current_version": "2.1",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Iteration Mobile & Vialsoft Apps",
+        "developer_email": "support@iteration-mobile.com",
+        "developer_url": "http://www.iteration-mobile.com/privacy/speedbot",
+        "developer_address": "c/Valparaiso n\u00ba2. 28941 Madrid",
+        "app_id": "com.vialsoft.speedbot_gps_obd_speedometer",
+        "url": "https://play.google.com/store/apps/details?id=com.vialsoft.speedbot_gps_obd_speedometer&hl=en&gl=us"
+    },
+    {
+        "title": "MGM Resorts",
+        "icon": "https://lh3.googleusercontent.com/5DWB4ZggHbcV5fiS8Id3MmEnU-zHUt0gvX-RGL-sQMRr6QAn4geSekHuI722TlVosuw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2271,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "MGM+Resorts+International",
+        "updated": "July 1, 2019",
+        "size": "9.4M",
+        "installs": "100,000+",
+        "current_version": "6.0.0-5",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "MGM Resorts International",
+        "developer_email": "app@mgmresorts.com",
+        "developer_url": "https://www.mgmresorts.com",
+        "developer_address": "3600 Las Vegas Blvd. South\nLas Vegas, NV 89109",
+        "app_id": "com.mgmresorts.mgmresorts",
+        "url": "https://play.google.com/store/apps/details?id=com.mgmresorts.mgmresorts&hl=en&gl=us"
+    },
+    {
+        "title": "Earth Map Live GPS, Street View Navigation Transit",
+        "icon": "https://lh3.googleusercontent.com/yKMNBTq9Onuio7xDooE30XynjsdIyrrn83RnK0CW3tlY1P_SCPFAVPqpDuPNMcZZGg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11931,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "appsclub",
+        "updated": "July 2, 2019",
+        "size": "7.4M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "appsclub",
+        "developer_email": "appsclubstudio@gmail.com",
+        "developer_url": "https://sites.google.com/view/apps-club/home",
+        "developer_address": "Office # 1,1st Floor, Plaza # 44 Linear Commercial Bahria Town Phase 8,Rawalpindi Pakistan",
+        "app_id": "com.appsclub.route.offline.navigation.localstreet.finder.satellite.free",
+        "url": "https://play.google.com/store/apps/details?id=com.appsclub.route.offline.navigation.localstreet.finder.satellite.free&hl=en&gl=us"
+    },
+    {
+        "title": "Avis Car Rental",
+        "icon": "https://lh3.googleusercontent.com/YPo8CrBD8j3z5HwBJKVLyhbL0CHrhgvTjuLadCBe5v6BlfPGbKwkUkYt2O73zDqs_RI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4578,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Avis+Budget+Group,+Inc.",
+        "updated": "July 11, 2019",
+        "size": "56M",
+        "installs": "500,000+",
+        "current_version": "9.1",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Avis Budget Group, Inc.",
+        "developer_email": "Mobile.Feedback@avisbudget.com",
+        "developer_url": "http://www.avis.com",
+        "developer_address": null,
+        "app_id": "com.avis.androidapp",
+        "url": "https://play.google.com/store/apps/details?id=com.avis.androidapp&hl=en&gl=us"
+    },
+    {
+        "title": "Translate Voice (Translator)",
+        "icon": "https://lh3.googleusercontent.com/ZmoOV8JzY8A4ta4ucs-OlI-SggYG6P7H18Dn3U9dffxysIqonYgeejb_gz1efwLYFQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29352,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "HawsoftMob+Inc.",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$4.99"
+        ],
+        "interactive_elements": null,
+        "developer": "HawsoftMob Inc.",
+        "developer_email": "feedback@hawsoft.com",
+        "developer_url": "http://www.hawsoft.com/trans/privacy/hawsoft_privacy.html",
+        "developer_address": "1-1505 Taebaek International,God Road\nJining,China.",
+        "app_id": "com.hawsoft.mobile.speechtrans",
+        "url": "https://play.google.com/store/apps/details?id=com.hawsoft.mobile.speechtrans&hl=en&gl=us"
+    },
+    {
+        "title": "The Flight Tracker Free",
+        "icon": "https://lh3.googleusercontent.com/2CVweyLSYDYvC5VINV1xjgwfUGT0RpnUcTk0wkZGFfyZgFpHrwm2_9j-TkbErQRpG1o",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/UiynuIUl1_k",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 15015,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7774746132611575805",
+        "updated": "July 8, 2019",
+        "size": "24M",
+        "installs": "1,000,000+",
+        "current_version": "2.3.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$13.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "Impala Studios",
+        "developer_email": "help@impalastudios.com",
+        "developer_url": "https://impalastudios.com/apps/the-flight-tracker-android",
+        "developer_address": "Leidsevaart 16\n2013 HA Haarlem\nThe Netherlands",
+        "app_id": "com.flistholding.flightplus",
+        "url": "https://play.google.com/store/apps/details?id=com.flistholding.flightplus&hl=en&gl=us"
+    },
+    {
+        "title": "Priority Pass\u2122",
+        "icon": "https://lh3.googleusercontent.com/i-zVdTqTKLIo4ljVPw9pr7ECPylwxbmB7f6woh7SawTzpgw59jwCHp3tuOnllzhdkd8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9399,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Priority+Pass",
+        "updated": "July 19, 2019",
+        "size": "83M",
+        "installs": "1,000,000+",
+        "current_version": "5.5.8",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Priority Pass",
+        "developer_email": "mobile@prioritypass.com",
+        "developer_url": "https://www.prioritypass.com/",
+        "developer_address": null,
+        "app_id": "com.prioritypass3",
+        "url": "https://play.google.com/store/apps/details?id=com.prioritypass3&hl=en&gl=us"
+    },
+    {
+        "title": "Google Trips - Travel Planner",
+        "icon": "https://lh3.googleusercontent.com/5-zpxQHVo8YfuavTJkqL0U35VPqbt4vddb7OKedrSX8AlyDhBqx6NFFd7WwZDUUf3Ic",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/ign2GmVEflw",
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 33637,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "July 3, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "1.14.0.255026476",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Google LLC",
+        "developer_email": "trips-app-support@googlegroups.com",
+        "developer_url": "https://google.com/trips",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.apps.travel.onthego",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.travel.onthego&hl=en&gl=us"
+    },
+    {
+        "title": "Cruise Norwegian \u2013 Vacation, Plan & Connect",
+        "icon": "https://lh3.googleusercontent.com/pJwkImmR2arLizdvCN5F1sovmSllxmlK4Jg-y_mkCQ2Ui1AoQml6B1w7Ar9AsbVf5Mw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1542,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "NCL+%28Bahamas%29+Ltd.,+a+Bermuda+Company",
+        "updated": "June 20, 2019",
+        "size": "35M",
+        "installs": "100,000+",
+        "current_version": "1.6.7 (6)",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "NCL (Bahamas) Ltd., a Bermuda Company",
+        "developer_email": "itsecurity62@gmail.com",
+        "developer_url": "http://www.ncl.com",
+        "developer_address": "7665 Corporate Center Drive, Miami, FL 33126",
+        "app_id": "com.ncl.bge",
+        "url": "https://play.google.com/store/apps/details?id=com.ncl.bge&hl=en&gl=us"
+    },
+    {
+        "title": "Wheels - Ride in Style",
+        "icon": "https://lh3.googleusercontent.com/as2phgQZYvd8kbtRW6OkGTJ_rwRj49D7YYZgjQpc1JPuCfp_c8VrBXheUzpItQoiHdE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 554,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Wheels",
+        "updated": "July 25, 2019",
+        "size": "26M",
+        "installs": "100,000+",
+        "current_version": "1.4.5",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wheels",
+        "developer_email": "support@getwheelsapp.com",
+        "developer_url": "https://www.getwheelsapp.com/privacy",
+        "developer_address": null,
+        "app_id": "com.getwheelsapp.wheels",
+        "url": "https://play.google.com/store/apps/details?id=com.getwheelsapp.wheels&hl=en&gl=us"
+    },
+    {
+        "title": "Volaris",
+        "icon": "https://lh3.googleusercontent.com/NrdlHaXqimUXbdn9hncZR5Wcq4bMLAsXw_0EjXGK7mElgxoN63thuliXHpgKd3qU0C8K",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11507,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Volaris",
+        "updated": "July 24, 2019",
+        "size": "36M",
+        "installs": "1,000,000+",
+        "current_version": "1.17.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Volaris",
+        "developer_email": "app@volaris.com",
+        "developer_url": "http://www.volaris.com",
+        "developer_address": null,
+        "app_id": "com.volaris.android",
+        "url": "https://play.google.com/store/apps/details?id=com.volaris.android&hl=en&gl=us"
+    },
+    {
+        "title": "MYmta",
+        "icon": "https://lh3.googleusercontent.com/PSrkEr__l409ZW8TNKoUDz34KjFeydspFhK0IQJnwdqOybudTF4LvW3B9_p96-i1Zg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1020,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Metropolitan+Transportation+Authority.",
+        "updated": "June 19, 2019",
+        "size": "21M",
+        "installs": "100,000+",
+        "current_version": "0.9.10",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Metropolitan Transportation Authority.",
+        "developer_email": "sohaib.mallick@mtahq.org",
+        "developer_url": "https://new.mta.info",
+        "developer_address": null,
+        "app_id": "info.mta.mymta",
+        "url": "https://play.google.com/store/apps/details?id=info.mta.mymta&hl=en&gl=us"
+    },
+    {
+        "title": "SeaWorld Discovery Guide",
+        "icon": "https://lh3.googleusercontent.com/SHY1-JPKQijMabVxOd_ZMC27YjteIIgDxAaeL39-M3948tKntASle6h0wkYroalnnQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3514,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SeaWorld+Parks+%26+Entertainment+Inc.",
+        "updated": "December 19, 2018",
+        "size": "2.6M",
+        "installs": "1,000,000+",
+        "current_version": "6.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SeaWorld Parks & Entertainment Inc.",
+        "developer_email": "AppSupport@SeaWorld.com",
+        "developer_url": "http://seaworld.com/",
+        "developer_address": "Guest Relations\nP.O. Box 690129\nOrlando, FL 32869\n(888) 800-5447",
+        "app_id": "com.seaworld.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.seaworld.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Hyatt Hotels",
+        "icon": "https://lh3.googleusercontent.com/J3nw29gHSAqsrrJ_g9nPb2RMLUMlelNTETYuEYI42fyvC_pWKjMv0BZkl4rLIocQd5Z3",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1578,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hyatt+Corporation",
+        "updated": "June 3, 2019",
+        "size": "82M",
+        "installs": "500,000+",
+        "current_version": "3.51",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hyatt Corporation",
+        "developer_email": "consumeraffairs@hyatt.com",
+        "developer_url": "http://www.hyatt.com",
+        "developer_address": null,
+        "app_id": "com.Hyatt.hyt",
+        "url": "https://play.google.com/store/apps/details?id=com.Hyatt.hyt&hl=en&gl=us"
+    },
+    {
+        "title": "stayconnect\u00ae",
+        "icon": "https://lh3.googleusercontent.com/MXea6HPYpdX__VztaclPhd04Ii8_5yvy5R9k2K6NJYmwqunbfvgJRyl0yxHi5D_RaQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "2.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1234,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "SONIFI+Solutions+Inc.",
+        "updated": "November 16, 2016",
+        "size": "5.9M",
+        "installs": "500,000+",
+        "current_version": "5.0.21",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "SONIFI Solutions Inc.",
+        "developer_email": "mobile@sonifi.com",
+        "developer_url": "http://www.sonifi.com",
+        "developer_address": "3900 W Innovation St.\nSioux Falls, SD  57107",
+        "app_id": "com.lodgenet",
+        "url": "https://play.google.com/store/apps/details?id=com.lodgenet&hl=en&gl=us"
+    },
+    {
+        "title": "My Elevation",
+        "icon": "https://lh3.googleusercontent.com/QFl8hxlSKmLUhxzq9UNjf7TYc4L-ZXjIDovP7-7Dg7gJZy6AmqCy3GmWPyOfuX7-ibY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10904,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RDH+Software",
+        "updated": "June 24, 2019",
+        "size": "4.7M",
+        "installs": "500,000+",
+        "current_version": "1.52",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Location"
+        ],
+        "developer": "RDH Software",
+        "developer_email": "rdhsoftware@gmail.com",
+        "developer_url": "https://rdhsoftware.com",
+        "developer_address": "Windsor, CT\nUSA",
+        "app_id": "com.rdh.mulligan.myelevation",
+        "url": "https://play.google.com/store/apps/details?id=com.rdh.mulligan.myelevation&hl=en&gl=us"
+    },
+    {
+        "title": "Roadtrippers - Trip Planner",
+        "icon": "https://lh3.googleusercontent.com/gw8yvnJYkEbJrmY74zv7UZuinvB3FAUZDapM1HjqWAczOpbCQCN87aurE5CZEBI48w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5084,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Roadtrippers",
+        "updated": "June 25, 2019",
+        "size": "16M",
+        "installs": "500,000+",
+        "current_version": "2.3.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$6.99",
+            "$29.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Roadtrippers",
+        "developer_email": "support@roadtrippers.com",
+        "developer_url": "https://roadtrippers.com",
+        "developer_address": "131 E McMicken Ave\nCincinnati, OH 45205",
+        "app_id": "com.roadtrippers",
+        "url": "https://play.google.com/store/apps/details?id=com.roadtrippers&hl=en&gl=us"
+    },
+    {
+        "title": "Guidebook",
+        "icon": "https://lh3.googleusercontent.com/OY4B11tu0Icm7MXVGqi36RLfdshmnxF_9wS3A8QZLfSfDHJGc-IgN_4Sg4Ls1z37ZQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3361,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Guidebook+Inc",
+        "updated": "July 25, 2019",
+        "size": "18M",
+        "installs": "1,000,000+",
+        "current_version": "7.9.2",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Guidebook Inc",
+        "developer_email": "support@guidebook.com",
+        "developer_url": "http://guidebook.com",
+        "developer_address": "Guidebook, Inc\n340 Bryant St, STE 400\nSan Francisco, CA 94107",
+        "app_id": "com.guidebook.android",
+        "url": "https://play.google.com/store/apps/details?id=com.guidebook.android&hl=en&gl=us"
+    },
+    {
+        "title": "Street View Map: Global Street Panorama, Satellite",
+        "icon": "https://lh3.googleusercontent.com/svMHWGqJnY7b9s1lnFgq6cm-Id84Qp4y4Wla_-bGatALmNlO6cQvBaH6IdxjRccZmNFD",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2229,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "GPS+Live+Street+view+%26+Maps+Navigation+Apps",
+        "updated": "May 27, 2019",
+        "size": "5.4M",
+        "installs": "500,000+",
+        "current_version": "1.0.10",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "GPS Live Street view & Maps Navigation Apps",
+        "developer_email": "onet9439@gmail.com",
+        "developer_url": "https://sites.google.com/view/touchone-apps/home",
+        "developer_address": "Pakistan",
+        "app_id": "com.streetview.penorama.liveearthmap",
+        "url": "https://play.google.com/store/apps/details?id=com.streetview.penorama.liveearthmap&hl=en&gl=us"
+    },
+    {
+        "title": "CheapTickets \u2013 Hotels, Flights & Travel Deals",
+        "icon": "https://lh3.googleusercontent.com/SSaB9ckHKykE_Efdc1I6-Ydv7y7Q3aFy2gk-9hR9z2sJDJQG2jlYVnhijx-xsgGb5hA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 7883,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "cheaptickets.com",
+        "updated": "July 22, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "19.29.0",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "cheaptickets.com",
+        "developer_email": "android@cheaptickets.com",
+        "developer_url": "http://www.cheaptickets.com",
+        "developer_address": null,
+        "app_id": "com.cheaptickets",
+        "url": "https://play.google.com/store/apps/details?id=com.cheaptickets&hl=en&gl=us"
+    },
+    {
+        "title": "MAPS.ME \u2013 Offline maps, guides and navigation",
+        "icon": "https://lh3.googleusercontent.com/oKYtzM3-esiEaEOsW4GiWf7UOgn5v3cKp_vQbtRrMaRYgGD83koZI0QZlQ44ap-8jC4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1074970,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5496590613422638755",
+        "updated": "July 3, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "9.1.8-Google",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$19.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "My.com B.V.",
+        "developer_email": "android@maps.me",
+        "developer_url": "http://maps.me",
+        "developer_address": "Barbara Strozzilaan 201, 1083 HN AMSTERDAM, Nederland",
+        "app_id": "com.mapswithme.maps.pro",
+        "url": "https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&hl=en&gl=us"
+    },
+    {
+        "title": "Razor Scooter Share",
+        "icon": "https://lh3.googleusercontent.com/Trpea8Qb52nRLg9EBeQnNa0VOoVA8DjvRPYHeHNZ-VppIPvlWMS2GC9iAw3dHRhrzjI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TRAVEL_AND_LOCAL"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 375,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Razor+USA",
+        "updated": "July 16, 2019",
+        "size": "4.5M",
+        "installs": "100,000+",
+        "current_version": "1.2.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Razor USA",
+        "developer_email": "shareapp@razorusa.com",
+        "developer_url": "https://www.razor.com/",
+        "developer_address": null,
+        "app_id": "com.razor.razor",
+        "url": "https://play.google.com/store/apps/details?id=com.razor.razor&hl=en&gl=us"
+    }
+]

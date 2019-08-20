@@ -19,8 +19,10 @@ from tqdm import tqdm
 
 # The countries to be considered. List of available countries is found here - https://github.com/danieliu/play-scraper/blob/master/play_scraper/constants.py#L87 
 countries = ['in', 'us']
+
 # The number of downloads considered. Top 100 apps are considered in this case.
 number_of_results = 100
+
 # Fetches the categories from 'get_categories()'
 categories = get_categories()
 downloads_per_country_per_category = {}
@@ -28,6 +30,7 @@ downloads_per_country_per_category = {}
 for category in tqdm(categories):
     downloads_per_country_by_category = {}
 
+    # Print the category that is being scraped
     tqdm.write('Category: %s ' % category)
 
     for country in countries:
@@ -51,6 +54,8 @@ for category in tqdm(categories):
                     
         # Find the sum of number of downloads for each country for each category.
         downloads_per_country_by_category[country] = sum(installs)
+        
+        # Print the country for the category that's being scraped
         tqdm.write('\tCountry: %s -> Done' % country)
     
     # Store the number of downloads ( in 1000s ) for each country and category in a dictionary.

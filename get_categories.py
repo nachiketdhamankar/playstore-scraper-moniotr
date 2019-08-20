@@ -1,3 +1,9 @@
+"""Stores all the categories supported by the play-store-scraper library
+
+Houses all the categories supported by the play-store-scraper (https://pypi.org/project/play-scraper/) as a dictionary.
+Created a seperate file for better readability.
+"""
+
 CATEGORIES = {
     "ANDROID_WEAR": "ANDROID_WEAR",
     "ART_AND_DESIGN": "ART_AND_DESIGN",
@@ -33,5 +39,12 @@ CATEGORIES = {
     "VIDEO_PLAYERS": "VIDEO_PLAYERS",
     "WEATHER": "WEATHER",
 }
+
+
+"""Returns a list of all categories supported by play-store-scraper library
+
+Returns a list of all the values of all the categories supported by the library (dictionary above)
+"""
+
 def get_categories():
     return list(CATEGORIES.values())

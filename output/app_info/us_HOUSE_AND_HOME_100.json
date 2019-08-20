@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 467383,
+        "reviews": 470180,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -24,10 +24,10 @@
         "free": true,
         "iap": false,
         "developer_id": "9009299467586107971",
-        "updated": "July 24, 2019",
+        "updated": "August 19, 2019",
         "size": "13M",
         "installs": "10,000,000+",
-        "current_version": "10.7.57.9197",
+        "current_version": "10.8.48.9303",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
@@ -59,7 +59,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 198686,
+        "reviews": 201175,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -68,10 +68,10 @@
         "free": true,
         "iap": false,
         "developer_id": "5789636307889897088",
-        "updated": "July 12, 2019",
-        "size": "21M",
+        "updated": "August 19, 2019",
+        "size": "25M",
         "installs": "10,000,000+",
-        "current_version": "9.7.2",
+        "current_version": "9.9.0",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
@@ -101,7 +101,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 192076,
+        "reviews": 192844,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -110,7 +110,7 @@
         "free": true,
         "iap": false,
         "developer_id": "7989523405042027763",
-        "updated": "July 15, 2019",
+        "updated": "August 13, 2019",
         "size": "Varies with device",
         "installs": "10,000,000+",
         "current_version": "Varies with device",
@@ -145,7 +145,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 187016,
+        "reviews": 188402,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -154,10 +154,10 @@
         "free": true,
         "iap": false,
         "developer_id": "4664062132977048345",
-        "updated": "June 17, 2019",
+        "updated": "August 5, 2019",
         "size": "11M",
         "installs": "50,000,000+",
-        "current_version": "1.0.67",
+        "current_version": "1.0.68",
         "required_android_version": "4.2 and up",
         "content_rating": [
             "Everyone"
@@ -170,6 +170,50 @@
         "developer_address": "CodeMatics Inc., Office no. 14, KPK IT Park",
         "app_id": "codematics.universal.tv.remote.control",
         "url": "https://play.google.com/store/apps/details?id=codematics.universal.tv.remote.control&hl=en&gl=us"
+    },
+    {
+        "title": "HomeAdvisor: Contractors for Home Improvement",
+        "icon": "https://lh3.googleusercontent.com/yodc-6g4OMbZENEmCxYZmME393pajmsOK-wA4ECDpInucOjcBdZJgBj0gJgx4gRwJSM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9222,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7362938701606542071",
+        "updated": "August 19, 2019",
+        "size": "40M",
+        "installs": "1,000,000+",
+        "current_version": "9.5.0.11",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "HomeAdvisor.com",
+        "developer_email": "mobilefeedback@homeadvisor.com",
+        "developer_url": "http://www.homeadvisor.com",
+        "developer_address": "HomeAdvisor, Inc.\n14023 Denver West Pkwy\nBldg. 64\nGolden, CO 80401",
+        "app_id": "com.servicemagic.consumer",
+        "url": "https://play.google.com/store/apps/details?id=com.servicemagic.consumer&hl=en&gl=us"
     },
     {
         "title": "Apartments.com Rental Search",
@@ -187,7 +231,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 24159,
+        "reviews": 24256,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -196,10 +240,10 @@
         "free": true,
         "iap": false,
         "developer_id": "Apartments.com",
-        "updated": "July 10, 2019",
+        "updated": "July 31, 2019",
         "size": "14M",
         "installs": "1,000,000+",
-        "current_version": "4.8.18",
+        "current_version": "4.8.19",
         "required_android_version": "4.4 and up",
         "content_rating": [
             "Everyone"
@@ -214,50 +258,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.apartments.mobile.android&hl=en&gl=us"
     },
     {
-        "title": "HomeAdvisor: Contractors for Home Improvement",
-        "icon": "https://lh3.googleusercontent.com/yodc-6g4OMbZENEmCxYZmME393pajmsOK-wA4ECDpInucOjcBdZJgBj0gJgx4gRwJSM",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.1",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 8903,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "7362938701606542071",
-        "updated": "July 24, 2019",
-        "size": "40M",
-        "installs": "1,000,000+",
-        "current_version": "9.4.0.10",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "HomeAdvisor.com",
-        "developer_email": "mobilefeedback@homeadvisor.com",
-        "developer_url": "http://www.homeadvisor.com",
-        "developer_address": "HomeAdvisor, Inc.\n14023 Denver West Pkwy\nBldg. 64\nGolden, CO 80401",
-        "app_id": "com.servicemagic.consumer",
-        "url": "https://play.google.com/store/apps/details?id=com.servicemagic.consumer&hl=en&gl=us"
-    },
-    {
         "title": "Apartments & Rentals - Zillow",
         "icon": "https://lh3.googleusercontent.com/T7E-9RLegBYL8nzOO_SLfUm-xnzEgCwQ1O95FJxJBKXSpONevcoyzI9OUywr_5d2SJO7",
         "screenshots": [],
@@ -265,7 +265,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.2",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -273,7 +273,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 29976,
+        "reviews": 30173,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -282,7 +282,7 @@
         "free": true,
         "iap": false,
         "developer_id": "9009299467586107971",
-        "updated": "June 7, 2019",
+        "updated": "July 31, 2019",
         "size": "Varies with device",
         "installs": "5,000,000+",
         "current_version": "Varies with device",
@@ -302,50 +302,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.zillow.android.rentals&hl=en&gl=us"
     },
     {
-        "title": "Thumbtack: Find professionals for any project",
-        "icon": "https://lh3.googleusercontent.com/FJoh3I7HBr1V2qIdd7vNJag0IvXneSj3mGUPDCDZS6M540jMo-lb2PXzkkhCjv_R7N8",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 3451,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Thumbtack",
-        "updated": "July 23, 2019",
-        "size": "Varies with device",
-        "installs": "1,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact, Shares Info"
-        ],
-        "developer": "Thumbtack",
-        "developer_email": "support@thumbtack.com",
-        "developer_url": "http://www.thumbtack.com",
-        "developer_address": "1355 Market St. Suite 600\nSan Francisco, CA 94103",
-        "app_id": "com.thumbtack.consumer",
-        "url": "https://play.google.com/store/apps/details?id=com.thumbtack.consumer&hl=en&gl=us"
-    },
-    {
         "title": "Apartment List: Housing, Apt, and Property Rentals",
         "icon": "https://lh3.googleusercontent.com/p0IrMK3Bn-9lnt8iKFHAUhHYEEOD_1KYwtwXoMBg1mRUOFf5YLnCuv5n6Z1NGytAlA",
         "screenshots": [],
@@ -361,7 +317,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 18845,
+        "reviews": 19615,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -370,10 +326,10 @@
         "free": true,
         "iap": false,
         "developer_id": "Apartment+List",
-        "updated": "July 3, 2019",
-        "size": "8.7M",
+        "updated": "August 3, 2019",
+        "size": "10M",
         "installs": "1,000,000+",
-        "current_version": "2.18.1",
+        "current_version": "2.20.1",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
@@ -405,7 +361,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 43900,
+        "reviews": 44438,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -414,10 +370,10 @@
         "free": true,
         "iap": false,
         "developer_id": "7464504255455326526",
-        "updated": "July 24, 2019",
+        "updated": "August 15, 2019",
         "size": "14M",
         "installs": "1,000,000+",
-        "current_version": "272.0",
+        "current_version": "274.3",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
@@ -434,14 +390,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.redfin.android&hl=en&gl=us"
     },
     {
-        "title": "Alfred Home Security Camera, Baby&Pet Monitor CCTV",
-        "icon": "https://lh3.googleusercontent.com/oU4_xe5WsbXpTa2iFfrO1hHkbi6XwD57lmbQE4IMjZJixMrfvlfUnGvnIhChHlIoWg",
+        "title": "Thumbtack: Find professionals for any project",
+        "icon": "https://lh3.googleusercontent.com/FJoh3I7HBr1V2qIdd7vNJag0IvXneSj3mGUPDCDZS6M540jMo-lb2PXzkkhCjv_R7N8",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.6",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -449,7 +405,51 @@
             "2": null,
             "1": null
         },
-        "reviews": 231098,
+        "reviews": 3654,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Thumbtack",
+        "updated": "August 20, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Thumbtack",
+        "developer_email": "support@thumbtack.com",
+        "developer_url": "http://www.thumbtack.com",
+        "developer_address": "1355 Market St. Suite 600\nSan Francisco, CA 94103",
+        "app_id": "com.thumbtack.consumer",
+        "url": "https://play.google.com/store/apps/details?id=com.thumbtack.consumer&hl=en&gl=us"
+    },
+    {
+        "title": "Alfred Home Security Camera, Baby&Pet Monitor CCTV",
+        "icon": "https://lh3.googleusercontent.com/oU4_xe5WsbXpTa2iFfrO1hHkbi6XwD57lmbQE4IMjZJixMrfvlfUnGvnIhChHlIoWg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 239260,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -458,10 +458,10 @@
         "free": true,
         "iap": true,
         "developer_id": "6938192309608563274",
-        "updated": "July 24, 2019",
+        "updated": "August 14, 2019",
         "size": "Varies with device",
         "installs": "10,000,000+",
-        "current_version": "4.1.12 (build 2026)",
+        "current_version": "4.2.2 (build 2112)",
         "required_android_version": "Varies with device",
         "content_rating": [
             "Everyone"
@@ -470,7 +470,9 @@
             "$1.99",
             "$47.99"
         ],
-        "interactive_elements": null,
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
         "developer": "Alfred Labs Inc.",
         "developer_email": "support@alfred.camera",
         "developer_url": "https://alfred.camera",
@@ -482,7 +484,7 @@
         "title": "Vivint Smart Home",
         "icon": "https://lh3.googleusercontent.com/w5VQz2_nu_X2mKAW92fKRpzpfcF5xjRA0Eee8rUmlrHRBB3Re50b3NpsP8uEZ52qKCg",
         "screenshots": [],
-        "video": "https://www.youtube.com/embed/FSHJK-WADzw",
+        "video": "https://www.youtube.com/embed/oR1CmrUEkMc",
         "category": [
             "HOUSE_AND_HOME"
         ],
@@ -494,7 +496,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 56428,
+        "reviews": 58023,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -503,7 +505,7 @@
         "free": true,
         "iap": false,
         "developer_id": "Vivint+Home",
-        "updated": "July 22, 2019",
+        "updated": "August 12, 2019",
         "size": "Varies with device",
         "installs": "1,000,000+",
         "current_version": "Varies with device",
@@ -521,6 +523,94 @@
         "url": "https://play.google.com/store/apps/details?id=com.vivint.vivintsky&hl=en&gl=us"
     },
     {
+        "title": "Takl - Home Services On Demand",
+        "icon": "https://lh3.googleusercontent.com/4vX4jb3DNkmFHAJQ2_DSBRanC32kCo9SZR6WWlDBcQsUv6xAxC2838rw4lGXwSA2Gw",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/Xz7ROvPK0c0",
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3371,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Takl,+Inc.",
+        "updated": "August 14, 2019",
+        "size": "23M",
+        "installs": "500,000+",
+        "current_version": "6.21.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Shares Location"
+        ],
+        "developer": "Takl, Inc.",
+        "developer_email": "support@takl.com",
+        "developer_url": "http://www.takl.com",
+        "developer_address": null,
+        "app_id": "com.takl",
+        "url": "https://play.google.com/store/apps/details?id=com.takl&hl=en&gl=us"
+    },
+    {
+        "title": "Houzz - Home Design & Remodel",
+        "icon": "https://lh3.googleusercontent.com/NJgFjc5QalIzaAzYPAfc93A1j0U9JOBfjHtattMoFA2D8JgzS0JYut63zzFfMpTFodA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 376782,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Houzz",
+        "updated": "August 19, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Houzz",
+        "developer_email": "android@houzz.com",
+        "developer_url": "http://www.houzz.com",
+        "developer_address": null,
+        "app_id": "com.houzz.app",
+        "url": "https://play.google.com/store/apps/details?id=com.houzz.app&hl=en&gl=us"
+    },
+    {
         "title": "HotPads Apartments & Home Rentals",
         "icon": "https://lh3.googleusercontent.com/ai59SUHSVORhaj3dQKo0XZSdbTR2rdnu3vgYJy_iKlezS8oYwBYn96tAM2jsbawh6B4",
         "screenshots": [],
@@ -536,7 +626,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 27640,
+        "reviews": 27703,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -545,10 +635,10 @@
         "free": true,
         "iap": false,
         "developer_id": "HotPads",
-        "updated": "July 12, 2019",
+        "updated": "August 12, 2019",
         "size": "10M",
         "installs": "1,000,000+",
-        "current_version": "5.4.6",
+        "current_version": "5.4.7",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
@@ -580,7 +670,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 74983,
+        "reviews": 75127,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -589,7 +679,7 @@
         "free": true,
         "iap": false,
         "developer_id": "7989523405042027763",
-        "updated": "July 15, 2019",
+        "updated": "August 13, 2019",
         "size": "Varies with device",
         "installs": "5,000,000+",
         "current_version": "Varies with device",
@@ -609,94 +699,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.trulia.android.rentals&hl=en&gl=us"
     },
     {
-        "title": "Houzz - Home Design & Remodel",
-        "icon": "https://lh3.googleusercontent.com/NJgFjc5QalIzaAzYPAfc93A1j0U9JOBfjHtattMoFA2D8JgzS0JYut63zzFfMpTFodA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 375929,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": true,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Houzz",
-        "updated": "July 25, 2019",
-        "size": "Varies with device",
-        "installs": "10,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Houzz",
-        "developer_email": "android@houzz.com",
-        "developer_url": "http://www.houzz.com",
-        "developer_address": null,
-        "app_id": "com.houzz.app",
-        "url": "https://play.google.com/store/apps/details?id=com.houzz.app&hl=en&gl=us"
-    },
-    {
-        "title": "Takl - Home Services On Demand",
-        "icon": "https://lh3.googleusercontent.com/4vX4jb3DNkmFHAJQ2_DSBRanC32kCo9SZR6WWlDBcQsUv6xAxC2838rw4lGXwSA2Gw",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/Xz7ROvPK0c0",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 3266,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Takl,+Inc.",
-        "updated": "July 1, 2019",
-        "size": "23M",
-        "installs": "500,000+",
-        "current_version": "6.21",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact, Shares Info, Shares Location"
-        ],
-        "developer": "Takl, Inc.",
-        "developer_email": "support@takl.com",
-        "developer_url": "http://www.takl.com",
-        "developer_address": null,
-        "app_id": "com.takl",
-        "url": "https://play.google.com/store/apps/details?id=com.takl&hl=en&gl=us"
-    },
-    {
         "title": "ColorSnap\u00ae Visualizer",
         "icon": "https://lh3.googleusercontent.com/eDHI7UbJtkKVofxN8uyDesyIma6byawP2YdcMtNduo6ArjA_54jY3Hc_AD_2UwA5ii4",
         "screenshots": [],
@@ -712,7 +714,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3865,
+        "reviews": 3912,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -756,7 +758,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 49229,
+        "reviews": 49621,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -774,10 +776,10 @@
             "Everyone"
         ],
         "iap_range": [
-            "Users Interact, Digital Purchases"
+            "Users Interact, In-App Purchases"
         ],
         "interactive_elements": [
-            "Users Interact, Digital Purchases"
+            "Users Interact, In-App Purchases"
         ],
         "developer": "WardenCam360 - Home Security, Video Monitoring",
         "developer_email": "support@wardencam360.com",
@@ -802,7 +804,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 18558,
+        "reviews": 19169,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -811,10 +813,10 @@
         "free": true,
         "iap": false,
         "developer_id": "4627781897658415798",
-        "updated": "July 17, 2019",
-        "size": "10M",
+        "updated": "August 12, 2019",
+        "size": "11M",
         "installs": "1,000,000+",
-        "current_version": "4.6.16",
+        "current_version": "4.6.18",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
@@ -831,137 +833,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.zumper.rentals&hl=en&gl=us"
     },
     {
-        "title": "Home Design 3D - FREEMIUM",
-        "icon": "https://lh3.googleusercontent.com/hZA82S0nNQM5DMDTXFKD5adi6Sg45mo4vHdMTKt89hQCPu1sVUiUYVzBPdkwpieYdA",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/9VArlkLfDsM",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 302874,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Anuman",
-        "updated": "March 7, 2019",
-        "size": "19M",
-        "installs": "10,000,000+",
-        "current_version": "4.3.4",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$0.99",
-            "$19.99"
-        ],
-        "interactive_elements": null,
-        "developer": "Anuman",
-        "developer_email": "support@homedesign3d.net",
-        "developer_url": "https://en.homedesign3d.net/",
-        "developer_address": "ANUMAN Interactive\n57, RUE GASTON TESSIER\nCS 50061\n75166 PARIS\nFRANCE",
-        "app_id": "fr.anuman.HomeDesign3D",
-        "url": "https://play.google.com/store/apps/details?id=fr.anuman.HomeDesign3D&hl=en&gl=us"
-    },
-    {
-        "title": "Homesnap Real Estate & Rentals",
-        "icon": "https://lh3.googleusercontent.com/zEepw3atIt_mUxbDMnbxlUSeOiBCPOTzseh4x3uAWRfRs6i4AHjcz5SbatB3_lEjR6o",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 4385,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Homesnap",
-        "updated": "July 10, 2019",
-        "size": "17M",
-        "installs": "500,000+",
-        "current_version": "5.20.99",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Homesnap",
-        "developer_email": "support@homesnap.com",
-        "developer_url": "http://www.homesnap.com",
-        "developer_address": "7200 Wisconsin Ave #200\nBethesda, MD 20814",
-        "app_id": "com.homesnap",
-        "url": "https://play.google.com/store/apps/details?id=com.homesnap&hl=en&gl=us"
-    },
-    {
-        "title": "Remote for ROKU TVs / Devices : Codematics",
-        "icon": "https://lh3.googleusercontent.com/IMS8Q_VGwU-5DAAToL_UFUCMJfjvZ5dbCf_3oWKHwZjghfi2fEORypnKV5IYyN9woEE",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 62,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "4664062132977048345",
-        "updated": "January 20, 2019",
-        "size": "3.8M",
-        "installs": "10,000+",
-        "current_version": "1.2",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "CodeMatics Media Solutions",
-        "developer_email": "malikahsanali252@gmail.com",
-        "developer_url": "http://www.codematics.co",
-        "developer_address": "CodeMatics Inc., Office no. 14, KPK IT Park",
-        "app_id": "codematics.roku.smart.rokutvremote.tvremote",
-        "url": "https://play.google.com/store/apps/details?id=codematics.roku.smart.rokutvremote.tvremote&hl=en&gl=us"
-    },
-    {
         "title": "SURE - Smart Home and TV Universal Remote",
         "icon": "https://lh3.googleusercontent.com/j727R0B7APcDJBdL4AHFidqvceiOxK5gYh3RucIxFAVkqrgwt3PKRGAbUdsP4Ft_KNI",
         "screenshots": [],
@@ -969,7 +840,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.3",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -977,7 +848,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 221657,
+        "reviews": 222473,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1009,14 +880,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.tekoia.sure.activities&hl=en&gl=us"
     },
     {
-        "title": "ecobee",
-        "icon": "https://lh3.googleusercontent.com/JUpoMaUbGEnGJ2x0xiR8cp3GNK76wuh2dcLGZoWXpxG6sWLubetqJTbKExgBSPj39WWz",
+        "title": "Home Design 3D - FREEMIUM",
+        "icon": "https://lh3.googleusercontent.com/hZA82S0nNQM5DMDTXFKD5adi6Sg45mo4vHdMTKt89hQCPu1sVUiUYVzBPdkwpieYdA",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/9VArlkLfDsM",
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.7",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1024,7 +895,136 @@
             "2": null,
             "1": null
         },
-        "reviews": 5103,
+        "reviews": 306301,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Anuman",
+        "updated": "March 7, 2019",
+        "size": "19M",
+        "installs": "10,000,000+",
+        "current_version": "4.3.4",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$19.99"
+        ],
+        "interactive_elements": null,
+        "developer": "Anuman",
+        "developer_email": "support@homedesign3d.net",
+        "developer_url": "https://en.homedesign3d.net/",
+        "developer_address": "ANUMAN Interactive\n57, RUE GASTON TESSIER\nCS 50061\n75166 PARIS\nFRANCE",
+        "app_id": "fr.anuman.HomeDesign3D",
+        "url": "https://play.google.com/store/apps/details?id=fr.anuman.HomeDesign3D&hl=en&gl=us"
+    },
+    {
+        "title": "Opendoor Homes & Real Estate",
+        "icon": "https://lh3.googleusercontent.com/cbpWjCTsvzq9Phm3oDEQavsmhB-nBrpGjoLYe1AKNJ9M2-YSyP2RkGC4-FfEtHDLA9Yg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "2.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 326,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Opendoor+Labs,+LLC",
+        "updated": "August 16, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "59.0.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Opendoor Labs, LLC",
+        "developer_email": "contact@opendoor.com",
+        "developer_url": "http://www.opendoor.com",
+        "developer_address": null,
+        "app_id": "com.opendoor.buyerapp",
+        "url": "https://play.google.com/store/apps/details?id=com.opendoor.buyerapp&hl=en&gl=us"
+    },
+    {
+        "title": "Remote for ROKU TVs / Devices : Codematics",
+        "icon": "https://lh3.googleusercontent.com/IMS8Q_VGwU-5DAAToL_UFUCMJfjvZ5dbCf_3oWKHwZjghfi2fEORypnKV5IYyN9woEE",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 88,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4664062132977048345",
+        "updated": "January 20, 2019",
+        "size": "3.8M",
+        "installs": "50,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CodeMatics Media Solutions",
+        "developer_email": "malikahsanali252@gmail.com",
+        "developer_url": "http://www.codematics.co",
+        "developer_address": "CodeMatics Inc., Office no. 14, KPK IT Park",
+        "app_id": "codematics.roku.smart.rokutvremote.tvremote",
+        "url": "https://play.google.com/store/apps/details?id=codematics.roku.smart.rokutvremote.tvremote&hl=en&gl=us"
+    },
+    {
+        "title": "ecobee",
+        "icon": "https://lh3.googleusercontent.com/JUpoMaUbGEnGJ2x0xiR8cp3GNK76wuh2dcLGZoWXpxG6sWLubetqJTbKExgBSPj39WWz",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5307,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1033,7 +1033,7 @@
         "free": true,
         "iap": false,
         "developer_id": "ecobee+inc.",
-        "updated": "July 24, 2019",
+        "updated": "August 13, 2019",
         "size": "Varies with device",
         "installs": "500,000+",
         "current_version": "Varies with device",
@@ -1051,14 +1051,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.ecobee.athenamobile&hl=en&gl=us"
     },
     {
-        "title": "GrowIt!",
-        "icon": "https://lh3.googleusercontent.com/D-vpty6yAPGRH3hqIxYgrz2waDnaAW4p4D1i7Q4EwdTR6c_Hv9m92IeTkhpGa1ETYGI",
+        "title": "Homesnap Real Estate & Rentals",
+        "icon": "https://lh3.googleusercontent.com/zEepw3atIt_mUxbDMnbxlUSeOiBCPOTzseh4x3uAWRfRs6i4AHjcz5SbatB3_lEjR6o",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.6",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1066,7 +1066,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1466,
+        "reviews": 4418,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1074,12 +1074,12 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "Ball+Horticultural",
-        "updated": "June 26, 2019",
-        "size": "Varies with device",
+        "developer_id": "Homesnap",
+        "updated": "August 15, 2019",
+        "size": "17M",
         "installs": "500,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
+        "current_version": "5.21.3",
+        "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
         ],
@@ -1087,12 +1087,140 @@
         "interactive_elements": [
             "Users Interact"
         ],
-        "developer": "Ball Horticultural",
-        "developer_email": "community@growitmobile.com",
-        "developer_url": "http://growitmobile.com",
+        "developer": "Homesnap",
+        "developer_email": "support@homesnap.com",
+        "developer_url": "http://www.homesnap.com",
+        "developer_address": "7200 Wisconsin Ave #200\nBethesda, MD 20814",
+        "app_id": "com.homesnap",
+        "url": "https://play.google.com/store/apps/details?id=com.homesnap&hl=en&gl=us"
+    },
+    {
+        "title": "Momentum",
+        "icon": "https://lh3.googleusercontent.com/dVKUt8pFLMG0PLmUSUwxnXfe88jda2B55ZtfTd2DUu_26vmyZHK8T6r548fDjKyQ2A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 5633,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Apollo+Tech+USA+Inc.",
+        "updated": "July 31, 2019",
+        "size": "91M",
+        "installs": "100,000+",
+        "current_version": "1.9.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Apollo Tech USA Inc.",
+        "developer_email": "help@momentumcam.com",
+        "developer_url": "http://momentumcam.com",
         "developer_address": null,
-        "app_id": "com.growitmobile.growit",
-        "url": "https://play.google.com/store/apps/details?id=com.growitmobile.growit&hl=en&gl=us"
+        "app_id": "com.pepper.momentum",
+        "url": "https://play.google.com/store/apps/details?id=com.pepper.momentum&hl=en&gl=us"
+    },
+    {
+        "title": "Free Foreclosure Home Search by USHUD.com",
+        "icon": "https://lh3.googleusercontent.com/hXod3DOHnv_Z6Vb-JqpkIeWdXNtMyOZlrWTATwqib_xjVFisOu4xpNslccG5o0zLwr8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 523,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8673298698858741679",
+        "updated": "June 24, 2019",
+        "size": "22M",
+        "installs": "100,000+",
+        "current_version": "2.5.8",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "Heavy Hammer",
+        "developer_email": "mobileapps@heavyhammer.com",
+        "developer_url": "http://www.heavyhammer.com",
+        "developer_address": "65 Old Solomons Island Road Suite #208, Annapolis, MD, 21401",
+        "app_id": "com.heavyhammer.ushud",
+        "url": "https://play.google.com/store/apps/details?id=com.heavyhammer.ushud&hl=en&gl=us"
+    },
+    {
+        "title": "ECOVACS HOME",
+        "icon": "https://lh3.googleusercontent.com/umg-uvOwQ6oR1l1E7hNHEHGemYD_wGxPKyYGUN0O1Pi1BASslXjEzQ8uffSVNvvQqOY",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "2.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 882,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ECOVACS+ROBOTICS",
+        "updated": "August 16, 2019",
+        "size": "59M",
+        "installs": "100,000+",
+        "current_version": "1.1.8",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ECOVACS ROBOTICS",
+        "developer_email": "Intl-Google@ecovacs.com",
+        "developer_url": "https://gl-us-wap.ecovacs.com/content/agreement?id=20180428074332_62d73d9df4ce483601f04a3b54943570",
+        "developer_address": null,
+        "app_id": "com.eco.global.app",
+        "url": "https://play.google.com/store/apps/details?id=com.eco.global.app&hl=en&gl=us"
     },
     {
         "title": "Rent.com Apartment Homes",
@@ -1102,7 +1230,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.0",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1110,7 +1238,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8363,
+        "reviews": 8424,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1137,14 +1265,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.rent&hl=en&gl=us"
     },
     {
-        "title": "ECOVACS HOME",
-        "icon": "https://lh3.googleusercontent.com/umg-uvOwQ6oR1l1E7hNHEHGemYD_wGxPKyYGUN0O1Pi1BASslXjEzQ8uffSVNvvQqOY",
+        "title": "Universal TV Remote",
+        "icon": "https://lh3.googleusercontent.com/C6ZM-HFui_3Sp7Os4LjBtrINaJY76Ngv5gaQ_VBSWPxBa4K4R67kLYx3-KYxgF9KNqg",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "2.4",
+        "score": "3.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1152,117 +1280,35 @@
             "2": null,
             "1": null
         },
-        "reviews": 646,
+        "reviews": 38334,
         "description": null,
         "description_html": null,
         "recent_changes": null,
         "editors_choice": false,
         "price": "0",
         "free": true,
-        "iap": false,
-        "developer_id": "ECOVACS+ROBOTICS",
-        "updated": "July 11, 2019",
-        "size": "59M",
-        "installs": "50,000+",
-        "current_version": "1.1.8",
-        "required_android_version": "4.3 and up",
+        "iap": true,
+        "developer_id": "7933499191242873783",
+        "updated": "July 4, 2019",
+        "size": "4.4M",
+        "installs": "5,000,000+",
+        "current_version": "12.45",
+        "required_android_version": "4.0 and up",
         "content_rating": [
             "Everyone"
         ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "ECOVACS ROBOTICS",
-        "developer_email": "Intl-Google@ecovacs.com",
-        "developer_url": "https://gl-us-wap.ecovacs.com/content/agreement?id=20180428074332_62d73d9df4ce483601f04a3b54943570",
-        "developer_address": null,
-        "app_id": "com.eco.global.app",
-        "url": "https://play.google.com/store/apps/details?id=com.eco.global.app&hl=en&gl=us"
-    },
-    {
-        "title": "Opendoor Homes & Real Estate",
-        "icon": "https://lh3.googleusercontent.com/cbpWjCTsvzq9Phm3oDEQavsmhB-nBrpGjoLYe1AKNJ9M2-YSyP2RkGC4-FfEtHDLA9Yg",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
+        "iap_range": [
+            "Users Interact"
         ],
-        "score": "3.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 333,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Opendoor+Labs,+LLC",
-        "updated": "July 25, 2019",
-        "size": "10M",
-        "installs": "100,000+",
-        "current_version": "54.0.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Opendoor Labs, LLC",
-        "developer_email": "contact@opendoor.com",
-        "developer_url": "http://www.opendoor.com",
-        "developer_address": null,
-        "app_id": "com.opendoor.buyerapp",
-        "url": "https://play.google.com/store/apps/details?id=com.opendoor.buyerapp&hl=en&gl=us"
-    },
-    {
-        "title": "Online Portal by AppFolio",
-        "icon": "https://lh3.googleusercontent.com/5icz9hKTFa-ZQwPO_V7KFgE2nOnANxbIS1G1z3GLrrpVSc3Agf4D-npyVesicBazwok",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.0",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 188,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "6409979379413406734",
-        "updated": "June 25, 2019",
-        "size": "12M",
-        "installs": "100,000+",
-        "current_version": "0.7.0",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
         "interactive_elements": [
             "Users Interact"
         ],
-        "developer": "AppFolio, Inc.",
-        "developer_email": "online-portal@appfolio.com",
-        "developer_url": "https://www.appfolio.com",
-        "developer_address": "50 Castilian Dr.\nGoleta, CA 93117",
-        "app_id": "com.appfolio.resident_portal",
-        "url": "https://play.google.com/store/apps/details?id=com.appfolio.resident_portal&hl=en&gl=us"
+        "developer": "WaveSpark",
+        "developer_email": "mobilemoviesandtv@gmail.com",
+        "developer_url": "http://www.iruniversalremote.com/towers",
+        "developer_address": "3350 S Kenton St Unit 3115\nDenver, CO 80014",
+        "app_id": "com.freeirtv",
+        "url": "https://play.google.com/store/apps/details?id=com.freeirtv&hl=en&gl=us"
     },
     {
         "title": "Homes for Sale, Rent - Real Estate",
@@ -1280,7 +1326,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6651,
+        "reviews": 6681,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1307,14 +1353,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.homes.homesdotcom&hl=en&gl=us"
     },
     {
-        "title": "Momentum",
-        "icon": "https://lh3.googleusercontent.com/dVKUt8pFLMG0PLmUSUwxnXfe88jda2B55ZtfTd2DUu_26vmyZHK8T6r548fDjKyQ2A",
+        "title": "NoCable - OTA Antenna & TV Guide",
+        "icon": "https://lh3.googleusercontent.com/iITEX2xkUAWJUFiuRgc1r7RiHwr1NnMtv4RHitdOoGx-_ZkUHle8Tp5CvvAqun7jtw",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.9",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1322,7 +1368,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5364,
+        "reviews": 1236,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1330,23 +1376,67 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "Apollo+Tech+USA+Inc.",
-        "updated": "June 12, 2019",
-        "size": "91M",
+        "developer_id": "NoCable",
+        "updated": "July 15, 2018",
+        "size": "20M",
         "installs": "100,000+",
-        "current_version": "1.8.6",
+        "current_version": "1.4.1",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "Apollo Tech USA Inc.",
-        "developer_email": "help@momentumcam.com",
-        "developer_url": "http://momentumcam.com",
+        "developer": "NoCable",
+        "developer_email": "support@nocable.org",
+        "developer_url": "https://nocable.org",
         "developer_address": null,
-        "app_id": "com.pepper.momentum",
-        "url": "https://play.google.com/store/apps/details?id=com.pepper.momentum&hl=en&gl=us"
+        "app_id": "org.nocable.android",
+        "url": "https://play.google.com/store/apps/details?id=org.nocable.android&hl=en&gl=us"
+    },
+    {
+        "title": "Online Portal by AppFolio",
+        "icon": "https://lh3.googleusercontent.com/5icz9hKTFa-ZQwPO_V7KFgE2nOnANxbIS1G1z3GLrrpVSc3Agf4D-npyVesicBazwok",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 220,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6409979379413406734",
+        "updated": "August 6, 2019",
+        "size": "23M",
+        "installs": "100,000+",
+        "current_version": "0.8.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "AppFolio, Inc.",
+        "developer_email": "online-portal@appfolio.com",
+        "developer_url": "https://www.appfolio.com",
+        "developer_address": "50 Castilian Dr.\nGoleta, CA 93117",
+        "app_id": "com.appfolio.resident_portal",
+        "url": "https://play.google.com/store/apps/details?id=com.appfolio.resident_portal&hl=en&gl=us"
     },
     {
         "title": "Find footprints of paths prank",
@@ -1356,7 +1446,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.2",
+        "score": "3.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1364,7 +1454,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 643,
+        "reviews": 680,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1398,7 +1488,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1406,7 +1496,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6106,
+        "reviews": 6327,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1436,94 +1526,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.code.bluegeny.myhomeview&hl=en&gl=us"
     },
     {
-        "title": "Free Foreclosure Home Search by USHUD.com",
-        "icon": "https://lh3.googleusercontent.com/hXod3DOHnv_Z6Vb-JqpkIeWdXNtMyOZlrWTATwqib_xjVFisOu4xpNslccG5o0zLwr8",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 510,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "8673298698858741679",
-        "updated": "June 24, 2019",
-        "size": "22M",
-        "installs": "100,000+",
-        "current_version": "2.5.8",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Shares Info"
-        ],
-        "developer": "Heavy Hammer",
-        "developer_email": "mobileapps@heavyhammer.com",
-        "developer_url": "http://www.heavyhammer.com",
-        "developer_address": "65 Old Solomons Island Road Suite #208, Annapolis, MD, 21401",
-        "app_id": "com.heavyhammer.ushud",
-        "url": "https://play.google.com/store/apps/details?id=com.heavyhammer.ushud&hl=en&gl=us"
-    },
-    {
-        "title": "Key by Amazon",
-        "icon": "https://lh3.googleusercontent.com/EEocRhYpAkXTImEdVMgSahldtVpDkyZ2JU2KI09c3D8tt1B5QZryvYteHmWcpC2zN2c",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.1",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 85,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Amazon+Mobile+LLC",
-        "updated": "July 2, 2019",
-        "size": "32M",
-        "installs": "50,000+",
-        "current_version": "1.0.202458.0-store_10629001",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Amazon Mobile LLC",
-        "developer_email": "feedback-amazon-app-android@amazon.com",
-        "developer_url": "http://www.amazon.com/key",
-        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
-        "app_id": "com.amazon.cosmos",
-        "url": "https://play.google.com/store/apps/details?id=com.amazon.cosmos&hl=en&gl=us"
-    },
-    {
         "title": "RE/MAX Real Estate Search (US)",
         "icon": "https://lh3.googleusercontent.com/oeoUzF6ZjlfcpzrB2yCzBLOvXEaEsQ52dLGF3KxE1oSAl0MUbtNl9M1_W1a1XzRtnA",
         "screenshots": [],
@@ -1531,7 +1533,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.6",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -1539,7 +1541,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4923,
+        "reviews": 4951,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1568,14 +1570,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.remax.remaxmobile&hl=en&gl=us"
     },
     {
-        "title": "bhyve",
-        "icon": "https://lh3.googleusercontent.com/p-vcEWeT2WRcWmwGCx9j4ek4rLV_IpiZeUdc4eCxDDzMXBxZaDS7TBG1L6wQVeLNFx8",
+        "title": "Schlage Home",
+        "icon": "https://lh3.googleusercontent.com/7IH82e5JiqI2_a9oWndaDyBETXtV45a-QhW_0f-ekADl6W2A3Q0u_vEWQHfQF0D-Flg",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1583,7 +1585,177 @@
             "2": null,
             "1": null
         },
-        "reviews": 2769,
+        "reviews": 766,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Schlage+Lock+Company,+LLC",
+        "updated": "July 22, 2019",
+        "size": "46M",
+        "installs": "100,000+",
+        "current_version": "2.1.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Schlage Lock Company, LLC",
+        "developer_email": "ConsumerSchlage@Allegion.com",
+        "developer_url": "http://www.schlage.com/app",
+        "developer_address": null,
+        "app_id": "com.allegion.leopard",
+        "url": "https://play.google.com/store/apps/details?id=com.allegion.leopard&hl=en&gl=us"
+    },
+    {
+        "title": "Key by Amazon",
+        "icon": "https://lh3.googleusercontent.com/EEocRhYpAkXTImEdVMgSahldtVpDkyZ2JU2KI09c3D8tt1B5QZryvYteHmWcpC2zN2c",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 98,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Amazon+Mobile+LLC",
+        "updated": "August 8, 2019",
+        "size": "32M",
+        "installs": "50,000+",
+        "current_version": "1.0.202520.0-store_10635501",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Amazon Mobile LLC",
+        "developer_email": "feedback-amazon-app-android@amazon.com",
+        "developer_url": "http://www.amazon.com/key",
+        "developer_address": "Amazon Mobile LLC\n500 9th Avenue N,\nSeattle, WA 98109",
+        "app_id": "com.amazon.cosmos",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.cosmos&hl=en&gl=us"
+    },
+    {
+        "title": "TV Towers - TV Antenna Finder & Free TV Shows",
+        "icon": "https://lh3.googleusercontent.com/ZWOl7oCKEjpO30L0uEcf4tf8q3Ld2BKlwu3bxywAGl_4dhM6TDsl3v4N0VwNl4KTLAw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2319,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "7933499191242873783",
+        "updated": "August 12, 2019",
+        "size": "5.6M",
+        "installs": "100,000+",
+        "current_version": "2.7.5",
+        "required_android_version": "5.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "WaveSpark",
+        "developer_email": "mobilemoviesandtv@gmail.com",
+        "developer_url": "https://www.tvtowers.net",
+        "developer_address": "3350 S Kenton St Unit 3115\nDenver, CO 80014",
+        "app_id": "my.dtv.com.mydtvfinder",
+        "url": "https://play.google.com/store/apps/details?id=my.dtv.com.mydtvfinder&hl=en&gl=us"
+    },
+    {
+        "title": "Homestyler - Interior Design & Decorating Ideas",
+        "icon": "https://lh3.googleusercontent.com/3h9d_mo3zpy4LDhq2qUdb1Q5kzoDplffRjIbR4mBTG5yFeOJ_wQHwEn6XdUvNicI5Cs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/_aD7R0Dg2_Y",
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 81523,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Homestyler+-+3D+Home+Decorating+Anywhere",
+        "updated": "July 12, 2019",
+        "size": "65M",
+        "installs": "5,000,000+",
+        "current_version": "4.0.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Homestyler - 3D Home Decorating Anywhere",
+        "developer_email": "homestyler-support@service.alibaba.com",
+        "developer_url": "https://www.homestyler.com/mobile",
+        "developer_address": null,
+        "app_id": "com.autodesk.homestyler",
+        "url": "https://play.google.com/store/apps/details?id=com.autodesk.homestyler&hl=en&gl=us"
+    },
+    {
+        "title": "bhyve",
+        "icon": "https://lh3.googleusercontent.com/p-vcEWeT2WRcWmwGCx9j4ek4rLV_IpiZeUdc4eCxDDzMXBxZaDS7TBG1L6wQVeLNFx8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3015,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1610,52 +1782,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.orbit.orbitsmarthome&hl=en&gl=us"
     },
     {
-        "title": "Universal TV Remote",
-        "icon": "https://lh3.googleusercontent.com/C6ZM-HFui_3Sp7Os4LjBtrINaJY76Ngv5gaQ_VBSWPxBa4K4R67kLYx3-KYxgF9KNqg",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 38309,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "7933499191242873783",
-        "updated": "July 4, 2019",
-        "size": "4.4M",
-        "installs": "5,000,000+",
-        "current_version": "12.45",
-        "required_android_version": "4.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "Users Interact"
-        ],
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "WaveSpark",
-        "developer_email": "mobilemoviesandtv@gmail.com",
-        "developer_url": "http://www.iruniversalremote.com/towers",
-        "developer_address": "3350 S Kenton St Unit 3115\nDenver, CO 80014",
-        "app_id": "com.freeirtv",
-        "url": "https://play.google.com/store/apps/details?id=com.freeirtv&hl=en&gl=us"
-    },
-    {
         "title": "Tody - Smarter Cleaning",
         "icon": "https://lh3.googleusercontent.com/gICT7D9lIaItlBScvs80Sua9KbnYUmOdqI_fFWKnQtehjOD5zG_A3YJ8BIplEED1inE",
         "screenshots": [],
@@ -1671,7 +1797,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 610,
+        "reviews": 878,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1680,10 +1806,10 @@
         "free": true,
         "iap": true,
         "developer_id": "LoopLoop+Aps",
-        "updated": "June 12, 2019",
-        "size": "6.2M",
+        "updated": "August 8, 2019",
+        "size": "6.4M",
         "installs": "50,000+",
-        "current_version": "1.3.2",
+        "current_version": "1.4.2",
         "required_android_version": "8.0 and up",
         "content_rating": [
             "Everyone"
@@ -1703,14 +1829,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.looploop.tody&hl=en&gl=us"
     },
     {
-        "title": "Realtor.com Rentals: Apartment, Home Rental Search",
-        "icon": "https://lh3.googleusercontent.com/G-8E8f3ywCctzN617KOPS3FZJzzmKSUI4aAEzETyksqLikFjv9lOTvRjJfMDNdBPzrea",
+        "title": "Room Planner: Home Interior & Floorplan Design 3D",
+        "icon": "https://lh3.googleusercontent.com/ozshD-TVREW5qzEj_t3X_Sgu9f12vXX8x2hl06xnuJmoPJQd_insn2txQYmMu77H8Z0",
         "screenshots": [],
-        "video": "https://www.youtube.com/embed/xHaHhyTROwU",
+        "video": "https://www.youtube.com/embed/6iJHhUru9lg",
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.9",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1718,7 +1844,54 @@
             "2": null,
             "1": null
         },
-        "reviews": 10190,
+        "reviews": 12076,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8901239924520659583",
+        "updated": "August 16, 2019",
+        "size": "64M",
+        "installs": "1,000,000+",
+        "current_version": "912",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$399.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "iCanDesign LLC",
+        "developer_email": "support@icandesignapp.com",
+        "developer_url": "http://icandesignapp.com",
+        "developer_address": "501 Beacon Street\nUnit 8\nBoston, MA 02215",
+        "app_id": "com.icandesignapp.all",
+        "url": "https://play.google.com/store/apps/details?id=com.icandesignapp.all&hl=en&gl=us"
+    },
+    {
+        "title": "Realtor.com Rentals: Apartment, Home Rental Search",
+        "icon": "https://lh3.googleusercontent.com/G-8E8f3ywCctzN617KOPS3FZJzzmKSUI4aAEzETyksqLikFjv9lOTvRjJfMDNdBPzrea",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xHaHhyTROwU",
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10188,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1745,14 +1918,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.move.rentals&hl=en&gl=us"
     },
     {
-        "title": "BirdNET: Bird sound identification",
-        "icon": "https://lh3.googleusercontent.com/m1xvI9w2cRNDESdNpw3vYsQmyDUpaUCIwolZ4Yg-Ie_c6Ka3LJho8cU1oACpAjPbrhM",
+        "title": "Real Estate by HAR.com - Texas",
+        "icon": "https://lh3.googleusercontent.com/8fKQ2ZcZ8RbrVyi19bJy5z1Ec67RIzY7p7Pal06-6K7SUemWOKTmvmOdAcKyNO3tY78",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.4",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1760,7 +1933,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 810,
+        "reviews": 3352,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1768,29 +1941,31 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "8021433185702879787",
-        "updated": "July 5, 2019",
-        "size": "11M",
-        "installs": "100,000+",
-        "current_version": "1.55",
+        "developer_id": "8659335548391412737",
+        "updated": "August 1, 2019",
+        "size": "33M",
+        "installs": "500,000+",
+        "current_version": "3.4.31",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Stefan Kahl",
-        "developer_email": "kahl.stefan@googlemail.com",
-        "developer_url": "http://birdnet.cornell.edu",
-        "developer_address": null,
-        "app_id": "de.tu_chemnitz.mi.kahst.birdnet",
-        "url": "https://play.google.com/store/apps/details?id=de.tu_chemnitz.mi.kahst.birdnet&hl=en&gl=us"
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Houston Association of REALTORS\u00ae",
+        "developer_email": "support@har.com",
+        "developer_url": "http://www.har.com/mobile",
+        "developer_address": "3693 Southwest Freeway\nHouston, TX 77027",
+        "app_id": "com.har.androidapp",
+        "url": "https://play.google.com/store/apps/details?id=com.har.androidapp&hl=en&gl=us"
     },
     {
-        "title": "Room Creator Interior Design",
-        "icon": "https://lh3.googleusercontent.com/uqK0gzN0F8LFxX02g0ttBpnh66VK3PpH6QbOas28uUWXD-1yPaRvAOwRViTHnchFZrc",
+        "title": "tinyCam Monitor FREE - IP camera viewer",
+        "icon": "https://lh3.googleusercontent.com/GpSM9w_WJtpVWCslXQ--XRw8fXAlEUg937DOgfKJ7dYxLk5ZAY1BiW5aji-b3GD1tw",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/czo1WbWQTtk",
         "category": [
             "HOUSE_AND_HOME"
         ],
@@ -1802,7 +1977,49 @@
             "2": null,
             "1": null
         },
-        "reviews": 73105,
+        "reviews": 70303,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8533367514727698541",
+        "updated": "August 4, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tiny Solutions LLC",
+        "developer_email": "alexey.vasilyev@gmail.com",
+        "developer_url": "https://tinycammonitor.com/",
+        "developer_address": "c/o MyNewCompany.com, Inc.\nCHEYENNE FE WARREN AFB, Wyoming, 82001, USA",
+        "app_id": "com.alexvas.dvr",
+        "url": "https://play.google.com/store/apps/details?id=com.alexvas.dvr&hl=en&gl=us"
+    },
+    {
+        "title": "Room Creator Interior Design",
+        "icon": "https://lh3.googleusercontent.com/uqK0gzN0F8LFxX02g0ttBpnh66VK3PpH6QbOas28uUWXD-1yPaRvAOwRViTHnchFZrc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 73951,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1830,14 +2047,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.midasapps.roomcreator&hl=en&gl=us"
     },
     {
-        "title": "Homestyler - Interior Design & Decorating Ideas",
-        "icon": "https://lh3.googleusercontent.com/3h9d_mo3zpy4LDhq2qUdb1Q5kzoDplffRjIbR4mBTG5yFeOJ_wQHwEn6XdUvNicI5Cs",
+        "title": "Kitchen Scale",
+        "icon": "https://lh3.googleusercontent.com/nGTE4tcwmGrICeUyQqo1k7feVIVVTS8d6sI74--2uh1bpBTzhg1IZksYHyzHbfP7IE8",
         "screenshots": [],
-        "video": "https://www.youtube.com/embed/_aD7R0Dg2_Y",
+        "video": "https://www.youtube.com/embed/m-5V27Pn_YA",
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.1",
+        "score": "3.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1845,7 +2062,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 81305,
+        "reviews": 4195,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1853,198 +2070,23 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "Homestyler+-+3D+Home+Decorating+Anywhere",
-        "updated": "July 12, 2019",
-        "size": "65M",
-        "installs": "5,000,000+",
-        "current_version": "4.0.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Homestyler - 3D Home Decorating Anywhere",
-        "developer_email": "homestyler-support@service.alibaba.com",
-        "developer_url": "https://www.homestyler.com/mobile",
-        "developer_address": null,
-        "app_id": "com.autodesk.homestyler",
-        "url": "https://play.google.com/store/apps/details?id=com.autodesk.homestyler&hl=en&gl=us"
-    },
-    {
-        "title": "Real Estate by HAR.com - Texas",
-        "icon": "https://lh3.googleusercontent.com/8fKQ2ZcZ8RbrVyi19bJy5z1Ec67RIzY7p7Pal06-6K7SUemWOKTmvmOdAcKyNO3tY78",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 3320,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "8659335548391412737",
-        "updated": "July 11, 2019",
-        "size": "33M",
-        "installs": "500,000+",
-        "current_version": "3.4.29",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Houston Association of REALTORS\u00ae",
-        "developer_email": "support@har.com",
-        "developer_url": "http://www.har.com/mobile",
-        "developer_address": "3693 Southwest Freeway\nHouston, TX 77027",
-        "app_id": "com.har.androidapp",
-        "url": "https://play.google.com/store/apps/details?id=com.har.androidapp&hl=en&gl=us"
-    },
-    {
-        "title": "Rachio",
-        "icon": "https://lh3.googleusercontent.com/kgI-sfGOIVIpYkmtDebx4bC0gpvQlAoN4xZH5xfNeOEeLbiA-32NQfSRLONVliEYry4",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.0",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 1002,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Rachio",
-        "updated": "July 23, 2019",
-        "size": "48M",
-        "installs": "100,000+",
-        "current_version": "3.15.5",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Rachio",
-        "developer_email": "support@rachio.com",
-        "developer_url": "http://www.rachio.com",
-        "developer_address": null,
-        "app_id": "com.rachio.iro",
-        "url": "https://play.google.com/store/apps/details?id=com.rachio.iro&hl=en&gl=us"
-    },
-    {
-        "title": "Room Planner: Interior & Floorplan Design for IKEA",
-        "icon": "https://lh3.googleusercontent.com/ozshD-TVREW5qzEj_t3X_Sgu9f12vXX8x2hl06xnuJmoPJQd_insn2txQYmMu77H8Z0",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/6iJHhUru9lg",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.0",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 11217,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "8901239924520659583",
-        "updated": "July 19, 2019",
-        "size": "64M",
+        "developer_id": "SxSoft",
+        "updated": "January 25, 2014",
+        "size": "43k",
         "installs": "1,000,000+",
-        "current_version": "909",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$1.99",
-            "$399.99"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "iCanDesign LLC",
-        "developer_email": "support@icandesignapp.com",
-        "developer_url": "http://icandesignapp.com",
-        "developer_address": "501 Beacon Street\nUnit 8\nBoston, MA 02215",
-        "app_id": "com.icandesignapp.all",
-        "url": "https://play.google.com/store/apps/details?id=com.icandesignapp.all&hl=en&gl=us"
-    },
-    {
-        "title": "tinyCam Monitor FREE - IP camera viewer",
-        "icon": "https://lh3.googleusercontent.com/GpSM9w_WJtpVWCslXQ--XRw8fXAlEUg937DOgfKJ7dYxLk5ZAY1BiW5aji-b3GD1tw",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/czo1WbWQTtk",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.0",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 70260,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "8533367514727698541",
-        "updated": "May 11, 2019",
-        "size": "Varies with device",
-        "installs": "10,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
+        "current_version": "2.1",
+        "required_android_version": "1.5 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "Tiny Solutions LLC",
-        "developer_email": "alexey.vasilyev@gmail.com",
-        "developer_url": "https://tinycammonitor.com/",
-        "developer_address": "c/o MyNewCompany.com, Inc.\nCHEYENNE FE WARREN AFB, Wyoming, 82001, USA",
-        "app_id": "com.alexvas.dvr",
-        "url": "https://play.google.com/store/apps/details?id=com.alexvas.dvr&hl=en&gl=us"
+        "developer": "SxSoft",
+        "developer_email": "safrada@gmail.com",
+        "developer_url": "http://sx.rosada.cz",
+        "developer_address": null,
+        "app_id": "cz.rosada.ks",
+        "url": "https://play.google.com/store/apps/details?id=cz.rosada.ks&hl=en&gl=us"
     },
     {
         "title": "Real Estate sale & rent Trovit",
@@ -2062,7 +2104,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 71236,
+        "reviews": 71579,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2091,132 +2133,6 @@
         "url": "https://play.google.com/store/apps/details?id=es.roid.and.trovit&hl=en&gl=us"
     },
     {
-        "title": "Leslie's - Pool Care",
-        "icon": "https://lh3.googleusercontent.com/7OBW2hfPBO4BAONB4p5Vny0_ciqnLsIMoE6OdUbfF2aE6xLmRX6hNxZLAtz2HXZq7uo",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/VnwX_9wkiMk",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 436,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Leslie%27s+Poolmart",
-        "updated": "June 26, 2019",
-        "size": "Varies with device",
-        "installs": "100,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Leslie's Poolmart",
-        "developer_email": "customercare@lesl.com",
-        "developer_url": "http://www.lesliespool.com",
-        "developer_address": null,
-        "app_id": "com.lesliespool.mobile",
-        "url": "https://play.google.com/store/apps/details?id=com.lesliespool.mobile&hl=en&gl=us"
-    },
-    {
-        "title": "NoCable - OTA Antenna & TV Guide",
-        "icon": "https://lh3.googleusercontent.com/iITEX2xkUAWJUFiuRgc1r7RiHwr1NnMtv4RHitdOoGx-_ZkUHle8Tp5CvvAqun7jtw",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 1154,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "NoCable",
-        "updated": "July 15, 2018",
-        "size": "20M",
-        "installs": "100,000+",
-        "current_version": "1.4.1",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "NoCable",
-        "developer_email": "support@nocable.org",
-        "developer_url": "https://nocable.org",
-        "developer_address": null,
-        "app_id": "org.nocable.android",
-        "url": "https://play.google.com/store/apps/details?id=org.nocable.android&hl=en&gl=us"
-    },
-    {
-        "title": "Schlage Home",
-        "icon": "https://lh3.googleusercontent.com/7IH82e5JiqI2_a9oWndaDyBETXtV45a-QhW_0f-ekADl6W2A3Q0u_vEWQHfQF0D-Flg",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 661,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Schlage+Lock+Company,+LLC",
-        "updated": "July 22, 2019",
-        "size": "46M",
-        "installs": "100,000+",
-        "current_version": "2.1.3",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Schlage Lock Company, LLC",
-        "developer_email": "ConsumerSchlage@Allegion.com",
-        "developer_url": "http://www.schlage.com/app",
-        "developer_address": null,
-        "app_id": "com.allegion.leopard",
-        "url": "https://play.google.com/store/apps/details?id=com.allegion.leopard&hl=en&gl=us"
-    },
-    {
         "title": "CENTURY 21 Local",
         "icon": "https://lh3.googleusercontent.com/GVNoIw-_i6ebfA8PqUGWJXuglbjtsZlWcsbb4aPPdM4m3DPY2tMQaaZmZ2Lla0hNPw",
         "screenshots": [],
@@ -2224,7 +2140,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.0",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -2232,7 +2148,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1107,
+        "reviews": 1134,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2241,10 +2157,10 @@
         "free": true,
         "iap": false,
         "developer_id": "ZapLabs+LLC",
-        "updated": "May 9, 2019",
-        "size": "19M",
+        "updated": "August 13, 2019",
+        "size": "20M",
         "installs": "100,000+",
-        "current_version": "9.1.8",
+        "current_version": "9.2",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
@@ -2266,7 +2182,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2274,7 +2190,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 989,
+        "reviews": 1027,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2283,10 +2199,10 @@
         "free": true,
         "iap": false,
         "developer_id": "ZapLabs+LLC",
-        "updated": "May 9, 2019",
-        "size": "19M",
+        "updated": "August 13, 2019",
+        "size": "20M",
         "installs": "100,000+",
-        "current_version": "9.1.8",
+        "current_version": "9.2",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
@@ -2301,137 +2217,52 @@
         "url": "https://play.google.com/store/apps/details?id=com.myzap.cb&hl=en&gl=us"
     },
     {
+        "title": "Parcel Pending",
+        "icon": "https://lh3.googleusercontent.com/KA14ZP_5qfVVFyAtLUmnE7xr0RZUhSrCpyplOXB1yQptAdjImMnAaibQp2I1eO3fRbM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "2.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Parcel+Pending",
+        "updated": "December 18, 2018",
+        "size": "16M",
+        "installs": "10,000+",
+        "current_version": "1.2.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Parcel Pending",
+        "developer_email": "mobile@parcelpending.com",
+        "developer_url": "https://www.parcelpending.com",
+        "developer_address": null,
+        "app_id": "com.parcelpendingmobile.app",
+        "url": "https://play.google.com/store/apps/details?id=com.parcelpendingmobile.app&hl=en&gl=us"
+    },
+    {
         "title": "New Android Endoscope, BORESCOPE, EasyCap, USB cam",
         "icon": "https://lh3.googleusercontent.com/z-3cwDM3aUYP0pFSXRpm0NUVK0CooQhZjZ0Dz4Ch75_vkjDr6ruioxPsWNkmgWF63_w",
         "screenshots": [],
         "video": "https://www.youtube.com/embed/s_W1g6Q2PxU",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 1211,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Real.Visor",
-        "updated": "October 22, 2018",
-        "size": "30M",
-        "installs": "100,000+",
-        "current_version": "21oct2018",
-        "required_android_version": "4.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Real.Visor",
-        "developer_email": "7927313@gmail.com",
-        "developer_url": "http://endoscope.nethouse.ru",
-        "developer_address": "Mr. Igor Berezhinskiy, Ph. Doctor",
-        "app_id": "com.reallyvision.realvisor0",
-        "url": "https://play.google.com/store/apps/details?id=com.reallyvision.realvisor0&hl=en&gl=us"
-    },
-    {
-        "title": "Kitchen Scale",
-        "icon": "https://lh3.googleusercontent.com/nGTE4tcwmGrICeUyQqo1k7feVIVVTS8d6sI74--2uh1bpBTzhg1IZksYHyzHbfP7IE8",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/m-5V27Pn_YA",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 4134,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "SxSoft",
-        "updated": "January 25, 2014",
-        "size": "43k",
-        "installs": "1,000,000+",
-        "current_version": "2.1",
-        "required_android_version": "1.5 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "SxSoft",
-        "developer_email": "safrada@gmail.com",
-        "developer_url": "http://sx.rosada.cz",
-        "developer_address": null,
-        "app_id": "cz.rosada.ks",
-        "url": "https://play.google.com/store/apps/details?id=cz.rosada.ks&hl=en&gl=us"
-    },
-    {
-        "title": "TV Antenna Finder & Free TV Shows - TV Towers",
-        "icon": "https://lh3.googleusercontent.com/ZWOl7oCKEjpO30L0uEcf4tf8q3Ld2BKlwu3bxywAGl_4dhM6TDsl3v4N0VwNl4KTLAw",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 2258,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "7933499191242873783",
-        "updated": "July 13, 2019",
-        "size": "5.6M",
-        "installs": "100,000+",
-        "current_version": "2.6.7",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Teen",
-            "Diverse Content: Discretion Advised"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "WaveSpark",
-        "developer_email": "mobilemoviesandtv@gmail.com",
-        "developer_url": "https://www.tvtowers.net",
-        "developer_address": "3350 S Kenton St Unit 3115\nDenver, CO 80014",
-        "app_id": "my.dtv.com.mydtvfinder",
-        "url": "https://play.google.com/store/apps/details?id=my.dtv.com.mydtvfinder&hl=en&gl=us"
-    },
-    {
-        "title": "Vivitar Smart Home Security",
-        "icon": "https://lh3.googleusercontent.com/zUVKzax7c4a-68-NsHZq802HaNrTttPE_N6bVLCTBQQgGRpZuVbSeSYbrZfQ3mSs-kc",
-        "screenshots": [],
-        "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
@@ -2443,7 +2274,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 585,
+        "reviews": 1255,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2451,77 +2282,33 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "Sakar+International,+Inc.",
-        "updated": "June 23, 2019",
-        "size": "43M",
+        "developer_id": "Real.Visor",
+        "updated": "August 5, 2019",
+        "size": "17M",
         "installs": "100,000+",
-        "current_version": "1.0.150",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact, Shares Info, Digital Purchases"
-        ],
-        "developer": "Sakar International, Inc.",
-        "developer_email": "support@vivitar.com",
-        "developer_url": "http://www.vivitar.com",
-        "developer_address": null,
-        "app_id": "itdim.shsm",
-        "url": "https://play.google.com/store/apps/details?id=itdim.shsm&hl=en&gl=us"
-    },
-    {
-        "title": "Real Estate by Movoto",
-        "icon": "https://lh3.googleusercontent.com/i5k0ai-lqF_JYUW1Za7Urai3hfa40v88TRoKf8eGqm1vPMKYFifKwMzyY5sIyEB9uenK",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 3228,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Movoto+Real+Estate",
-        "updated": "May 9, 2019",
-        "size": "13M",
-        "installs": "100,000+",
-        "current_version": "6.2",
-        "required_android_version": "4.4 and up",
+        "current_version": "5aug2019",
+        "required_android_version": "4.0 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "Movoto Real Estate",
-        "developer_email": "androidsupport@movoto.com",
-        "developer_url": "https://www.movoto.com",
-        "developer_address": "1900 South Norfolk ,Suite 222, San Mateo, CA 94403",
-        "app_id": "com.movoto.movoto",
-        "url": "https://play.google.com/store/apps/details?id=com.movoto.movoto&hl=en&gl=us"
+        "developer": "Real.Visor",
+        "developer_email": "7927313@gmail.com",
+        "developer_url": "http://endoscope.realvisor.net",
+        "developer_address": "Mr. Igor Berezhinskiy, Ph. Doctor",
+        "app_id": "com.reallyvision.realvisor0",
+        "url": "https://play.google.com/store/apps/details?id=com.reallyvision.realvisor0&hl=en&gl=us"
     },
     {
-        "title": "Griddy",
-        "icon": "https://lh3.googleusercontent.com/VVm22MQrrsNXgfgp3qVl3bIW0yX9-Z-hDfYrmFzWTSJWdkJvZG4Q6g7hdti47DeC0g",
+        "title": "Leslie's - Pool Care",
+        "icon": "https://lh3.googleusercontent.com/7OBW2hfPBO4BAONB4p5Vny0_ciqnLsIMoE6OdUbfF2aE6xLmRX6hNxZLAtz2HXZq7uo",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/VnwX_9wkiMk",
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.5",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2529,7 +2316,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 405,
+        "reviews": 468,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2537,25 +2324,151 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "Griddy+Energy+LLC",
-        "updated": "July 15, 2019",
-        "size": "35M",
-        "installs": "10,000+",
-        "current_version": "4.1.2",
+        "developer_id": "Leslie%27s+Poolmart",
+        "updated": "July 25, 2019",
+        "size": "Varies with device",
+        "installs": "100,000+",
+        "current_version": "Varies with device",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "Griddy Energy LLC",
-        "developer_email": "support@gogriddy.com",
-        "developer_url": "https://gogriddy.com",
+        "interactive_elements": null,
+        "developer": "Leslie's Poolmart",
+        "developer_email": "customercare@lesl.com",
+        "developer_url": "http://www.lesliespool.com",
         "developer_address": null,
-        "app_id": "com.app.griddy",
-        "url": "https://play.google.com/store/apps/details?id=com.app.griddy&hl=en&gl=us"
+        "app_id": "com.lesliespool.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.lesliespool.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Rachio",
+        "icon": "https://lh3.googleusercontent.com/kgI-sfGOIVIpYkmtDebx4bC0gpvQlAoN4xZH5xfNeOEeLbiA-32NQfSRLONVliEYry4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1046,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Rachio",
+        "updated": "August 15, 2019",
+        "size": "49M",
+        "installs": "100,000+",
+        "current_version": "3.15.7",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Rachio",
+        "developer_email": "support@rachio.com",
+        "developer_url": "http://www.rachio.com",
+        "developer_address": null,
+        "app_id": "com.rachio.iro",
+        "url": "https://play.google.com/store/apps/details?id=com.rachio.iro&hl=en&gl=us"
+    },
+    {
+        "title": "BirdNET: Bird sound identification",
+        "icon": "https://lh3.googleusercontent.com/m1xvI9w2cRNDESdNpw3vYsQmyDUpaUCIwolZ4Yg-Ie_c6Ka3LJho8cU1oACpAjPbrhM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 909,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8021433185702879787",
+        "updated": "August 16, 2019",
+        "size": "11M",
+        "installs": "100,000+",
+        "current_version": "1.58",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Stefan Kahl",
+        "developer_email": "kahl.stefan@googlemail.com",
+        "developer_url": "http://birdnet.cornell.edu",
+        "developer_address": null,
+        "app_id": "de.tu_chemnitz.mi.kahst.birdnet",
+        "url": "https://play.google.com/store/apps/details?id=de.tu_chemnitz.mi.kahst.birdnet&hl=en&gl=us"
+    },
+    {
+        "title": "My Home",
+        "icon": "https://lh3.googleusercontent.com/_SIIcWJaKEv7IZzZe9CnQ1Q5D523bjnKQkS5GyTRhpg53XcyWhammkTsREG0n-vizg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 189,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "ShowingTime",
+        "updated": "August 16, 2019",
+        "size": "19M",
+        "installs": "10,000+",
+        "current_version": "1.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Location"
+        ],
+        "developer": "ShowingTime",
+        "developer_email": "myhomefeedback@showingtime.com",
+        "developer_url": "http://www.ShowingTime.com",
+        "developer_address": null,
+        "app_id": "com.showingtime.ConsumerApp",
+        "url": "https://play.google.com/store/apps/details?id=com.showingtime.ConsumerApp&hl=en&gl=us"
     },
     {
         "title": "Owners.com Real Estate \u2013 Buy or Sell a Home",
@@ -2573,7 +2486,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 366,
+        "reviews": 381,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2582,10 +2495,10 @@
         "free": true,
         "iap": false,
         "developer_id": "Owners.com",
-        "updated": "May 22, 2019",
+        "updated": "August 14, 2019",
         "size": "14M",
         "installs": "100,000+",
-        "current_version": "2.17",
+        "current_version": "2.18",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
@@ -2626,7 +2539,7 @@
         "developer_id": "Hubzu.com",
         "updated": "July 3, 2019",
         "size": "29M",
-        "installs": "1,000+",
+        "installs": "5,000+",
         "current_version": "1.1.2",
         "required_android_version": "4.1 and up",
         "content_rating": [
@@ -2642,132 +2555,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.hubzu.android&hl=en&gl=us"
     },
     {
-        "title": "Parcel Pending",
-        "icon": "https://lh3.googleusercontent.com/KA14ZP_5qfVVFyAtLUmnE7xr0RZUhSrCpyplOXB1yQptAdjImMnAaibQp2I1eO3fRbM",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "2.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 56,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Parcel+Pending",
-        "updated": "December 18, 2018",
-        "size": "16M",
-        "installs": "10,000+",
-        "current_version": "1.2.5",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Parcel Pending",
-        "developer_email": "mobile@parcelpending.com",
-        "developer_url": "https://www.parcelpending.com",
-        "developer_address": null,
-        "app_id": "com.parcelpendingmobile.app",
-        "url": "https://play.google.com/store/apps/details?id=com.parcelpendingmobile.app&hl=en&gl=us"
-    },
-    {
-        "title": "ColorSnap\u00ae Match",
-        "icon": "https://lh3.googleusercontent.com/lgy8fKs7sIJJnWVpL1iFHIFTSh6u9AwNd9_u_42liqsdTT-KUpJdx7t-05xzFT4ITA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "2.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 102,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Variable,+Inc",
-        "updated": "June 10, 2019",
-        "size": "32M",
-        "installs": "50,000+",
-        "current_version": "8.4.44",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Variable, Inc",
-        "developer_email": "dev@variabletech.com",
-        "developer_url": "https://colorsnap.com/match",
-        "developer_address": "2474 Clay St.\nChattanooga, TN 37406",
-        "app_id": "com.variable.sw",
-        "url": "https://play.google.com/store/apps/details?id=com.variable.sw&hl=en&gl=us"
-    },
-    {
-        "title": "User Guide for Amazon Echo Dot",
-        "icon": "https://lh3.googleusercontent.com/oP0ZM9a0sU0HoH3s0kPnKyBnj1ivZ9WoVGr3YHuh6iZKxyPi79yhDgUO2nOSxVh8Jx4",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 190,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Depti+Rani",
-        "updated": "July 6, 2019",
-        "size": "3.4M",
-        "installs": "100,000+",
-        "current_version": "1.0.2",
-        "required_android_version": "4.0.3 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Depti Rani",
-        "developer_email": "deptiranidey@gmail.com",
-        "developer_url": "http://androidappbangladesh.blogspot.com",
-        "developer_address": null,
-        "app_id": "com.deptiranidey.echodotuserguide",
-        "url": "https://play.google.com/store/apps/details?id=com.deptiranidey.echodotuserguide&hl=en&gl=us"
-    },
-    {
         "title": "Rentals by Homes.com \ud83c\udfe1",
         "icon": "https://lh3.googleusercontent.com/IHY-XTd92fWNlfokLa9hTom9ptCqkLYDZZkk32R5Lq1yF1mirK7QKHUV5tPurLlddGLA",
         "screenshots": [],
@@ -2775,7 +2562,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.9",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -2783,7 +2570,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3554,
+        "reviews": 3557,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2810,56 +2597,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.homes.rentals&hl=en&gl=us"
     },
     {
-        "title": "smartAC Go",
-        "icon": "https://lh3.googleusercontent.com/vCjCUvKvnRzAneAzfjcKepQvL_N6m4J0r7DE-kmEkRWYtLKcEIpwqpDzVWKrrIU9UU0",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/_x73APEV3ks",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "2.9",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 34,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "ThinkEco",
-        "updated": "July 11, 2019",
-        "size": "12M",
-        "installs": "5,000+",
-        "current_version": "2.5.11",
-        "required_android_version": "5.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "ThinkEco",
-        "developer_email": "support@thinkecoinc.com",
-        "developer_url": "https://support.thinkecoinc.com/",
-        "developer_address": null,
-        "app_id": "com.thinkeco.app",
-        "url": "https://play.google.com/store/apps/details?id=com.thinkeco.app&hl=en&gl=us"
-    },
-    {
-        "title": "Apartments by Apartment Guide",
-        "icon": "https://lh3.googleusercontent.com/nAx9KHxW33bn_6stpltacKruNXmPbwnHZZHGQ1ephtFoPI_Vfn9bDME2MV5tug5szPpr",
+        "title": "Vivitar Smart Home Security",
+        "icon": "https://lh3.googleusercontent.com/zUVKzax7c4a-68-NsHZq802HaNrTttPE_N6bVLCTBQQgGRpZuVbSeSYbrZfQ3mSs-kc",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.2",
+        "score": "3.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2867,96 +2612,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11496,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "RentPath,+LLC",
-        "updated": "July 10, 2019",
-        "size": "6.5M",
-        "installs": "1,000,000+",
-        "current_version": "7.13.1",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "RentPath, LLC",
-        "developer_email": "mobile@apartmentguide.com",
-        "developer_url": "https://www.apartmentguide.com",
-        "developer_address": "RentPath, LLC\n950 East Paces Ferry Road NE\nSte #2600\nAtlanta, GA 30326",
-        "app_id": "com.primedia.apartmentguide",
-        "url": "https://play.google.com/store/apps/details?id=com.primedia.apartmentguide&hl=en&gl=us"
-    },
-    {
-        "title": "Home Sweet Home Design & Match 3 House Games Manor",
-        "icon": "https://lh3.googleusercontent.com/pKnLDcHd5EjBA-kvvnDzwM6KB2OHWGUQrYXTfu3VINv1_l8AMcyU_IT03IuuvseWv58",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 1058,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Bubu+Girl+Games+%26+Match+3+Games",
-        "updated": "June 6, 2019",
-        "size": "Varies with device",
-        "installs": "100,000+",
-        "current_version": "1.15",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$0.99",
-            "$44.99"
-        ],
-        "interactive_elements": [
-            "Shares Location, In-Game Purchases"
-        ],
-        "developer": "Bubu Girl Games & Match 3 Games",
-        "developer_email": "bubusoftsrl@gmail.com",
-        "developer_url": "http://www.modulesden.com/content/6-game-privacy-policy",
-        "developer_address": "Piata Unirii, number 21, Apartment 2A, Cluj-Napoca, Romania",
-        "app_id": "com.homesweet.homedesign",
-        "url": "https://play.google.com/store/apps/details?id=com.homesweet.homedesign&hl=en&gl=us"
-    },
-    {
-        "title": "Altec Smart Security System",
-        "icon": "https://lh3.googleusercontent.com/APaitHatOJR1Vhonl63BvsUvNTTh8qkT2rDTjkgAz6ukrjQlgjIVe0Ix7-31E6FUsWc",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 331,
+        "reviews": 616,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2965,32 +2621,34 @@
         "free": true,
         "iap": false,
         "developer_id": "Sakar+International,+Inc.",
-        "updated": "July 3, 2019",
-        "size": "38M",
-        "installs": "50,000+",
-        "current_version": "1.0.25",
+        "updated": "June 23, 2019",
+        "size": "43M",
+        "installs": "100,000+",
+        "current_version": "1.0.150",
         "required_android_version": "4.4 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
-        "interactive_elements": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info, Digital Purchases"
+        ],
         "developer": "Sakar International, Inc.",
-        "developer_email": "support@alteclansing.com",
-        "developer_url": "http://alteclansing.com",
+        "developer_email": "support@vivitar.com",
+        "developer_url": "http://www.vivitar.com",
         "developer_address": null,
-        "app_id": "com.altec.shsm",
-        "url": "https://play.google.com/store/apps/details?id=com.altec.shsm&hl=en&gl=us"
+        "app_id": "itdim.shsm",
+        "url": "https://play.google.com/store/apps/details?id=itdim.shsm&hl=en&gl=us"
     },
     {
-        "title": "BHG Real Estate Homes For Sale",
-        "icon": "https://lh3.googleusercontent.com/pewWZ1AMkP4yQlzAsdlvsrwKFm2G8k-fKcV_EF4sE-J0fX38hWUDPXAvTXwyyGKlmA",
+        "title": "Griddy",
+        "icon": "https://lh3.googleusercontent.com/VVm22MQrrsNXgfgp3qVl3bIW0yX9-Z-hDfYrmFzWTSJWdkJvZG4Q6g7hdti47DeC0g",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.1",
+        "score": "2.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2998,7 +2656,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 352,
+        "reviews": 600,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3006,151 +2664,25 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "ZapLabs+LLC",
-        "updated": "May 9, 2019",
-        "size": "20M",
-        "installs": "50,000+",
-        "current_version": "9.1.8",
+        "developer_id": "Griddy+Energy+LLC",
+        "updated": "August 19, 2019",
+        "size": "35M",
+        "installs": "10,000+",
+        "current_version": "4.1.2",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
-        "interactive_elements": null,
-        "developer": "ZapLabs LLC",
-        "developer_email": "android@ziprealty.com",
-        "developer_url": "http://www.bhgrehomes.com",
-        "developer_address": null,
-        "app_id": "com.myzap.bhgre",
-        "url": "https://play.google.com/store/apps/details?id=com.myzap.bhgre&hl=en&gl=us"
-    },
-    {
-        "title": "Badi \u2013 Find Roommates & Rent Rooms",
-        "icon": "https://lh3.googleusercontent.com/o-A9aIuC-v1BTz6EsxP9M-sHf7Y7C71_c5ciq4hnIRS5oh7W6hdwnb_j198iyXJjoJg",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/dIfPnnR_ilg",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 6917,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "8439750766232084639",
-        "updated": "July 24, 2019",
-        "size": "10M",
-        "installs": "1,000,000+",
-        "current_version": "5.36.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Teen"
-        ],
-        "iap_range": null,
         "interactive_elements": [
-            "Users Interact, Shares Info"
+            "Digital Purchases"
         ],
-        "developer": "BADIAPP 2015 INC.",
-        "developer_email": "info@badi.com",
-        "developer_url": "http://www.badi.com",
+        "developer": "Griddy Energy LLC",
+        "developer_email": "support@gogriddy.com",
+        "developer_url": "https://gogriddy.com",
         "developer_address": null,
-        "app_id": "es.inmovens.badi",
-        "url": "https://play.google.com/store/apps/details?id=es.inmovens.badi&hl=en&gl=us"
-    },
-    {
-        "title": "Remote for Android TV's / Devices: CodeMatics",
-        "icon": "https://lh3.googleusercontent.com/qiHg-_VdpDT5uX8NmxLo1b8cvWs3RmLOc9I588KSdKTaaZnfQW81mH0oGRA6x5h0Mw",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 222,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "4664062132977048345",
-        "updated": "January 22, 2019",
-        "size": "3.4M",
-        "installs": "10,000+",
-        "current_version": "1.0",
-        "required_android_version": "4.2 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "CodeMatics Media Solutions",
-        "developer_email": "malikahsanali252@gmail.com",
-        "developer_url": "https://www.codematics.co",
-        "developer_address": "CodeMatics Inc., Office no. 14, KPK IT Park",
-        "app_id": "codematics.android.smarttv.wifi.remote.tvremote",
-        "url": "https://play.google.com/store/apps/details?id=codematics.android.smarttv.wifi.remote.tvremote&hl=en&gl=us"
-    },
-    {
-        "title": "My Home",
-        "icon": "https://lh3.googleusercontent.com/_SIIcWJaKEv7IZzZe9CnQ1Q5D523bjnKQkS5GyTRhpg53XcyWhammkTsREG0n-vizg",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.8",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 140,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "ShowingTime",
-        "updated": "March 20, 2019",
-        "size": "9.6M",
-        "installs": "10,000+",
-        "current_version": "1.1.3",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "ShowingTime",
-        "developer_email": "myhomefeedback@showingtime.com",
-        "developer_url": "http://www.ShowingTime.com",
-        "developer_address": null,
-        "app_id": "com.showingtime.ConsumerApp",
-        "url": "https://play.google.com/store/apps/details?id=com.showingtime.ConsumerApp&hl=en&gl=us"
+        "app_id": "com.app.griddy",
+        "url": "https://play.google.com/store/apps/details?id=com.app.griddy&hl=en&gl=us"
     },
     {
         "title": "Mortgage by Zillow: Calculator & Rates",
@@ -3160,7 +2692,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.3",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -3168,7 +2700,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4447,
+        "reviews": 4443,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3195,14 +2727,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.zillow.android.zmm&hl=en&gl=us"
     },
     {
-        "title": "PadMapper Apartment Rental Search",
-        "icon": "https://lh3.googleusercontent.com/168SezUs0YgMZatKmHV35rZh275ZsHwzI3ADfZSvJ-vvS8izseESAS0RxbnQKOf97Qs",
+        "title": "Badi \u2013 Find Roommates & Rent Rooms",
+        "icon": "https://lh3.googleusercontent.com/o-A9aIuC-v1BTz6EsxP9M-sHf7Y7C71_c5ciq4hnIRS5oh7W6hdwnb_j198iyXJjoJg",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/KbqmpYC4GKs",
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3210,7 +2742,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2231,
+        "reviews": 7317,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3218,67 +2750,25 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "PadMapper+Inc.",
-        "updated": "July 22, 2019",
-        "size": "10M",
-        "installs": "100,000+",
-        "current_version": "1.9.46",
-        "required_android_version": "5.0 and up",
+        "developer_id": "8439750766232084639",
+        "updated": "August 15, 2019",
+        "size": "9.9M",
+        "installs": "1,000,000+",
+        "current_version": "5.38.0",
+        "required_android_version": "4.1 and up",
         "content_rating": [
-            "Everyone"
+            "Teen"
         ],
         "iap_range": null,
         "interactive_elements": [
-            "Shares Info"
+            "Users Interact, Shares Info"
         ],
-        "developer": "PadMapper Inc.",
-        "developer_email": "android@padmapper.com",
-        "developer_url": "http://www.padmapper.com",
+        "developer": "BADIAPP 2015 INC.",
+        "developer_email": "info@badi.com",
+        "developer_url": "http://www.badi.com",
         "developer_address": null,
-        "app_id": "com.padmapper.search",
-        "url": "https://play.google.com/store/apps/details?id=com.padmapper.search&hl=en&gl=us"
-    },
-    {
-        "title": "Mortgage Calculator PITI, Home Loan Calculator App",
-        "icon": "https://lh3.googleusercontent.com/x7N1gIKgEE3Bw3V3mNbjYmeIVhOz3A-oWDBvzt14B_XPf7_B0Mpt4Mf6A_suBfFZ880",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/gXSKJuntnxk",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.8",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 10,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Mortgage+Calculator+.io",
-        "updated": "July 1, 2019",
-        "size": "254k",
-        "installs": "1,000+",
-        "current_version": "1.2.2",
-        "required_android_version": "8.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Mortgage Calculator .io",
-        "developer_email": "jeff@mortgagecalculator.io",
-        "developer_url": "https://www.mortgagecalculator.io",
-        "developer_address": null,
-        "app_id": "io.mortgagecalculator.www",
-        "url": "https://play.google.com/store/apps/details?id=io.mortgagecalculator.www&hl=en&gl=us"
+        "app_id": "es.inmovens.badi",
+        "url": "https://play.google.com/store/apps/details?id=es.inmovens.badi&hl=en&gl=us"
     },
     {
         "title": "Night Candle : relaxation, sleep, meditation music",
@@ -3296,7 +2786,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7937,
+        "reviews": 8262,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3305,7 +2795,7 @@
         "free": true,
         "iap": true,
         "developer_id": "Self+Healing",
-        "updated": "July 20, 2019",
+        "updated": "July 26, 2019",
         "size": "Varies with device",
         "installs": "500,000+",
         "current_version": "Varies with device",
@@ -3326,8 +2816,134 @@
         "url": "https://play.google.com/store/apps/details?id=com.selfhealing.candle11&hl=en&gl=us"
     },
     {
-        "title": "Security Camera CZ",
-        "icon": "https://lh3.googleusercontent.com/7zJcTLGPfhQ5wWfCianpNJ2oXG1d_EZ0a-iB3Ldyl3_LNv5_TwE4FZyyn5ZJJRnASw",
+        "title": "Apartments by Apartment Guide",
+        "icon": "https://lh3.googleusercontent.com/nAx9KHxW33bn_6stpltacKruNXmPbwnHZZHGQ1ephtFoPI_Vfn9bDME2MV5tug5szPpr",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11504,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RentPath,+LLC",
+        "updated": "July 10, 2019",
+        "size": "6.5M",
+        "installs": "1,000,000+",
+        "current_version": "7.13.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "RentPath, LLC",
+        "developer_email": "mobile@apartmentguide.com",
+        "developer_url": "https://www.apartmentguide.com",
+        "developer_address": "RentPath, LLC\n950 East Paces Ferry Road NE\nSte #2600\nAtlanta, GA 30326",
+        "app_id": "com.primedia.apartmentguide",
+        "url": "https://play.google.com/store/apps/details?id=com.primedia.apartmentguide&hl=en&gl=us"
+    },
+    {
+        "title": "Reali - Buy & Sell Homes | Real Estate Done Right",
+        "icon": "https://lh3.googleusercontent.com/dEQJlauXGLtUF6PPZemKCUfVHG0vWUH8FGqngU9R5o7gjGeMuABGNQtFrlPsAFZbtu1X",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 204,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6864361686426888004",
+        "updated": "August 12, 2019",
+        "size": "51M",
+        "installs": "50,000+",
+        "current_version": "2.0.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Reali Inc.",
+        "developer_email": "info@reali.com",
+        "developer_url": "http://www.reali.com",
+        "developer_address": null,
+        "app_id": "com.reali.app",
+        "url": "https://play.google.com/store/apps/details?id=com.reali.app&hl=en&gl=us"
+    },
+    {
+        "title": "Smart TV's Remote Control",
+        "icon": "https://lh3.googleusercontent.com/AEKEOQaFdYn3Q9aAxeShxfGDPNKsHcXBRU6uefMUCTPV0vd8Mapl519gCicxdJTneQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2152,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4664062132977048345",
+        "updated": "January 20, 2019",
+        "size": "6.6M",
+        "installs": "500,000+",
+        "current_version": "1.19",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CodeMatics Media Solutions",
+        "developer_email": "contact@codematics.co",
+        "developer_url": "http://www.codematics.co",
+        "developer_address": "CodeMatics Inc., Office no. 14, KPK IT Park",
+        "app_id": "codematics.wifitv.tvremote.smarttv.remotecontrol.tv.remote.control",
+        "url": "https://play.google.com/store/apps/details?id=codematics.wifitv.tvremote.smarttv.remotecontrol.tv.remote.control&hl=en&gl=us"
+    },
+    {
+        "title": "Real Estate by Movoto",
+        "icon": "https://lh3.googleusercontent.com/i5k0ai-lqF_JYUW1Za7Urai3hfa40v88TRoKf8eGqm1vPMKYFifKwMzyY5sIyEB9uenK",
         "screenshots": [],
         "video": null,
         "category": [
@@ -3341,7 +2957,133 @@
             "2": null,
             "1": null
         },
-        "reviews": 988,
+        "reviews": 3238,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Movoto+Real+Estate",
+        "updated": "May 9, 2019",
+        "size": "13M",
+        "installs": "100,000+",
+        "current_version": "6.2",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Movoto Real Estate",
+        "developer_email": "androidsupport@movoto.com",
+        "developer_url": "https://www.movoto.com",
+        "developer_address": "1900 South Norfolk ,Suite 222, San Mateo, CA 94403",
+        "app_id": "com.movoto.movoto",
+        "url": "https://play.google.com/store/apps/details?id=com.movoto.movoto&hl=en&gl=us"
+    },
+    {
+        "title": "Offerpad: Search Houses for Sale Near You!",
+        "icon": "https://lh3.googleusercontent.com/LSOcGsZvdvI6l41kJzZO9di6rSms8EvBQg83ioPvicRDn7NFKz8dtFlVJgG9DICtICA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Offerpad,+LLC",
+        "updated": "July 5, 2019",
+        "size": "16M",
+        "installs": "10,000+",
+        "current_version": "1.0.030",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Offerpad, LLC",
+        "developer_email": "info@offerpad.com",
+        "developer_url": "https://www.offerpad.com",
+        "developer_address": null,
+        "app_id": "com.offerpad.mobile",
+        "url": "https://play.google.com/store/apps/details?id=com.offerpad.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Remote for Android TV's / Devices: CodeMatics",
+        "icon": "https://lh3.googleusercontent.com/qiHg-_VdpDT5uX8NmxLo1b8cvWs3RmLOc9I588KSdKTaaZnfQW81mH0oGRA6x5h0Mw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 293,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4664062132977048345",
+        "updated": "January 22, 2019",
+        "size": "3.4M",
+        "installs": "50,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "CodeMatics Media Solutions",
+        "developer_email": "malikahsanali252@gmail.com",
+        "developer_url": "https://www.codematics.co",
+        "developer_address": "CodeMatics Inc., Office no. 14, KPK IT Park",
+        "app_id": "codematics.android.smarttv.wifi.remote.tvremote",
+        "url": "https://play.google.com/store/apps/details?id=codematics.android.smarttv.wifi.remote.tvremote&hl=en&gl=us"
+    },
+    {
+        "title": "Security Camera CZ",
+        "icon": "https://lh3.googleusercontent.com/7zJcTLGPfhQ5wWfCianpNJ2oXG1d_EZ0a-iB3Ldyl3_LNv5_TwE4FZyyn5ZJJRnASw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1122,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3372,10 +3114,10 @@
         "url": "https://play.google.com/store/apps/details?id=cz.scamera.securitycamera&hl=en&gl=us"
     },
     {
-        "title": "hth\u00ae Test to Swim\u00ae water testing app",
-        "icon": "https://lh3.googleusercontent.com/250KuxfuoboomPwhOhLl2nAA6Ayq8kLbmLBkRpRXvCZoOXtjLtp0Gj9iwGImm009jZE",
+        "title": "TV Remote for LG  (Smart TV Remote Control)",
+        "icon": "https://lh3.googleusercontent.com/VE1wO06KzgC-RKKLEIweRBBqlQpcUrd_ZYvqDpgM8iCuMswhLiEQJXZxfwRDbAs-aYY",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/2-MDI2pKANU",
         "category": [
             "HOUSE_AND_HOME"
         ],
@@ -3387,7 +3129,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 491,
+        "reviews": 6392,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3395,116 +3137,27 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "HTH+Pools",
-        "updated": "June 3, 2019",
-        "size": "30M",
-        "installs": "50,000+",
-        "current_version": "4.1.3",
-        "required_android_version": "4.1 and up",
+        "developer_id": "Spikes+Labs",
+        "updated": "May 9, 2019",
+        "size": "4.7M",
+        "installs": "1,000,000+",
+        "current_version": "1.44",
+        "required_android_version": "4.0 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "HTH Pools",
-        "developer_email": "hthapp@lonza.com",
-        "developer_url": "http://www.hthpools.com",
+        "developer": "Spikes Labs",
+        "developer_email": "spikesroid@gmail.com",
+        "developer_url": "https://www.spikesroidapps.com/",
         "developer_address": null,
-        "app_id": "com.psiflow.arch",
-        "url": "https://play.google.com/store/apps/details?id=com.psiflow.arch&hl=en&gl=us"
+        "app_id": "roid.spikesroid.tv_remote_for_lg",
+        "url": "https://play.google.com/store/apps/details?id=roid.spikesroid.tv_remote_for_lg&hl=en&gl=us"
     },
     {
-        "title": "Kitchen Planner 3D",
-        "icon": "https://lh3.googleusercontent.com/nWD1AULmlm4Nnb6_tY61gdlPqlxjq0Ibu4b2bpn8HgQKyKYgERFZIBeTe5sy702VwKk",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/aEfM70TuXoU",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 2119,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Andrey+Ovchinnikov",
-        "updated": "May 18, 2019",
-        "size": "26M",
-        "installs": "100,000+",
-        "current_version": "1.9.1",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$0.99",
-            "$9.99"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "Andrey Ovchinnikov",
-        "developer_email": "flash.gemdev@gmail.com",
-        "developer_url": "https://mykitchen3d.com",
-        "developer_address": "\u041a\u0430\u043b\u0443\u0433\u0430, \u0443\u043b. 65 \u041b\u0435\u0442 \u041f\u043e\u0431\u0435\u0434\u044b, \u0434. 29",
-        "app_id": "com.kitchensketches",
-        "url": "https://play.google.com/store/apps/details?id=com.kitchensketches&hl=en&gl=us"
-    },
-    {
-        "title": "MyAmbit Mobile",
-        "icon": "https://lh3.googleusercontent.com/M7aHlcj4Yr7ZTFeITpWg_zjzWHLfEWFRz5m8h82mMynLqjPr6t_TfqcdNRL3sNwjXQ",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 60,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Ambit+Energy+Development",
-        "updated": "October 1, 2018",
-        "size": "10M",
-        "installs": "10,000+",
-        "current_version": "1.5",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Ambit Energy Development",
-        "developer_email": "careaction@ambitenergy.com",
-        "developer_url": "http://www.ambitenergy.com",
-        "developer_address": null,
-        "app_id": "com.myambitapp",
-        "url": "https://play.google.com/store/apps/details?id=com.myambitapp&hl=en&gl=us"
-    },
-    {
-        "title": "Reali - Buy & Sell Homes | Real Estate Done Right",
-        "icon": "https://lh3.googleusercontent.com/dEQJlauXGLtUF6PPZemKCUfVHG0vWUH8FGqngU9R5o7gjGeMuABGNQtFrlPsAFZbtu1X",
+        "title": "BHG Real Estate Homes For Sale",
+        "icon": "https://lh3.googleusercontent.com/pewWZ1AMkP4yQlzAsdlvsrwKFm2G8k-fKcV_EF4sE-J0fX38hWUDPXAvTXwyyGKlmA",
         "screenshots": [],
         "video": null,
         "category": [
@@ -3518,7 +3171,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 202,
+        "reviews": 361,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3526,238 +3179,23 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "6864361686426888004",
-        "updated": "July 18, 2019",
-        "size": "50M",
+        "developer_id": "ZapLabs+LLC",
+        "updated": "August 13, 2019",
+        "size": "20M",
         "installs": "50,000+",
-        "current_version": "2.0.4",
+        "current_version": "9.2",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "Reali Inc.",
-        "developer_email": "info@reali.com",
-        "developer_url": "http://www.reali.com",
+        "developer": "ZapLabs LLC",
+        "developer_email": "android@ziprealty.com",
+        "developer_url": "http://www.bhgrehomes.com",
         "developer_address": null,
-        "app_id": "com.reali.app",
-        "url": "https://play.google.com/store/apps/details?id=com.reali.app&hl=en&gl=us"
-    },
-    {
-        "title": "Section 8 Rentals - No Waiting List",
-        "icon": "https://lh3.googleusercontent.com/m2cDW298th8hQkJm9P9VQCFCCl0H_yte9c9nRu9HLLs0roI8OtkZtq3PhWvbEsoFTKg",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 26,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Appmedia2019",
-        "updated": "January 20, 2019",
-        "size": "11M",
-        "installs": "10,000+",
-        "current_version": "1.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Appmedia2019",
-        "developer_email": "appmedia2019@gmail.com",
-        "developer_url": "http://www.appsgeyser.com/privacy/",
-        "developer_address": null,
-        "app_id": "com.wSection8RentalsNowaitinglist",
-        "url": "https://play.google.com/store/apps/details?id=com.wSection8RentalsNowaitinglist&hl=en&gl=us"
-    },
-    {
-        "title": "Section 8 Homes for rent - No Waiting list",
-        "icon": "https://lh3.googleusercontent.com/VUhtkIW6QeJkQ7SnVm8LKwu6A9RHV4oL70H7ZTLRXQnZ-3Fm_cFkv428owt1KpO5Xw",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "2.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 26,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Appmedia2019",
-        "updated": "January 21, 2019",
-        "size": "11M",
-        "installs": "10,000+",
-        "current_version": "1.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Appmedia2019",
-        "developer_email": "appmedia2019@gmail.com",
-        "developer_url": "http://www.appsgeyser.com/privacy/",
-        "developer_address": null,
-        "app_id": "com.wSection8Homes4Rent",
-        "url": "https://play.google.com/store/apps/details?id=com.wSection8Homes4Rent&hl=en&gl=us"
-    },
-    {
-        "title": "Apartments for Rent by ABODO",
-        "icon": "https://lh3.googleusercontent.com/CX7wu4gAWjEyRY3PVCJK9uHaezZD6CKqO2NkK3s5-ycmOs09QXvY361oxlFXFzjsKd0N",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 197,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "5365638087745292036",
-        "updated": "June 6, 2019",
-        "size": "3.8M",
-        "installs": "50,000+",
-        "current_version": "1.1.7",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "ABODO.com",
-        "developer_email": "support@abodo.com",
-        "developer_url": "https://www.abodo.com",
-        "developer_address": "316 West Washington Ave., Suite 700\nMadison, WI 53703",
-        "app_id": "com.abodo.ABODO",
-        "url": "https://play.google.com/store/apps/details?id=com.abodo.ABODO&hl=en&gl=us"
-    },
-    {
-        "title": "IP WebCam - Acid",
-        "icon": "https://lh3.googleusercontent.com/Yvv37iDtWKvl9pAjNgR9fEI6Cn_U4PVUtdxzC5r9f6rPEuvebP9AuSmX_u6LkjAu-A",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 9696,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Screen+Mirroring+and+Cast+Smart+TV+Lab.",
-        "updated": "March 26, 2019",
-        "size": "15M",
-        "installs": "1,000,000+",
-        "current_version": "2.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$0.99",
-            "$1.99"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "Screen Mirroring and Cast Smart TV Lab.",
-        "developer_email": "pholorcom@gmail.com",
-        "developer_url": "http://www.biyee.net/mobile/onvifer_privacy.aspx",
-        "developer_address": "187 Kailipa, Keihi, HI",
-        "app_id": "nfo.webcam",
-        "url": "https://play.google.com/store/apps/details?id=nfo.webcam&hl=en&gl=us"
-    },
-    {
-        "title": "Offerpad: Search Houses for Sale Near You!",
-        "icon": "https://lh3.googleusercontent.com/LSOcGsZvdvI6l41kJzZO9di6rSms8EvBQg83ioPvicRDn7NFKz8dtFlVJgG9DICtICA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 29,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Offerpad,+LLC",
-        "updated": "July 5, 2019",
-        "size": "16M",
-        "installs": "10,000+",
-        "current_version": "1.0.030",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Offerpad, LLC",
-        "developer_email": "info@offerpad.com",
-        "developer_url": "https://www.offerpad.com",
-        "developer_address": null,
-        "app_id": "com.offerpad.mobile",
-        "url": "https://play.google.com/store/apps/details?id=com.offerpad.mobile&hl=en&gl=us"
+        "app_id": "com.myzap.bhgre",
+        "url": "https://play.google.com/store/apps/details?id=com.myzap.bhgre&hl=en&gl=us"
     },
     {
         "title": "Cawice - Free Home Security Camera",
@@ -3767,7 +3205,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.1",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -3775,7 +3213,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2888,
+        "reviews": 2965,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3807,8 +3245,94 @@
         "url": "https://play.google.com/store/apps/details?id=com.cawice.android&hl=en&gl=us"
     },
     {
-        "title": "realtor.com\u00ae for professionals",
-        "icon": "https://lh3.googleusercontent.com/D9LKfS9yuV8KaWNsvUoLXxlkIDot3YjnikhcsJqKttrcUsbGtTh_x6tNeb5cxWV7xu8",
+        "title": "ColorSnap\u00ae Match",
+        "icon": "https://lh3.googleusercontent.com/lgy8fKs7sIJJnWVpL1iFHIFTSh6u9AwNd9_u_42liqsdTT-KUpJdx7t-05xzFT4ITA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "2.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 108,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Variable,+Inc",
+        "updated": "June 10, 2019",
+        "size": "32M",
+        "installs": "50,000+",
+        "current_version": "8.4.44",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Variable, Inc",
+        "developer_email": "dev@variabletech.com",
+        "developer_url": "https://colorsnap.com/match",
+        "developer_address": "2474 Clay St.\nChattanooga, TN 37406",
+        "app_id": "com.variable.sw",
+        "url": "https://play.google.com/store/apps/details?id=com.variable.sw&hl=en&gl=us"
+    },
+    {
+        "title": "PadMapper Apartment Rental Search",
+        "icon": "https://lh3.googleusercontent.com/168SezUs0YgMZatKmHV35rZh275ZsHwzI3ADfZSvJ-vvS8izseESAS0RxbnQKOf97Qs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2286,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "PadMapper+Inc.",
+        "updated": "August 19, 2019",
+        "size": "9.6M",
+        "installs": "100,000+",
+        "current_version": "1.9.48",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Shares Info"
+        ],
+        "developer": "PadMapper Inc.",
+        "developer_email": "android@padmapper.com",
+        "developer_url": "http://www.padmapper.com",
+        "developer_address": null,
+        "app_id": "com.padmapper.search",
+        "url": "https://play.google.com/store/apps/details?id=com.padmapper.search&hl=en&gl=us"
+    },
+    {
+        "title": "Altec Smart Security System",
+        "icon": "https://lh3.googleusercontent.com/APaitHatOJR1Vhonl63BvsUvNTTh8qkT2rDTjkgAz6ukrjQlgjIVe0Ix7-31E6FUsWc",
         "screenshots": [],
         "video": null,
         "category": [
@@ -3822,7 +3346,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 19,
+        "reviews": 342,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3830,25 +3354,291 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "5789636307889897088",
-        "updated": "May 29, 2019",
-        "size": "14M",
+        "developer_id": "Sakar+International,+Inc.",
+        "updated": "July 3, 2019",
+        "size": "38M",
+        "installs": "50,000+",
+        "current_version": "1.0.25",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sakar International, Inc.",
+        "developer_email": "support@alteclansing.com",
+        "developer_url": "http://alteclansing.com",
+        "developer_address": null,
+        "app_id": "com.altec.shsm",
+        "url": "https://play.google.com/store/apps/details?id=com.altec.shsm&hl=en&gl=us"
+    },
+    {
+        "title": "New Pit Boss Grills",
+        "icon": "https://lh3.googleusercontent.com/u8zvSog90JQpcx3JlhJ00Jne3C-fHcuh77ejV-QEU82WsoMq-9JmBurKa297UDzWHGk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "2.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 60,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Dansons",
+        "updated": "December 12, 2018",
+        "size": "2.1M",
         "installs": "10,000+",
-        "current_version": "1.0.6",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Dansons",
+        "developer_email": "webmaster@dansons.com",
+        "developer_url": "https://pitboss-grills.com",
+        "developer_address": null,
+        "app_id": "dansons.pitbossgrills",
+        "url": "https://play.google.com/store/apps/details?id=dansons.pitbossgrills&hl=en&gl=us"
+    },
+    {
+        "title": "IP WebCam - Acid",
+        "icon": "https://lh3.googleusercontent.com/Yvv37iDtWKvl9pAjNgR9fEI6Cn_U4PVUtdxzC5r9f6rPEuvebP9AuSmX_u6LkjAu-A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9908,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Screen+Mirroring+and+Cast+Smart+TV+Lab.",
+        "updated": "March 26, 2019",
+        "size": "15M",
+        "installs": "1,000,000+",
+        "current_version": "2.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$1.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Screen Mirroring and Cast Smart TV Lab.",
+        "developer_email": "pholorcom@gmail.com",
+        "developer_url": "http://www.biyee.net/mobile/onvifer_privacy.aspx",
+        "developer_address": "187 Kailipa, Keihi, HI",
+        "app_id": "nfo.webcam",
+        "url": "https://play.google.com/store/apps/details?id=nfo.webcam&hl=en&gl=us"
+    },
+    {
+        "title": "T-Mobile Home Internet",
+        "icon": "https://lh3.googleusercontent.com/Pn80btq-PoX9EiTgAvYPPE7SI4kxeLd142NLHlklbLUL3YxeVALwZPPqCsLxDwPZwl8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "T-Mobile+USA",
+        "updated": "June 20, 2019",
+        "size": "7.1M",
+        "installs": "10,000+",
+        "current_version": "1.2",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "T-Mobile USA",
+        "developer_email": "GooglePlaySupport@T-Mobile.com",
+        "developer_url": "http://t-mobile.com",
+        "developer_address": "12920 SE 38th St, Bellevue, WA 98006",
+        "app_id": "com.tmobile.homeisp",
+        "url": "https://play.google.com/store/apps/details?id=com.tmobile.homeisp&hl=en&gl=us"
+    },
+    {
+        "title": "Kitchen Planner 3D",
+        "icon": "https://lh3.googleusercontent.com/nWD1AULmlm4Nnb6_tY61gdlPqlxjq0Ibu4b2bpn8HgQKyKYgERFZIBeTe5sy702VwKk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/aEfM70TuXoU",
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2152,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Andrey+Ovchinnikov",
+        "updated": "May 18, 2019",
+        "size": "26M",
+        "installs": "100,000+",
+        "current_version": "1.9.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$9.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Andrey Ovchinnikov",
+        "developer_email": "flash.gemdev@gmail.com",
+        "developer_url": "https://mykitchen3d.com",
+        "developer_address": "\u041a\u0430\u043b\u0443\u0433\u0430, \u0443\u043b. 65 \u041b\u0435\u0442 \u041f\u043e\u0431\u0435\u0434\u044b, \u0434. 29",
+        "app_id": "com.kitchensketches",
+        "url": "https://play.google.com/store/apps/details?id=com.kitchensketches&hl=en&gl=us"
+    },
+    {
+        "title": "Section 8 Rentals - No Waiting List",
+        "icon": "https://lh3.googleusercontent.com/m2cDW298th8hQkJm9P9VQCFCCl0H_yte9c9nRu9HLLs0roI8OtkZtq3PhWvbEsoFTKg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 34,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Appmedia2019",
+        "updated": "January 20, 2019",
+        "size": "11M",
+        "installs": "10,000+",
+        "current_version": "1.0",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "realtor.com\u00ae",
-        "developer_email": "proappfeedback@move.com",
-        "developer_url": "http://www.realtor.com",
+        "interactive_elements": null,
+        "developer": "Appmedia2019",
+        "developer_email": "appmedia2019@gmail.com",
+        "developer_url": "http://www.appsgeyser.com/privacy/",
         "developer_address": null,
-        "app_id": "com.move.realtorpro.android",
-        "url": "https://play.google.com/store/apps/details?id=com.move.realtorpro.android&hl=en&gl=us"
+        "app_id": "com.wSection8RentalsNowaitinglist",
+        "url": "https://play.google.com/store/apps/details?id=com.wSection8RentalsNowaitinglist&hl=en&gl=us"
+    },
+    {
+        "title": "New Family House Builder Happy Family Simulator",
+        "icon": "https://lh3.googleusercontent.com/rHF3wMW-lexwexo_P3r0-7azV_ot8ONHJYaVeD-YIxAPtpNvjIgKcSS5u-wl_rvhhQ4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1710,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5492798222698967139",
+        "updated": "June 20, 2018",
+        "size": "56M",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+",
+            "Mild Violence"
+        ],
+        "iap_range": [
+            "$7.99",
+            "$15.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "New Age Gamers",
+        "developer_email": "newage.freegames@gmail.com",
+        "developer_url": "http://www.nagamers.com",
+        "developer_address": "Canal Point Scheme, Lahore",
+        "app_id": "com.nag.family.house.builder.virtual.mother.games",
+        "url": "https://play.google.com/store/apps/details?id=com.nag.family.house.builder.virtual.mother.games&hl=en&gl=us"
     },
     {
         "title": "PaintMyPlace - Paint Your Home With Real Colors",
@@ -3858,7 +3648,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.5",
+        "score": "3.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3866,7 +3656,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 34,
+        "reviews": 39,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3904,7 +3694,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "2.6",
+        "score": "2.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -3912,7 +3702,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1041,
+        "reviews": 1045,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3939,14 +3729,14 @@
         "url": "https://play.google.com/store/apps/details?id=mobiletoolsshop.tvremote.sanyo&hl=en&gl=us"
     },
     {
-        "title": "SmartRent",
-        "icon": "https://lh3.googleusercontent.com/MfazbCGnGyjfKp-f1tdN_9SqtuBHF1oWeZgo4XCwOtx_-hz47m6tU3cZuBwDe39DTaM",
+        "title": "Home Design & Mansion Decorating Games Match 3",
+        "icon": "https://lh3.googleusercontent.com/FMAeGMhE4g1ek3DkdK7pjBRPXrW20cOZUmkRo5BzrVWNmBzBPipNbeLF1GnxWocemS0",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "2.7",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -3954,7 +3744,101 @@
             "2": null,
             "1": null
         },
-        "reviews": 115,
+        "reviews": 1358,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Bubu+Girl+Games+%26+Match+3+Games",
+        "updated": "August 17, 2019",
+        "size": "32M",
+        "installs": "100,000+",
+        "current_version": "1.29",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$44.99"
+        ],
+        "interactive_elements": [
+            "Shares Location, In-Game Purchases"
+        ],
+        "developer": "Bubu Girl Games & Match 3 Games",
+        "developer_email": "bubusoftsrl@gmail.com",
+        "developer_url": "http://www.modulesden.com/content/6-game-privacy-policy",
+        "developer_address": "Piata Unirii, number 21, Apartment 2A, Cluj-Napoca, Romania",
+        "app_id": "com.homesweet.homedesign",
+        "url": "https://play.google.com/store/apps/details?id=com.homesweet.homedesign&hl=en&gl=us"
+    },
+    {
+        "title": "Home Blast",
+        "icon": "https://lh3.googleusercontent.com/fvhlk2boR3pJ1iFdBZ-erK6l1F2hg3JRL_Ls4_sfD0OIlAx59due_BH_1BbOpHclxGk",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 106,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "blast+and+match+casual+game",
+        "updated": "August 13, 2019",
+        "size": "18M",
+        "installs": "5,000+",
+        "current_version": "1.0005",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "In-Game Purchases"
+        ],
+        "developer": "blast and match casual game",
+        "developer_email": "blastandmatchcasualgame@gmail.com",
+        "developer_url": "https://ihads.herokuapp.com/privacy/doc.html",
+        "developer_address": "calle llull 347",
+        "app_id": "decor.home.blast.bmc",
+        "url": "https://play.google.com/store/apps/details?id=decor.home.blast.bmc&hl=en&gl=us"
+    },
+    {
+        "title": "Apartments for Rent by ABODO",
+        "icon": "https://lh3.googleusercontent.com/CX7wu4gAWjEyRY3PVCJK9uHaezZD6CKqO2NkK3s5-ycmOs09QXvY361oxlFXFzjsKd0N",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 202,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3962,33 +3846,161 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "SmartRent",
-        "updated": "May 22, 2019",
-        "size": "13M",
+        "developer_id": "5365638087745292036",
+        "updated": "June 6, 2019",
+        "size": "3.8M",
+        "installs": "50,000+",
+        "current_version": "1.1.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "ABODO.com",
+        "developer_email": "support@abodo.com",
+        "developer_url": "https://www.abodo.com",
+        "developer_address": "316 West Washington Ave., Suite 700\nMadison, WI 53703",
+        "app_id": "com.abodo.ABODO",
+        "url": "https://play.google.com/store/apps/details?id=com.abodo.ABODO&hl=en&gl=us"
+    },
+    {
+        "title": "MyAmbit Mobile",
+        "icon": "https://lh3.googleusercontent.com/M7aHlcj4Yr7ZTFeITpWg_zjzWHLfEWFRz5m8h82mMynLqjPr6t_TfqcdNRL3sNwjXQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 65,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ambit+Energy+Development",
+        "updated": "August 7, 2019",
+        "size": "10M",
         "installs": "10,000+",
-        "current_version": "1.16.5",
+        "current_version": "1.7",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ambit Energy Development",
+        "developer_email": "careaction@ambitenergy.com",
+        "developer_url": "http://www.ambitenergy.com",
+        "developer_address": null,
+        "app_id": "com.myambitapp",
+        "url": "https://play.google.com/store/apps/details?id=com.myambitapp&hl=en&gl=us"
+    },
+    {
+        "title": "Section 8 Homes for rent - No Waiting list",
+        "icon": "https://lh3.googleusercontent.com/VUhtkIW6QeJkQ7SnVm8LKwu6A9RHV4oL70H7ZTLRXQnZ-3Fm_cFkv428owt1KpO5Xw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "2.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Appmedia2019",
+        "updated": "January 21, 2019",
+        "size": "11M",
+        "installs": "10,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Appmedia2019",
+        "developer_email": "appmedia2019@gmail.com",
+        "developer_url": "http://www.appsgeyser.com/privacy/",
+        "developer_address": null,
+        "app_id": "com.wSection8Homes4Rent",
+        "url": "https://play.google.com/store/apps/details?id=com.wSection8Homes4Rent&hl=en&gl=us"
+    },
+    {
+        "title": "Resident App",
+        "icon": "https://lh3.googleusercontent.com/QfjFteZyZ8f-jSRHnKT7PrfOlTfNE5gFFBREVfP7OTdFghO8oB0Vrr5PlYJX7jXZTXc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "2.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 57,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SightPlan",
+        "updated": "June 22, 2019",
+        "size": "7.5M",
+        "installs": "10,000+",
+        "current_version": "2.6.0",
         "required_android_version": "5.0 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
-        "interactive_elements": null,
-        "developer": "SmartRent",
-        "developer_email": "support@smartrent.com",
-        "developer_url": "http://www.smartrent.com",
-        "developer_address": null,
-        "app_id": "com.smartrent.resident",
-        "url": "https://play.google.com/store/apps/details?id=com.smartrent.resident&hl=en&gl=us"
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "SightPlan",
+        "developer_email": "help@residentservice.com",
+        "developer_url": "http://residentservice.com/",
+        "developer_address": "618 E South St. #620\nOrlando, FL 32801",
+        "app_id": "com.sightplan.residentapp",
+        "url": "https://play.google.com/store/apps/details?id=com.sightplan.residentapp&hl=en&gl=us"
     },
     {
-        "title": "New Pit Boss Grills",
-        "icon": "https://lh3.googleusercontent.com/u8zvSog90JQpcx3JlhJ00Jne3C-fHcuh77ejV-QEU82WsoMq-9JmBurKa297UDzWHGk",
+        "title": "Remote for LG TV / Devices : Codematics",
+        "icon": "https://lh3.googleusercontent.com/ebTjNKL5uquwkSSidvLQAD96mi58Z-kwiJlYkXqgyArfgWvkCL30R0em572eUQxDIP4",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/MwVBxC5W3s4",
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "2.0",
+        "score": "2.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -3996,7 +4008,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 56,
+        "reviews": 272,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4004,33 +4016,33 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "Dansons",
-        "updated": "December 12, 2018",
-        "size": "2.1M",
-        "installs": "10,000+",
-        "current_version": "1.0",
-        "required_android_version": "4.0.3 and up",
+        "developer_id": "4664062132977048345",
+        "updated": "April 11, 2019",
+        "size": "4.5M",
+        "installs": "100,000+",
+        "current_version": "1.4",
+        "required_android_version": "4.2 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "Dansons",
-        "developer_email": "webmaster@dansons.com",
-        "developer_url": "https://pitboss-grills.com",
-        "developer_address": null,
-        "app_id": "dansons.pitbossgrills",
-        "url": "https://play.google.com/store/apps/details?id=dansons.pitbossgrills&hl=en&gl=us"
+        "developer": "CodeMatics Media Solutions",
+        "developer_email": "support@codematics.co",
+        "developer_url": "http://www.codematics.co",
+        "developer_address": "CodeMatics Inc., Office no. 14, KPK IT Park",
+        "app_id": "codematics.lgtv.lgsmarttv.lgtvremote.wifitvremote.tvremote",
+        "url": "https://play.google.com/store/apps/details?id=codematics.lgtv.lgsmarttv.lgtvremote.wifitvremote.tvremote&hl=en&gl=us"
     },
     {
-        "title": "T-Mobile Home Internet",
-        "icon": "https://lh3.googleusercontent.com/Pn80btq-PoX9EiTgAvYPPE7SI4kxeLd142NLHlklbLUL3YxeVALwZPPqCsLxDwPZwl8",
+        "title": "EyesPie - Family & Home Security Wifi Camera App",
+        "icon": "https://lh3.googleusercontent.com/cL4yiiIdFrgINt3OF0Lhqsw1r6VCLkBMLEDudgWKqt-BPA3ODLg8Qh675EMvDqudZ5w",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/0C7bIXvcdaU",
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.8",
+        "score": "5.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -4038,7 +4050,53 @@
             "2": null,
             "1": null
         },
-        "reviews": 24,
+        "reviews": 834,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Kaarss+Solutions",
+        "updated": "July 25, 2019",
+        "size": "17M",
+        "installs": "100,000+",
+        "current_version": "1.0.41",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Users Interact"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Kaarss Solutions",
+        "developer_email": "kaarss.webcam@gmail.com",
+        "developer_url": "https://kaarss.webcam",
+        "developer_address": "Kaarss Websolutions Pvt Ltd.\nTrans Yamuna Colony Phase-2\nAgra 282006 India",
+        "app_id": "app.kaarss.webcam",
+        "url": "https://play.google.com/store/apps/details?id=app.kaarss.webcam&hl=en&gl=us"
+    },
+    {
+        "title": "House and Office Interior Design Ideas",
+        "icon": "https://lh3.googleusercontent.com/aoc7-x6vDUKpBxRO5sT04QnubD01vjyFJrmDwHkWzksHXjstqkwlA9TLLBodd5NbFe0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 785,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4046,33 +4104,33 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "T-Mobile+USA",
-        "updated": "June 20, 2019",
-        "size": "7.1M",
-        "installs": "10,000+",
-        "current_version": "1.2",
-        "required_android_version": "6.0 and up",
+        "developer_id": "Sumit+Kataria",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "50,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "T-Mobile USA",
-        "developer_email": "GooglePlaySupport@T-Mobile.com",
-        "developer_url": "http://t-mobile.com",
-        "developer_address": "12920 SE 38th St, Bellevue, WA 98006",
-        "app_id": "com.tmobile.homeisp",
-        "url": "https://play.google.com/store/apps/details?id=com.tmobile.homeisp&hl=en&gl=us"
+        "developer": "Sumit Kataria",
+        "developer_email": "pec.sumit@gmail.com",
+        "developer_url": "http://sumitk.net",
+        "developer_address": null,
+        "app_id": "net.sumitk.interiordesign",
+        "url": "https://play.google.com/store/apps/details?id=net.sumitk.interiordesign&hl=en&gl=us"
     },
     {
-        "title": "Centriq - Home Safety, Organization, & Maintenance",
-        "icon": "https://lh3.googleusercontent.com/W9MoAHoIB67MS7Ir7Gld3niMBPcj3Fa6T-3x1xXHh-ydw4MOfz2j_TvCZjjNC9EpleQ",
+        "title": "IKEA Place",
+        "icon": "https://lh3.googleusercontent.com/Aok6KFpHL_6lV49EtIX-9lZWQxjRdcn-5NZ-cGMbN8x2t5k9a8oC7MNLDSGxnO2aYGaW",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/nHKkh5pENCw",
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.3",
+        "score": "2.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -4080,7 +4138,49 @@
             "2": null,
             "1": null
         },
-        "reviews": 136,
+        "reviews": 910,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Inter+IKEA+Systems+B.V.",
+        "updated": "June 14, 2019",
+        "size": "46M",
+        "installs": "100,000+",
+        "current_version": "3.4.95",
+        "required_android_version": "7.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Inter IKEA Systems B.V.",
+        "developer_email": "support@ikeaplace.zendesk.com",
+        "developer_url": "http://www.ikea-place.com/privacy-policy/",
+        "developer_address": null,
+        "app_id": "com.inter_ikea.place",
+        "url": "https://play.google.com/store/apps/details?id=com.inter_ikea.place&hl=en&gl=us"
+    },
+    {
+        "title": "The HomeServe App",
+        "icon": "https://lh3.googleusercontent.com/CjWvfwHsTNkvtSdJBy1w-EJK0wtJCx4j3nM21Cv5_I1MhJ9A0FLhJi2SyBngM5Wumg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "2.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4091,8 +4191,8 @@
         "developer_id": "Centriq+Technology,+Inc.",
         "updated": "May 18, 2019",
         "size": "33M",
-        "installs": "10,000+",
-        "current_version": "3.6.1",
+        "installs": "1,000+",
+        "current_version": "1.2.1",
         "required_android_version": "6.0 and up",
         "content_rating": [
             "Everyone"
@@ -4100,21 +4200,21 @@
         "iap_range": null,
         "interactive_elements": null,
         "developer": "Centriq Technology, Inc.",
-        "developer_email": "support@centriqhome.com",
-        "developer_url": "https://www.mycentriq.com/",
+        "developer_email": "support@homeserveapp.com",
+        "developer_url": "http://www.homeserveapp.com",
         "developer_address": "775 E Blithedale, 204, Mill Valley, CA 94941",
-        "app_id": "com.centriqhome.centriq",
-        "url": "https://play.google.com/store/apps/details?id=com.centriqhome.centriq&hl=en&gl=us"
+        "app_id": "com.homeserveapp.homeserve",
+        "url": "https://play.google.com/store/apps/details?id=com.homeserveapp.homeserve&hl=en&gl=us"
     },
     {
-        "title": "DEEBOT 2017",
-        "icon": "https://lh3.googleusercontent.com/oVE6qOiPKbkpBAYZm7GA6vrWaiib48H4Xtg8UY6ueJmzbYCHb-IsL52EvouSXZCd6w",
+        "title": "realtor.com\u00ae for professionals",
+        "icon": "https://lh3.googleusercontent.com/D9LKfS9yuV8KaWNsvUoLXxlkIDot3YjnikhcsJqKttrcUsbGtTh_x6tNeb5cxWV7xu8",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "2.2",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -4122,7 +4222,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 33,
+        "reviews": 22,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4130,167 +4230,35 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "ECOVACS+ROBOTICS",
-        "updated": "May 29, 2019",
-        "size": "32M",
-        "installs": "5,000+",
-        "current_version": "2.0.2",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "ECOVACS ROBOTICS",
-        "developer_email": "Intl-Google@ecovacs.com",
-        "developer_url": "https://gl-us-wap.ecovacs.com/content/agreement?id=20180428074332_62d73d9df4ce483601f04a3b54943570",
-        "developer_address": null,
-        "app_id": "com.ecovacs.ecosphere.international",
-        "url": "https://play.google.com/store/apps/details?id=com.ecovacs.ecosphere.international&hl=en&gl=us"
-    },
-    {
-        "title": "TV Remote for LG  (Smart TV Remote Control)",
-        "icon": "https://lh3.googleusercontent.com/VE1wO06KzgC-RKKLEIweRBBqlQpcUrd_ZYvqDpgM8iCuMswhLiEQJXZxfwRDbAs-aYY",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/2-MDI2pKANU",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 6322,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Spikes+Labs",
-        "updated": "May 9, 2019",
-        "size": "4.7M",
-        "installs": "1,000,000+",
-        "current_version": "1.44",
-        "required_android_version": "4.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Spikes Labs",
-        "developer_email": "spikesroid@gmail.com",
-        "developer_url": "https://www.spikesroidapps.com/",
-        "developer_address": null,
-        "app_id": "roid.spikesroid.tv_remote_for_lg",
-        "url": "https://play.google.com/store/apps/details?id=roid.spikesroid.tv_remote_for_lg&hl=en&gl=us"
-    },
-    {
-        "title": "New Family House Builder Happy Family Simulator",
-        "icon": "https://lh3.googleusercontent.com/rHF3wMW-lexwexo_P3r0-7azV_ot8ONHJYaVeD-YIxAPtpNvjIgKcSS5u-wl_rvhhQ4",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 1660,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "5492798222698967139",
-        "updated": "June 20, 2018",
-        "size": "56M",
-        "installs": "100,000+",
-        "current_version": "1.1",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone 10+",
-            "Mild Violence"
-        ],
-        "iap_range": [
-            "$7.99",
-            "$15.99"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "New Age Gamers",
-        "developer_email": "newage.freegames@gmail.com",
-        "developer_url": "http://www.nagamers.com",
-        "developer_address": "Canal Point Scheme, Lahore",
-        "app_id": "com.nag.family.house.builder.virtual.mother.games",
-        "url": "https://play.google.com/store/apps/details?id=com.nag.family.house.builder.virtual.mother.games&hl=en&gl=us"
-    },
-    {
-        "title": "Homee Pro - Home Services On Demand",
-        "icon": "https://lh3.googleusercontent.com/FAX861fx9JYlqn1Ja1jOhC3Q5VhVO-Y1wPgP5P4z0wKHui7f0Lr9l_HkAymacWlCFA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 237,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Homee",
-        "updated": "July 4, 2019",
-        "size": "32M",
+        "developer_id": "5789636307889897088",
+        "updated": "July 31, 2019",
+        "size": "29M",
         "installs": "10,000+",
-        "current_version": "4.7.0",
-        "required_android_version": "4.3 and up",
+        "current_version": "1.0.7",
+        "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": [
-            "Shares Location"
+            "Users Interact"
         ],
-        "developer": "Homee",
-        "developer_email": "support@homeeondemand.com",
-        "developer_url": "http://www.homeeondemand.com",
-        "developer_address": "3225 South MacDill Ave. STE 129-270\nTampa, FL  33629",
-        "app_id": "homee.provider.droid",
-        "url": "https://play.google.com/store/apps/details?id=homee.provider.droid&hl=en&gl=us"
+        "developer": "realtor.com\u00ae",
+        "developer_email": "proappfeedback@move.com",
+        "developer_url": "http://www.realtor.com",
+        "developer_address": null,
+        "app_id": "com.move.realtorpro.android",
+        "url": "https://play.google.com/store/apps/details?id=com.move.realtorpro.android&hl=en&gl=us"
     },
     {
-        "title": "Home Flip Blast",
-        "icon": "https://lh3.googleusercontent.com/5iiaEsMeRJ7WoXsfz3zqilwh8ImTnpYmu3u9LletDTlduAh5v1Q-GDbih1xdIAit5uQ",
+        "title": "Best MiniCraft Survival Games",
+        "icon": "https://lh3.googleusercontent.com/kN2w18U4jWJQ6z74L64KLcCYf2ZikUSTgQzb5w0jgRoPyFub-Xh22pThoZevo3nsZyqm",
         "screenshots": [],
         "video": null,
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.4",
+        "score": "3.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -4298,33 +4266,72 @@
             "2": null,
             "1": null
         },
-        "reviews": 16,
+        "reviews": 52,
         "description": null,
         "description_html": null,
         "recent_changes": null,
         "editors_choice": false,
         "price": "0",
         "free": true,
-        "iap": true,
-        "developer_id": "Five+Red+Gifts",
-        "updated": "July 15, 2019",
-        "size": "47M",
-        "installs": "5,000+",
-        "current_version": "1.3",
-        "required_android_version": "4.0.3 and up",
+        "iap": false,
+        "developer_id": "A+MINICRAFT+GRAND+CRAFTING",
+        "updated": "July 10, 2019",
+        "size": "27M",
+        "installs": "10,000+",
+        "current_version": "1.11.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "A MINICRAFT GRAND CRAFTING",
+        "developer_email": "antonprabowo080696@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/18_jhkxipfWpkvWIoXvm6wWzYeB8tbDq3UMizXHeQaU0/edit?usp=sharing",
+        "developer_address": null,
+        "app_id": "com.mini.craft.minicraft.no.crafting.games.building",
+        "url": "https://play.google.com/store/apps/details?id=com.mini.craft.minicraft.no.crafting.games.building&hl=en&gl=us"
+    },
+    {
+        "title": "TV Remote for Westinghouse",
+        "icon": "https://lh3.googleusercontent.com/A1F18UnECIbZ9fj2f3ZRmPdNLZKLtX6vXPIceQOQwb1qMuymCUEweCJJ7mmBFcKu5A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "1.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 366,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Mobile+Tools+Shop",
+        "updated": "October 1, 2018",
+        "size": "1.4M",
+        "installs": "50,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.2 and up",
         "content_rating": [
             "Everyone"
         ],
-        "iap_range": [
-            "$0.99",
-            "$79.99"
-        ],
+        "iap_range": null,
         "interactive_elements": null,
-        "developer": "Five Red Gifts",
-        "developer_email": "knowmoongirl@gmail.com",
-        "developer_url": "https://sites.google.com/view/atomic-power/home",
+        "developer": "Mobile Tools Shop",
+        "developer_email": "ahmedmuawiya91@gmail.com",
+        "developer_url": "https://mobiletoolsshop.wordpress.com/privacy-policy/",
         "developer_address": null,
-        "app_id": "com.star5studio.EgyptJewelJourney.GemsLegend",
-        "url": "https://play.google.com/store/apps/details?id=com.star5studio.EgyptJewelJourney.GemsLegend&hl=en&gl=us"
+        "app_id": "mobiletoolsshop.tvremote.westinghouse",
+        "url": "https://play.google.com/store/apps/details?id=mobiletoolsshop.tvremote.westinghouse&hl=en&gl=us"
     }
 ]

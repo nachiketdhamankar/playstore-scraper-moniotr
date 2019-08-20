@@ -5,3 +5,5 @@ Pipfile
 *.lock
 
 *.pyc
+
+/env/

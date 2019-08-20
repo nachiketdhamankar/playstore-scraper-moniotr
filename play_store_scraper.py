@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""Script to scrape Google Play Store and save information about apps per category for different countries in JSON format.
+"""Script to scrape Google Play Store and save information about apps per category for different countries.
 
 Scrapes (using Play Store Scraper - see requirements.txt) the information about the top 100 apps for each category in India and United States of America.
 Stores the detailed information about each app in the /output/app_info/ folder (each category and country has it's own JSON file)

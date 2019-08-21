@@ -1,3 +1,9 @@
+---
+name: Bug
+about: Found a bug? Let me know!
+
+---
+
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Description

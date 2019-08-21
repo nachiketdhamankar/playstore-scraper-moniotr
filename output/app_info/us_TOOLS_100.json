@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 59484,
+        "reviews": 59505,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -57,7 +57,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 23074,
+        "reviews": 23177,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -66,7 +66,7 @@
         "free": true,
         "iap": false,
         "developer_id": "Oz+Interactive",
-        "updated": "August 17, 2019",
+        "updated": "August 20, 2019",
         "size": "74M",
         "installs": "500,000+",
         "current_version": "1.0.129.2000",
@@ -99,7 +99,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6529108,
+        "reviews": 6529173,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -133,7 +133,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.2",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -141,7 +141,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 622525,
+        "reviews": 622545,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -188,7 +188,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 181651,
+        "reviews": 181680,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -222,7 +222,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.7",
+        "score": "4.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -230,7 +230,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1174717,
+        "reviews": 1175073,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -275,7 +275,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 26571,
+        "reviews": 26628,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -322,7 +322,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 635906,
+        "reviews": 635956,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -364,7 +364,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 59948,
+        "reviews": 59926,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -411,7 +411,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 133756,
+        "reviews": 133763,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -453,7 +453,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 489535,
+        "reviews": 490012,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -498,7 +498,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 122380,
+        "reviews": 122383,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -534,7 +534,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -542,7 +542,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5727271,
+        "reviews": 5727387,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -587,7 +587,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 133406,
+        "reviews": 133461,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -634,7 +634,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 129680,
+        "reviews": 129922,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -670,7 +670,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -678,7 +678,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 38553,
+        "reviews": 38566,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -767,7 +767,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1414,
+        "reviews": 1417,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -809,7 +809,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11495,
+        "reviews": 11494,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -854,7 +854,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 31322,
+        "reviews": 31325,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -896,7 +896,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 41499,
+        "reviews": 41503,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -938,7 +938,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2168,
+        "reviews": 2171,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -965,6 +965,48 @@
         "url": "https://play.google.com/store/apps/details?id=com.mirror.mobile.pro.ss&hl=en&gl=us"
     },
     {
+        "title": "Copy My Data",
+        "icon": "https://lh3.googleusercontent.com/rC1BdoAVcOKRjtE9mXhAwesUpB2UU8y1Cxd2sYpOxiFhqlVY8SzCqvrYZvZeBNEetA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16640,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Media+Mushroom",
+        "updated": "September 3, 2017",
+        "size": "2.0M",
+        "installs": "10,000,000+",
+        "current_version": "1.2.6",
+        "required_android_version": "2.3.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Media Mushroom",
+        "developer_email": "contact@mediamushroom.com",
+        "developer_url": "http://www.mediamushroom.com/",
+        "developer_address": null,
+        "app_id": "com.mediamushroom.copymydata",
+        "url": "https://play.google.com/store/apps/details?id=com.mediamushroom.copymydata&hl=en&gl=us"
+    },
+    {
         "title": "QR Code Scanner & Barcode Scanner & QR Scanner app",
         "icon": "https://lh3.googleusercontent.com/z9KMLkenPW8lMBu-AiSS0L5d13eKV9gxS9ljtnwdzGbXz4PKkWyHj7KWRat8dXjAiw",
         "screenshots": [],
@@ -980,7 +1022,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 187500,
+        "reviews": 187904,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1024,7 +1066,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 61000,
+        "reviews": 61051,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1051,48 +1093,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.sprint.care&hl=en&gl=us"
     },
     {
-        "title": "Copy My Data",
-        "icon": "https://lh3.googleusercontent.com/rC1BdoAVcOKRjtE9mXhAwesUpB2UU8y1Cxd2sYpOxiFhqlVY8SzCqvrYZvZeBNEetA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "TOOLS"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 16637,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Media+Mushroom",
-        "updated": "September 3, 2017",
-        "size": "2.0M",
-        "installs": "10,000,000+",
-        "current_version": "1.2.6",
-        "required_android_version": "2.3.3 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Media Mushroom",
-        "developer_email": "contact@mediamushroom.com",
-        "developer_url": "http://www.mediamushroom.com/",
-        "developer_address": null,
-        "app_id": "com.mediamushroom.copymydata",
-        "url": "https://play.google.com/store/apps/details?id=com.mediamushroom.copymydata&hl=en&gl=us"
-    },
-    {
         "title": "My Spectrum",
         "icon": "https://lh3.googleusercontent.com/MBi51mXYtb0tu3mssXuqMTxF1CmvgXuNOY5oAFKKQG6qkrdz08xGk185EN6G_MiTQA",
         "screenshots": [],
@@ -1108,7 +1108,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 66459,
+        "reviews": 66508,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1234,7 +1234,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1613651,
+        "reviews": 1613652,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1279,7 +1279,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 58666,
+        "reviews": 58866,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1324,7 +1324,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 222368,
+        "reviews": 222384,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1366,7 +1366,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1021250,
+        "reviews": 1021287,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1408,7 +1408,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1499,
+        "reviews": 1516,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1450,7 +1450,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 766,
+        "reviews": 767,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1484,7 +1484,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "2.9",
+        "score": "3.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -1492,7 +1492,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 23324,
+        "reviews": 23417,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1528,7 +1528,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.0",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1570,7 +1570,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.3",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -1578,7 +1578,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 19594,
+        "reviews": 19636,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1620,7 +1620,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 570,
+        "reviews": 572,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1654,7 +1654,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1662,7 +1662,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 656,
+        "reviews": 657,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1704,7 +1704,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1099786,
+        "reviews": 1099820,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1742,7 +1742,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -1792,7 +1792,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 216460,
+        "reviews": 216888,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1826,7 +1826,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.2",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1834,7 +1834,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 130587,
+        "reviews": 130641,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1879,7 +1879,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1242920,
+        "reviews": 1242980,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1919,7 +1919,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.8",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1927,7 +1927,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8585,
+        "reviews": 8593,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1971,7 +1971,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1722584,
+        "reviews": 1722530,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2007,7 +2007,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "2.6",
+        "score": "3.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2015,7 +2015,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 47744,
+        "reviews": 47758,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2059,7 +2059,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1360,
+        "reviews": 1366,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2093,7 +2093,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.1",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -2101,7 +2101,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3399,
+        "reviews": 3400,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2143,7 +2143,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 27562,
+        "reviews": 27576,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2177,7 +2177,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.2",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -2185,7 +2185,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 989982,
+        "reviews": 990334,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2227,7 +2227,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 44469266,
+        "reviews": 44469355,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2264,7 +2264,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.3",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2272,7 +2272,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2992190,
+        "reviews": 2992196,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2317,7 +2317,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 69206,
+        "reviews": 69209,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2351,7 +2351,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.3",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2443,7 +2443,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2451,7 +2451,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2753,
+        "reviews": 2752,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2488,7 +2488,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.7",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2541,7 +2541,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 92610,
+        "reviews": 92612,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2575,7 +2575,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.3",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2583,7 +2583,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3780,
+        "reviews": 3787,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2617,7 +2617,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2625,7 +2625,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 15040,
+        "reviews": 15052,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2634,7 +2634,7 @@
         "free": true,
         "iap": false,
         "developer_id": "Starlight+Utility+Lab",
-        "updated": "August 16, 2019",
+        "updated": "August 20, 2019",
         "size": "25M",
         "installs": "1,000,000+",
         "current_version": "1.5.2",
@@ -2652,14 +2652,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.boosterandcleaner.elf.magic&hl=en&gl=us"
     },
     {
-        "title": "Samsung Smart View",
-        "icon": "https://lh3.googleusercontent.com/OqSyoNEspMPJ9P6z9Pg6yZ4V_MbuXrzUiCkKRU6c1G57mCovuBE7yWhGcikWGlcSSw",
+        "title": "Phone Cleaner- Cache Clean, Android Booster Master",
+        "icon": "https://lh3.googleusercontent.com/rGFQo9KqndvQt2l15Fa0TkNIRyu5qVdAOIOaZfixjbJ3Tk8yc73mh-tuuVtUdWzNfiY",
         "screenshots": [],
         "video": null,
         "category": [
             "TOOLS"
         ],
-        "score": "2.8",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2667,7 +2667,49 @@
             "2": null,
             "1": null
         },
-        "reviews": 112316,
+        "reviews": 488719,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6252155671028292677",
+        "updated": "July 22, 2019",
+        "size": "5.8M",
+        "installs": "10,000,000+",
+        "current_version": "1.2.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Super Cleaner Studio",
+        "developer_email": "lucywhiterice@gmail.com",
+        "developer_url": "http://pcprivacy.jointigers.com",
+        "developer_address": null,
+        "app_id": "phone.cleaner.speed.booster.cache.clean.android.master",
+        "url": "https://play.google.com/store/apps/details?id=phone.cleaner.speed.booster.cache.clean.android.master&hl=en&gl=us"
+    },
+    {
+        "title": "Samsung Smart View",
+        "icon": "https://lh3.googleusercontent.com/OqSyoNEspMPJ9P6z9Pg6yZ4V_MbuXrzUiCkKRU6c1G57mCovuBE7yWhGcikWGlcSSw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "TOOLS"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 112320,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2701,7 +2743,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -2709,7 +2751,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 35153,
+        "reviews": 35177,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2748,7 +2790,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.8",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -2756,7 +2798,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 83970,
+        "reviews": 83978,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2790,7 +2832,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -2834,7 +2876,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2842,7 +2884,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1593,
+        "reviews": 1599,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2877,7 +2919,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -2885,7 +2927,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 67026,
+        "reviews": 67027,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2919,7 +2961,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.7",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -2927,7 +2969,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 76413,
+        "reviews": 76421,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2954,48 +2996,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.microapps.screenmirroring&hl=en&gl=us"
     },
     {
-        "title": "Phone Cleaner- Cache Clean, Android Booster Master",
-        "icon": "https://lh3.googleusercontent.com/rGFQo9KqndvQt2l15Fa0TkNIRyu5qVdAOIOaZfixjbJ3Tk8yc73mh-tuuVtUdWzNfiY",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "TOOLS"
-        ],
-        "score": "4.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 488632,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "6252155671028292677",
-        "updated": "July 22, 2019",
-        "size": "5.8M",
-        "installs": "10,000,000+",
-        "current_version": "1.2.5",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Super Cleaner Studio",
-        "developer_email": "lucywhiterice@gmail.com",
-        "developer_url": "http://pcprivacy.jointigers.com",
-        "developer_address": null,
-        "app_id": "phone.cleaner.speed.booster.cache.clean.android.master",
-        "url": "https://play.google.com/store/apps/details?id=phone.cleaner.speed.booster.cache.clean.android.master&hl=en&gl=us"
-    },
-    {
         "title": "AVG AntiVirus Free & Mobile Security, Photo Vault",
         "icon": "https://lh3.googleusercontent.com/0RVxiElWCTHZIY31jSZnFKxnokvnJwrD-g7pHIWO5k2x5U6_4g69PjTWpY9wxrcI4w",
         "screenshots": [],
@@ -3003,7 +3003,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.7",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -3011,7 +3011,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6588781,
+        "reviews": 6589005,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3050,7 +3050,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.6",
+        "score": "4.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -3058,7 +3058,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 862,
+        "reviews": 863,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3106,7 +3106,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 129221,
+        "reviews": 129262,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3140,7 +3140,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.7",
+        "score": "4.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -3185,7 +3185,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.9",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -3227,7 +3227,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.4",
+        "score": "3.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -3269,7 +3269,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.0",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3311,7 +3311,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.4",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -3319,7 +3319,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11698071,
+        "reviews": 11698211,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3355,7 +3355,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.8",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -3363,7 +3363,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 284,
+        "reviews": 285,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3397,7 +3397,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3439,7 +3439,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.9",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -3447,7 +3447,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 13063,
+        "reviews": 13069,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3493,7 +3493,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 16819,
+        "reviews": 16831,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3528,7 +3528,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.7",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -3574,7 +3574,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.7",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3627,7 +3627,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 66999,
+        "reviews": 67019,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3661,7 +3661,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3669,7 +3669,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 854849,
+        "reviews": 854905,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3711,7 +3711,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3001307,
+        "reviews": 3001554,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3748,7 +3748,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.0",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3756,7 +3756,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 61417,
+        "reviews": 61418,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3836,7 +3836,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.8",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3844,7 +3844,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 531,
+        "reviews": 534,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3878,7 +3878,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.5",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -3886,7 +3886,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 31050,
+        "reviews": 31117,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3920,7 +3920,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3962,7 +3962,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.2",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -3970,7 +3970,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 95536,
+        "reviews": 95559,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4007,7 +4007,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.6",
+        "score": "4.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -4015,7 +4015,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 394304,
+        "reviews": 394399,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4054,7 +4054,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.7",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -4062,7 +4062,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1325513,
+        "reviews": 1325541,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4106,7 +4106,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 87430,
+        "reviews": 87428,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4144,7 +4144,7 @@
             "TOOLS",
             "FAMILY_EDUCATION"
         ],
-        "score": "1.8",
+        "score": "1.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -4152,7 +4152,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 16416,
+        "reviews": 16436,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4188,7 +4188,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -4196,7 +4196,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 382,
+        "reviews": 381,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4230,7 +4230,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "4.6",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -4238,7 +4238,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3614325,
+        "reviews": 3615733,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4314,7 +4314,7 @@
         "category": [
             "TOOLS"
         ],
-        "score": "3.6",
+        "score": "3.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -4322,7 +4322,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 62,
+        "reviews": 63,
         "description": null,
         "description_html": null,
         "recent_changes": null,

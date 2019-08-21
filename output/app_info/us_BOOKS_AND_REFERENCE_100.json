@@ -7,7 +7,7 @@
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 806112,
+        "reviews": 806162,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -59,7 +59,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 125175,
+        "reviews": 125177,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -104,7 +104,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2601611,
+        "reviews": 2601714,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -113,7 +113,7 @@
         "free": true,
         "iap": false,
         "developer_id": "Life.Church",
-        "updated": "August 8, 2019",
+        "updated": "August 20, 2019",
         "size": "14M",
         "installs": "100,000,000+",
         "current_version": "8.10.0",
@@ -141,7 +141,7 @@
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "3.7",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -149,7 +149,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 486832,
+        "reviews": 486842,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -197,7 +197,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 895800,
+        "reviews": 895810,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -241,7 +241,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1533866,
+        "reviews": 1533889,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -277,7 +277,7 @@
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.2",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -285,7 +285,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9700,
+        "reviews": 9702,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -327,7 +327,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3343615,
+        "reviews": 3343910,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -366,7 +366,7 @@
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.7",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -374,7 +374,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4836,
+        "reviews": 4837,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -408,7 +408,7 @@
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.8",
+        "score": "4.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -416,7 +416,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9169,
+        "reviews": 9174,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -454,7 +454,7 @@
             "BOOKS_AND_REFERENCE",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -462,7 +462,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4259,
+        "reviews": 4273,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -496,7 +496,7 @@
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.1",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -504,7 +504,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 469372,
+        "reviews": 469378,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -538,7 +538,7 @@
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.7",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -546,7 +546,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 177157,
+        "reviews": 177174,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -589,7 +589,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 43591,
+        "reviews": 43729,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -635,7 +635,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 65318,
+        "reviews": 65323,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -679,7 +679,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2654,
+        "reviews": 2664,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -706,219 +706,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.royal.season9.v2&hl=en&gl=us"
     },
     {
-        "title": "JW Library",
-        "icon": "https://lh3.googleusercontent.com/53MOlebCzGyoUXApCOgHhr1BLAGsPtbiN7fEH4EC3DGwINuKKODT2U1utFGfIdwrlHo",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.9",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 1115663,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Jehovah%27s+Witnesses",
-        "updated": "August 7, 2019",
-        "size": "Varies with device",
-        "installs": "10,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Jehovah's Witnesses",
-        "developer_email": "jwlibrary@jw.org",
-        "developer_url": "http://www.jw.org/finder?docid=802013031",
-        "developer_address": "1 Kings Dr\nTuxedo Park, NY 10987",
-        "app_id": "org.jw.jwlibrary.mobile",
-        "url": "https://play.google.com/store/apps/details?id=org.jw.jwlibrary.mobile&hl=en&gl=us"
-    },
-    {
-        "title": "Battle Royale Season 8 HD Wallpapers",
-        "icon": "https://lh3.googleusercontent.com/taDWDM2CuRzAhka-oW0UecNARGDmKwD676RyrL4J0TVIK_hZfMPKAstAJj6IB1QpHA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "3.0",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 2837,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "xexon",
-        "updated": "April 27, 2019",
-        "size": "4.3M",
-        "installs": "1,000,000+",
-        "current_version": "1.1.1",
-        "required_android_version": "4.0.3 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "xexon",
-        "developer_email": "kamali.aniba90@gmail.com",
-        "developer_url": "https://sites.google.com/view/xexon/accueil",
-        "developer_address": null,
-        "app_id": "com.xexon.battles8fortnite",
-        "url": "https://play.google.com/store/apps/details?id=com.xexon.battles8fortnite&hl=en&gl=us"
-    },
-    {
-        "title": "Scary Chat Stories - Free & Hooked with Addicted",
-        "icon": "https://lh3.googleusercontent.com/T1zB4YtytgHE3scDifCDYBkKtIQqGKWZy9W2qYjoui2mdVz7uKG_nrVnWnlJiV6hdnc",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/iuhfZ1InTjg",
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 42509,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Addicted+-+Scary+Text+Stories,+Get+Hooked+Free",
-        "updated": "September 11, 2018",
-        "size": "7.4M",
-        "installs": "1,000,000+",
-        "current_version": "2.1.5",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Teen",
-            "Suggestive Themes"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Addicted - Scary Text Stories, Get Hooked Free",
-        "developer_email": "addicted.app2017@gmail.com",
-        "developer_url": "https://www.instagram.com/addicted_chat_stories/",
-        "developer_address": "Kyiv. Zarichna st. 4/2 app 27",
-        "app_id": "com.addictedapp.addicted",
-        "url": "https://play.google.com/store/apps/details?id=com.addictedapp.addicted&hl=en&gl=us"
-    },
-    {
-        "title": "Goodreads",
-        "icon": "https://lh3.googleusercontent.com/p0TzV6-CHE24ySIsC05vjGIS_PWaXIzE6Edzrw0VX7betQUtYY3FSFIKVjjMWJFXuj-u",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.0",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 104237,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": true,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Goodreads",
-        "updated": "July 1, 2019",
-        "size": "Varies with device",
-        "installs": "10,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Goodreads",
-        "developer_email": "support@goodreads.com",
-        "developer_url": "https://www.goodreads.com",
-        "developer_address": null,
-        "app_id": "com.goodreads",
-        "url": "https://play.google.com/store/apps/details?id=com.goodreads&hl=en&gl=us"
-    },
-    {
-        "title": "Free Audiobooks",
-        "icon": "https://lh3.googleusercontent.com/cojleKEO9hXIVSzc7-uA83mhY94Tziyv98Hp8d1xZ_snWYkSRfIq-1jVAT5wJfbGPiy0",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 20637,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Sanity+Audio+Apps",
-        "updated": "July 4, 2019",
-        "size": "7.7M",
-        "installs": "1,000,000+",
-        "current_version": "1.13.6",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Sanity Audio Apps",
-        "developer_email": "insanappsz@gmail.com",
-        "developer_url": "https://www.dropbox.com/s/v7bnfjzyi5jti9e/Privacy%20Policy%20of%20App.pdf?dl=0",
-        "developer_address": "ul. Stanczyka 14/78\n30-126 Krakow\nPoland",
-        "app_id": "sanity.freeaudiobooks",
-        "url": "https://play.google.com/store/apps/details?id=sanity.freeaudiobooks&hl=en&gl=us"
-    },
-    {
         "title": "Audiobooks.com - Audiobooks and Podcast App",
         "icon": "https://lh3.googleusercontent.com/10jdcq97hlAcD2A67-i481d_YC1d2f9_TreFSLMiS2a10IJHO2ePxcdb7Y1DN8CzuRA",
         "screenshots": [],
@@ -934,7 +721,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 34137,
+        "reviews": 34139,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -978,7 +765,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 22140,
+        "reviews": 22143,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1005,14 +792,14 @@
         "url": "https://play.google.com/store/apps/details?id=org.ligi.survivalmanual&hl=en&gl=us"
     },
     {
-        "title": "Ancestry",
-        "icon": "https://lh3.googleusercontent.com/IgRZxHZNptD6L8WqwKwgNgepvbJoN5jXO_gAaZdKLQQjDoJP93wZBCdWPrbhAYPeDeF5",
+        "title": "JW Library",
+        "icon": "https://lh3.googleusercontent.com/53MOlebCzGyoUXApCOgHhr1BLAGsPtbiN7fEH4EC3DGwINuKKODT2U1utFGfIdwrlHo",
         "screenshots": [],
         "video": null,
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.4",
+        "score": "4.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -1020,36 +807,160 @@
             "2": null,
             "1": null
         },
-        "reviews": 76931,
+        "reviews": 1115710,
         "description": null,
         "description_html": null,
         "recent_changes": null,
         "editors_choice": false,
         "price": "0",
         "free": true,
-        "iap": true,
-        "developer_id": "Ancestry.com",
-        "updated": "August 12, 2019",
+        "iap": false,
+        "developer_id": "Jehovah%27s+Witnesses",
+        "updated": "August 7, 2019",
         "size": "Varies with device",
-        "installs": "5,000,000+",
+        "installs": "10,000,000+",
         "current_version": "Varies with device",
         "required_android_version": "Varies with device",
         "content_rating": [
             "Everyone"
         ],
-        "iap_range": [
-            "$0.99",
-            "$51.19"
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Jehovah's Witnesses",
+        "developer_email": "jwlibrary@jw.org",
+        "developer_url": "http://www.jw.org/finder?docid=802013031",
+        "developer_address": "1 Kings Dr\nTuxedo Park, NY 10987",
+        "app_id": "org.jw.jwlibrary.mobile",
+        "url": "https://play.google.com/store/apps/details?id=org.jw.jwlibrary.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "Battle Royale Season 8 HD Wallpapers",
+        "icon": "https://lh3.googleusercontent.com/taDWDM2CuRzAhka-oW0UecNARGDmKwD676RyrL4J0TVIK_hZfMPKAstAJj6IB1QpHA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
         ],
+        "score": "3.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2838,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "xexon",
+        "updated": "April 27, 2019",
+        "size": "4.3M",
+        "installs": "1,000,000+",
+        "current_version": "1.1.1",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "xexon",
+        "developer_email": "kamali.aniba90@gmail.com",
+        "developer_url": "https://sites.google.com/view/xexon/accueil",
+        "developer_address": null,
+        "app_id": "com.xexon.battles8fortnite",
+        "url": "https://play.google.com/store/apps/details?id=com.xexon.battles8fortnite&hl=en&gl=us"
+    },
+    {
+        "title": "Scary Chat Stories - Free & Hooked with Addicted",
+        "icon": "https://lh3.googleusercontent.com/T1zB4YtytgHE3scDifCDYBkKtIQqGKWZy9W2qYjoui2mdVz7uKG_nrVnWnlJiV6hdnc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/iuhfZ1InTjg",
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 42519,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Addicted+-+Scary+Text+Stories,+Get+Hooked+Free",
+        "updated": "September 11, 2018",
+        "size": "7.4M",
+        "installs": "1,000,000+",
+        "current_version": "2.1.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen",
+            "Suggestive Themes"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Addicted - Scary Text Stories, Get Hooked Free",
+        "developer_email": "addicted.app2017@gmail.com",
+        "developer_url": "https://www.instagram.com/addicted_chat_stories/",
+        "developer_address": "Kyiv. Zarichna st. 4/2 app 27",
+        "app_id": "com.addictedapp.addicted",
+        "url": "https://play.google.com/store/apps/details?id=com.addictedapp.addicted&hl=en&gl=us"
+    },
+    {
+        "title": "Goodreads",
+        "icon": "https://lh3.googleusercontent.com/p0TzV6-CHE24ySIsC05vjGIS_PWaXIzE6Edzrw0VX7betQUtYY3FSFIKVjjMWJFXuj-u",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 104249,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Goodreads",
+        "updated": "July 1, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
         "interactive_elements": [
-            "Users Interact, Digital Purchases"
+            "Users Interact"
         ],
-        "developer": "Ancestry.com",
-        "developer_email": "androidfeedback@ancestry.com",
-        "developer_url": "http://www.ancestry.com",
-        "developer_address": "1300 W Traverse Parkway\nLehi, UT 84043",
-        "app_id": "com.ancestry.android.apps.ancestry",
-        "url": "https://play.google.com/store/apps/details?id=com.ancestry.android.apps.ancestry&hl=en&gl=us"
+        "developer": "Goodreads",
+        "developer_email": "support@goodreads.com",
+        "developer_url": "https://www.goodreads.com",
+        "developer_address": null,
+        "app_id": "com.goodreads",
+        "url": "https://play.google.com/store/apps/details?id=com.goodreads&hl=en&gl=us"
     },
     {
         "title": "Dictionary - Merriam-Webster",
@@ -1067,7 +978,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 483103,
+        "reviews": 483110,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1094,6 +1005,48 @@
         "developer_address": "Merriam-Webster Inc.\nP.O. Box 281\nSpringfield, MA 01102",
         "app_id": "com.merriamwebster",
         "url": "https://play.google.com/store/apps/details?id=com.merriamwebster&hl=en&gl=us"
+    },
+    {
+        "title": "Free Audiobooks",
+        "icon": "https://lh3.googleusercontent.com/cojleKEO9hXIVSzc7-uA83mhY94Tziyv98Hp8d1xZ_snWYkSRfIq-1jVAT5wJfbGPiy0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 20642,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sanity+Audio+Apps",
+        "updated": "July 4, 2019",
+        "size": "7.7M",
+        "installs": "1,000,000+",
+        "current_version": "1.13.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sanity Audio Apps",
+        "developer_email": "insanappsz@gmail.com",
+        "developer_url": "https://www.dropbox.com/s/v7bnfjzyi5jti9e/Privacy%20Policy%20of%20App.pdf?dl=0",
+        "developer_address": "ul. Stanczyka 14/78\n30-126 Krakow\nPoland",
+        "app_id": "sanity.freeaudiobooks",
+        "url": "https://play.google.com/store/apps/details?id=sanity.freeaudiobooks&hl=en&gl=us"
     },
     {
         "title": "Amazing Psychology Facts",
@@ -1142,6 +1095,53 @@
         "url": "https://play.google.com/store/apps/details?id=com.gvapps.psychologyfacts&hl=en&gl=us"
     },
     {
+        "title": "Ancestry",
+        "icon": "https://lh3.googleusercontent.com/IgRZxHZNptD6L8WqwKwgNgepvbJoN5jXO_gAaZdKLQQjDoJP93wZBCdWPrbhAYPeDeF5",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 76937,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Ancestry.com",
+        "updated": "August 12, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$51.19"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Ancestry.com",
+        "developer_email": "androidfeedback@ancestry.com",
+        "developer_url": "http://www.ancestry.com",
+        "developer_address": "1300 W Traverse Parkway\nLehi, UT 84043",
+        "app_id": "com.ancestry.android.apps.ancestry",
+        "url": "https://play.google.com/store/apps/details?id=com.ancestry.android.apps.ancestry&hl=en&gl=us"
+    },
+    {
         "title": "Spanish English Translator",
         "icon": "https://lh3.googleusercontent.com/84miouB6I8jqvPfuWGMqLTrDj9CtSVOnLE8xWFxi85xcsvu8Z9SWcizXofFRAX7_tw",
         "screenshots": [],
@@ -1157,7 +1157,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 98788,
+        "reviews": 98789,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1242,7 +1242,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 13406,
+        "reviews": 13448,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1273,7 +1273,9 @@
         "icon": "https://lh3.googleusercontent.com/_UOfGwsr9X1i43G06rdirdhaamRyXTpfbkYh8qTd_Xa0jHXdYxyDyeid4Lc5DJ44irY",
         "screenshots": [],
         "video": null,
-        "category": [],
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
         "score": "4.5",
         "histogram": {
             "5": null,
@@ -1282,7 +1284,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 77127,
+        "reviews": 77195,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1315,6 +1317,48 @@
         "url": "https://play.google.com/store/apps/details?id=com.dreame.reader&hl=en&gl=us"
     },
     {
+        "title": "Wikipedia",
+        "icon": "https://lh3.googleusercontent.com/htBUaqvBQR9UQ3b1-ouSHFhDGttQkH-eWetEErspYXVa8hOsfmOmj5ZanGg9GF7XAGc",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/6UkFHYqVsbc",
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 598000,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6169333749249604352",
+        "updated": "August 7, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Wikimedia Foundation",
+        "developer_email": "mobile-android-wikipedia@wikimedia.org",
+        "developer_url": "http://wikimediafoundation.org",
+        "developer_address": null,
+        "app_id": "org.wikipedia",
+        "url": "https://play.google.com/store/apps/details?id=org.wikipedia&hl=en&gl=us"
+    },
+    {
         "title": "Webnovel",
         "icon": "https://lh3.googleusercontent.com/SSEuGqDVtYwHKRDd35c3dRH1ImB1p35b7Ey5eBToXlz7yuKcqn6GgoYjrSqo9gPCnQ",
         "screenshots": [],
@@ -1330,7 +1374,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 165242,
+        "reviews": 165269,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1363,14 +1407,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.qidian.Int.reader&hl=en&gl=us"
     },
     {
-        "title": "Wikipedia",
-        "icon": "https://lh3.googleusercontent.com/htBUaqvBQR9UQ3b1-ouSHFhDGttQkH-eWetEErspYXVa8hOsfmOmj5ZanGg9GF7XAGc",
+        "title": "Dictionary.com: Find Definitions for English Words",
+        "icon": "https://lh3.googleusercontent.com/ntATN59xlZfVqs8-DtSyBrvF1HDp96F15V0-YIqvHHiKOQ3xjFode9F2J-4hjG7jwGw",
         "screenshots": [],
-        "video": "https://www.youtube.com/embed/6UkFHYqVsbc",
+        "video": "https://www.youtube.com/embed/voTd_SdemtE",
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1378,16 +1422,16 @@
             "2": null,
             "1": null
         },
-        "reviews": 597992,
+        "reviews": 918002,
         "description": null,
         "description_html": null,
         "recent_changes": null,
         "editors_choice": false,
         "price": "0",
         "free": true,
-        "iap": false,
-        "developer_id": "6169333749249604352",
-        "updated": "August 7, 2019",
+        "iap": true,
+        "developer_id": "Dictionary.com,+LLC",
+        "updated": "August 5, 2019",
         "size": "Varies with device",
         "installs": "10,000,000+",
         "current_version": "Varies with device",
@@ -1395,14 +1439,19 @@
         "content_rating": [
             "Everyone"
         ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Wikimedia Foundation",
-        "developer_email": "mobile-android-wikipedia@wikimedia.org",
-        "developer_url": "http://wikimediafoundation.org",
-        "developer_address": null,
-        "app_id": "org.wikipedia",
-        "url": "https://play.google.com/store/apps/details?id=org.wikipedia&hl=en&gl=us"
+        "iap_range": [
+            "$1.99",
+            "$3.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Dictionary.com, LLC",
+        "developer_email": "support@dictionary.zendesk.com",
+        "developer_url": "http://www.dictionary.com",
+        "developer_address": "555 12th St. Suite 400\nOakland, CA 94607",
+        "app_id": "com.dictionary",
+        "url": "https://play.google.com/store/apps/details?id=com.dictionary&hl=en&gl=us"
     },
     {
         "title": "King James Bible - KJV Offline Free Holy Bible",
@@ -1420,7 +1469,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 85206,
+        "reviews": 85217,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1445,93 +1494,6 @@
         "developer_address": "The Netherlands",
         "app_id": "bible.kingjamesbiblelite",
         "url": "https://play.google.com/store/apps/details?id=bible.kingjamesbiblelite&hl=en&gl=us"
-    },
-    {
-        "title": "Gospel Library",
-        "icon": "https://lh3.googleusercontent.com/VHongkjzVv7vy15sXNk_YbllJwPiLBEbLfdhRK4GtygPX23Pd6LXtdoqkOKLg-HOVA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.8",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 179522,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "8295654346829730257",
-        "updated": "July 12, 2019",
-        "size": "Varies with device",
-        "installs": "5,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "The Church of Jesus Christ of Latter-day Saints",
-        "developer_email": "android-support@ldsmail.net",
-        "developer_url": "https://www.churchofjesuschrist.org/pages/mobileapps/gospellibrary",
-        "developer_address": "50 East North Temple St.\nSalt Lake City, Utah 84150",
-        "app_id": "org.lds.ldssa",
-        "url": "https://play.google.com/store/apps/details?id=org.lds.ldssa&hl=en&gl=us"
-    },
-    {
-        "title": "Bible Gateway",
-        "icon": "https://lh3.googleusercontent.com/7HllI6WUdcDQ4ubbssOcsDmim_g-rSg2VrsMK7zrCUPjcsBRVm4u40PbW2cwV1uP6Zc",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 29898,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "HarperCollins+Christian+Publishing",
-        "updated": "July 24, 2019",
-        "size": "23M",
-        "installs": "1,000,000+",
-        "current_version": "3.9",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone 10+"
-        ],
-        "iap_range": [
-            "$3.99",
-            "$39.99"
-        ],
-        "interactive_elements": null,
-        "developer": "HarperCollins Christian Publishing",
-        "developer_email": "appsupport@biblegateway.com",
-        "developer_url": "https://support.biblegateway.com/categories/20033382-bible-gateway-app",
-        "developer_address": "501 Nelson Place\nNashville, TN 37214",
-        "app_id": "com.csnmedia.android.bg",
-        "url": "https://play.google.com/store/apps/details?id=com.csnmedia.android.bg&hl=en&gl=us"
     },
     {
         "title": "D&D Beyond",
@@ -1579,14 +1541,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.curse.dndbeyond&hl=en&gl=us"
     },
     {
-        "title": "FamilySearch Tree",
-        "icon": "https://lh3.googleusercontent.com/8uH6sy0ML22FuA5BJ3F5LJTCeVSCPuHNmtY6rBXj6louXsTDf1UqzRjdygc2q1EHiqJQ",
+        "title": "Gospel Library",
+        "icon": "https://lh3.googleusercontent.com/VHongkjzVv7vy15sXNk_YbllJwPiLBEbLfdhRK4GtygPX23Pd6LXtdoqkOKLg-HOVA",
         "screenshots": [],
         "video": null,
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.3",
+        "score": "4.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -1594,7 +1556,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 23081,
+        "reviews": 179533,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1602,72 +1564,23 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "FamilySearch+International",
-        "updated": "August 14, 2019",
-        "size": "19M",
-        "installs": "1,000,000+",
-        "current_version": "3.0.5",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "FamilySearch International",
-        "developer_email": "fsandroiddeveloper@familysearch.org",
-        "developer_url": "https://familysearch.org",
-        "developer_address": "FamilySearch Mobile Engineering Team\n3201 Garden Drive\nLehi, UT 84043\nUSA",
-        "app_id": "org.familysearch.mobile",
-        "url": "https://play.google.com/store/apps/details?id=org.familysearch.mobile&hl=en&gl=us"
-    },
-    {
-        "title": "Dictionary.com: Find Definitions for English Words",
-        "icon": "https://lh3.googleusercontent.com/ntATN59xlZfVqs8-DtSyBrvF1HDp96F15V0-YIqvHHiKOQ3xjFode9F2J-4hjG7jwGw",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/voTd_SdemtE",
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 918000,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Dictionary.com,+LLC",
-        "updated": "August 5, 2019",
+        "developer_id": "8295654346829730257",
+        "updated": "July 12, 2019",
         "size": "Varies with device",
-        "installs": "10,000,000+",
+        "installs": "5,000,000+",
         "current_version": "Varies with device",
         "required_android_version": "Varies with device",
         "content_rating": [
             "Everyone"
         ],
-        "iap_range": [
-            "$1.99",
-            "$3.99"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "Dictionary.com, LLC",
-        "developer_email": "support@dictionary.zendesk.com",
-        "developer_url": "http://www.dictionary.com",
-        "developer_address": "555 12th St. Suite 400\nOakland, CA 94607",
-        "app_id": "com.dictionary",
-        "url": "https://play.google.com/store/apps/details?id=com.dictionary&hl=en&gl=us"
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Church of Jesus Christ of Latter-day Saints",
+        "developer_email": "android-support@ldsmail.net",
+        "developer_url": "https://www.churchofjesuschrist.org/pages/mobileapps/gospellibrary",
+        "developer_address": "50 East North Temple St.\nSalt Lake City, Utah 84150",
+        "app_id": "org.lds.ldssa",
+        "url": "https://play.google.com/store/apps/details?id=org.lds.ldssa&hl=en&gl=us"
     },
     {
         "title": "Spanish English Translator",
@@ -1714,6 +1627,137 @@
         "url": "https://play.google.com/store/apps/details?id=com.heapsol.spanishenglishtranslator&hl=en&gl=us"
     },
     {
+        "title": "Bible Gateway",
+        "icon": "https://lh3.googleusercontent.com/7HllI6WUdcDQ4ubbssOcsDmim_g-rSg2VrsMK7zrCUPjcsBRVm4u40PbW2cwV1uP6Zc",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29899,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "HarperCollins+Christian+Publishing",
+        "updated": "July 24, 2019",
+        "size": "23M",
+        "installs": "1,000,000+",
+        "current_version": "3.9",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone 10+"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$39.99"
+        ],
+        "interactive_elements": null,
+        "developer": "HarperCollins Christian Publishing",
+        "developer_email": "appsupport@biblegateway.com",
+        "developer_url": "https://support.biblegateway.com/categories/20033382-bible-gateway-app",
+        "developer_address": "501 Nelson Place\nNashville, TN 37214",
+        "app_id": "com.csnmedia.android.bg",
+        "url": "https://play.google.com/store/apps/details?id=com.csnmedia.android.bg&hl=en&gl=us"
+    },
+    {
+        "title": "FamilySearch Tree",
+        "icon": "https://lh3.googleusercontent.com/8uH6sy0ML22FuA5BJ3F5LJTCeVSCPuHNmtY6rBXj6louXsTDf1UqzRjdygc2q1EHiqJQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23082,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "FamilySearch+International",
+        "updated": "August 14, 2019",
+        "size": "19M",
+        "installs": "1,000,000+",
+        "current_version": "3.0.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "FamilySearch International",
+        "developer_email": "fsandroiddeveloper@familysearch.org",
+        "developer_url": "https://familysearch.org",
+        "developer_address": "FamilySearch Mobile Engineering Team\n3201 Garden Drive\nLehi, UT 84043\nUSA",
+        "app_id": "org.familysearch.mobile",
+        "url": "https://play.google.com/store/apps/details?id=org.familysearch.mobile&hl=en&gl=us"
+    },
+    {
+        "title": "ReadEra - book reader pdf, epub, word",
+        "icon": "https://lh3.googleusercontent.com/qw8lAHXaZodAE4c3D1Jkia3V8Np-PxTnyQpUIx439ibABba0L50TVKI4jfY4N4QwzAA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 184700,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "READERA+LLC",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "19.07.28+960",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "READERA LLC",
+        "developer_email": "support@readera.ru",
+        "developer_url": "https://readera.ru",
+        "developer_address": "3 Line 67, Rostov-on-Don, Russia, 344019",
+        "app_id": "org.readera",
+        "url": "https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=us"
+    },
+    {
         "title": "Free Books & Audiobooks",
         "icon": "https://lh3.googleusercontent.com/LRl5yHgh3lN7k8y7Yi0Zut3leDdmarhb-QvFkYKE5LBKCfdquK9YHpVmJlAov41bWXs",
         "screenshots": [],
@@ -1729,7 +1773,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1178,
+        "reviews": 1180,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1738,7 +1782,7 @@
         "free": true,
         "iap": true,
         "developer_id": "Free+Books+Studio",
-        "updated": "August 12, 2019",
+        "updated": "August 20, 2019",
         "size": "7.9M",
         "installs": "50,000+",
         "current_version": "2.6",
@@ -1756,6 +1800,53 @@
         "developer_address": "ul. Stolarska 6, 31-043 Krakow, Poland",
         "app_id": "com.ebooksstudio.free.books",
         "url": "https://play.google.com/store/apps/details?id=com.ebooksstudio.free.books&hl=en&gl=us"
+    },
+    {
+        "title": "Free Books - Read & Listen",
+        "icon": "https://lh3.googleusercontent.com/wrYQVCn7SuoCft4YWS-msmIbzo7N8Iv1OZExfpk1pAT7GkzvV2Ku-2XGl7R4rH8nyt0",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/NoMWZKYDY_k",
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 26542,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Digital+Press+Publishing+s.r.o.",
+        "updated": "February 11, 2019",
+        "size": "Varies with device",
+        "installs": "1,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$7.00"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Digital Press Publishing s.r.o.",
+        "developer_email": "support@digiply.io",
+        "developer_url": "http://www.digiply.io",
+        "developer_address": "Sabinovsk\u00e1 8\nBratislava\n82102\nSlovakia",
+        "app_id": "com.spreadsong.freebooks",
+        "url": "https://play.google.com/store/apps/details?id=com.spreadsong.freebooks&hl=en&gl=us"
     },
     {
         "title": "TooFar Media: Immersive Story Experiences",
@@ -1815,7 +1906,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 284722,
+        "reviews": 284723,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1892,7 +1983,7 @@
     },
     {
         "title": "Scribd: Audiobooks & ebooks",
-        "icon": "https://lh3.googleusercontent.com/S_tRQqIAuyTPd2DdRUAAOgShm3sgGkLUVIkKDoXokkOhBsA3XLqXwSGGLeWyEtTaZXc",
+        "icon": "https://lh3.googleusercontent.com/yJ-mUnWh5-MY4HvXcE1AKJoATR0HGgAIihu-wQ5ib2YH2PDXlkOk9Kbd2shINBxhgVh-",
         "screenshots": [],
         "video": null,
         "category": [
@@ -1906,7 +1997,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 469114,
+        "reviews": 470057,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1938,48 +2029,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.scribd.app.reader0&hl=en&gl=us"
     },
     {
-        "title": "ReadEra - book reader pdf, epub, word",
-        "icon": "https://lh3.googleusercontent.com/qw8lAHXaZodAE4c3D1Jkia3V8Np-PxTnyQpUIx439ibABba0L50TVKI4jfY4N4QwzAA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.8",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 184544,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "READERA+LLC",
-        "updated": "July 29, 2019",
-        "size": "Varies with device",
-        "installs": "5,000,000+",
-        "current_version": "19.07.28+960",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "READERA LLC",
-        "developer_email": "support@readera.ru",
-        "developer_url": "https://readera.ru",
-        "developer_address": "3 Line 67, Rostov-on-Don, Russia, 344019",
-        "app_id": "org.readera",
-        "url": "https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=us"
-    },
-    {
         "title": "GALATEA - Addictive Stories (Love & Romance)",
         "icon": "https://lh3.googleusercontent.com/Rb0BHqzdyMQRghfxHqaIvdpkojXR-Say-eOPhn25CiahnRf4Uaml--Qjb7hn_-iuF4g",
         "screenshots": [],
@@ -1995,7 +2044,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8749,
+        "reviews": 8911,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2026,139 +2075,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.colt&hl=en&gl=us"
     },
     {
-        "title": "Free Books - Read & Listen",
-        "icon": "https://lh3.googleusercontent.com/wrYQVCn7SuoCft4YWS-msmIbzo7N8Iv1OZExfpk1pAT7GkzvV2Ku-2XGl7R4rH8nyt0",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/NoMWZKYDY_k",
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 26510,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Digital+Press+Publishing+s.r.o.",
-        "updated": "February 11, 2019",
-        "size": "Varies with device",
-        "installs": "1,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$3.99",
-            "$7.00"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "Digital Press Publishing s.r.o.",
-        "developer_email": "support@digiply.io",
-        "developer_url": "http://www.digiply.io",
-        "developer_address": "Sabinovsk\u00e1 8\nBratislava\n82102\nSlovakia",
-        "app_id": "com.spreadsong.freebooks",
-        "url": "https://play.google.com/store/apps/details?id=com.spreadsong.freebooks&hl=en&gl=us"
-    },
-    {
-        "title": "Battle Royale Season 10 HD Wallpapers",
-        "icon": "https://lh3.googleusercontent.com/gJfRsS5zt-TLd5oFqcMA912YiJQVmiPg_LicLpMFyj04kwHawo_bpRvR7712IhNPbtE",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.0",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 242,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Fugon+ELL",
-        "updated": "July 30, 2019",
-        "size": "4.0M",
-        "installs": "50,000+",
-        "current_version": "1.0",
-        "required_android_version": "4.2 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Fugon ELL",
-        "developer_email": "faysalkitt@gmail.com",
-        "developer_url": "https://5cdc4cd6da76c.site123.me",
-        "developer_address": null,
-        "app_id": "com.royal.season10.v2",
-        "url": "https://play.google.com/store/apps/details?id=com.royal.season10.v2&hl=en&gl=us"
-    },
-    {
-        "title": "Yahoo Search",
-        "icon": "https://lh3.googleusercontent.com/84tf01hLDZk_j6ooj__RgcmDwkSAUb2KNIgfR3me1w5K9881SfhnhIon_xS3W8Th-I0",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.2",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 37056,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "5536369398281991413",
-        "updated": "August 7, 2019",
-        "size": "87M",
-        "installs": "1,000,000+",
-        "current_version": "5.7.0",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Unrestricted Internet"
-        ],
-        "developer": "Yahoo",
-        "developer_email": "ysafeedback@verizonmedia.com",
-        "developer_url": "https://mobile.yahoo.com/search",
-        "developer_address": "701 First Avenue, Sunnyvale, CA 94089-0703, U.S.A",
-        "app_id": "com.yahoo.mobile.client.android.search",
-        "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.search&hl=en&gl=us"
-    },
-    {
         "title": "NOOK: Read eBooks & Magazines",
         "icon": "https://lh3.googleusercontent.com/70KJre3QhBz6zNO6lq019cNyn4Bx3FqzNiqrsOAda-o7_DK1Gby2zDcJegG6fkC5Zw",
         "screenshots": [],
@@ -2174,7 +2090,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 158550,
+        "reviews": 158802,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2204,14 +2120,14 @@
         "url": "https://play.google.com/store/apps/details?id=bn.ereader&hl=en&gl=us"
     },
     {
-        "title": "Law of Attraction Space",
-        "icon": "https://lh3.googleusercontent.com/3mPzyevl7KG_LoLzev700giqlZl8YOQ9KkvaWGAHKGuc44VSx0tFGjvhIR7gbaebF5c",
+        "title": "Battle Royale Season 10 HD Wallpapers",
+        "icon": "https://lh3.googleusercontent.com/gJfRsS5zt-TLd5oFqcMA912YiJQVmiPg_LicLpMFyj04kwHawo_bpRvR7712IhNPbtE",
         "screenshots": [],
         "video": null,
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.7",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -2219,7 +2135,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1496,
+        "reviews": 244,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2227,23 +2143,23 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "vivianzhu",
-        "updated": "June 13, 2019",
-        "size": "37M",
-        "installs": "100,000+",
-        "current_version": "2.0.1",
-        "required_android_version": "4.1 and up",
+        "developer_id": "Fugon+ELL",
+        "updated": "July 30, 2019",
+        "size": "4.0M",
+        "installs": "50,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.2 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "vivianzhu",
-        "developer_email": "vivianzhu421@gmail.com",
-        "developer_url": "https://www.lawofattractionspace.com",
+        "developer": "Fugon ELL",
+        "developer_email": "faysalkitt@gmail.com",
+        "developer_url": "https://5cdc4cd6da76c.site123.me",
         "developer_address": null,
-        "app_id": "com.vivian.lawofattraction",
-        "url": "https://play.google.com/store/apps/details?id=com.vivian.lawofattraction&hl=en&gl=us"
+        "app_id": "com.royal.season10.v2",
+        "url": "https://play.google.com/store/apps/details?id=com.royal.season10.v2&hl=en&gl=us"
     },
     {
         "title": "NKJV Bible Offline free",
@@ -2261,7 +2177,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 15327,
+        "reviews": 15330,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2288,6 +2204,92 @@
         "url": "https://play.google.com/store/apps/details?id=com.dailyverse.nkjvbibles&hl=en&gl=us"
     },
     {
+        "title": "Yahoo Search",
+        "icon": "https://lh3.googleusercontent.com/84tf01hLDZk_j6ooj__RgcmDwkSAUb2KNIgfR3me1w5K9881SfhnhIon_xS3W8Th-I0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 37057,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5536369398281991413",
+        "updated": "August 7, 2019",
+        "size": "87M",
+        "installs": "1,000,000+",
+        "current_version": "5.7.0",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Unrestricted Internet"
+        ],
+        "developer": "Yahoo",
+        "developer_email": "ysafeedback@verizonmedia.com",
+        "developer_url": "https://mobile.yahoo.com/search",
+        "developer_address": "701 First Avenue, Sunnyvale, CA 94089-0703, U.S.A",
+        "app_id": "com.yahoo.mobile.client.android.search",
+        "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.search&hl=en&gl=us"
+    },
+    {
+        "title": "Law of Attraction Space",
+        "icon": "https://lh3.googleusercontent.com/3mPzyevl7KG_LoLzev700giqlZl8YOQ9KkvaWGAHKGuc44VSx0tFGjvhIR7gbaebF5c",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1498,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "vivianzhu",
+        "updated": "June 13, 2019",
+        "size": "37M",
+        "installs": "100,000+",
+        "current_version": "2.0.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "vivianzhu",
+        "developer_email": "vivianzhu421@gmail.com",
+        "developer_url": "https://www.lawofattractionspace.com",
+        "developer_address": null,
+        "app_id": "com.vivian.lawofattraction",
+        "url": "https://play.google.com/store/apps/details?id=com.vivian.lawofattraction&hl=en&gl=us"
+    },
+    {
         "title": "Blue Letter Bible",
         "icon": "https://lh3.googleusercontent.com/mDhZ9JAKS0Ffqjt87uHTZscffoikpN1wZzQkAmgi4UmSoo9Ij_VNOLx8ElI_xbFTjuc",
         "screenshots": [],
@@ -2303,7 +2305,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8118,
+        "reviews": 8120,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2330,6 +2332,48 @@
         "url": "https://play.google.com/store/apps/details?id=org.blueletterbible.blb&hl=en&gl=us"
     },
     {
+        "title": "@Voice Aloud Reader (TTS Reader)",
+        "icon": "https://lh3.googleusercontent.com/LP6ZbrckzcFBlPuH-CEkAWXgh8StKg-3M-a-bPB8Lo2KITpDP6VBahC7MSbD9Vx4VKU",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/WtQXxy1d2jQ",
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 79660,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Hyperionics+Technology",
+        "updated": "August 17, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "17.3.6",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Hyperionics Technology",
+        "developer_email": "atVoice@hyperionics.com",
+        "developer_url": "https://www.hyperionics.com/atVoice",
+        "developer_address": "24 Rivard Rd.\nNeedham MA 02492",
+        "app_id": "com.hyperionics.avar",
+        "url": "https://play.google.com/store/apps/details?id=com.hyperionics.avar&hl=en&gl=us"
+    },
+    {
         "title": "LibriVox Audio Books",
         "icon": "https://lh3.googleusercontent.com/mMaoAPEqxRDDBuoqoEytmPDBc00QSZweiK_3bXIni1XHtPRCaSGRZEP3KFZYi1RW0FdC",
         "screenshots": [],
@@ -2345,7 +2389,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 14613,
+        "reviews": 14683,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2480,7 +2524,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 410362,
+        "reviews": 410370,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2527,7 +2571,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 960,
+        "reviews": 968,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2552,48 +2596,6 @@
         "developer_address": null,
         "app_id": "com.quotesmessages.africanproverbsquotes",
         "url": "https://play.google.com/store/apps/details?id=com.quotesmessages.africanproverbsquotes&hl=en&gl=us"
-    },
-    {
-        "title": "@Voice Aloud Reader (TTS Reader)",
-        "icon": "https://lh3.googleusercontent.com/LP6ZbrckzcFBlPuH-CEkAWXgh8StKg-3M-a-bPB8Lo2KITpDP6VBahC7MSbD9Vx4VKU",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/WtQXxy1d2jQ",
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 79657,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Hyperionics+Technology",
-        "updated": "August 17, 2019",
-        "size": "Varies with device",
-        "installs": "5,000,000+",
-        "current_version": "17.3.6",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Teen"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Hyperionics Technology",
-        "developer_email": "atVoice@hyperionics.com",
-        "developer_url": "https://www.hyperionics.com/atVoice",
-        "developer_address": "24 Rivard Rd.\nNeedham MA 02492",
-        "app_id": "com.hyperionics.avar",
-        "url": "https://play.google.com/store/apps/details?id=com.hyperionics.avar&hl=en&gl=us"
     },
     {
         "title": "Useful Fishing Knots",
@@ -2700,7 +2702,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 699,
+        "reviews": 700,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2786,7 +2788,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 17967,
+        "reviews": 17974,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2832,7 +2834,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 23075,
+        "reviews": 23080,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2876,7 +2878,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2181,
+        "reviews": 2182,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2903,50 +2905,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.andromo.dev628657.app764218&hl=en&gl=us"
     },
     {
-        "title": "wit - we are all creators",
-        "icon": "https://lh3.googleusercontent.com/t1ksZ_bFie-FYIKEiDY20I_MTpQrKykpfMsMieMtxpmKLQGWaTg5YwLDjQFY1JaqmJ0",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 21767,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Playlist+Corporation",
-        "updated": "August 2, 2019",
-        "size": "33M",
-        "installs": "1,000,000+",
-        "current_version": "2.5.6",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Teen"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Playlist Corporation",
-        "developer_email": "witapp.team@gmail.com",
-        "developer_url": "http://storychat.io",
-        "developer_address": "8th Fl., Alphadom tower4, 117, Bundangnaegok-ro(535 Baekhyeon-dong), Bundang-gu, Seongnam-si, Gyeonggi-do",
-        "app_id": "io.storychat",
-        "url": "https://play.google.com/store/apps/details?id=io.storychat&hl=en&gl=us"
-    },
-    {
         "title": "Logos Bible Study Tools: commentary, reading plan",
         "icon": "https://lh3.googleusercontent.com/lWdDaYi3Xav9_ktY-w5vA6tjgbX6SgU3Q7MB5yElhIoVY86BqdMcH2hclVN2cmhMAL0",
         "screenshots": [],
@@ -2962,7 +2920,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 27512,
+        "reviews": 27514,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2991,6 +2949,92 @@
         "url": "https://play.google.com/store/apps/details?id=com.logos.androidlogos&hl=en&gl=us"
     },
     {
+        "title": "King James Audio - KJV Bible Free",
+        "icon": "https://lh3.googleusercontent.com/1bCQ9HWPuXD0EFcLkbk-JfNtFpcDNFN8YhudDmYk3JpYAysI4KpqrIMQ8lwWYHKZwWg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/cULqYAs2ABw",
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10125,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "TheDailyBible.NET",
+        "updated": "June 18, 2019",
+        "size": "12M",
+        "installs": "500,000+",
+        "current_version": "4.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "TheDailyBible.NET",
+        "developer_email": "kuprajuk@gmail.com",
+        "developer_url": "http://thedailybible.net/",
+        "developer_address": "TheDailyBible.NET",
+        "app_id": "com.holy.bible.king.james",
+        "url": "https://play.google.com/store/apps/details?id=com.holy.bible.king.james&hl=en&gl=us"
+    },
+    {
+        "title": "wit - we are all creators",
+        "icon": "https://lh3.googleusercontent.com/t1ksZ_bFie-FYIKEiDY20I_MTpQrKykpfMsMieMtxpmKLQGWaTg5YwLDjQFY1JaqmJ0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 21769,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Playlist+Corporation",
+        "updated": "August 2, 2019",
+        "size": "33M",
+        "installs": "1,000,000+",
+        "current_version": "2.5.6",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Playlist Corporation",
+        "developer_email": "witapp.team@gmail.com",
+        "developer_url": "http://storychat.io",
+        "developer_address": "8th Fl., Alphadom tower4, 117, Bundangnaegok-ro(535 Baekhyeon-dong), Bundang-gu, Seongnam-si, Gyeonggi-do",
+        "app_id": "io.storychat",
+        "url": "https://play.google.com/store/apps/details?id=io.storychat&hl=en&gl=us"
+    },
+    {
         "title": "Daily Bible for Women & Devotion Offline",
         "icon": "https://lh3.googleusercontent.com/CpWLT-HmO9ddEx4wLoUhZjXm8rsXBDgWMR7fH1WST5CDGiP9CCwfUpdpeYcMMT8qYdvm",
         "screenshots": [],
@@ -3006,7 +3050,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 14144,
+        "reviews": 14147,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3037,216 +3081,6 @@
         "url": "https://play.google.com/store/apps/details?id=daily.bible.for.woman&hl=en&gl=us"
     },
     {
-        "title": "King James Audio - KJV Bible Free",
-        "icon": "https://lh3.googleusercontent.com/1bCQ9HWPuXD0EFcLkbk-JfNtFpcDNFN8YhudDmYk3JpYAysI4KpqrIMQ8lwWYHKZwWg",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/cULqYAs2ABw",
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 10119,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "TheDailyBible.NET",
-        "updated": "June 18, 2019",
-        "size": "12M",
-        "installs": "500,000+",
-        "current_version": "4.3",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "TheDailyBible.NET",
-        "developer_email": "kuprajuk@gmail.com",
-        "developer_url": "http://thedailybible.net/",
-        "developer_address": "TheDailyBible.NET",
-        "app_id": "com.holy.bible.king.james",
-        "url": "https://play.google.com/store/apps/details?id=com.holy.bible.king.james&hl=en&gl=us"
-    },
-    {
-        "title": "cloudLibrary",
-        "icon": "https://lh3.googleusercontent.com/D6MgXSoCsRoj9plJemGNrgvDkcQBrxbCIQNBEguo9cY7NmsG3jG9VZueDCzoLJXahIs",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.0",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 13198,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Bibliotheca+Ltd",
-        "updated": "August 8, 2019",
-        "size": "Varies with device",
-        "installs": "500,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Bibliotheca Ltd",
-        "developer_email": "cloudlibraryfeedback@bibliotheca.com",
-        "developer_url": "http://yourcloudlibrary.com",
-        "developer_address": null,
-        "app_id": "com.txtr.android.mmm",
-        "url": "https://play.google.com/store/apps/details?id=com.txtr.android.mmm&hl=en&gl=us"
-    },
-    {
-        "title": "Fire New Guide For Free_Fire 2019",
-        "icon": "https://lh3.googleusercontent.com/Ys1yEb-QzyI66AWaW-EDszdxanK_sINmiQQJbpnZfFn0HoD6PT6B8YmpNc9gtd851J8X",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "3.8",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 14084,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "tanand",
-        "updated": "July 2, 2019",
-        "size": "4.1M",
-        "installs": "100,000+",
-        "current_version": "1.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "tanand",
-        "developer_email": "tanandonich@gmail.com",
-        "developer_url": "https://sites.google.com/view/tandandon/accueil",
-        "developer_address": null,
-        "app_id": "com.freefiro.trickgamez",
-        "url": "https://play.google.com/store/apps/details?id=com.freefiro.trickgamez&hl=en&gl=us"
-    },
-    {
-        "title": "Offline Bible Free",
-        "icon": "https://lh3.googleusercontent.com/dWJ2gsB96oYOTpN_7n9m_rcT54oBa_N5eozv9LUWZqi8Bnr0Jim_bleNv_IJnXypovg",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/n0sspFb0GzM",
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.8",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 23030,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "8912539664922103166",
-        "updated": "May 24, 2018",
-        "size": "7.7M",
-        "installs": "500,000+",
-        "current_version": "3.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "BIBLIAS",
-        "developer_email": "leonardreedrdc@gmail.com",
-        "developer_url": "http://www.dailybiblequote.org/",
-        "developer_address": "Santo Padre 4215\nBarrio \"Palabra de Vida\"\nCanelones\nUruguay",
-        "app_id": "offline.bible.free",
-        "url": "https://play.google.com/store/apps/details?id=offline.bible.free&hl=en&gl=us"
-    },
-    {
-        "title": "Member Tools",
-        "icon": "https://lh3.googleusercontent.com/bNFcEjXTDPZAh_Edg6fFIAnANKzKk70EKAoE4BYaX2iaZRkI1ytSHp9ZSyDg5OoteA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 27046,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "8295654346829730257",
-        "updated": "July 23, 2019",
-        "size": "13M",
-        "installs": "1,000,000+",
-        "current_version": "3.6.1 (101039.8)",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "The Church of Jesus Christ of Latter-day Saints",
-        "developer_email": "LDSToolsSupport@ldschurch.org",
-        "developer_url": "https://lds.org/lds-tools-support",
-        "developer_address": "50 East North Temple St.\nSalt Lake City, Utah 84150",
-        "app_id": "org.lds.ldstools",
-        "url": "https://play.google.com/store/apps/details?id=org.lds.ldstools&hl=en&gl=us"
-    },
-    {
         "title": "Tricks for free Fire 2k19 Tips",
         "icon": "https://lh3.googleusercontent.com/4rm4F-d8BOJiRX7E-iC4kVWtKf8rsIOw03ypSXQE7FGqbv_38DoOEW4pJnDeAbU-QQ",
         "screenshots": [],
@@ -3262,7 +3096,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4476,
+        "reviews": 4479,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3304,7 +3138,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3678,
+        "reviews": 3680,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3331,6 +3165,389 @@
         "url": "https://play.google.com/store/apps/details?id=com.tipsforfirefreevbn&hl=en&gl=us"
     },
     {
+        "title": "WordReference.com dictionaries",
+        "icon": "https://lh3.googleusercontent.com/3lNHpnaBvUqNh8524QWwvOaOZhdUAbbHS-pNTUPZ7kpNySMI0W4RB8G4iFHbSdoD3n8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 61827,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "WordReference.com",
+        "updated": "June 3, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "Teen"
+        ],
+        "interactive_elements": null,
+        "developer": "WordReference.com",
+        "developer_email": "forum07@wordreference.com",
+        "developer_url": "http://www.wordreference.com",
+        "developer_address": "Suite 266111\n1870 N Corporate Lakes Blvd.\nFt Lauderdale, FL 33326\nUSA",
+        "app_id": "com.wordreference",
+        "url": "https://play.google.com/store/apps/details?id=com.wordreference&hl=en&gl=us"
+    },
+    {
+        "title": "Free Books and Audiobooks",
+        "icon": "https://lh3.googleusercontent.com/XVdM31X4Oe5IzQmjCu_ukWLEjcUVBcSOolCa-A-cbp7ivy3VnZED6DCYh1wxSfUDwA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3626,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sanity+Audio+Apps",
+        "updated": "May 31, 2019",
+        "size": "6.0M",
+        "installs": "500,000+",
+        "current_version": "1.2.11",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sanity Audio Apps",
+        "developer_email": "insanappsz@gmail.com",
+        "developer_url": "https://www.dropbox.com/s/v7bnfjzyi5jti9e/Privacy%20Policy%20of%20App.pdf?dl=0",
+        "developer_address": "ul. Stanczyka 14/78\n30-126 Krakow\nPoland",
+        "app_id": "sanity.learnenglishwithaudiobooks",
+        "url": "https://play.google.com/store/apps/details?id=sanity.learnenglishwithaudiobooks&hl=en&gl=us"
+    },
+    {
+        "title": "cloudLibrary",
+        "icon": "https://lh3.googleusercontent.com/D6MgXSoCsRoj9plJemGNrgvDkcQBrxbCIQNBEguo9cY7NmsG3jG9VZueDCzoLJXahIs",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 13200,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bibliotheca+Ltd",
+        "updated": "August 8, 2019",
+        "size": "Varies with device",
+        "installs": "500,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Bibliotheca Ltd",
+        "developer_email": "cloudlibraryfeedback@bibliotheca.com",
+        "developer_url": "http://yourcloudlibrary.com",
+        "developer_address": null,
+        "app_id": "com.txtr.android.mmm",
+        "url": "https://play.google.com/store/apps/details?id=com.txtr.android.mmm&hl=en&gl=us"
+    },
+    {
+        "title": "Fire New Guide For Free_Fire 2019",
+        "icon": "https://lh3.googleusercontent.com/Ys1yEb-QzyI66AWaW-EDszdxanK_sINmiQQJbpnZfFn0HoD6PT6B8YmpNc9gtd851J8X",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "3.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 14146,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "tanand",
+        "updated": "July 2, 2019",
+        "size": "4.1M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "tanand",
+        "developer_email": "tanandonich@gmail.com",
+        "developer_url": "https://sites.google.com/view/tandandon/accueil",
+        "developer_address": null,
+        "app_id": "com.freefiro.trickgamez",
+        "url": "https://play.google.com/store/apps/details?id=com.freefiro.trickgamez&hl=en&gl=us"
+    },
+    {
+        "title": "Bible Study - Study The Bible By Topic",
+        "icon": "https://lh3.googleusercontent.com/cH9pt8qKe7uTqeEVOFp-UWxElvzJkZf7qjAa_w0E7MXxfGLi9rPFagLjIupsntgi7RI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rPqvAxVASUw",
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 16350,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "iDailybread.org",
+        "updated": "December 3, 2018",
+        "size": "15M",
+        "installs": "1,000,000+",
+        "current_version": "2.7.0",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$3.99",
+            "$35.99"
+        ],
+        "interactive_elements": null,
+        "developer": "iDailybread.org",
+        "developer_email": "cs@idailybread.org",
+        "developer_url": "http://www.idailybread.org/bvprivacy.html",
+        "developer_address": "ROOM 605 6/F FA YUEN COMMERCIAL BUILDING 75-77 FA YUEN STREET MONGKOK KL",
+        "app_id": "bible.study.fiftyday.challenge.king.james.bible.christian.religion",
+        "url": "https://play.google.com/store/apps/details?id=bible.study.fiftyday.challenge.king.james.bible.christian.religion&hl=en&gl=us"
+    },
+    {
+        "title": "Offline Bible Free",
+        "icon": "https://lh3.googleusercontent.com/dWJ2gsB96oYOTpN_7n9m_rcT54oBa_N5eozv9LUWZqi8Bnr0Jim_bleNv_IJnXypovg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/n0sspFb0GzM",
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.8",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 23037,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8912539664922103166",
+        "updated": "May 24, 2018",
+        "size": "7.7M",
+        "installs": "500,000+",
+        "current_version": "3.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "BIBLIAS",
+        "developer_email": "leonardreedrdc@gmail.com",
+        "developer_url": "http://www.dailybiblequote.org/",
+        "developer_address": "Santo Padre 4215\nBarrio \"Palabra de Vida\"\nCanelones\nUruguay",
+        "app_id": "offline.bible.free",
+        "url": "https://play.google.com/store/apps/details?id=offline.bible.free&hl=en&gl=us"
+    },
+    {
+        "title": "Member Tools",
+        "icon": "https://lh3.googleusercontent.com/bNFcEjXTDPZAh_Edg6fFIAnANKzKk70EKAoE4BYaX2iaZRkI1ytSHp9ZSyDg5OoteA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 27048,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "8295654346829730257",
+        "updated": "July 23, 2019",
+        "size": "13M",
+        "installs": "1,000,000+",
+        "current_version": "3.6.1 (101039.8)",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "The Church of Jesus Christ of Latter-day Saints",
+        "developer_email": "LDSToolsSupport@ldschurch.org",
+        "developer_url": "https://lds.org/lds-tools-support",
+        "developer_address": "50 East North Temple St.\nSalt Lake City, Utah 84150",
+        "app_id": "org.lds.ldstools",
+        "url": "https://play.google.com/store/apps/details?id=org.lds.ldstools&hl=en&gl=us"
+    },
+    {
+        "title": "Filelinked codes latest 2019-2020",
+        "icon": "https://lh3.googleusercontent.com/ZuRV-ehsnJf86LyUv4HJ68a611o_P4B8z1wghNUXKu08nA-WXSMgwXWKSpM--R__3jFy",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 350,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Innotiative+Studio",
+        "updated": "August 15, 2019",
+        "size": "3.8M",
+        "installs": "50,000+",
+        "current_version": "4.2.6",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Innotiative Studio",
+        "developer_email": "theinnotiativestudio0000@gmail.com",
+        "developer_url": "https://theinnotiativestudio.blogspot.com/p/innotiative-studio-built-app-as-free-app.html",
+        "developer_address": "Pasrur Road Farid Town",
+        "app_id": "com.codes.filelinkedcodesfordroidadmin2019",
+        "url": "https://play.google.com/store/apps/details?id=com.codes.filelinkedcodesfordroidadmin2019&hl=en&gl=us"
+    },
+    {
+        "title": "VINELink",
+        "icon": "https://lh3.googleusercontent.com/4Fr53RUsACR0bitxg2sgXdKcypCrKFyMYw7CZMkLAja8FjqhGAgWvDOVHKqObbYYpqDS",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3836,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Appriss,+Inc.",
+        "updated": "June 23, 2017",
+        "size": "2.5M",
+        "installs": "500,000+",
+        "current_version": "2.11",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Appriss, Inc.",
+        "developer_email": "appfeedback@appriss.com",
+        "developer_url": "http://www.appriss.com",
+        "developer_address": "10401 Linn Station Road\nSuite 200\nLouisville, KY 40223",
+        "app_id": "com.appriss.vinemobile",
+        "url": "https://play.google.com/store/apps/details?id=com.appriss.vinemobile&hl=en&gl=us"
+    },
+    {
         "title": "Daily Bible - Audio, Reading Plans, Devos",
         "icon": "https://lh3.googleusercontent.com/WHiQDRnDmlgn5G7emwkQ77tafKrwB8WFgwcTh3OeAU6-BK8aLH7-aux9i2rjLrtHiu3D",
         "screenshots": [],
@@ -3346,7 +3563,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 192135,
+        "reviews": 192137,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3522,7 +3739,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 46996,
+        "reviews": 46997,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3553,14 +3770,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.spanishdict.spanishdict&hl=en&gl=us"
     },
     {
-        "title": "Filelinked codes latest 2019-2020",
-        "icon": "https://lh3.googleusercontent.com/ZuRV-ehsnJf86LyUv4HJ68a611o_P4B8z1wghNUXKu08nA-WXSMgwXWKSpM--R__3jFy",
+        "title": "Video Live Broadcast & Free Video Calls Tips 2019",
+        "icon": "https://lh3.googleusercontent.com/1frBJNfABmHTbZyAhnnCalwVUvFw1KzNB0J9UMIWEVephhtNUe6guS9X0VL_yH37lvPM",
         "screenshots": [],
         "video": null,
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.5",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -3568,7 +3785,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 350,
+        "reviews": 387,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3576,196 +3793,23 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "Innotiative+Studio",
-        "updated": "August 15, 2019",
-        "size": "3.8M",
-        "installs": "50,000+",
-        "current_version": "4.2.6",
+        "developer_id": "Free+App+4Fun",
+        "updated": "March 19, 2019",
+        "size": "1.9M",
+        "installs": "100,000+",
+        "current_version": "8.2",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "Innotiative Studio",
-        "developer_email": "theinnotiativestudio0000@gmail.com",
-        "developer_url": "https://theinnotiativestudio.blogspot.com/p/innotiative-studio-built-app-as-free-app.html",
-        "developer_address": "Pasrur Road Farid Town",
-        "app_id": "com.codes.filelinkedcodesfordroidadmin2019",
-        "url": "https://play.google.com/store/apps/details?id=com.codes.filelinkedcodesfordroidadmin2019&hl=en&gl=us"
-    },
-    {
-        "title": "Free Books and Audiobooks",
-        "icon": "https://lh3.googleusercontent.com/XVdM31X4Oe5IzQmjCu_ukWLEjcUVBcSOolCa-A-cbp7ivy3VnZED6DCYh1wxSfUDwA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 3626,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Sanity+Audio+Apps",
-        "updated": "May 31, 2019",
-        "size": "6.0M",
-        "installs": "500,000+",
-        "current_version": "1.2.11",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Sanity Audio Apps",
-        "developer_email": "insanappsz@gmail.com",
-        "developer_url": "https://www.dropbox.com/s/v7bnfjzyi5jti9e/Privacy%20Policy%20of%20App.pdf?dl=0",
-        "developer_address": "ul. Stanczyka 14/78\n30-126 Krakow\nPoland",
-        "app_id": "sanity.learnenglishwithaudiobooks",
-        "url": "https://play.google.com/store/apps/details?id=sanity.learnenglishwithaudiobooks&hl=en&gl=us"
-    },
-    {
-        "title": "WordReference.com dictionaries",
-        "icon": "https://lh3.googleusercontent.com/3lNHpnaBvUqNh8524QWwvOaOZhdUAbbHS-pNTUPZ7kpNySMI0W4RB8G4iFHbSdoD3n8",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 61703,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "WordReference.com",
-        "updated": "June 3, 2019",
-        "size": "Varies with device",
-        "installs": "5,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Teen"
-        ],
-        "iap_range": [
-            "Teen"
-        ],
-        "interactive_elements": null,
-        "developer": "WordReference.com",
-        "developer_email": "forum07@wordreference.com",
-        "developer_url": "http://www.wordreference.com",
-        "developer_address": "Suite 266111\n1870 N Corporate Lakes Blvd.\nFt Lauderdale, FL 33326\nUSA",
-        "app_id": "com.wordreference",
-        "url": "https://play.google.com/store/apps/details?id=com.wordreference&hl=en&gl=us"
-    },
-    {
-        "title": "Bible Study - Study The Bible By Topic",
-        "icon": "https://lh3.googleusercontent.com/cH9pt8qKe7uTqeEVOFp-UWxElvzJkZf7qjAa_w0E7MXxfGLi9rPFagLjIupsntgi7RI",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/rPqvAxVASUw",
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.9",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 16350,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "iDailybread.org",
-        "updated": "December 3, 2018",
-        "size": "15M",
-        "installs": "1,000,000+",
-        "current_version": "2.7.0",
-        "required_android_version": "4.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$3.99",
-            "$35.99"
-        ],
-        "interactive_elements": null,
-        "developer": "iDailybread.org",
-        "developer_email": "cs@idailybread.org",
-        "developer_url": "http://www.idailybread.org/bvprivacy.html",
-        "developer_address": "ROOM 605 6/F FA YUEN COMMERCIAL BUILDING 75-77 FA YUEN STREET MONGKOK KL",
-        "app_id": "bible.study.fiftyday.challenge.king.james.bible.christian.religion",
-        "url": "https://play.google.com/store/apps/details?id=bible.study.fiftyday.challenge.king.james.bible.christian.religion&hl=en&gl=us"
-    },
-    {
-        "title": "VINELink",
-        "icon": "https://lh3.googleusercontent.com/4Fr53RUsACR0bitxg2sgXdKcypCrKFyMYw7CZMkLAja8FjqhGAgWvDOVHKqObbYYpqDS",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "3.9",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 3836,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Appriss,+Inc.",
-        "updated": "June 23, 2017",
-        "size": "2.5M",
-        "installs": "500,000+",
-        "current_version": "2.11",
-        "required_android_version": "4.0.3 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Appriss, Inc.",
-        "developer_email": "appfeedback@appriss.com",
-        "developer_url": "http://www.appriss.com",
-        "developer_address": "10401 Linn Station Road\nSuite 200\nLouisville, KY 40223",
-        "app_id": "com.appriss.vinemobile",
-        "url": "https://play.google.com/store/apps/details?id=com.appriss.vinemobile&hl=en&gl=us"
+        "developer": "Free App 4Fun",
+        "developer_email": "nilson.erick76@gmail.com",
+        "developer_url": null,
+        "developer_address": null,
+        "app_id": "com.freetheapp.livevideotips",
+        "url": "https://play.google.com/store/apps/details?id=com.freetheapp.livevideotips&hl=en&gl=us"
     },
     {
         "title": "The Power of Your Subconscious Mind pdf",
@@ -3783,7 +3827,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 114,
+        "reviews": 116,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3857,14 +3901,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.vansteinengroentjes.apps.ddfive&hl=en&gl=us"
     },
     {
-        "title": "Video Live Broadcast & Free Video Calls Tips 2019",
-        "icon": "https://lh3.googleusercontent.com/1frBJNfABmHTbZyAhnnCalwVUvFw1KzNB0J9UMIWEVephhtNUe6guS9X0VL_yH37lvPM",
+        "title": "Goods Unite Us",
+        "icon": "https://lh3.googleusercontent.com/1Xn5E21JQl8jV8TQipCFuuv_aAVqFKszHMCbTjWFnJS7xmtmbdQU8CTCTQr7otrdTow",
         "screenshots": [],
         "video": null,
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "4.0",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -3872,7 +3916,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 387,
+        "reviews": 119,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3880,29 +3924,29 @@
         "price": "0",
         "free": true,
         "iap": false,
-        "developer_id": "Free+App+4Fun",
-        "updated": "March 19, 2019",
-        "size": "1.9M",
-        "installs": "100,000+",
-        "current_version": "8.2",
-        "required_android_version": "4.1 and up",
+        "developer_id": "Goods+Unite+Us",
+        "updated": "August 6, 2019",
+        "size": "5.3M",
+        "installs": "10,000+",
+        "current_version": "2.1.3",
+        "required_android_version": "4.4 and up",
         "content_rating": [
             "Everyone"
         ],
         "iap_range": null,
         "interactive_elements": null,
-        "developer": "Free App 4Fun",
-        "developer_email": "nilson.erick76@gmail.com",
-        "developer_url": null,
+        "developer": "Goods Unite Us",
+        "developer_email": "goodsuniteus@gmail.com",
+        "developer_url": "http://goodsuniteus.com",
         "developer_address": null,
-        "app_id": "com.freetheapp.livevideotips",
-        "url": "https://play.google.com/store/apps/details?id=com.freetheapp.livevideotips&hl=en&gl=us"
+        "app_id": "com.goodsuniteus.goods",
+        "url": "https://play.google.com/store/apps/details?id=com.goodsuniteus.goods&hl=en&gl=us"
     },
     {
-        "title": "Free Books - read & listen",
-        "icon": "https://lh3.googleusercontent.com/kLNHrGB2ra4JVhxArPjIYiby0xLzWyHJjmUFHOvz567p-qRlU9_Jo8r7-fVtyaF6YQ",
+        "title": "Intelius Background Check Caller ID & Phone Lookup",
+        "icon": "https://lh3.googleusercontent.com/4gxuim3vJWtiG3rBRbShis7Mxy5YFRu5IVVi7jCGBVPsS0mAzMyF1Eleu72jtSp3Kas",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/Sw1_yoYQcOc",
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
@@ -3914,7 +3958,102 @@
             "2": null,
             "1": null
         },
-        "reviews": 900,
+        "reviews": 8571,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Intelius+Mobile",
+        "updated": "June 24, 2019",
+        "size": "5.9M",
+        "installs": "500,000+",
+        "current_version": "4.7.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$1.99",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Intelius Mobile",
+        "developer_email": "mobilefeedback@intelius.com",
+        "developer_url": "http://www.intelius.com",
+        "developer_address": "1501 4th Ave., Suite 400\nSeattle, WA 98101",
+        "app_id": "com.inome.android",
+        "url": "https://play.google.com/store/apps/details?id=com.inome.android&hl=en&gl=us"
+    },
+    {
+        "title": "Radish \u2014 Free Bestselling Fiction & Chat Stories",
+        "icon": "https://lh3.googleusercontent.com/zg70zwQiiGVevefbNnAlTn3cGLd476voMTHV7tdxa4tgY2ZmlHp00sY7MvnTIgHC8kJy",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/h7F6ek3UOuw",
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6098,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Radish+Media+Inc.",
+        "updated": "August 16, 2019",
+        "size": "8.9M",
+        "installs": "100,000+",
+        "current_version": "2.12.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Sexual Content"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "Radish Media Inc.",
+        "developer_email": "support@radishfiction.com",
+        "developer_url": "https://www.radishfiction.com",
+        "developer_address": "151 Potrero Avenue. San Francisco CA 94103",
+        "app_id": "com.noahclient",
+        "url": "https://play.google.com/store/apps/details?id=com.noahclient&hl=en&gl=us"
+    },
+    {
+        "title": "Free Books - read & listen",
+        "icon": "https://lh3.googleusercontent.com/kLNHrGB2ra4JVhxArPjIYiby0xLzWyHJjmUFHOvz567p-qRlU9_Jo8r7-fVtyaF6YQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 904,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3956,7 +4095,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 48495,
+        "reviews": 48496,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3966,10 +4105,10 @@
         "iap": false,
         "developer_id": "Urban+Dictionary",
         "updated": "August 8, 2019",
-        "size": "19M",
+        "size": "Varies with device",
         "installs": "5,000,000+",
-        "current_version": "3.3.3",
-        "required_android_version": "4.4 and up",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
         "content_rating": [
             "Teen"
         ],
@@ -4000,7 +4139,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 772,
+        "reviews": 774,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4069,14 +4208,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.andromo.dev8656.app653568&hl=en&gl=us"
     },
     {
-        "title": "New ZEDGE Plus Ringtones and Wallpapers Tips",
-        "icon": "https://lh3.googleusercontent.com/Dd-_-H4GDj4iBZMA6b3TTt-wP2pdEGaH_MnblG91YKjLDbidJBlz8hjHQcKxECiCVg",
+        "title": "CleverBook for Minecraft 1.14",
+        "icon": "https://lh3.googleusercontent.com/UwMYh0IwnHqiRBgAayiMWA_0GI7Caz-CR8tX9fziR1zAVw1h0r3LXbhWBdiGgMbrRLbc",
         "screenshots": [],
         "video": null,
         "category": [
             "BOOKS_AND_REFERENCE"
         ],
-        "score": "3.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -4084,7 +4223,49 @@
             "2": null,
             "1": null
         },
-        "reviews": 8,
+        "reviews": 50740,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Marius+Krusen",
+        "updated": "July 29, 2019",
+        "size": "16M",
+        "installs": "1,000,000+",
+        "current_version": "3.2.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Marius Krusen",
+        "developer_email": "makrubue@gmail.com",
+        "developer_url": "https://gistcdn.githack.com/MariusKr/bf9979d63768b4d82a4b0adef557de29/raw/cbPrivacyPolicy.html",
+        "developer_address": "Nordstrander Str. 9\n25761 B\u00fcsum\nGermany",
+        "app_id": "com.makru.minecraftbook",
+        "url": "https://play.google.com/store/apps/details?id=com.makru.minecraftbook&hl=en&gl=us"
+    },
+    {
+        "title": "New ZEDGE Plus Ringtones and Wallpapers Tips",
+        "icon": "https://lh3.googleusercontent.com/Dd-_-H4GDj4iBZMA6b3TTt-wP2pdEGaH_MnblG91YKjLDbidJBlz8hjHQcKxECiCVg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "BOOKS_AND_REFERENCE"
+        ],
+        "score": "3.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4111,96 +4292,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.plusezedgtaza&hl=en&gl=us"
     },
     {
-        "title": "Goods Unite Us",
-        "icon": "https://lh3.googleusercontent.com/1Xn5E21JQl8jV8TQipCFuuv_aAVqFKszHMCbTjWFnJS7xmtmbdQU8CTCTQr7otrdTow",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 119,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Goods+Unite+Us",
-        "updated": "August 6, 2019",
-        "size": "5.3M",
-        "installs": "10,000+",
-        "current_version": "2.1.3",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Goods Unite Us",
-        "developer_email": "goodsuniteus@gmail.com",
-        "developer_url": "http://goodsuniteus.com",
-        "developer_address": null,
-        "app_id": "com.goodsuniteus.goods",
-        "url": "https://play.google.com/store/apps/details?id=com.goodsuniteus.goods&hl=en&gl=us"
-    },
-    {
-        "title": "Radish \u2014 Free Bestselling Fiction & Chat Stories",
-        "icon": "https://lh3.googleusercontent.com/zg70zwQiiGVevefbNnAlTn3cGLd476voMTHV7tdxa4tgY2ZmlHp00sY7MvnTIgHC8kJy",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/h7F6ek3UOuw",
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "3.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 6098,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Radish+Media+Inc.",
-        "updated": "August 16, 2019",
-        "size": "8.9M",
-        "installs": "100,000+",
-        "current_version": "2.12.0",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Mature 17+",
-            "Sexual Content"
-        ],
-        "iap_range": [
-            "$0.99",
-            "$99.99"
-        ],
-        "interactive_elements": [
-            "In-App Purchases"
-        ],
-        "developer": "Radish Media Inc.",
-        "developer_email": "support@radishfiction.com",
-        "developer_url": "https://www.radishfiction.com",
-        "developer_address": "151 Potrero Avenue. San Francisco CA 94103",
-        "app_id": "com.noahclient",
-        "url": "https://play.google.com/store/apps/details?id=com.noahclient&hl=en&gl=us"
-    },
-    {
         "title": "Tecarta Bible",
         "icon": "https://lh3.googleusercontent.com/cq6fpXcTv8WAhevUHzEq3hhfWUahWsIT-JxRXVN42Pcp-SKdp2o8zHatkPZOaWCnoA",
         "screenshots": [],
@@ -4216,7 +4307,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 26462,
+        "reviews": 26464,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4288,94 +4379,5 @@
         "developer_address": "1333 Burr Ridge Pkwy, Burr Ridge IL 60527",
         "app_id": "com.mheducation.readerShellApp.readAnywhere",
         "url": "https://play.google.com/store/apps/details?id=com.mheducation.readerShellApp.readAnywhere&hl=en&gl=us"
-    },
-    {
-        "title": "Intelius Background Check Caller ID & Phone Lookup",
-        "icon": "https://lh3.googleusercontent.com/4gxuim3vJWtiG3rBRbShis7Mxy5YFRu5IVVi7jCGBVPsS0mAzMyF1Eleu72jtSp3Kas",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/Sw1_yoYQcOc",
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 8570,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Intelius+Mobile",
-        "updated": "June 24, 2019",
-        "size": "5.9M",
-        "installs": "500,000+",
-        "current_version": "4.7.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$1.99",
-            "$49.99"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "Intelius Mobile",
-        "developer_email": "mobilefeedback@intelius.com",
-        "developer_url": "http://www.intelius.com",
-        "developer_address": "1501 4th Ave., Suite 400\nSeattle, WA 98101",
-        "app_id": "com.inome.android",
-        "url": "https://play.google.com/store/apps/details?id=com.inome.android&hl=en&gl=us"
-    },
-    {
-        "title": "Mod Bendy",
-        "icon": "https://lh3.googleusercontent.com/mw_L4SW8ZqAm43wyrgF3MCgQMajdNsyv62S0iEF_ZW49FICa7wZhr_NCOFdm7CfpIrY",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "BOOKS_AND_REFERENCE"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 38,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "James+Leckie",
-        "updated": "August 2, 2019",
-        "size": "7.4M",
-        "installs": "1,000+",
-        "current_version": "1.0",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "James Leckie",
-        "developer_email": "james.leckie@yandex.com",
-        "developer_url": "https://www.freeprivacypolicy.com/privacy/view/21ffaeb995cfb8a35875689b577ce060",
-        "developer_address": null,
-        "app_id": "com.modbendy.app",
-        "url": "https://play.google.com/store/apps/details?id=com.modbendy.app&hl=en&gl=us"
     }
 ]

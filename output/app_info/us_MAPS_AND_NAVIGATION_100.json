@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6452398,
+        "reviews": 6452867,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -49,7 +49,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.2",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -57,7 +57,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 190207,
+        "reviews": 190234,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -93,7 +93,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.6",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -101,7 +101,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7557565,
+        "reviews": 7558385,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -137,7 +137,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -145,7 +145,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 33863,
+        "reviews": 33867,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -221,7 +221,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.9",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -229,7 +229,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6744,
+        "reviews": 6745,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -238,10 +238,10 @@
         "free": true,
         "iap": true,
         "developer_id": "8955738419362599046",
-        "updated": "August 19, 2019",
+        "updated": "August 20, 2019",
         "size": "12M",
         "installs": "5,000,000+",
-        "current_version": "5.3",
+        "current_version": "5.4",
         "required_android_version": "7.0 and up",
         "content_rating": [
             "Everyone"
@@ -275,7 +275,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 21633,
+        "reviews": 21683,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -319,7 +319,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 778372,
+        "reviews": 778525,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -395,7 +395,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.2",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -403,7 +403,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1397,
+        "reviews": 1404,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -437,7 +437,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -445,7 +445,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 131430,
+        "reviews": 131438,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -489,7 +489,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9615,
+        "reviews": 9616,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -567,7 +567,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.2",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -611,7 +611,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.3",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -619,7 +619,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 10851,
+        "reviews": 10908,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -653,7 +653,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -661,7 +661,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 10061,
+        "reviews": 10063,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -695,7 +695,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.0",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -703,7 +703,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7906,
+        "reviews": 7908,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -772,14 +772,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.voice.gps.driving.directions.gps.navigation.maps.location&hl=en&gl=us"
     },
     {
-        "title": "GPS Offline Maps, Navigation, Directions & Traffic",
+        "title": "GPS Offline Maps, Directions - Explore & Navigate",
         "icon": "https://lh3.googleusercontent.com/EueHGAzobpLDgytljvMbMOHL6eUL2VVB8FkjoH4-m8cidQHqJqMB5_kOB5D-h0mdzYFT",
         "screenshots": [],
         "video": null,
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.8",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -787,7 +787,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3660,
+        "reviews": 3661,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -832,7 +832,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5275,
+        "reviews": 5279,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -874,7 +874,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 15661,
+        "reviews": 15662,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -918,7 +918,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 12483,
+        "reviews": 12484,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1004,7 +1004,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 380,
+        "reviews": 381,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1093,7 +1093,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6586,
+        "reviews": 6588,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1179,7 +1179,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7283,
+        "reviews": 7285,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1263,7 +1263,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3193,
+        "reviews": 3194,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1307,7 +1307,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3348,
+        "reviews": 3350,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1351,7 +1351,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3466,
+        "reviews": 3469,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1393,7 +1393,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 75567,
+        "reviews": 75573,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1427,7 +1427,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.0",
+        "score": "3.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1435,7 +1435,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7905,
+        "reviews": 7906,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1469,7 +1469,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.3",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1513,7 +1513,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1565,7 +1565,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 85,
+        "reviews": 86,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1599,7 +1599,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.2",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1607,7 +1607,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 16774,
+        "reviews": 16782,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1646,7 +1646,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.2",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1654,7 +1654,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5313,
+        "reviews": 5315,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1688,7 +1688,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1696,7 +1696,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 19104,
+        "reviews": 19108,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1730,7 +1730,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -1738,7 +1738,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 24963,
+        "reviews": 24971,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1777,7 +1777,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -1829,7 +1829,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 22550,
+        "reviews": 22551,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1866,7 +1866,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.5",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1908,7 +1908,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.9",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1916,7 +1916,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1480,
+        "reviews": 1481,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1950,7 +1950,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.2",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1958,7 +1958,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 35438,
+        "reviews": 35516,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1992,7 +1992,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.5",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2000,7 +2000,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4266824,
+        "reviews": 4266828,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2076,7 +2076,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.0",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -2084,7 +2084,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 393,
+        "reviews": 396,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2118,7 +2118,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.5",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -2160,7 +2160,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.8",
+        "score": "3.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -2204,7 +2204,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.7",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -2248,7 +2248,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "2.9",
+        "score": "3.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2256,7 +2256,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 718,
+        "reviews": 719,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2290,7 +2290,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2298,7 +2298,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1562334,
+        "reviews": 1562603,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2337,7 +2337,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.1",
+        "score": "3.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -2354,10 +2354,10 @@
         "free": true,
         "iap": true,
         "developer_id": "TrailBehind+Inc.",
-        "updated": "August 19, 2019",
-        "size": "56M",
+        "updated": "August 21, 2019",
+        "size": "59M",
         "installs": "100,000+",
-        "current_version": "2019.06.27",
+        "current_version": "2019.08.01",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
@@ -2384,7 +2384,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "1.5",
+        "score": "1.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2429,7 +2429,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "1.9",
+        "score": "1.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2471,7 +2471,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2479,7 +2479,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3378,
+        "reviews": 3394,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2518,7 +2518,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.5",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -2526,7 +2526,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2433,
+        "reviews": 2436,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2560,7 +2560,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2568,7 +2568,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4222,
+        "reviews": 4225,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2577,10 +2577,10 @@
         "free": true,
         "iap": false,
         "developer_id": "ChargePoint,+Inc.",
-        "updated": "August 16, 2019",
+        "updated": "August 20, 2019",
         "size": "26M",
         "installs": "100,000+",
-        "current_version": "Varies with device",
+        "current_version": "5.50.0-221-849",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
@@ -2648,7 +2648,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.0",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2692,7 +2692,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.5",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -2736,7 +2736,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.6",
+        "score": "4.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -2869,7 +2869,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -2911,7 +2911,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.6",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2919,7 +2919,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2783,
+        "reviews": 2789,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2928,10 +2928,10 @@
         "free": true,
         "iap": true,
         "developer_id": "8955738419362599046",
-        "updated": "August 19, 2019",
+        "updated": "August 20, 2019",
         "size": "11M",
         "installs": "1,000,000+",
-        "current_version": "1.35",
+        "current_version": "1.36",
         "required_android_version": "7.0 and up",
         "content_rating": [
             "Everyone"
@@ -2957,7 +2957,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.7",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2999,7 +2999,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3054,7 +3054,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 121,
+        "reviews": 123,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3088,7 +3088,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.5",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3130,7 +3130,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.8",
+        "score": "3.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -3172,7 +3172,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.1",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3214,7 +3214,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3222,7 +3222,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11235,
+        "reviews": 11239,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3264,7 +3264,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6986,
+        "reviews": 6989,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3342,7 +3342,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.2",
+        "score": "4.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -3386,7 +3386,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.8",
+        "score": "3.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3428,7 +3428,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.7",
+        "score": "3.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -3480,7 +3480,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 511646,
+        "reviews": 511700,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3516,7 +3516,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3524,7 +3524,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1647,
+        "reviews": 1649,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3558,7 +3558,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3566,7 +3566,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 50456,
+        "reviews": 50473,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3610,7 +3610,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 36216,
+        "reviews": 36217,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3649,7 +3649,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -3691,7 +3691,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.4",
+        "score": "3.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3735,7 +3735,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.3",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -3743,7 +3743,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8437,
+        "reviews": 8439,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3777,7 +3777,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.6",
+        "score": "3.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3821,7 +3821,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3829,7 +3829,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 457917,
+        "reviews": 457923,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3873,7 +3873,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 73882,
+        "reviews": 73908,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3995,7 +3995,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.2",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -4003,7 +4003,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6075,
+        "reviews": 6089,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4042,7 +4042,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.8",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -4084,7 +4084,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "2.2",
+        "score": "2.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -4126,7 +4126,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.5",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -4168,7 +4168,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.1",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -4212,7 +4212,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.2",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -4254,7 +4254,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "4.7",
+        "score": "4.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -4296,7 +4296,7 @@
         "category": [
             "MAPS_AND_NAVIGATION"
         ],
-        "score": "3.9",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -4304,7 +4304,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 195,
+        "reviews": 196,
         "description": null,
         "description_html": null,
         "recent_changes": null,

@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 639385,
+        "reviews": 640188,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -60,7 +60,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 40297,
+        "reviews": 40304,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -96,7 +96,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.8",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -104,7 +104,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 41899,
+        "reviews": 41920,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -140,7 +140,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -148,7 +148,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9131,
+        "reviews": 9136,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -187,7 +187,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -195,7 +195,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11454,
+        "reviews": 11458,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -242,7 +242,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 40825,
+        "reviews": 40827,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -284,7 +284,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 25139,
+        "reviews": 25142,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -326,7 +326,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 20643,
+        "reviews": 20647,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -370,7 +370,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4632,
+        "reviews": 4688,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -379,10 +379,10 @@
         "free": true,
         "iap": true,
         "developer_id": "7640345417699712720",
-        "updated": "July 18, 2019",
-        "size": "69M",
+        "updated": "August 20, 2019",
+        "size": "71M",
         "installs": "1,000,000+",
-        "current_version": "1.2",
+        "current_version": "1.3",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Teen",
@@ -416,7 +416,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6627,
+        "reviews": 6628,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -462,7 +462,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1574,
+        "reviews": 1578,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -504,7 +504,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 15852,
+        "reviews": 15865,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -538,7 +538,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.4",
+        "score": "3.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -546,7 +546,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7049,
+        "reviews": 7052,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -555,10 +555,10 @@
         "free": true,
         "iap": false,
         "developer_id": "Fair+Inc.",
-        "updated": "August 7, 2019",
+        "updated": "August 20, 2019",
         "size": "25M",
         "installs": "1,000,000+",
-        "current_version": "1.30.0-31204",
+        "current_version": "1.31.0-32059",
         "required_android_version": "6.0 and up",
         "content_rating": [
             "Everyone"
@@ -588,7 +588,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3631,
+        "reviews": 3637,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -631,7 +631,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 436,
+        "reviews": 438,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -678,7 +678,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 10002,
+        "reviews": 10008,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -807,7 +807,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.5",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -857,7 +857,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2422,
+        "reviews": 2440,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -949,7 +949,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1052,
+        "reviews": 1053,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -991,7 +991,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 14966,
+        "reviews": 14973,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1035,7 +1035,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5213,
+        "reviews": 5215,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1077,7 +1077,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 25831,
+        "reviews": 25830,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1121,7 +1121,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3722,
+        "reviews": 3724,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1210,7 +1210,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1734,
+        "reviews": 1735,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1254,7 +1254,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 19569,
+        "reviews": 19573,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1342,7 +1342,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 27224,
+        "reviews": 27246,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1381,7 +1381,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.0",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -1389,7 +1389,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5587,
+        "reviews": 5599,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1427,7 +1427,7 @@
             "AUTO_AND_VEHICLES",
             "FAMILY_ACTION"
         ],
-        "score": "4.4",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1482,7 +1482,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 20190,
+        "reviews": 20191,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1518,7 +1518,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.9",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -1526,7 +1526,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5441,
+        "reviews": 5453,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1563,7 +1563,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.2",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -1605,7 +1605,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1613,7 +1613,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11529,
+        "reviews": 11593,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1647,7 +1647,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1655,7 +1655,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 567,
+        "reviews": 597,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1664,10 +1664,10 @@
         "free": true,
         "iap": true,
         "developer_id": "GamePark",
-        "updated": "August 9, 2019",
-        "size": "63M",
+        "updated": "August 20, 2019",
+        "size": "65M",
         "installs": "500,000+",
-        "current_version": "1.2",
+        "current_version": "1.3",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
@@ -1695,7 +1695,7 @@
             "AUTO_AND_VEHICLES",
             "FAMILY_ACTION"
         ],
-        "score": "4.0",
+        "score": "3.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1703,7 +1703,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 797,
+        "reviews": 795,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1748,7 +1748,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 880,
+        "reviews": 884,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1782,7 +1782,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -1790,7 +1790,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 432,
+        "reviews": 434,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1836,7 +1836,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1048,
+        "reviews": 1049,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1871,7 +1871,7 @@
             "AUTO_AND_VEHICLES",
             "FAMILY_ACTION"
         ],
-        "score": "4.0",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -1879,7 +1879,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 364,
+        "reviews": 365,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1918,7 +1918,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1926,7 +1926,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1237,
+        "reviews": 1268,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2005,7 +2005,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "2.3",
+        "score": "2.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2055,7 +2055,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 203,
+        "reviews": 204,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2242,7 +2242,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5236,
+        "reviews": 5237,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2281,7 +2281,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -2289,7 +2289,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8910,
+        "reviews": 8912,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2331,7 +2331,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 76,
+        "reviews": 77,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2370,7 +2370,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.9",
+        "score": "3.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2378,7 +2378,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4952,
+        "reviews": 4954,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2454,7 +2454,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.2",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2462,7 +2462,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 137,
+        "reviews": 139,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2499,7 +2499,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.3",
+        "score": "3.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -2507,7 +2507,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1781,
+        "reviews": 1787,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2541,7 +2541,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.0",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -2549,7 +2549,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3461,
+        "reviews": 3462,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2638,7 +2638,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 29904,
+        "reviews": 29906,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2676,7 +2676,7 @@
             "AUTO_AND_VEHICLES",
             "FAMILY_ACTION"
         ],
-        "score": "4.0",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2684,7 +2684,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 619,
+        "reviews": 624,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2724,7 +2724,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -2808,7 +2808,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.3",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2850,7 +2850,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.7",
+        "score": "3.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2892,7 +2892,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.7",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2900,7 +2900,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 33063,
+        "reviews": 33106,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2942,7 +2942,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 231,
+        "reviews": 234,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2976,7 +2976,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2984,7 +2984,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1888,
+        "reviews": 1896,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3018,7 +3018,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.2",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -3026,7 +3026,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 34372,
+        "reviews": 34378,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3064,7 +3064,7 @@
             "AUTO_AND_VEHICLES",
             "FAMILY_ACTION"
         ],
-        "score": "4.1",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3072,7 +3072,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 227,
+        "reviews": 229,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3154,7 +3154,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -3199,7 +3199,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.0",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -3207,7 +3207,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2165,
+        "reviews": 2171,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3241,7 +3241,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.4",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -3249,7 +3249,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 44920,
+        "reviews": 44925,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3287,7 +3287,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3295,7 +3295,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2274,
+        "reviews": 2278,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3329,7 +3329,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.5",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -3373,7 +3373,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -3459,7 +3459,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3501,7 +3501,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "2.4",
+        "score": "2.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3543,7 +3543,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.9",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3590,15 +3590,9 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 3,
+        "score": null,
+        "histogram": {},
+        "reviews": 0,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3638,7 +3632,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.2",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -3646,7 +3640,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2091,
+        "reviews": 2092,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3686,7 +3680,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.9",
+        "score": "4.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -3728,7 +3722,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.0",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3736,7 +3730,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2117,
+        "reviews": 2119,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3766,6 +3760,48 @@
         "url": "https://play.google.com/store/apps/details?id=com.newactionstyle.driftadvance.car.master.car.drivergame.simulator&hl=en&gl=us"
     },
     {
+        "title": "Oil Tanker Transporter - Truck Offroad Simulator",
+        "icon": "https://lh3.googleusercontent.com/hFwWvwPjDshXadbK8bcD2DC2JeRub-ScdiOCb3B6XIvXav379YcR5baAO-bwNzMHlw",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "4.0",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3091,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sobubble+team",
+        "updated": "July 7, 2019",
+        "size": "42M",
+        "installs": "1,000,000+",
+        "current_version": "1.5",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sobubble team",
+        "developer_email": "spbubble1122@gmmail.com",
+        "developer_url": "https://sites.google.com/view/oiltrucksimulator3d2019/trang-ch%E1%BB%A7",
+        "developer_address": null,
+        "app_id": "struck.oil.tanker.offroad.transport.driver.simulator",
+        "url": "https://play.google.com/store/apps/details?id=struck.oil.tanker.offroad.transport.driver.simulator&hl=en&gl=us"
+    },
+    {
         "title": "GoShare - Move, Haul, Deliver",
         "icon": "https://lh3.googleusercontent.com/1EcMsL1TjQy6rwGKonzB8yBdHqB6W1Azix8yuv3FOOUVFklQ1NsPeIEi7ynDcG0nPVE",
         "screenshots": [],
@@ -3773,7 +3809,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3817,7 +3853,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.9",
+        "score": "3.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3825,7 +3861,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 600,
+        "reviews": 602,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3859,7 +3895,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "2.7",
+        "score": "2.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -3867,7 +3903,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 49,
+        "reviews": 50,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3901,7 +3937,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -3909,7 +3945,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9325,
+        "reviews": 9330,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4029,7 +4065,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.5",
+        "score": "3.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -4037,7 +4073,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8,
+        "reviews": 9,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4073,7 +4109,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -4081,7 +4117,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3362,
+        "reviews": 3365,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4155,14 +4191,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.formula.car.underground.racer&hl=en&gl=us"
     },
     {
-        "title": "Car Driving: GT Stunts Racing 2",
-        "icon": "https://lh3.googleusercontent.com/RmooXI3hveQBRkvBt3efRm9JmBYMAUP5ThH_F-hqOv841oWh696Hq3Eq0kbBBWDxBa_a",
+        "title": "DMV Practice Test 2019",
+        "icon": "https://lh3.googleusercontent.com/wYVxfL28sSRCZbJrXbH-_OEN6o0d6I6U14lh_K2x9lGY_tjS9FHNhF8H_eLgRtwAXqA",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/nNNFzkk6Nc4",
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "3.9",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -4170,7 +4206,53 @@
             "2": null,
             "1": null
         },
-        "reviews": 3290,
+        "reviews": 2346,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8235669704987837150",
+        "updated": "June 29, 2019",
+        "size": "21M",
+        "installs": "100,000+",
+        "current_version": "5.06",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Elite apps",
+        "developer_email": "support@iexamguru.com",
+        "developer_url": "https://iexamguru.com",
+        "developer_address": "931 Mill Grove Dr,\nNorristown, Pennsylvania",
+        "app_id": "com.iexamguru.dmv_practice_test",
+        "url": "https://play.google.com/store/apps/details?id=com.iexamguru.dmv_practice_test&hl=en&gl=us"
+    },
+    {
+        "title": "Car Driving: GT Stunts Racing 2",
+        "icon": "https://lh3.googleusercontent.com/RmooXI3hveQBRkvBt3efRm9JmBYMAUP5ThH_F-hqOv841oWh696Hq3Eq0kbBBWDxBa_a",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "AUTO_AND_VEHICLES"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3292,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4248,7 +4330,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.2",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -4290,7 +4372,7 @@
         "category": [
             "AUTO_AND_VEHICLES"
         ],
-        "score": "4.1",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,

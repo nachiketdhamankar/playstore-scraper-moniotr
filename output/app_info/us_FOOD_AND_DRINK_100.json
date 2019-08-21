@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 467158,
+        "reviews": 467255,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -51,7 +51,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.1",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -59,7 +59,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1481667,
+        "reviews": 1481671,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -103,7 +103,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 245887,
+        "reviews": 245948,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -137,7 +137,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.0",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -145,7 +145,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 66835,
+        "reviews": 66855,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -189,7 +189,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 294897,
+        "reviews": 294928,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -231,7 +231,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 546238,
+        "reviews": 546250,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -267,7 +267,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.8",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -275,7 +275,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 30262,
+        "reviews": 30280,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -309,7 +309,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.6",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -317,7 +317,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 63898,
+        "reviews": 63918,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -326,7 +326,7 @@
         "free": true,
         "iap": false,
         "developer_id": "Chick-fil-A,+Inc.",
-        "updated": "August 19, 2019",
+        "updated": "August 20, 2019",
         "size": "22M",
         "installs": "5,000,000+",
         "current_version": "6.1.5",
@@ -361,7 +361,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1256495,
+        "reviews": 1258968,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -403,7 +403,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 422518,
+        "reviews": 422585,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -447,7 +447,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 85145,
+        "reviews": 85150,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -489,7 +489,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11544,
+        "reviews": 11545,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -531,7 +531,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 50002,
+        "reviews": 50018,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -565,7 +565,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.7",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -573,7 +573,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 190718,
+        "reviews": 190724,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -607,7 +607,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.5",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -615,7 +615,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 43043,
+        "reviews": 43070,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -657,7 +657,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 27780,
+        "reviews": 27784,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -666,7 +666,7 @@
         "free": true,
         "iap": false,
         "developer_id": "Instacart",
-        "updated": "August 19, 2019",
+        "updated": "August 20, 2019",
         "size": "15M",
         "installs": "1,000,000+",
         "current_version": "5.32.1",
@@ -699,7 +699,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 54420,
+        "reviews": 54421,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -734,7 +734,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.4",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -784,7 +784,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 47426,
+        "reviews": 47496,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -860,7 +860,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "3.8",
+        "score": "3.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -868,7 +868,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 45311,
+        "reviews": 45321,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -904,7 +904,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -912,7 +912,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 95569,
+        "reviews": 95811,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -954,7 +954,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 39009,
+        "reviews": 39024,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -996,7 +996,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 18563,
+        "reviews": 18638,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1030,7 +1030,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.0",
+        "score": "2.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -1082,7 +1082,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 18182,
+        "reviews": 18186,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1118,7 +1118,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "3.8",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1126,7 +1126,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5504,
+        "reviews": 5510,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1160,7 +1160,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "4.1",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -1204,7 +1204,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "3.1",
+        "score": "2.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1246,7 +1246,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "3.4",
+        "score": "3.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -1254,7 +1254,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2707,
+        "reviews": 2709,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1296,7 +1296,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4465,
+        "reviews": 4470,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1330,7 +1330,7 @@
         "category": [
             "FOOD_AND_DRINK"
         ],
-        "score": "3.0",
+        "score": "3.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1380,7 +1380,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1493,
+        "reviews": 1494,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1422,7 +1422,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9284,
+        "reviews": 9285,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1510,7 +1510,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 68129,
+        "reviews": 68139,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1554,7 +1554,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11588,
+        "reviews": 11589,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1640,7 +1640,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 109246,
+        "reviews": 109254,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1682,7 +1682,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1386,
+        "reviews": 1391,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1724,7 +1724,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1096,
+        "reviews": 1097,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1766,7 +1766,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 69825,
+        "reviews": 69829,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1810,7 +1810,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 101930,
+        "reviews": 101932,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1857,7 +1857,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 132765,
+        "reviews": 133624,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1899,7 +1899,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6061,
+        "reviews": 6065,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1950,7 +1950,7 @@
         "free": true,
         "iap": false,
         "developer_id": "9080371205220331041",
-        "updated": "August 16, 2019",
+        "updated": "August 19, 2019",
         "size": "34M",
         "installs": "100,000+",
         "current_version": "5.32.1",
@@ -2111,7 +2111,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7065,
+        "reviews": 7067,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2153,7 +2153,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 109498,
+        "reviews": 109495,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2241,7 +2241,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2924,
+        "reviews": 2928,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2330,7 +2330,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 77738,
+        "reviews": 77739,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2374,7 +2374,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4755,
+        "reviews": 4756,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2708,7 +2708,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 44082,
+        "reviews": 44165,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2825,7 +2825,9 @@
         "icon": "https://lh3.googleusercontent.com/E0KtO51f9hEjsz4WDIoo1hvFFLQS4Fkvk5RAsHPM2MDZNRXo8uwoDpn-HudZB9qUEGw",
         "screenshots": [],
         "video": null,
-        "category": [],
+        "category": [
+            "FOOD_AND_DRINK"
+        ],
         "score": "4.0",
         "histogram": {
             "5": null,
@@ -2876,7 +2878,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 121156,
+        "reviews": 121161,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3004,7 +3006,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1032,
+        "reviews": 1033,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3301,7 +3303,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2183,
+        "reviews": 2184,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3346,7 +3348,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2879,
+        "reviews": 2884,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3430,7 +3432,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2985,
+        "reviews": 2987,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4031,7 +4033,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2885141,
+        "reviews": 2886468,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4075,7 +4077,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 422111,
+        "reviews": 423154,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4128,7 +4130,7 @@
         "free": true,
         "iap": false,
         "developer_id": "Harris+Teeter,+LLC",
-        "updated": "August 19, 2019",
+        "updated": "August 20, 2019",
         "size": "38M",
         "installs": "100,000+",
         "current_version": "8.5.1",

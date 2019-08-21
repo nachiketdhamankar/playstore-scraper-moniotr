@@ -7,7 +7,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1109270,
+        "reviews": 1109276,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -57,7 +57,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 365776,
+        "reviews": 365809,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -91,7 +91,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "2.8",
+        "score": "2.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -142,7 +142,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 20267,
+        "reviews": 20290,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -222,7 +222,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -272,7 +272,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 34877,
+        "reviews": 34878,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -308,7 +308,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -316,7 +316,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 239369,
+        "reviews": 239371,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -362,7 +362,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 511444,
+        "reviews": 511637,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -407,7 +407,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 10813,
+        "reviews": 10821,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -451,7 +451,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3920,
+        "reviews": 3921,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -485,7 +485,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -493,7 +493,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 23046,
+        "reviews": 23071,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -527,7 +527,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "2.7",
+        "score": "2.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -535,7 +535,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2315,
+        "reviews": 2364,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -578,7 +578,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 483202,
+        "reviews": 483214,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -622,7 +622,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 64243,
+        "reviews": 64226,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -708,7 +708,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 10229,
+        "reviews": 10368,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -750,7 +750,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 105842,
+        "reviews": 105843,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -793,7 +793,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 632,
+        "reviews": 633,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -829,7 +829,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -837,7 +837,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9004,
+        "reviews": 9005,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -872,7 +872,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.3",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -915,7 +915,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.3",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -961,7 +961,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.0",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -1005,7 +1005,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1048,7 +1048,7 @@
             "EDUCATION",
             "FAMILY_CREATE"
         ],
-        "score": "4.2",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -1056,7 +1056,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7171,
+        "reviews": 7180,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1092,7 +1092,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1100,7 +1100,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 132525,
+        "reviews": 132528,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1137,7 +1137,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.4",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -1179,7 +1179,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1225,7 +1225,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.2",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1267,7 +1267,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.3",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1275,7 +1275,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 365,
+        "reviews": 366,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1309,7 +1309,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "3.9",
+        "score": "2.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -1353,7 +1353,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -1405,7 +1405,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 103876,
+        "reviews": 103879,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1439,7 +1439,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.3",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1481,7 +1481,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.2",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1489,7 +1489,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 102432,
+        "reviews": 102438,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1525,7 +1525,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.0",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1533,7 +1533,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8190,
+        "reviews": 8201,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1567,7 +1567,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1575,7 +1575,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 371375,
+        "reviews": 371376,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1613,7 +1613,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1656,7 +1656,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.2",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1664,7 +1664,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 25877,
+        "reviews": 25878,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1710,7 +1710,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 141991,
+        "reviews": 142060,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1746,7 +1746,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.7",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1754,7 +1754,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 10434,
+        "reviews": 10435,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1841,7 +1841,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7979558,
+        "reviews": 7979770,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1931,7 +1931,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 157223,
+        "reviews": 157321,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2055,7 +2055,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.4",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2063,7 +2063,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4298,
+        "reviews": 4299,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2097,7 +2097,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -2105,7 +2105,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 16140,
+        "reviews": 16152,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2140,7 +2140,7 @@
             "EDUCATION",
             "FAMILY_PRETEND"
         ],
-        "score": "3.9",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2148,7 +2148,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 26689,
+        "reviews": 26693,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2192,7 +2192,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1199863,
+        "reviews": 1199875,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2228,7 +2228,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.2",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -2236,7 +2236,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5703,
+        "reviews": 5708,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2271,7 +2271,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.3",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2313,7 +2313,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.1",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -2321,7 +2321,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 57965,
+        "reviews": 57966,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2400,7 +2400,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2442,7 +2442,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.3",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -2450,7 +2450,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 345845,
+        "reviews": 345895,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2489,7 +2489,7 @@
             "EDUCATION",
             "FAMILY_CREATE"
         ],
-        "score": "4.3",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -2533,7 +2533,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.1",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -2577,7 +2577,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2619,7 +2619,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -2669,7 +2669,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9883,
+        "reviews": 9890,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2746,7 +2746,7 @@
             "EDUCATION",
             "FAMILY_CREATE"
         ],
-        "score": "3.9",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -2790,7 +2790,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -2876,7 +2876,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.2",
+        "score": "3.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2884,7 +2884,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7020,
+        "reviews": 7023,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2920,7 +2920,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.3",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -2928,7 +2928,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 56883,
+        "reviews": 56886,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2972,7 +2972,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8065,
+        "reviews": 8068,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3009,7 +3009,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -3056,7 +3056,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.3",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -3098,7 +3098,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.7",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -3150,7 +3150,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3346,
+        "reviews": 3350,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3184,7 +3184,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3192,7 +3192,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 137606,
+        "reviews": 137622,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3226,7 +3226,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.2",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3357,7 +3357,7 @@
             "EDUCATION",
             "FAMILY_BRAINGAMES"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -3365,7 +3365,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7240,
+        "reviews": 7242,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3485,7 +3485,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3493,7 +3493,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 193674,
+        "reviews": 193675,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3529,7 +3529,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3537,7 +3537,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7102,
+        "reviews": 7104,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3571,7 +3571,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.2",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -3579,7 +3579,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 19007,
+        "reviews": 19008,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3623,7 +3623,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 15128,
+        "reviews": 15204,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3657,7 +3657,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3699,7 +3699,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -3707,7 +3707,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 13839,
+        "reviews": 13840,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3743,7 +3743,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3751,7 +3751,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5707,
+        "reviews": 5713,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3785,7 +3785,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.2",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3793,7 +3793,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 424,
+        "reviews": 425,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3827,7 +3827,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -3873,7 +3873,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -3881,7 +3881,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 59515,
+        "reviews": 59517,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3919,7 +3919,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -3962,7 +3962,7 @@
             "EDUCATION",
             "FAMILY_CREATE"
         ],
-        "score": "4.2",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -3970,7 +3970,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2666,
+        "reviews": 2667,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4007,7 +4007,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.0",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -4136,7 +4136,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -4263,7 +4263,7 @@
             "EDUCATION",
             "FAMILY_EDUCATION"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -4305,7 +4305,7 @@
         "category": [
             "EDUCATION"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,

@@ -94,7 +94,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.1",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -102,7 +102,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 929,
+        "reviews": 975,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -138,7 +138,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.4",
+        "score": "2.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -146,7 +146,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 188402,
+        "reviews": 188408,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -522,7 +522,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.3",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -576,7 +576,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 71574,
+        "reviews": 71580,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -612,7 +612,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "4.0",
+        "score": "2.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -741,7 +741,7 @@
         "category": [
             "HOUSE_AND_HOME"
         ],
-        "score": "3.3",
+        "score": "3.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -774,52 +774,6 @@
         "developer_address": null,
         "app_id": "roid.spikesroid.tv_remote_for_lg",
         "url": "https://play.google.com/store/apps/details?id=roid.spikesroid.tv_remote_for_lg&hl=en&gl=in"
-    },
-    {
-        "title": "SURE - Smart Home and TV Universal Remote",
-        "icon": "https://lh3.googleusercontent.com/j727R0B7APcDJBdL4AHFidqvceiOxK5gYh3RucIxFAVkqrgwt3PKRGAbUdsP4Ft_KNI",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/rYAU3kZI5VE",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 222473,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "5734629456188755485",
-        "updated": "May 17, 2019",
-        "size": "56M",
-        "installs": "10,000,000+",
-        "current_version": "4.21.121.20190516",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Rated for 3+"
-        ],
-        "iap_range": [
-            "Digital Purchases"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "SURE Universal Ltd.",
-        "developer_email": "support@sureuniversal.com",
-        "developer_url": "https://www.sureuniversal.com/",
-        "developer_address": "SURE Universal LTD.\n12 Abba Hillel Street\nRamat Gan, 5250606, Israel",
-        "app_id": "com.tekoia.sure.activities",
-        "url": "https://play.google.com/store/apps/details?id=com.tekoia.sure.activities&hl=en&gl=in"
     },
     {
         "title": "\u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u0906\u0935\u093e\u0938 \u092f\u094b\u091c\u0928\u093e \u0928\u0908 \u0932\u093f\u0938\u094d\u091f \u091c\u0941\u0932\u093e\u0908 2019",
@@ -867,6 +821,52 @@
         "url": "https://play.google.com/store/apps/details?id=com.shashimitra8941.Aawas_yojna_list_2019&hl=en&gl=in"
     },
     {
+        "title": "SURE - Smart Home and TV Universal Remote",
+        "icon": "https://lh3.googleusercontent.com/j727R0B7APcDJBdL4AHFidqvceiOxK5gYh3RucIxFAVkqrgwt3PKRGAbUdsP4Ft_KNI",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/rYAU3kZI5VE",
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 222474,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5734629456188755485",
+        "updated": "May 17, 2019",
+        "size": "56M",
+        "installs": "10,000,000+",
+        "current_version": "4.21.121.20190516",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "SURE Universal Ltd.",
+        "developer_email": "support@sureuniversal.com",
+        "developer_url": "https://www.sureuniversal.com/",
+        "developer_address": "SURE Universal LTD.\n12 Abba Hillel Street\nRamat Gan, 5250606, Israel",
+        "app_id": "com.tekoia.sure.activities",
+        "url": "https://play.google.com/store/apps/details?id=com.tekoia.sure.activities&hl=en&gl=in"
+    },
+    {
         "title": "Alfred Home Security Camera",
         "icon": "https://lh3.googleusercontent.com/DRVzqtnMKH7ZttTNK58zqjya5s70rRPUiiGrw8lAPeCqk5cZlUfcsYKr6um3JH-oXJM",
         "screenshots": [],
@@ -882,7 +882,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 239247,
+        "reviews": 239263,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1140,7 +1140,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 376768,
+        "reviews": 376782,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1167,48 +1167,6 @@
         "developer_address": null,
         "app_id": "com.houzz.app",
         "url": "https://play.google.com/store/apps/details?id=com.houzz.app&hl=en&gl=in"
-    },
-    {
-        "title": "House and Office Interior Design Ideas",
-        "icon": "https://lh3.googleusercontent.com/aoc7-x6vDUKpBxRO5sT04QnubD01vjyFJrmDwHkWzksHXjstqkwlA9TLLBodd5NbFe0",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 785,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Sumit+Kataria",
-        "updated": "July 29, 2019",
-        "size": "Varies with device",
-        "installs": "50,000+",
-        "current_version": "1.3",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Rated for 3+"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Sumit Kataria",
-        "developer_email": "pec.sumit@gmail.com",
-        "developer_url": "http://sumitk.net",
-        "developer_address": null,
-        "app_id": "net.sumitk.interiordesign",
-        "url": "https://play.google.com/store/apps/details?id=net.sumitk.interiordesign&hl=en&gl=in"
     },
     {
         "title": "\u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u0906\u0935\u093e\u0938 \u092f\u094b\u091c\u0928\u093e \u0928\u0908 \u0932\u093f\u0938\u094d\u091f \u091c\u0941\u0932\u093e\u0908 2019 teekam",
@@ -1251,6 +1209,48 @@
         "developer_address": null,
         "app_id": "com.teek.awas.bill",
         "url": "https://play.google.com/store/apps/details?id=com.teek.awas.bill&hl=en&gl=in"
+    },
+    {
+        "title": "House and Office Interior Design Ideas",
+        "icon": "https://lh3.googleusercontent.com/aoc7-x6vDUKpBxRO5sT04QnubD01vjyFJrmDwHkWzksHXjstqkwlA9TLLBodd5NbFe0",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 788,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Sumit+Kataria",
+        "updated": "July 29, 2019",
+        "size": "Varies with device",
+        "installs": "50,000+",
+        "current_version": "1.3",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Sumit Kataria",
+        "developer_email": "pec.sumit@gmail.com",
+        "developer_url": "http://sumitk.net",
+        "developer_address": null,
+        "app_id": "net.sumitk.interiordesign",
+        "url": "https://play.google.com/store/apps/details?id=net.sumitk.interiordesign&hl=en&gl=in"
     },
     {
         "title": "PM Awas Yojna Kisan Samman Yojana List+BPL List",
@@ -1550,48 +1550,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.avas.awaas.ser&hl=en&gl=in"
     },
     {
-        "title": "Homestyler - Interior Design & Decorating Ideas",
-        "icon": "https://lh3.googleusercontent.com/3h9d_mo3zpy4LDhq2qUdb1Q5kzoDplffRjIbR4mBTG5yFeOJ_wQHwEn6XdUvNicI5Cs",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/_aD7R0Dg2_Y",
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.1",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 81523,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Homestyler+-+3D+Home+Decorating+Anywhere",
-        "updated": "July 12, 2019",
-        "size": "65M",
-        "installs": "5,000,000+",
-        "current_version": "4.0.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Rated for 3+"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Homestyler - 3D Home Decorating Anywhere",
-        "developer_email": "homestyler-support@service.alibaba.com",
-        "developer_url": "https://www.homestyler.com/mobile",
-        "developer_address": null,
-        "app_id": "com.autodesk.homestyler",
-        "url": "https://play.google.com/store/apps/details?id=com.autodesk.homestyler&hl=en&gl=in"
-    },
-    {
         "title": "3D Front Elevation Design",
         "icon": "https://lh3.googleusercontent.com/yqfn5yGrr939BVtPS16QtSpmI2CKGhh0ZcJ4-Zs_Htkhs41BWN0nxj3LLFFOQaEr7ijJ",
         "screenshots": [],
@@ -1632,6 +1590,48 @@
         "developer_address": null,
         "app_id": "fashionapps.com.homefrontelevationdesign",
         "url": "https://play.google.com/store/apps/details?id=fashionapps.com.homefrontelevationdesign&hl=en&gl=in"
+    },
+    {
+        "title": "Homestyler - Interior Design & Decorating Ideas",
+        "icon": "https://lh3.googleusercontent.com/3h9d_mo3zpy4LDhq2qUdb1Q5kzoDplffRjIbR4mBTG5yFeOJ_wQHwEn6XdUvNicI5Cs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/_aD7R0Dg2_Y",
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.1",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 81527,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Homestyler+-+3D+Home+Decorating+Anywhere",
+        "updated": "July 12, 2019",
+        "size": "65M",
+        "installs": "5,000,000+",
+        "current_version": "4.0.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Homestyler - 3D Home Decorating Anywhere",
+        "developer_email": "homestyler-support@service.alibaba.com",
+        "developer_url": "https://www.homestyler.com/mobile",
+        "developer_address": null,
+        "app_id": "com.autodesk.homestyler",
+        "url": "https://play.google.com/store/apps/details?id=com.autodesk.homestyler&hl=en&gl=in"
     },
     {
         "title": "Gas Subsidy Check Online: LPG Gas Booking app",
@@ -1692,7 +1692,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11933,
+        "reviews": 11932,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1891,48 +1891,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.RoomPaintingIdeas.Margod&hl=en&gl=in"
     },
     {
-        "title": "Home Paint Design",
-        "icon": "https://lh3.googleusercontent.com/MQswJ_lH6rx-PGEJnemBTbfh-nktTkhDt0EfN1ClVb84pO6MgOCuRjUkOjEiHgIbpQ",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 260,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "hannapp",
-        "updated": "January 1, 2018",
-        "size": "9.2M",
-        "installs": "100,000+",
-        "current_version": "1.0",
-        "required_android_version": "2.3 and up",
-        "content_rating": [
-            "Rated for 3+"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "hannapp",
-        "developer_email": "hannapertiwi121@gmail.com",
-        "developer_url": "https://docs.google.com/document/d/1R7F1xM406aamzu30bLuE_tGi0PM-ebuWddm1c_IvIW0/edit?usp=sharing",
-        "developer_address": null,
-        "app_id": "com.hannapp.homepaintideas",
-        "url": "https://play.google.com/store/apps/details?id=com.hannapp.homepaintideas&hl=en&gl=in"
-    },
-    {
         "title": "satbara utara : sat bara",
         "icon": "https://lh3.googleusercontent.com/C9y1t8UGyqOa-phLs0WtLTfwGPXLyrR6Ath1YUN32w_zKnJFcGli6cLiFrzh4CNuISY",
         "screenshots": [],
@@ -1973,6 +1931,48 @@
         "developer_address": null,
         "app_id": "com.maharashtra.satara.utara.sat.bara",
         "url": "https://play.google.com/store/apps/details?id=com.maharashtra.satara.utara.sat.bara&hl=en&gl=in"
+    },
+    {
+        "title": "Home Paint Design",
+        "icon": "https://lh3.googleusercontent.com/MQswJ_lH6rx-PGEJnemBTbfh-nktTkhDt0EfN1ClVb84pO6MgOCuRjUkOjEiHgIbpQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 260,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "hannapp",
+        "updated": "January 1, 2018",
+        "size": "9.2M",
+        "installs": "100,000+",
+        "current_version": "1.0",
+        "required_android_version": "2.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "hannapp",
+        "developer_email": "hannapertiwi121@gmail.com",
+        "developer_url": "https://docs.google.com/document/d/1R7F1xM406aamzu30bLuE_tGi0PM-ebuWddm1c_IvIW0/edit?usp=sharing",
+        "developer_address": null,
+        "app_id": "com.hannapp.homepaintideas",
+        "url": "https://play.google.com/store/apps/details?id=com.hannapp.homepaintideas&hl=en&gl=in"
     },
     {
         "title": "Gas Subsidy App",
@@ -2116,7 +2116,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 70301,
+        "reviews": 70305,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2269,6 +2269,51 @@
         "url": "https://play.google.com/store/apps/details?id=com.housejoy.consumer.activity&hl=en&gl=in"
     },
     {
+        "title": "Colive - Branded Serviced Homes",
+        "icon": "https://lh3.googleusercontent.com/tbUG6sd_tQYs_PxOjUlhTmI3nqqpdn_Hb1ObDV_0iGo-Y_8lIK1sKaklu0jVyZFQh8Y3",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2370,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Colive",
+        "updated": "August 12, 2019",
+        "size": "10M",
+        "installs": "50,000+",
+        "current_version": "2.8.5",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Colive",
+        "developer_email": "colive247homes@gmail.com",
+        "developer_url": "http://www.colive.com",
+        "developer_address": null,
+        "app_id": "com.colivecustomerapp.android",
+        "url": "https://play.google.com/store/apps/details?id=com.colivecustomerapp.android&hl=en&gl=in"
+    },
+    {
         "title": "Biizlo",
         "icon": "https://lh3.googleusercontent.com/MnTfHrrcRHQB8J6nntXpXTjBXK3lsrHV-B6_CSjPNxqxKT4TV3yBUbcRq0V3m3j5Jk4",
         "screenshots": [],
@@ -2355,51 +2400,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.supergas.order&hl=en&gl=in"
     },
     {
-        "title": "Colive - Branded Serviced Homes",
-        "icon": "https://lh3.googleusercontent.com/tbUG6sd_tQYs_PxOjUlhTmI3nqqpdn_Hb1ObDV_0iGo-Y_8lIK1sKaklu0jVyZFQh8Y3",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 2370,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Colive",
-        "updated": "August 12, 2019",
-        "size": "10M",
-        "installs": "50,000+",
-        "current_version": "2.8.5",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Rated for 12+",
-            "Parental Guidance Recommended"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Colive",
-        "developer_email": "colive247homes@gmail.com",
-        "developer_url": "http://www.colive.com",
-        "developer_address": null,
-        "app_id": "com.colivecustomerapp.android",
-        "url": "https://play.google.com/store/apps/details?id=com.colivecustomerapp.android&hl=en&gl=in"
-    },
-    {
         "title": "Home Design & Mansion Decorating Games Match 3",
         "icon": "https://lh3.googleusercontent.com/FMAeGMhE4g1ek3DkdK7pjBRPXrW20cOZUmkRo5BzrVWNmBzBPipNbeLF1GnxWocemS0",
         "screenshots": [],
@@ -2461,7 +2461,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 502,
+        "reviews": 503,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2490,6 +2490,53 @@
         "url": "https://play.google.com/store/apps/details?id=redbox.estate&hl=en&gl=in"
     },
     {
+        "title": "New Family House Builder Happy Family Simulator",
+        "icon": "https://lh3.googleusercontent.com/rHF3wMW-lexwexo_P3r0-7azV_ot8ONHJYaVeD-YIxAPtpNvjIgKcSS5u-wl_rvhhQ4",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "3.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1711,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5492798222698967139",
+        "updated": "June 20, 2018",
+        "size": "56M",
+        "installs": "100,000+",
+        "current_version": "1.1",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 7+",
+            "Implied Violence, Mild Violence"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "New Age Gamers",
+        "developer_email": "newage.freegames@gmail.com",
+        "developer_url": "http://www.nagamers.com",
+        "developer_address": "Canal Point Scheme, Lahore",
+        "app_id": "com.nag.family.house.builder.virtual.mother.games",
+        "url": "https://play.google.com/store/apps/details?id=com.nag.family.house.builder.virtual.mother.games&hl=en&gl=in"
+    },
+    {
         "title": "Room Creator Interior Design",
         "icon": "https://lh3.googleusercontent.com/uqK0gzN0F8LFxX02g0ttBpnh66VK3PpH6QbOas28uUWXD-1yPaRvAOwRViTHnchFZrc",
         "screenshots": [],
@@ -2505,7 +2552,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 73947,
+        "reviews": 73955,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2575,53 +2622,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.nerolac.colourmyspace&hl=en&gl=in"
     },
     {
-        "title": "New Family House Builder Happy Family Simulator",
-        "icon": "https://lh3.googleusercontent.com/rHF3wMW-lexwexo_P3r0-7azV_ot8ONHJYaVeD-YIxAPtpNvjIgKcSS5u-wl_rvhhQ4",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "3.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 1710,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "5492798222698967139",
-        "updated": "June 20, 2018",
-        "size": "56M",
-        "installs": "100,000+",
-        "current_version": "1.1",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Rated for 7+",
-            "Implied Violence, Mild Violence"
-        ],
-        "iap_range": [
-            "Digital Purchases"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "New Age Gamers",
-        "developer_email": "newage.freegames@gmail.com",
-        "developer_url": "http://www.nagamers.com",
-        "developer_address": "Canal Point Scheme, Lahore",
-        "app_id": "com.nag.family.house.builder.virtual.mother.games",
-        "url": "https://play.google.com/store/apps/details?id=com.nag.family.house.builder.virtual.mother.games&hl=en&gl=in"
-    },
-    {
         "title": "House for Rent",
         "icon": "https://lh3.googleusercontent.com/S_TOat1LJps5IeaIHV5IJFbhAmH0HJYvA5hXk4ClKpbKkW3mbaDAe05pUmdbTVjR4A",
         "screenshots": [],
@@ -2637,7 +2637,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 498,
+        "reviews": 500,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2733,10 +2733,10 @@
         "free": true,
         "iap": false,
         "developer_id": "EasyDIY",
-        "updated": "August 7, 2019",
-        "size": "3.6M",
+        "updated": "August 20, 2019",
+        "size": "4.4M",
         "installs": "10,000+",
-        "current_version": "1.1",
+        "current_version": "1.2",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Rated for 3+"
@@ -2968,48 +2968,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.geofstargraphics.nobroker&hl=en&gl=in"
     },
     {
-        "title": "BPL Ration Card Bhulekh, PMAY Awas Yojna List 2019",
-        "icon": "https://lh3.googleusercontent.com/6jbhS69d9RG4J0nproWXTRvdJBhplzD5Yr9AbvVVxEOStoYacpwzxIqPh_3zWRwjnA",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 11,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Total+In+One",
-        "updated": "August 13, 2019",
-        "size": "5.1M",
-        "installs": "1,000+",
-        "current_version": "5.0",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Rated for 3+"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Total In One",
-        "developer_email": "totalappsllc@gmail.com",
-        "developer_url": "https://all-inoneapps.blogspot.com/p/privacy-policy.html",
-        "developer_address": null,
-        "app_id": "com.total.pmawasnew.suchi.apps",
-        "url": "https://play.google.com/store/apps/details?id=com.total.pmawasnew.suchi.apps&hl=en&gl=in"
-    },
-    {
         "title": "Check EBill",
         "icon": "https://lh3.googleusercontent.com/l6oBXOB4QUi1ieKK_Uc6KgY8zQhViJ65X_9f8L8kI1Yx7VnjtOki72IxUUP_-z7A_tSl",
         "screenshots": [],
@@ -3094,6 +3052,48 @@
         "url": "https://play.google.com/store/apps/details?id=com.wasticker.rtovehicleownerdetails&hl=en&gl=in"
     },
     {
+        "title": "BPL Ration Card Bhulekh, PMAY Awas Yojna List 2019",
+        "icon": "https://lh3.googleusercontent.com/6jbhS69d9RG4J0nproWXTRvdJBhplzD5Yr9AbvVVxEOStoYacpwzxIqPh_3zWRwjnA",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 11,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Total+In+One",
+        "updated": "August 13, 2019",
+        "size": "5.1M",
+        "installs": "1,000+",
+        "current_version": "5.0",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Total In One",
+        "developer_email": "totalappsllc@gmail.com",
+        "developer_url": "https://all-inoneapps.blogspot.com/p/privacy-policy.html",
+        "developer_address": null,
+        "app_id": "com.total.pmawasnew.suchi.apps",
+        "url": "https://play.google.com/store/apps/details?id=com.total.pmawasnew.suchi.apps&hl=en&gl=in"
+    },
+    {
         "title": "TV Remote for Samsung",
         "icon": "https://lh3.googleusercontent.com/HNvGbVRkvtQbnNKy_wTaPzEaQy06MnJIcpAcZXulBgf0tzkIEH6K0ChrOdKxS1tW6w",
         "screenshots": [],
@@ -3134,6 +3134,48 @@
         "developer_address": null,
         "app_id": "com.remotelife.samsungtv.samsungremote",
         "url": "https://play.google.com/store/apps/details?id=com.remotelife.samsungtv.samsungremote&hl=en&gl=in"
+    },
+    {
+        "title": "Kitchen Design Gallery",
+        "icon": "https://lh3.googleusercontent.com/LhfTATnjDaxlYdT7gji_KnPCgbDOJTcWeFoEMcPh19vjBxyhVQ0DHKWE7Svu6A5SabU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "HOUSE_AND_HOME"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 169,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6647328283761745360",
+        "updated": "February 26, 2019",
+        "size": "13M",
+        "installs": "100,000+",
+        "current_version": "1.2",
+        "required_android_version": "4.0 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "White Clouds",
+        "developer_email": "whitecloudstechnologies@gmail.com",
+        "developer_url": "http://whitecloudstech.com/",
+        "developer_address": "India",
+        "app_id": "com.whiteclouds.kitchendesigngallery",
+        "url": "https://play.google.com/store/apps/details?id=com.whiteclouds.kitchendesigngallery&hl=en&gl=in"
     },
     {
         "title": "LPG Gas Subsidy Check - Gas Subsidy App 2019",
@@ -3220,48 +3262,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.homeonline.web.app.homeonline&hl=en&gl=in"
     },
     {
-        "title": "Kitchen Design Gallery",
-        "icon": "https://lh3.googleusercontent.com/LhfTATnjDaxlYdT7gji_KnPCgbDOJTcWeFoEMcPh19vjBxyhVQ0DHKWE7Svu6A5SabU",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "HOUSE_AND_HOME"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 169,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "6647328283761745360",
-        "updated": "February 26, 2019",
-        "size": "13M",
-        "installs": "100,000+",
-        "current_version": "1.2",
-        "required_android_version": "4.0 and up",
-        "content_rating": [
-            "Rated for 3+"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "White Clouds",
-        "developer_email": "whitecloudstechnologies@gmail.com",
-        "developer_url": "http://whitecloudstech.com/",
-        "developer_address": "India",
-        "app_id": "com.whiteclouds.kitchendesigngallery",
-        "url": "https://play.google.com/store/apps/details?id=com.whiteclouds.kitchendesigngallery&hl=en&gl=in"
-    },
-    {
         "title": "small house plan",
         "icon": "https://lh3.googleusercontent.com/rMpRFwVjLq7Zhw3pqWrfj793I15PJsciQtq_40ldT9e9HeFrAhaDimz18dtRzz7GPiE",
         "screenshots": [],
@@ -3319,7 +3319,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 201182,
+        "reviews": 201217,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3361,7 +3361,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 21771,
+        "reviews": 21773,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3370,7 +3370,7 @@
         "free": true,
         "iap": false,
         "developer_id": "7629752934671147631",
-        "updated": "August 19, 2019",
+        "updated": "August 20, 2019",
         "size": "Varies with device",
         "installs": "1,000,000+",
         "current_version": "Varies with device",
@@ -3673,9 +3673,11 @@
             "Rated for 3+"
         ],
         "iap_range": [
-            "Rated for 3+"
+            "Users Interact, In-App Purchases"
         ],
-        "interactive_elements": null,
+        "interactive_elements": [
+            "Users Interact, In-App Purchases"
+        ],
         "developer": "Geny Studio",
         "developer_email": "seecitvapp@gmail.com",
         "developer_url": "http://www.bluegeny.com/web/privacy_policy.html",
@@ -3744,7 +3746,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 677,
+        "reviews": 681,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3755,7 +3757,7 @@
         "developer_id": "Create+Enjoyful+Game",
         "updated": "December 28, 2018",
         "size": "21M",
-        "installs": "50,000+",
+        "installs": "100,000+",
         "current_version": "1.0",
         "required_android_version": "4.0.3 and up",
         "content_rating": [
@@ -3998,7 +4000,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9908,
+        "reviews": 9909,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4261,7 +4263,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 293,
+        "reviews": 294,
         "description": null,
         "description_html": null,
         "recent_changes": null,

@@ -5,7 +5,6 @@ Created a seperate file for better readability.
 """
 
 CATEGORIES = {
-    "ANDROID_WEAR": "ANDROID_WEAR",
     "ART_AND_DESIGN": "ART_AND_DESIGN",
     "AUTO_AND_VEHICLES": "AUTO_AND_VEHICLES",
     "BEAUTY": "BEAUTY",

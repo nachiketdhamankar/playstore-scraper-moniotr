@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 666342,
+        "reviews": 666336,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -44,14 +44,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en&gl=us"
     },
     {
-        "title": "Pandora - Streaming Music, Radio & Podcasts",
-        "icon": "https://lh3.googleusercontent.com/MoJxQ-5RA73b3Wffj91crqXUb-C5LKRYCADm11KbfykIkmNbicXGDa3g9X62C_buEg",
+        "title": "Spotify: Discover new music, podcasts, and songs",
+        "icon": "https://lh3.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
         "screenshots": [],
-        "video": "https://www.youtube.com/embed/8Dst4ltg_AA",
+        "video": null,
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.3",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -59,7 +59,51 @@
             "2": null,
             "1": null
         },
-        "reviews": 3092986,
+        "reviews": 16033179,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Spotify+Ltd.",
+        "updated": "August 13, 2019",
+        "size": "Varies with device",
+        "installs": "500,000,000+",
+        "current_version": "8.5.18.932",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact, Shares Info"
+        ],
+        "developer": "Spotify Ltd.",
+        "developer_email": "android-support@spotify.com",
+        "developer_url": "https://www.spotify.com",
+        "developer_address": "Spotify Ltd\nc/o Goodwille Ltd\nSt James House\n13 Kensington Square\nLondon W8 5HD\nGreat Britain",
+        "app_id": "com.spotify.music",
+        "url": "https://play.google.com/store/apps/details?id=com.spotify.music&hl=en&gl=us"
+    },
+    {
+        "title": "Pandora - Streaming Music, Radio & Podcasts",
+        "icon": "https://lh3.googleusercontent.com/MoJxQ-5RA73b3Wffj91crqXUb-C5LKRYCADm11KbfykIkmNbicXGDa3g9X62C_buEg",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/8Dst4ltg_AA",
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 3093048,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -91,50 +135,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.pandora.android&hl=en&gl=us"
     },
     {
-        "title": "Spotify: Discover new music, podcasts, and songs",
-        "icon": "https://lh3.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 16033201,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Spotify+Ltd.",
-        "updated": "August 13, 2019",
-        "size": "Varies with device",
-        "installs": "500,000,000+",
-        "current_version": "8.5.18.932",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Teen"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact, Shares Info"
-        ],
-        "developer": "Spotify Ltd.",
-        "developer_email": "android-support@spotify.com",
-        "developer_url": "https://www.spotify.com",
-        "developer_address": "Spotify Ltd\nc/o Goodwille Ltd\nSt James House\n13 Kensington Square\nLondon W8 5HD\nGreat Britain",
-        "app_id": "com.spotify.music",
-        "url": "https://play.google.com/store/apps/details?id=com.spotify.music&hl=en&gl=us"
-    },
-    {
         "title": "Drum Pad Machine - Beat Maker",
         "icon": "https://lh3.googleusercontent.com/2Z6BfzwC4GfccM17VX_2E1_OlI-PHJGxk24gAJE-kbfw4Fg-VypA6PCF4sAv0vLbySt7",
         "screenshots": [],
@@ -150,7 +150,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 386616,
+        "reviews": 387195,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -189,7 +189,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -197,7 +197,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4138142,
+        "reviews": 4138591,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -241,7 +241,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2044330,
+        "reviews": 2044329,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -288,7 +288,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3702084,
+        "reviews": 3702227,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -327,7 +327,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.3",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -335,7 +335,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1359903,
+        "reviews": 1360253,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -371,7 +371,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "3.6",
+        "score": "3.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -379,7 +379,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 88344,
+        "reviews": 88372,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -421,7 +421,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 36702,
+        "reviews": 36869,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -464,7 +464,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 98432,
+        "reviews": 99000,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -511,7 +511,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3543132,
+        "reviews": 3543696,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -596,7 +596,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 305928,
+        "reviews": 305946,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -640,7 +640,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 363185,
+        "reviews": 363345,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -678,7 +678,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -686,7 +686,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 218323,
+        "reviews": 218389,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -720,7 +720,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "3.7",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -728,7 +728,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 733698,
+        "reviews": 733816,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -765,7 +765,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -773,7 +773,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 175406,
+        "reviews": 175451,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -816,7 +816,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 435452,
+        "reviews": 435665,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -850,7 +850,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -905,7 +905,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 121330,
+        "reviews": 121484,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -939,7 +939,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.1",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -947,7 +947,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 152530,
+        "reviews": 152580,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -991,7 +991,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 264875,
+        "reviews": 264933,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1036,7 +1036,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 301721,
+        "reviews": 301760,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1045,7 +1045,7 @@
         "free": true,
         "iap": true,
         "developer_id": "5322927662824790872",
-        "updated": "August 19, 2019",
+        "updated": "August 20, 2019",
         "size": "Varies with device",
         "installs": "10,000,000+",
         "current_version": "Varies with device",
@@ -1080,7 +1080,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 165783,
+        "reviews": 166030,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1115,7 +1115,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.3",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1123,7 +1123,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 267265,
+        "reviews": 267337,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1161,7 +1161,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -1169,7 +1169,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 83174,
+        "reviews": 83218,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1201,48 +1201,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.mmm.trebelmusic&hl=en&gl=us"
     },
     {
-        "title": "Music Equalizer-Bass Booster&Volume Up",
-        "icon": "https://lh3.googleusercontent.com/Gvoww-KpgKglnCnk9gpomFiUwhded7DNxHU9QgtPL5ifXvYamKPDx8hqc3oB2QT8gQ",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.1",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 5038,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Music+Forya",
-        "updated": "August 20, 2019",
-        "size": "4.5M",
-        "installs": "1,000,000+",
-        "current_version": "1.0.33",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Music Forya",
-        "developer_email": "talentedrussel20@gmail.com",
-        "developer_url": "http://goodequalizer.co/",
-        "developer_address": null,
-        "app_id": "music.equalizer.bass.volume.booster",
-        "url": "https://play.google.com/store/apps/details?id=music.equalizer.bass.volume.booster&hl=en&gl=us"
-    },
-    {
         "title": "Stitcher - Podcasts & Radio - News, Comedy, & More",
         "icon": "https://lh3.googleusercontent.com/2wd59_1csnF1lIt6wG5DdBiDUFEeov1jIW9ax0scfwvDk_OUsK7-6LZ86I8MAsVCuhM",
         "screenshots": [],
@@ -1250,7 +1208,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "3.8",
+        "score": "3.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -1258,7 +1216,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 43939,
+        "reviews": 43942,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1288,14 +1246,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.stitcher.app&hl=en&gl=us"
     },
     {
-        "title": "Free Music | Unlimited Free Music | Download Free!",
-        "icon": "https://lh3.googleusercontent.com/Meb2qiV57tTvrkR0b8hdnp8b9Vgk-x92j73uL1O03m_S5wd9ukJjXmGttk6Yk4wDND8",
+        "title": "Music Equalizer-Bass Booster&Volume Up",
+        "icon": "https://lh3.googleusercontent.com/Gvoww-KpgKglnCnk9gpomFiUwhded7DNxHU9QgtPL5ifXvYamKPDx8hqc3oB2QT8gQ",
         "screenshots": [],
         "video": null,
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1303,7 +1261,49 @@
             "2": null,
             "1": null
         },
-        "reviews": 12224,
+        "reviews": 5039,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Music+Forya",
+        "updated": "August 20, 2019",
+        "size": "4.5M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.33",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Music Forya",
+        "developer_email": "talentedrussel20@gmail.com",
+        "developer_url": "http://goodequalizer.co/",
+        "developer_address": null,
+        "app_id": "music.equalizer.bass.volume.booster",
+        "url": "https://play.google.com/store/apps/details?id=music.equalizer.bass.volume.booster&hl=en&gl=us"
+    },
+    {
+        "title": "Free Music | Unlimited Free Music | Download Free!",
+        "icon": "https://lh3.googleusercontent.com/Meb2qiV57tTvrkR0b8hdnp8b9Vgk-x92j73uL1O03m_S5wd9ukJjXmGttk6Yk4wDND8",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 12225,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1348,7 +1348,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 52129,
+        "reviews": 52141,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1392,7 +1392,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 14672,
+        "reviews": 14685,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1421,6 +1421,53 @@
         "developer_address": null,
         "app_id": "free.music.tube.player",
         "url": "https://play.google.com/store/apps/details?id=free.music.tube.player&hl=en&gl=us"
+    },
+    {
+        "title": "Simply Piano by JoyTunes",
+        "icon": "https://lh3.googleusercontent.com/hyG2B4onvElfZLxUZqulFgFTAKExPwR81FVODNx4SUGmMf_IYzUWUKjtNym9TOFyKLdi",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/vml-7u3UUS0",
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 181363,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "9173704920238080377",
+        "updated": "August 13, 2019",
+        "size": "103M",
+        "installs": "10,000,000+",
+        "current_version": "4.0.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$11.99",
+            "$119.99"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "JoyTunes",
+        "developer_email": "support@joytunes.com",
+        "developer_url": "https://www.joytunes.com",
+        "developer_address": "43 Hanatsiv st.\nTel Aviv\nIsrael, 6701519",
+        "app_id": "com.joytunes.simplypiano",
+        "url": "https://play.google.com/store/apps/details?id=com.joytunes.simplypiano&hl=en&gl=us"
     },
     {
         "title": "Free Ringtones 2019 & Ringtones For Android",
@@ -1472,7 +1519,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.5",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1519,7 +1566,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -1527,7 +1574,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 20047,
+        "reviews": 20150,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1555,6 +1602,48 @@
         "url": "https://play.google.com/store/apps/details?id=com.musicworld.app.mp3downloader&hl=en&gl=us"
     },
     {
+        "title": "Radio FM",
+        "icon": "https://lh3.googleusercontent.com/kBXRW_lN133DN1x0L7vLFhqHPwBPB2vJMnOPNbs7ygldRNadPI9D89xgaDqz-arbhnW2",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/LfsVB9bPPGc",
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 543136,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "RadioFM",
+        "updated": "August 13, 2019",
+        "size": "17M",
+        "installs": "50,000,000+",
+        "current_version": "12.6.3.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "RadioFM",
+        "developer_email": "support@appRadioFM.com",
+        "developer_url": "http://appRadioFM.com",
+        "developer_address": "870 N. Miramar Avenue\n32903\nIndialantic\nFlorida\nUnited States",
+        "app_id": "com.radio.fmradio",
+        "url": "https://play.google.com/store/apps/details?id=com.radio.fmradio&hl=en&gl=us"
+    },
+    {
         "title": "BandLab \u2013 Music Studio & Social Network",
         "icon": "https://lh3.googleusercontent.com/4WkVnBpAIvflzOK3awMTHZ3thPRcjXiiseqyXP1gSFpEhxqHrTakfRzmEANJXG1vSCv4",
         "screenshots": [],
@@ -1562,7 +1651,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1606,7 +1695,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1614,7 +1703,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4086881,
+        "reviews": 4087352,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1641,53 +1730,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.google.android.music&hl=en&gl=us"
     },
     {
-        "title": "Simply Piano by JoyTunes",
-        "icon": "https://lh3.googleusercontent.com/hyG2B4onvElfZLxUZqulFgFTAKExPwR81FVODNx4SUGmMf_IYzUWUKjtNym9TOFyKLdi",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/vml-7u3UUS0",
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 181195,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": true,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "9173704920238080377",
-        "updated": "August 13, 2019",
-        "size": "103M",
-        "installs": "10,000,000+",
-        "current_version": "4.0.1",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$11.99",
-            "$119.99"
-        ],
-        "interactive_elements": [
-            "Digital Purchases"
-        ],
-        "developer": "JoyTunes",
-        "developer_email": "support@joytunes.com",
-        "developer_url": "https://www.joytunes.com",
-        "developer_address": "43 Hanatsiv st.\nTel Aviv\nIsrael, 6701519",
-        "app_id": "com.joytunes.simplypiano",
-        "url": "https://play.google.com/store/apps/details?id=com.joytunes.simplypiano&hl=en&gl=us"
-    },
-    {
         "title": "Deezer Music Player: Songs, Playlists & Podcasts",
         "icon": "https://lh3.googleusercontent.com/KGlr2wcEj87My4PmLhx_reV03aOspugauRIsNk5W7Th1lClONorCUkAC5_anSvKVpqs",
         "screenshots": [],
@@ -1703,7 +1745,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1765611,
+        "reviews": 1766542,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1733,48 +1775,6 @@
         "url": "https://play.google.com/store/apps/details?id=deezer.android.app&hl=en&gl=us"
     },
     {
-        "title": "Radio FM",
-        "icon": "https://lh3.googleusercontent.com/kBXRW_lN133DN1x0L7vLFhqHPwBPB2vJMnOPNbs7ygldRNadPI9D89xgaDqz-arbhnW2",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/LfsVB9bPPGc",
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 543136,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "RadioFM",
-        "updated": "August 13, 2019",
-        "size": "17M",
-        "installs": "50,000,000+",
-        "current_version": "12.6.3.2",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Teen"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "RadioFM",
-        "developer_email": "support@appRadioFM.com",
-        "developer_url": "http://appRadioFM.com",
-        "developer_address": "870 N. Miramar Avenue\n32903\nIndialantic\nFlorida\nUnited States",
-        "app_id": "com.radio.fmradio",
-        "url": "https://play.google.com/store/apps/details?id=com.radio.fmradio&hl=en&gl=us"
-    },
-    {
         "title": "Live Nation At The Concert",
         "icon": "https://lh3.googleusercontent.com/Qqc_3tMeY2VnFKdxkqSIveKilg78GnrCRkoIlTqa5AxmTr-s70fEyYq0pbAf6_D69lQ",
         "screenshots": [],
@@ -1782,7 +1782,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "3.9",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1790,7 +1790,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11623,
+        "reviews": 11634,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1824,7 +1824,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1832,7 +1832,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 112168,
+        "reviews": 112188,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1866,7 +1866,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1874,7 +1874,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 115748,
+        "reviews": 115745,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1911,7 +1911,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "3.5",
+        "score": "3.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1919,7 +1919,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 26139,
+        "reviews": 26143,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1955,7 +1955,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -1963,7 +1963,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 43742,
+        "reviews": 44321,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1998,7 +1998,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -2045,7 +2045,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.2",
+        "score": "3.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2053,7 +2053,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 38846,
+        "reviews": 38848,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2089,7 +2089,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "3.5",
+        "score": "3.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -2097,7 +2097,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1821,
+        "reviews": 1828,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2106,10 +2106,10 @@
         "free": true,
         "iap": false,
         "developer_id": "wonder.miracle",
-        "updated": "August 17, 2019",
-        "size": "3.8M",
+        "updated": "August 20, 2019",
+        "size": "8.4M",
         "installs": "500,000+",
-        "current_version": "1.1.4",
+        "current_version": "1.1.5",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
@@ -2131,7 +2131,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.8",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -2139,7 +2139,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 250771,
+        "reviews": 250838,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2173,7 +2173,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.7",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2215,7 +2215,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2223,7 +2223,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 722715,
+        "reviews": 722724,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2263,7 +2263,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.7",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2271,7 +2271,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5426,
+        "reviews": 5526,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2298,6 +2298,48 @@
         "url": "https://play.google.com/store/apps/details?id=music.amplifier.volume.booster.equalizer&hl=en&gl=us"
     },
     {
+        "title": "Equalizer Pro & Bass Booster",
+        "icon": "https://lh3.googleusercontent.com/nAlSM6DdF4J8QOG4FopKS55ovfZ7iqYsWNDAO-2mSX0PncdFtLDPvDxBQR3dsJT1eQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 29099,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Tango+Beats",
+        "updated": "August 17, 2019",
+        "size": "4.0M",
+        "installs": "1,000,000+",
+        "current_version": "1.0.19",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Tango Beats",
+        "developer_email": "Xiaoyy1006@gmail.com",
+        "developer_url": "http://greatvoice.me",
+        "developer_address": null,
+        "app_id": "com.music.bass.equalizer.volume.booster.pro",
+        "url": "https://play.google.com/store/apps/details?id=com.music.bass.equalizer.volume.booster.pro&hl=en&gl=us"
+    },
+    {
         "title": "Anchor - Make your own podcast",
         "icon": "https://lh3.googleusercontent.com/S4ZSH3wGIczZQwKK_WEOOaRZFlXGY1bWf9oT4vBg_uq1O4JVXvgcUjENS7yTdj5GYYKx",
         "screenshots": [],
@@ -2305,7 +2347,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2357,7 +2399,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6339,
+        "reviews": 6418,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2385,48 +2427,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.mp3downloader.downloadmusic.musicdownloadall&hl=en&gl=us"
     },
     {
-        "title": "Equalizer Pro & Bass Booster",
-        "icon": "https://lh3.googleusercontent.com/nAlSM6DdF4J8QOG4FopKS55ovfZ7iqYsWNDAO-2mSX0PncdFtLDPvDxBQR3dsJT1eQ",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 29083,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Tango+Beats",
-        "updated": "August 17, 2019",
-        "size": "4.0M",
-        "installs": "1,000,000+",
-        "current_version": "1.0.19",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Tango Beats",
-        "developer_email": "Xiaoyy1006@gmail.com",
-        "developer_url": "http://greatvoice.me",
-        "developer_address": null,
-        "app_id": "com.music.bass.equalizer.volume.booster.pro",
-        "url": "https://play.google.com/store/apps/details?id=com.music.bass.equalizer.volume.booster.pro&hl=en&gl=us"
-    },
-    {
         "title": "Music Old Town Road - OFFLINE",
         "icon": "https://lh3.googleusercontent.com/Cwehw1JlqQ5uF5Yz2d-VW4iCLV7SBNPPoc0lQLj83Hwy9wV6SarsbxM9lXh66aqB-w",
         "screenshots": [],
@@ -2434,7 +2434,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.3",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -2476,7 +2476,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2484,7 +2484,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8470,
+        "reviews": 8477,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2518,7 +2518,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.1",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -2526,7 +2526,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1002571,
+        "reviews": 1004175,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2565,7 +2565,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -2573,7 +2573,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 363730,
+        "reviews": 363742,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2620,7 +2620,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5021,
+        "reviews": 5029,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2655,7 +2655,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.2",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -2663,7 +2663,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 877363,
+        "reviews": 877374,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2710,7 +2710,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 119210,
+        "reviews": 119261,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2744,7 +2744,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -2752,7 +2752,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 20818,
+        "reviews": 20824,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2795,7 +2795,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 112971,
+        "reviews": 112987,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2835,7 +2835,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -2843,7 +2843,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 43059,
+        "reviews": 43127,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2870,6 +2870,49 @@
         "url": "https://play.google.com/store/apps/details?id=raigon.musicmood&hl=en&gl=us"
     },
     {
+        "title": "Free Mp3 Music - Download Mp3 Music Free",
+        "icon": "https://lh3.googleusercontent.com/eXjMye1DiHUif_ExF2dMmop7FFDxwl3IjLG98Pj7W4a3Yo_bMoIsY18X0t6gSpaMc8Y",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1790,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Free+Music+Download+-+Free+Mp3+Downloader",
+        "updated": "August 9, 2019",
+        "size": "6.2M",
+        "installs": "50,000+",
+        "current_version": "1.8",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Teen",
+            "Diverse Content: Discretion Advised"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Free Music Download - Free Mp3 Downloader",
+        "developer_email": "support382155760@freemp3.cloud",
+        "developer_url": "http://bit.ly/2JbT8w7",
+        "developer_address": null,
+        "app_id": "com.music.freemp3.musicdownloader",
+        "url": "https://play.google.com/store/apps/details?id=com.music.freemp3.musicdownloader&hl=en&gl=us"
+    },
+    {
         "title": "Music Maker JAM",
         "icon": "https://lh3.googleusercontent.com/IsAk4XMDcx8tjQYiEVx_ZNVVFaQ5CADLIi6d-Zu-Ny3RQ9XCYh7tVThxsG_jBt6y_rk",
         "screenshots": [],
@@ -2885,7 +2928,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 623159,
+        "reviews": 623232,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2915,273 +2958,6 @@
         "developer_address": "JAM Just Add Music GmbH\nQuedlinburger Strasse 1\n10589 Berlin\nGermany",
         "app_id": "com.magix.android.mmjam",
         "url": "https://play.google.com/store/apps/details?id=com.magix.android.mmjam&hl=en&gl=us"
-    },
-    {
-        "title": "Free Mp3 Music - Download Mp3 Music Free",
-        "icon": "https://lh3.googleusercontent.com/eXjMye1DiHUif_ExF2dMmop7FFDxwl3IjLG98Pj7W4a3Yo_bMoIsY18X0t6gSpaMc8Y",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 1787,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Free+Music+Download+-+Free+Mp3+Downloader",
-        "updated": "August 9, 2019",
-        "size": "6.2M",
-        "installs": "50,000+",
-        "current_version": "1.8",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Teen",
-            "Diverse Content: Discretion Advised"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Free Music Download - Free Mp3 Downloader",
-        "developer_email": "support382155760@freemp3.cloud",
-        "developer_url": "http://bit.ly/2JbT8w7",
-        "developer_address": null,
-        "app_id": "com.music.freemp3.musicdownloader",
-        "url": "https://play.google.com/store/apps/details?id=com.music.freemp3.musicdownloader&hl=en&gl=us"
-    },
-    {
-        "title": "Lark Player \u2014\u2014 YouTube Music & Free MP3 Top Player",
-        "icon": "https://lh3.googleusercontent.com/917fyHBKHOg-ctjjuau-syg-fAbuiphHiJNfPZXC8yOyzPjhal-tZn_zp7S3kWh-sg",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 1017475,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Mobiuspace+Tech+Top+Player",
-        "updated": "August 20, 2019",
-        "size": "Varies with device",
-        "installs": "50,000,000+",
-        "current_version": "3.3.2",
-        "required_android_version": "4.2 and up",
-        "content_rating": [
-            "Teen"
-        ],
-        "iap_range": [
-            "Teen"
-        ],
-        "interactive_elements": null,
-        "developer": "Mobiuspace Tech Top Player",
-        "developer_email": "larkplayer@dayuwuxian.com",
-        "developer_url": "https://www.larkplayerapp.com/",
-        "developer_address": "Hongkong",
-        "app_id": "com.dywx.larkplayer",
-        "url": "https://play.google.com/store/apps/details?id=com.dywx.larkplayer&hl=en&gl=us"
-    },
-    {
-        "title": "SoundHound - Music Discovery & Lyrics",
-        "icon": "https://lh3.googleusercontent.com/vP16KvobcKnN0Akhub1TOojnevKKAJyU4eAmYO_Ut8m4jywPi-2tQhRRgJukVXxqbcQd",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 785440,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "SoundHound+Inc.",
-        "updated": "August 16, 2019",
-        "size": "Varies with device",
-        "installs": "100,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Teen"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "SoundHound Inc.",
-        "developer_email": "help@soundhound.com",
-        "developer_url": "https://soundhound.com/soundhound",
-        "developer_address": "SoundHound Inc.\n5400 Betsy Ross Drive\nSanta Clara, CA 95054",
-        "app_id": "com.melodis.midomiMusicIdentifier.freemium",
-        "url": "https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium&hl=en&gl=us"
-    },
-    {
-        "title": "Bandsintown Concerts",
-        "icon": "https://lh3.googleusercontent.com/d4HyvRGWXKvEOc7HAROImJdf_OSs3lQsYbtE1P5T__znXk5nBOxrtGiNzYwaj9Ca_Ow0",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/KOtJ5z0TiGs",
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 232316,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": true,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Bandsintown",
-        "updated": "August 5, 2019",
-        "size": "17M",
-        "installs": "5,000,000+",
-        "current_version": "7.0.2",
-        "required_android_version": "4.1 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Bandsintown",
-        "developer_email": "support_android@bandsintown.com",
-        "developer_url": "https://www.bandsintown.com",
-        "developer_address": "215 Lexington Avenue, 18th floor New York, NY 10016",
-        "app_id": "com.bandsintown",
-        "url": "https://play.google.com/store/apps/details?id=com.bandsintown&hl=en&gl=us"
-    },
-    {
-        "title": "Tuner & Metronome",
-        "icon": "https://lh3.googleusercontent.com/XekhlkdwcW-_RXJu8XrYQbYXAW9dV10nHjf8c2vzfCX8jSqxKK4iUd3iTD7qoFo4NQ",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 78200,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "Soundcorset",
-        "updated": "August 20, 2019",
-        "size": "Varies with device",
-        "installs": "10,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$0.99",
-            "$39.99"
-        ],
-        "interactive_elements": [
-            "Users Interact, Digital Purchases"
-        ],
-        "developer": "Soundcorset",
-        "developer_email": "support@soundcorset.com",
-        "developer_url": "https://www.soundcorset.com",
-        "developer_address": "104-1004, Gyeonginro 661, Guro-gu, Seoul, South Korea",
-        "app_id": "com.soundcorset.client.android",
-        "url": "https://play.google.com/store/apps/details?id=com.soundcorset.client.android&hl=en&gl=us"
-    },
-    {
-        "title": "AmpMe - Speaker Booster",
-        "icon": "https://lh3.googleusercontent.com/_7ter8D8r-_fbB6id5-XlVEvSwvjlioPTKozEW59fNKZcepKHfnsQlpUcxus0XN1uA",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/EloPWeHWkHo",
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 91747,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "AmpMe+Inc",
-        "updated": "May 10, 2019",
-        "size": "24M",
-        "installs": "10,000,000+",
-        "current_version": "7.18.1",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$0.99",
-            "$99.99"
-        ],
-        "interactive_elements": [
-            "Users Interact, Digital Purchases"
-        ],
-        "developer": "AmpMe Inc",
-        "developer_email": "support@ampme.com",
-        "developer_url": "http://ampme.com",
-        "developer_address": "4 Place Ville Marie #505, Montreal, Quebec, Canada, H3B 2E7",
-        "app_id": "com.amp.android",
-        "url": "https://play.google.com/store/apps/details?id=com.amp.android&hl=en&gl=us"
     },
     {
         "title": "Beat Maker Pro - music maker drum pad",
@@ -3229,6 +3005,230 @@
         "url": "https://play.google.com/store/apps/details?id=com.mwm.sampler&hl=en&gl=us"
     },
     {
+        "title": "Lark Player \u2014\u2014 YouTube Music & Free MP3 Top Player",
+        "icon": "https://lh3.googleusercontent.com/917fyHBKHOg-ctjjuau-syg-fAbuiphHiJNfPZXC8yOyzPjhal-tZn_zp7S3kWh-sg",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 1017498,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Mobiuspace+Tech+Top+Player",
+        "updated": "August 20, 2019",
+        "size": "Varies with device",
+        "installs": "50,000,000+",
+        "current_version": "3.3.2",
+        "required_android_version": "4.2 and up",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": [
+            "Teen"
+        ],
+        "interactive_elements": null,
+        "developer": "Mobiuspace Tech Top Player",
+        "developer_email": "larkplayer@dayuwuxian.com",
+        "developer_url": "https://www.larkplayerapp.com/",
+        "developer_address": "Hongkong",
+        "app_id": "com.dywx.larkplayer",
+        "url": "https://play.google.com/store/apps/details?id=com.dywx.larkplayer&hl=en&gl=us"
+    },
+    {
+        "title": "SoundHound - Music Discovery & Lyrics",
+        "icon": "https://lh3.googleusercontent.com/vP16KvobcKnN0Akhub1TOojnevKKAJyU4eAmYO_Ut8m4jywPi-2tQhRRgJukVXxqbcQd",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 785438,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "SoundHound+Inc.",
+        "updated": "August 16, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Teen"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "SoundHound Inc.",
+        "developer_email": "help@soundhound.com",
+        "developer_url": "https://soundhound.com/soundhound",
+        "developer_address": "SoundHound Inc.\n5400 Betsy Ross Drive\nSanta Clara, CA 95054",
+        "app_id": "com.melodis.midomiMusicIdentifier.freemium",
+        "url": "https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium&hl=en&gl=us"
+    },
+    {
+        "title": "Bandsintown Concerts",
+        "icon": "https://lh3.googleusercontent.com/d4HyvRGWXKvEOc7HAROImJdf_OSs3lQsYbtE1P5T__znXk5nBOxrtGiNzYwaj9Ca_Ow0",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/KOtJ5z0TiGs",
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 232317,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Bandsintown",
+        "updated": "August 5, 2019",
+        "size": "17M",
+        "installs": "5,000,000+",
+        "current_version": "7.0.2",
+        "required_android_version": "4.1 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Bandsintown",
+        "developer_email": "support_android@bandsintown.com",
+        "developer_url": "https://www.bandsintown.com",
+        "developer_address": "215 Lexington Avenue, 18th floor New York, NY 10016",
+        "app_id": "com.bandsintown",
+        "url": "https://play.google.com/store/apps/details?id=com.bandsintown&hl=en&gl=us"
+    },
+    {
+        "title": "Tuner & Metronome",
+        "icon": "https://lh3.googleusercontent.com/XekhlkdwcW-_RXJu8XrYQbYXAW9dV10nHjf8c2vzfCX8jSqxKK4iUd3iTD7qoFo4NQ",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 78212,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Soundcorset",
+        "updated": "August 20, 2019",
+        "size": "Varies with device",
+        "installs": "10,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$39.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "Soundcorset",
+        "developer_email": "support@soundcorset.com",
+        "developer_url": "https://www.soundcorset.com",
+        "developer_address": "104-1004, Gyeonginro 661, Guro-gu, Seoul, South Korea",
+        "app_id": "com.soundcorset.client.android",
+        "url": "https://play.google.com/store/apps/details?id=com.soundcorset.client.android&hl=en&gl=us"
+    },
+    {
+        "title": "AmpMe - Speaker Booster",
+        "icon": "https://lh3.googleusercontent.com/_7ter8D8r-_fbB6id5-XlVEvSwvjlioPTKozEW59fNKZcepKHfnsQlpUcxus0XN1uA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/EloPWeHWkHo",
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 91759,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "AmpMe+Inc",
+        "updated": "May 10, 2019",
+        "size": "24M",
+        "installs": "10,000,000+",
+        "current_version": "7.18.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$99.99"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "AmpMe Inc",
+        "developer_email": "support@ampme.com",
+        "developer_url": "http://ampme.com",
+        "developer_address": "4 Place Ville Marie #505, Montreal, Quebec, Canada, H3B 2E7",
+        "app_id": "com.amp.android",
+        "url": "https://play.google.com/store/apps/details?id=com.amp.android&hl=en&gl=us"
+    },
+    {
         "title": "Mexican Radio Stations FM AM",
         "icon": "https://lh3.googleusercontent.com/XNCtxFqrSTA1McYy-GGndZwl88OXPv5I5u3OwLp7itvnpoihCcIgt_w6ax4nq9lx9Gk",
         "screenshots": [],
@@ -3244,7 +3244,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5426,
+        "reviews": 5428,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3278,7 +3278,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3329,7 +3329,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7680,
+        "reviews": 7736,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3363,7 +3363,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -3371,7 +3371,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 63217,
+        "reviews": 63237,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3408,7 +3408,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3416,7 +3416,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 329445,
+        "reviews": 329451,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3448,49 +3448,6 @@
         "url": "https://play.google.com/store/apps/details?id=my.googlemusic.play&hl=en&gl=us"
     },
     {
-        "title": "Free Music Player for YouTube",
-        "icon": "https://lh3.googleusercontent.com/wMqRvVP5zfnTbp2dP0C1NmwoCyWdHI1ALGcpiAVdGkDHoLi8s6MB2VRspgJgMftlxQ",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "MUSIC_AND_AUDIO"
-        ],
-        "score": "3.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 119,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Funny+World+Apps",
-        "updated": "August 15, 2019",
-        "size": "18M",
-        "installs": "10,000+",
-        "current_version": "1.4.7.1721",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Teen",
-            "Diverse Content: Discretion Advised"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Funny World Apps",
-        "developer_email": "funnyapps39@gmail.com",
-        "developer_url": "https://lovemuzemusic.github.io",
-        "developer_address": null,
-        "app_id": "com.muze.music",
-        "url": "https://play.google.com/store/apps/details?id=com.muze.music&hl=en&gl=us"
-    },
-    {
         "title": "Free Music - Online Music Player & YouTube Music",
         "icon": "https://lh3.googleusercontent.com/-2EXEA-T-II_lS8de0NrKIoWvaCXL4ORXvuhFdy1co5Gs83RiiFEi5fHdTcC05RcHw",
         "screenshots": [],
@@ -3498,7 +3455,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -3506,7 +3463,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2656,
+        "reviews": 2657,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3541,7 +3498,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.2",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -3549,7 +3506,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 17479,
+        "reviews": 17531,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3585,7 +3542,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.0",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -3632,7 +3589,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -3640,7 +3597,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 494892,
+        "reviews": 494926,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3677,7 +3634,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -3685,7 +3642,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 17865,
+        "reviews": 17868,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3719,7 +3676,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.1",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -3761,7 +3718,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.3",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -3807,7 +3764,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -3815,7 +3772,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 199868,
+        "reviews": 199883,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3857,7 +3814,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4293,
+        "reviews": 4310,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3866,7 +3823,7 @@
         "free": true,
         "iap": false,
         "developer_id": "Spotify+Ltd.",
-        "updated": "August 14, 2019",
+        "updated": "August 20, 2019",
         "size": "9.4M",
         "installs": "100,000+",
         "current_version": "0.1.74.33",
@@ -3894,7 +3851,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.5",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -3902,7 +3859,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 64649,
+        "reviews": 64651,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3983,7 +3940,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.2",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -3991,7 +3948,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 14491,
+        "reviews": 14495,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4025,7 +3982,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -4033,7 +3990,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 57811,
+        "reviews": 57854,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4075,7 +4032,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 492689,
+        "reviews": 492711,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4109,7 +4066,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.7",
+        "score": "4.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -4117,7 +4074,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2090,
+        "reviews": 2092,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4151,7 +4108,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.2",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -4159,7 +4116,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 45055,
+        "reviews": 45065,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4198,7 +4155,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "3.3",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -4206,7 +4163,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1154,
+        "reviews": 1155,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4246,7 +4203,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -4254,7 +4211,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 172992,
+        "reviews": 172999,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4293,7 +4250,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.6",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -4301,7 +4258,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1807,
+        "reviews": 1830,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4336,7 +4293,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -4344,7 +4301,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 438343,
+        "reviews": 438349,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4380,7 +4337,7 @@
         "category": [
             "MUSIC_AND_AUDIO"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -4388,7 +4345,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 12391,
+        "reviews": 12392,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4417,5 +4374,47 @@
         "developer_address": "20 S Front St Floor 3\nColumbus, OH 43215",
         "app_id": "me.rapchat.rapchat",
         "url": "https://play.google.com/store/apps/details?id=me.rapchat.rapchat&hl=en&gl=us"
+    },
+    {
+        "title": "Voice Changer Voice Recorder - Editor & Effect",
+        "icon": "https://lh3.googleusercontent.com/iaxy74s6g_dxqmHCgudLjEPWhTN56N66rjYTZhlUsr4jbHEzCU-pZq2S3Jo5FjHgpQI",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "MUSIC_AND_AUDIO"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 18941,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "4634047496794859154",
+        "updated": "March 9, 2019",
+        "size": "5.5M",
+        "installs": "1,000,000+",
+        "current_version": "2.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Handy Tools Studio",
+        "developer_email": "iHandyToolBox@gmail.com",
+        "developer_url": "https://sites.google.com/view/handytools",
+        "developer_address": null,
+        "app_id": "com.voice.music.tone.changer.must.have",
+        "url": "https://play.google.com/store/apps/details?id=com.voice.music.tone.changer.must.have&hl=en&gl=us"
     }
 ]

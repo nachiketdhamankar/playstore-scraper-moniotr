@@ -7,7 +7,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.1",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 68160138,
+        "reviews": 68160163,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -54,7 +54,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -62,7 +62,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 94699027,
+        "reviews": 94709138,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -71,7 +71,7 @@
         "free": true,
         "iap": false,
         "developer_id": "WhatsApp+Inc.",
-        "updated": "August 8, 2019",
+        "updated": "August 20, 2019",
         "size": "Varies with device",
         "installs": "1,000,000,000+",
         "current_version": "Varies with device",
@@ -106,7 +106,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 623074,
+        "reviews": 623104,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -153,7 +153,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 676541,
+        "reviews": 676792,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -189,7 +189,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -197,7 +197,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2862713,
+        "reviews": 2863696,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -233,7 +233,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -241,7 +241,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 226636,
+        "reviews": 226640,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -288,7 +288,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 404409,
+        "reviews": 404486,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -335,7 +335,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4720867,
+        "reviews": 4721096,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -367,14 +367,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail&hl=en&gl=us"
     },
     {
-        "title": "Google Duo - High Quality Video Calls",
-        "icon": "https://lh3.googleusercontent.com/l9KG7T3GgFZtvfMeJ_aTsaofrGP8JnmQCPGuDrxhvFAfC-IpXhwGfMGeH2AihVqWBlM",
+        "title": "Ring - Always Home",
+        "icon": "https://lh3.googleusercontent.com/fbIl2IKPAG4_3lNnwsi0qMBTJEgOsIwBUYzrs5_GIRYRBHov_a5eJ0bMxEUNMu67G4Ws",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/vl8sZI5AH4g",
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.6",
+        "score": "3.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -382,7 +382,49 @@
             "2": null,
             "1": null
         },
-        "reviews": 4197624,
+        "reviews": 29404,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Ring.com",
+        "updated": "August 19, 2019",
+        "size": "74M",
+        "installs": "5,000,000+",
+        "current_version": "3.16.1",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Ring.com",
+        "developer_email": "help@ring.com",
+        "developer_url": "https://ring.com",
+        "developer_address": null,
+        "app_id": "com.ringapp",
+        "url": "https://play.google.com/store/apps/details?id=com.ringapp&hl=en&gl=us"
+    },
+    {
+        "title": "Google Duo - High Quality Video Calls",
+        "icon": "https://lh3.googleusercontent.com/l9KG7T3GgFZtvfMeJ_aTsaofrGP8JnmQCPGuDrxhvFAfC-IpXhwGfMGeH2AihVqWBlM",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 4199221,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -455,48 +497,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.google.android.contacts&hl=en&gl=us"
     },
     {
-        "title": "Ring - Always Home",
-        "icon": "https://lh3.googleusercontent.com/fbIl2IKPAG4_3lNnwsi0qMBTJEgOsIwBUYzrs5_GIRYRBHov_a5eJ0bMxEUNMu67G4Ws",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/vl8sZI5AH4g",
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "3.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 29403,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Ring.com",
-        "updated": "August 19, 2019",
-        "size": "74M",
-        "installs": "5,000,000+",
-        "current_version": "3.16.1",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Ring.com",
-        "developer_email": "help@ring.com",
-        "developer_url": "https://ring.com",
-        "developer_address": null,
-        "app_id": "com.ringapp",
-        "url": "https://play.google.com/store/apps/details?id=com.ringapp&hl=en&gl=us"
-    },
-    {
         "title": "Firefox Browser fast & private",
         "icon": "https://lh3.googleusercontent.com/shH5ALdqmZysSU2F5SF52674W7NFP1xtLBZMuzUR5u6Uotbgql3ATFFFhtkJjBCm4R3i",
         "screenshots": [],
@@ -512,7 +512,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3261668,
+        "reviews": 3261862,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -556,7 +556,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2471625,
+        "reviews": 2471652,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -600,7 +600,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 10842774,
+        "reviews": 10842968,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -689,7 +689,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1354418,
+        "reviews": 1354544,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -725,7 +725,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -733,7 +733,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3930517,
+        "reviews": 3930748,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -821,7 +821,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3267,
+        "reviews": 3272,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -857,7 +857,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "3.7",
+        "score": "3.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -865,7 +865,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 21556,
+        "reviews": 21558,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -902,7 +902,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.1",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -910,7 +910,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 15987,
+        "reviews": 15990,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -919,10 +919,10 @@
         "free": true,
         "iap": true,
         "developer_id": "Melons+Messenger+Inc.",
-        "updated": "August 16, 2019",
+        "updated": "August 20, 2019",
         "size": "26M",
         "installs": "1,000,000+",
-        "current_version": "Varies with device",
+        "current_version": "5.5.2",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Everyone"
@@ -949,7 +949,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -957,7 +957,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4159528,
+        "reviews": 4159677,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -993,7 +993,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.2",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1001,7 +1001,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 65355,
+        "reviews": 65363,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1035,7 +1035,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.3",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1043,7 +1043,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 141889,
+        "reviews": 141890,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1082,7 +1082,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "3.9",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1090,7 +1090,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 97726,
+        "reviews": 97728,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1129,7 +1129,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.5",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -1137,7 +1137,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 99987,
+        "reviews": 100034,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1173,7 +1173,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.2",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1181,7 +1181,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 233883,
+        "reviews": 234431,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1219,7 +1219,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -1227,7 +1227,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 229535,
+        "reviews": 229550,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1265,7 +1265,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.1",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -1273,7 +1273,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 56256,
+        "reviews": 56259,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1312,7 +1312,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1320,7 +1320,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 98894,
+        "reviews": 98905,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1357,7 +1357,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.1",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1365,7 +1365,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 578228,
+        "reviews": 578328,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1401,7 +1401,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.5",
+        "score": "4.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -1409,7 +1409,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 343927,
+        "reviews": 343971,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1453,7 +1453,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 13082351,
+        "reviews": 13082759,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1500,7 +1500,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 62130,
+        "reviews": 62139,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1536,7 +1536,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.1",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -1544,7 +1544,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11650468,
+        "reviews": 11650712,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1583,7 +1583,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "3.7",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -1591,7 +1591,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 41018,
+        "reviews": 41024,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1633,7 +1633,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 110145,
+        "reviews": 110182,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1677,7 +1677,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4521,
+        "reviews": 4537,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1713,7 +1713,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "3.8",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -1721,7 +1721,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 73172,
+        "reviews": 73199,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1730,10 +1730,10 @@
         "free": true,
         "iap": false,
         "developer_id": "TEC+CREATIONS",
-        "updated": "August 19, 2019",
+        "updated": "August 20, 2019",
         "size": "3.6M",
         "installs": "10,000,000+",
-        "current_version": "2.3.1",
+        "current_version": "2.3.2",
         "required_android_version": "4.0.3 and up",
         "content_rating": [
             "Everyone"
@@ -1755,7 +1755,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "3.8",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -1763,7 +1763,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 30052,
+        "reviews": 30066,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1799,7 +1799,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "3.9",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -1807,7 +1807,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5679160,
+        "reviews": 5679305,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1846,7 +1846,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.3",
+        "score": "4.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -1854,7 +1854,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 915969,
+        "reviews": 916470,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1890,7 +1890,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -1937,7 +1937,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -1945,7 +1945,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 30747,
+        "reviews": 30748,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1979,7 +1979,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "4.0",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -1987,7 +1987,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 671943,
+        "reviews": 672009,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2070,7 +2070,7 @@
         "category": [
             "COMMUNICATION"
         ],
-        "score": "3.8",
+        "score": "3.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -2078,7 +2078,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 26652,
+        "reviews": 26659,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2105,6 +2105,53 @@
         "url": "https://play.google.com/store/apps/details?id=com.tracfone.tracfone.myaccount&hl=en&gl=us"
     },
     {
+        "title": "2ndLine - Second Phone Number",
+        "icon": "https://lh3.googleusercontent.com/St4MFsQQ5X_gW0vbtrgQygauImRrh0V6D8YNrkO0vzfdtyLlp7kxXoDdYg5Byd3BNA",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3Du7R_qklZI",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.9",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 45806,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "8273134989898180729",
+        "updated": "August 15, 2019",
+        "size": "44M",
+        "installs": "5,000,000+",
+        "current_version": "6.38.0.1",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$2.49",
+            "$49.99"
+        ],
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "TextNow, Inc.",
+        "developer_email": "help@2ndline.co",
+        "developer_url": "http://www.2ndline.co",
+        "developer_address": "Suite 200 - 420 Wes Graham Way\nWaterloo, ON\nN2L 0J6\nCanada",
+        "app_id": "com.enflick.android.tn2ndLine",
+        "url": "https://play.google.com/store/apps/details?id=com.enflick.android.tn2ndLine&hl=en&gl=us"
+    },
+    {
         "title": "CallApp: Caller ID, Call Blocker & Call Recorder",
         "icon": "https://lh3.googleusercontent.com/m1h8dsxef2CaE96KRWO6OvAqJ9s8kKS9myktontz1zBIuBbsi4U2e5eU02u_4lRjIah5",
         "screenshots": [],
@@ -2120,7 +2167,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 543062,
+        "reviews": 543146,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2209,7 +2256,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 604408,
+        "reviews": 604413,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2253,7 +2300,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 25453,
+        "reviews": 25458,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2281,53 +2328,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.dish.mydish&hl=en&gl=us"
     },
     {
-        "title": "2ndLine - Second Phone Number",
-        "icon": "https://lh3.googleusercontent.com/St4MFsQQ5X_gW0vbtrgQygauImRrh0V6D8YNrkO0vzfdtyLlp7kxXoDdYg5Byd3BNA",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/3Du7R_qklZI",
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "3.9",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 45778,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "8273134989898180729",
-        "updated": "August 15, 2019",
-        "size": "44M",
-        "installs": "5,000,000+",
-        "current_version": "6.38.0.1",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$2.49",
-            "$49.99"
-        ],
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "TextNow, Inc.",
-        "developer_email": "help@2ndline.co",
-        "developer_url": "http://www.2ndline.co",
-        "developer_address": "Suite 200 - 420 Wes Graham Way\nWaterloo, ON\nN2L 0J6\nCanada",
-        "app_id": "com.enflick.android.tn2ndLine",
-        "url": "https://play.google.com/store/apps/details?id=com.enflick.android.tn2ndLine&hl=en&gl=us"
-    },
-    {
         "title": "Wear OS by Google Smartwatch (was Android Wear)",
         "icon": "https://lh3.googleusercontent.com/WmoV-m8b6x16sDRfzebu5b2vstcyBHRrpzCj6ODoh6hGuMa9Gg39EvnOk7z3qMa0_WM",
         "screenshots": [],
@@ -2343,7 +2343,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 194716,
+        "reviews": 194731,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2387,7 +2387,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 719415,
+        "reviews": 719446,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2416,6 +2416,53 @@
         "url": "https://play.google.com/store/apps/details?id=com.loudtalks&hl=en&gl=us"
     },
     {
+        "title": "Truecaller: Caller ID, block robocalls & spam SMS",
+        "icon": "https://lh3.googleusercontent.com/dzL7UATNj7Xt7OkBjOGFoTvXu6lReEZ4zpiLvlWMwrWhtuodgB-2iz97XqNovZ7SaNk",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/J8de8pIYjhw",
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.5",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10760149,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "5383913004303935162",
+        "updated": "August 19, 2019",
+        "size": "45M",
+        "installs": "100,000,000+",
+        "current_version": "10.43.5",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "$0.99",
+            "$249.00"
+        ],
+        "interactive_elements": [
+            "Users Interact, Digital Purchases"
+        ],
+        "developer": "True Software Scandinavia AB",
+        "developer_email": "support@truecaller.com",
+        "developer_url": "http://www.truecaller.com/",
+        "developer_address": "Kungsgatan 15\n111 43 Stockholm\nSweden",
+        "app_id": "com.truecaller",
+        "url": "https://play.google.com/store/apps/details?id=com.truecaller&hl=en&gl=us"
+    },
+    {
         "title": "TextMe Up Free Calling & Texts",
         "icon": "https://lh3.googleusercontent.com/8t_al6ncwnfSSL-0G4OZuNNjn78ShZjHdkslCi6n-py9pYXgDW2BrENxLojZLfmNTNHo",
         "screenshots": [],
@@ -2431,7 +2478,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 56339,
+        "reviews": 56349,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2505,53 +2552,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.securus.videoclient&hl=en&gl=us"
     },
     {
-        "title": "Truecaller: Caller ID, block robocalls & spam SMS",
-        "icon": "https://lh3.googleusercontent.com/dzL7UATNj7Xt7OkBjOGFoTvXu6lReEZ4zpiLvlWMwrWhtuodgB-2iz97XqNovZ7SaNk",
-        "screenshots": [],
-        "video": "https://www.youtube.com/embed/J8de8pIYjhw",
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "4.5",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 10758232,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "5383913004303935162",
-        "updated": "August 19, 2019",
-        "size": "45M",
-        "installs": "100,000,000+",
-        "current_version": "10.43.5",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "$0.99",
-            "$249.00"
-        ],
-        "interactive_elements": [
-            "Users Interact, Digital Purchases"
-        ],
-        "developer": "True Software Scandinavia AB",
-        "developer_email": "support@truecaller.com",
-        "developer_url": "http://www.truecaller.com/",
-        "developer_address": "Kungsgatan 15\n111 43 Stockholm\nSweden",
-        "app_id": "com.truecaller",
-        "url": "https://play.google.com/store/apps/details?id=com.truecaller&hl=en&gl=us"
-    },
-    {
         "title": "JusTalk - Free Video Calls and Fun Video Chat",
         "icon": "https://lh3.googleusercontent.com/C-KCc8M94x_6Jp6tdpsbe6F-zZsUyBukG-hllrHadaDGzk7Nc6hVob8Me9T1rdr6jxw",
         "screenshots": [],
@@ -2567,7 +2567,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 232458,
+        "reviews": 232939,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2615,7 +2615,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 269106,
+        "reviews": 269120,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2662,7 +2662,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1342627,
+        "reviews": 1342690,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2709,7 +2709,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 79396,
+        "reviews": 79404,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2753,7 +2753,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 124296,
+        "reviews": 124297,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2797,7 +2797,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 16203,
+        "reviews": 16218,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2841,7 +2841,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5949,
+        "reviews": 5953,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2883,7 +2883,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 58745,
+        "reviews": 58770,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2928,7 +2928,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 25773,
+        "reviews": 25776,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2970,7 +2970,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 154403,
+        "reviews": 154425,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3012,7 +3012,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 128883,
+        "reviews": 128930,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3056,7 +3056,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 210612,
+        "reviews": 210628,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3101,7 +3101,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9550,
+        "reviews": 9555,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3134,6 +3134,50 @@
         "url": "https://play.google.com/store/apps/details?id=prank.caller.io&hl=en&gl=us"
     },
     {
+        "title": "WAMR - Recover deleted messages & status download",
+        "icon": "https://lh3.googleusercontent.com/TzV3TRpfx2u9JIrvpuCexvvkK9nCo6E2qBS3qk-e2xSA-1SPOkmIvNr3Jbm0HDyD87A",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 31735,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "drilens+apps",
+        "updated": "July 15, 2019",
+        "size": "11M",
+        "installs": "10,000,000+",
+        "current_version": "0.8.3",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": [
+            "Everyone"
+        ],
+        "interactive_elements": null,
+        "developer": "drilens apps",
+        "developer_email": "kurtidrilon.dev+wamr@gmail.com",
+        "developer_url": "https://sites.google.com/view/wamr/privacy",
+        "developer_address": "Via Vittorio Bachelet 37\nFigline e Incisa Valdarno, 50063\nFlorence\nItaly",
+        "app_id": "com.drilens.wamr",
+        "url": "https://play.google.com/store/apps/details?id=com.drilens.wamr&hl=en&gl=us"
+    },
+    {
         "title": "Google Chrome: Fast & Secure",
         "icon": "https://lh3.googleusercontent.com/KwUBNPbMTk9jDXYS2AeX3illtVRTkrKVh5xR1Mg4WHd0CG2tV4mrh1z3kXi5z_warlk",
         "screenshots": [],
@@ -3149,7 +3193,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 16094523,
+        "reviews": 16094741,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3193,7 +3237,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 410816,
+        "reviews": 410817,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3240,7 +3284,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 382,
+        "reviews": 399,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3311,6 +3355,50 @@
         "url": "https://play.google.com/store/apps/details?id=comm.essagechat.listing&hl=en&gl=us"
     },
     {
+        "title": "Opera with free VPN",
+        "icon": "https://lh3.googleusercontent.com/C7dhH6TbCuNj59q8ICBjs5dPbV8IxAk74f9R876c863igilEVjjY4O0XkT54Bci90KQv",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2895482,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "6928237143520558692",
+        "updated": "August 9, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Digital Purchases, Unrestricted Internet"
+        ],
+        "developer": "Opera",
+        "developer_email": "support-opera-android@opera.com",
+        "developer_url": "http://www.opera.com",
+        "developer_address": "Gjerdrums vei 19\nNO-0484 OSLO",
+        "app_id": "com.opera.browser",
+        "url": "https://play.google.com/store/apps/details?id=com.opera.browser&hl=en&gl=us"
+    },
+    {
         "title": "Fake Caller",
         "icon": "https://lh3.googleusercontent.com/2KaHmLiU2-pOOdBFc_Glkf1JbIe2NgPkB1tPkf0jzLRLxgw47ejDudYT7jld9p-aQTBe",
         "screenshots": [],
@@ -3358,50 +3446,6 @@
         "url": "https://play.google.com/store/apps/details?id=tracebust.prank.app&hl=en&gl=us"
     },
     {
-        "title": "WAMR - Recover deleted messages & status download",
-        "icon": "https://lh3.googleusercontent.com/TzV3TRpfx2u9JIrvpuCexvvkK9nCo6E2qBS3qk-e2xSA-1SPOkmIvNr3Jbm0HDyD87A",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "4.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 31589,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "drilens+apps",
-        "updated": "July 15, 2019",
-        "size": "11M",
-        "installs": "10,000,000+",
-        "current_version": "0.8.3",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": [
-            "Everyone"
-        ],
-        "interactive_elements": null,
-        "developer": "drilens apps",
-        "developer_email": "kurtidrilon.dev+wamr@gmail.com",
-        "developer_url": "https://sites.google.com/view/wamr/privacy",
-        "developer_address": "Via Vittorio Bachelet 37\nFigline e Incisa Valdarno, 50063\nFlorence\nItaly",
-        "app_id": "com.drilens.wamr",
-        "url": "https://play.google.com/store/apps/details?id=com.drilens.wamr&hl=en&gl=us"
-    },
-    {
         "title": "Textra SMS",
         "icon": "https://lh3.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg",
         "screenshots": [],
@@ -3417,7 +3461,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 377178,
+        "reviews": 377216,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3463,7 +3507,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6284018,
+        "reviews": 6284131,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3507,7 +3551,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 23826,
+        "reviews": 23861,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3534,50 +3578,6 @@
         "url": "https://play.google.com/store/apps/details?id=org.myklos.btautoconnect&hl=en&gl=us"
     },
     {
-        "title": "Opera with free VPN",
-        "icon": "https://lh3.googleusercontent.com/C7dhH6TbCuNj59q8ICBjs5dPbV8IxAk74f9R876c863igilEVjjY4O0XkT54Bci90KQv",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "4.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 2895192,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "6928237143520558692",
-        "updated": "August 9, 2019",
-        "size": "Varies with device",
-        "installs": "100,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Digital Purchases, Unrestricted Internet"
-        ],
-        "developer": "Opera",
-        "developer_email": "support-opera-android@opera.com",
-        "developer_url": "http://www.opera.com",
-        "developer_address": "Gjerdrums vei 19\nNO-0484 OSLO",
-        "app_id": "com.opera.browser",
-        "url": "https://play.google.com/store/apps/details?id=com.opera.browser&hl=en&gl=us"
-    },
-    {
         "title": "SmartWatch Sync",
         "icon": "https://lh3.googleusercontent.com/3zth2Z7V4uxJtoelrEF5opm_nquCLsFvPrOPvfYMpsjqo7Bl0IF7iYeCYpZeQXCyY4o",
         "screenshots": [],
@@ -3593,7 +3593,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3257,
+        "reviews": 3258,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3635,7 +3635,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 50709,
+        "reviews": 50847,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3679,7 +3679,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 38711,
+        "reviews": 38719,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3711,186 +3711,6 @@
         "url": "https://play.google.com/store/apps/details?id=free.call.international.phone.calling&hl=en&gl=us"
     },
     {
-        "title": "Gmail",
-        "icon": "https://lh3.googleusercontent.com/UHU0CNrJ0G9_JLLObJ8tk8LooGEEYpJFd93f4QYMKIGV9C3Zgtv2PpetUFur5lHp1w",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "4.4",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 6049135,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "5700313618786177705",
-        "updated": "August 19, 2019",
-        "size": "Varies with device",
-        "installs": "5,000,000,000+",
-        "current_version": "Varies with device",
-        "required_android_version": "Varies with device",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Google LLC",
-        "developer_email": "apps-help@google.com",
-        "developer_url": "http://support.google.com/mail/bin/topic.py?hl=en&topic=2451697&parent=2451730&ctx=topic",
-        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
-        "app_id": "com.google.android.gm",
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=us"
-    },
-    {
-        "title": "New Stickers For WhatsApp - WAStickerapps Free",
-        "icon": "https://lh3.googleusercontent.com/mlFtILzIoQqhJdoiRJj47m7eBBW47E0Vc_5siY8cuTyEP2Gz57oqUHCauQk_g3FKv_Pv",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "4.6",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 54785,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": true,
-        "developer_id": "7706608939148513385",
-        "updated": "July 22, 2019",
-        "size": "14M",
-        "installs": "5,000,000+",
-        "current_version": "1.7",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Mature 17+",
-            "Violence, Blood and Gore"
-        ],
-        "iap_range": [
-            "$5.00",
-            "$5.49"
-        ],
-        "interactive_elements": [
-            "In-App Purchases"
-        ],
-        "developer": "9D Technology",
-        "developer_email": "9dtech.apps@gmail.com",
-        "developer_url": "https://sites.google.com/view/9dtech/home",
-        "developer_address": "101 Reykjav\u00edk, Iceland",
-        "app_id": "wastickerapps.stickersforwhatsapp",
-        "url": "https://play.google.com/store/apps/details?id=wastickerapps.stickersforwhatsapp&hl=en&gl=us"
-    },
-    {
-        "title": "Memes con Frases Stickers en Espa\u00f1ol para WhatsApp",
-        "icon": "https://lh3.googleusercontent.com/gsiYZaEvjYHaXeXemaUL4mYUZfPF8God26FQpqPTAblyWqN_JSOHJh9SgVjLfELK1dU",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 2900,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "WAStickerApps+Go",
-        "updated": "June 9, 2019",
-        "size": "6.6M",
-        "installs": "1,000,000+",
-        "current_version": "1.0",
-        "required_android_version": "4.0.3 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "WAStickerApps Go",
-        "developer_email": "they.wastickerapps@gmail.com",
-        "developer_url": "https://sites.google.com/site/pyopyostudioapp/privacy-policy",
-        "developer_address": null,
-        "app_id": "spanish.stickers.wastickerapps",
-        "url": "https://play.google.com/store/apps/details?id=spanish.stickers.wastickerapps&hl=en&gl=us"
-    },
-    {
-        "title": "Xfinity Connect",
-        "icon": "https://lh3.googleusercontent.com/lqW1CMGZ7s99llnzJlkAFC1-lXRM456wS6jg9j8s8WMAGCVHWHvHnoEiWLTAiSikTug",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "4.3",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 87598,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Comcast+Cable+Communications+Management,+LLC",
-        "updated": "August 15, 2019",
-        "size": "21M",
-        "installs": "1,000,000+",
-        "current_version": "7.5.0",
-        "required_android_version": "4.4 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": [
-            "Users Interact"
-        ],
-        "developer": "Comcast Cable Communications Management, LLC",
-        "developer_email": "Xfinity_Connect@comcast.com",
-        "developer_url": "http://www.comcast.com/connectapp",
-        "developer_address": null,
-        "app_id": "net.comcast.ottclient",
-        "url": "https://play.google.com/store/apps/details?id=net.comcast.ottclient&hl=en&gl=us"
-    },
-    {
         "title": "Skype Lite - Free Video Call & Chat",
         "icon": "https://lh3.googleusercontent.com/Tqgy9wddo_e_IegqVDAiYfPcWg0iXESll_DvU2yDfdJQCj-gzWcGOnO9tb_WY-dEUuY",
         "screenshots": [],
@@ -3906,7 +3726,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 34969,
+        "reviews": 34971,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3979,6 +3799,228 @@
         "url": "https://play.google.com/store/apps/details?id=com.livesafe.activities&hl=en&gl=us"
     },
     {
+        "title": "Gmail",
+        "icon": "https://lh3.googleusercontent.com/UHU0CNrJ0G9_JLLObJ8tk8LooGEEYpJFd93f4QYMKIGV9C3Zgtv2PpetUFur5lHp1w",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 6049842,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "5700313618786177705",
+        "updated": "August 19, 2019",
+        "size": "Varies with device",
+        "installs": "5,000,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Google LLC",
+        "developer_email": "apps-help@google.com",
+        "developer_url": "http://support.google.com/mail/bin/topic.py?hl=en&topic=2451697&parent=2451730&ctx=topic",
+        "developer_address": "1600 Amphitheatre Parkway, Mountain View 94043",
+        "app_id": "com.google.android.gm",
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=us"
+    },
+    {
+        "title": "New Stickers For WhatsApp - WAStickerapps Free",
+        "icon": "https://lh3.googleusercontent.com/mlFtILzIoQqhJdoiRJj47m7eBBW47E0Vc_5siY8cuTyEP2Gz57oqUHCauQk_g3FKv_Pv",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 54925,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "7706608939148513385",
+        "updated": "July 22, 2019",
+        "size": "14M",
+        "installs": "5,000,000+",
+        "current_version": "1.7",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Mature 17+",
+            "Violence, Blood and Gore"
+        ],
+        "iap_range": [
+            "$5.00",
+            "$5.49"
+        ],
+        "interactive_elements": [
+            "In-App Purchases"
+        ],
+        "developer": "9D Technology",
+        "developer_email": "9dtech.apps@gmail.com",
+        "developer_url": "https://sites.google.com/view/9dtech/home",
+        "developer_address": "101 Reykjav\u00edk, Iceland",
+        "app_id": "wastickerapps.stickersforwhatsapp",
+        "url": "https://play.google.com/store/apps/details?id=wastickerapps.stickersforwhatsapp&hl=en&gl=us"
+    },
+    {
+        "title": "Memes con Frases Stickers en Espa\u00f1ol para WhatsApp",
+        "icon": "https://lh3.googleusercontent.com/gsiYZaEvjYHaXeXemaUL4mYUZfPF8God26FQpqPTAblyWqN_JSOHJh9SgVjLfELK1dU",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2925,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "WAStickerApps+Go",
+        "updated": "June 9, 2019",
+        "size": "6.6M",
+        "installs": "1,000,000+",
+        "current_version": "1.0",
+        "required_android_version": "4.0.3 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "WAStickerApps Go",
+        "developer_email": "they.wastickerapps@gmail.com",
+        "developer_url": "https://sites.google.com/site/pyopyostudioapp/privacy-policy",
+        "developer_address": null,
+        "app_id": "spanish.stickers.wastickerapps",
+        "url": "https://play.google.com/store/apps/details?id=spanish.stickers.wastickerapps&hl=en&gl=us"
+    },
+    {
+        "title": "Xfinity Connect",
+        "icon": "https://lh3.googleusercontent.com/lqW1CMGZ7s99llnzJlkAFC1-lXRM456wS6jg9j8s8WMAGCVHWHvHnoEiWLTAiSikTug",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "4.3",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 87601,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Comcast+Cable+Communications+Management,+LLC",
+        "updated": "August 15, 2019",
+        "size": "21M",
+        "installs": "1,000,000+",
+        "current_version": "7.5.0",
+        "required_android_version": "4.4 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": [
+            "Users Interact"
+        ],
+        "developer": "Comcast Cable Communications Management, LLC",
+        "developer_email": "Xfinity_Connect@comcast.com",
+        "developer_url": "http://www.comcast.com/connectapp",
+        "developer_address": null,
+        "app_id": "net.comcast.ottclient",
+        "url": "https://play.google.com/store/apps/details?id=net.comcast.ottclient&hl=en&gl=us"
+    },
+    {
+        "title": "GizmoHub",
+        "icon": "https://lh3.googleusercontent.com/f1kQ34QKYKEuSIjjV4CNuzDm9XF3D57MSPq3IwQKsHuLDL1xpTV_TIOyrjjqDArLqyra",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "COMMUNICATION"
+        ],
+        "score": "3.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 9453,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Verizon+-+VZ",
+        "updated": "June 7, 2019",
+        "size": "26M",
+        "installs": "500,000+",
+        "current_version": "3.2.8.113",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Verizon - VZ",
+        "developer_email": "VZWDTGizmoPalSupport@VerizonWireless.com",
+        "developer_url": "http://www.verizonwireless.com/connected-devices/gizmopal/",
+        "developer_address": "One Verizon Way, Basking Ridge, New Jersey",
+        "app_id": "com.vzw.gizmopal",
+        "url": "https://play.google.com/store/apps/details?id=com.vzw.gizmopal&hl=en&gl=us"
+    },
+    {
         "title": "Mr. Number - Caller ID & Spam Protection",
         "icon": "https://lh3.googleusercontent.com/qZU6NDvSGBps9f_fnDQssrtTBpbIEipeRn0YzthH5O3xbk2HeLOl88gtPKOT7dz5-ig",
         "screenshots": [],
@@ -3994,7 +4036,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 198846,
+        "reviews": 198854,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4041,7 +4083,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 56818,
+        "reviews": 56831,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4088,7 +4130,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 145324,
+        "reviews": 145328,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4161,48 +4203,6 @@
         "url": "https://play.google.com/store/apps/details?id=info.myapp.allemailaccess&hl=en&gl=us"
     },
     {
-        "title": "GizmoHub",
-        "icon": "https://lh3.googleusercontent.com/f1kQ34QKYKEuSIjjV4CNuzDm9XF3D57MSPq3IwQKsHuLDL1xpTV_TIOyrjjqDArLqyra",
-        "screenshots": [],
-        "video": null,
-        "category": [
-            "COMMUNICATION"
-        ],
-        "score": "3.7",
-        "histogram": {
-            "5": null,
-            "4": null,
-            "3": null,
-            "2": null,
-            "1": null
-        },
-        "reviews": 9452,
-        "description": null,
-        "description_html": null,
-        "recent_changes": null,
-        "editors_choice": false,
-        "price": "0",
-        "free": true,
-        "iap": false,
-        "developer_id": "Verizon+-+VZ",
-        "updated": "June 7, 2019",
-        "size": "26M",
-        "installs": "500,000+",
-        "current_version": "3.2.8.113",
-        "required_android_version": "5.0 and up",
-        "content_rating": [
-            "Everyone"
-        ],
-        "iap_range": null,
-        "interactive_elements": null,
-        "developer": "Verizon - VZ",
-        "developer_email": "VZWDTGizmoPalSupport@VerizonWireless.com",
-        "developer_url": "http://www.verizonwireless.com/connected-devices/gizmopal/",
-        "developer_address": "One Verizon Way, Basking Ridge, New Jersey",
-        "app_id": "com.vzw.gizmopal",
-        "url": "https://play.google.com/store/apps/details?id=com.vzw.gizmopal&hl=en&gl=us"
-    },
-    {
         "title": "Total Wireless My Account",
         "icon": "https://lh3.googleusercontent.com/mvFpauBmfFc2YAWegmk6TiD90sMOKA-irRGxUMuk_36BvmrWHMXxtOEX-3vnOjgVkV4",
         "screenshots": [],
@@ -4218,7 +4218,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1979,
+        "reviews": 1980,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4260,7 +4260,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 231076,
+        "reviews": 231077,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4307,7 +4307,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 20101440,
+        "reviews": 20137625,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4352,7 +4352,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 18177,
+        "reviews": 18178,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4394,7 +4394,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 22665,
+        "reviews": 22666,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4436,7 +4436,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 35684,
+        "reviews": 35690,
         "description": null,
         "description_html": null,
         "recent_changes": null,

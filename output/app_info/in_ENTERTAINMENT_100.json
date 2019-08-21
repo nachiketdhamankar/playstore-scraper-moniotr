@@ -1,13 +1,13 @@
 [
     {
-        "title": "JioTV \u2013 LIVE Cricket, TV, Movies",
-        "icon": "https://lh3.googleusercontent.com/jI_QAS-2fVDoAp7E0A7yIrj7TjWzaW0fM3U6fYNTVp64isdux1U5s8fFtK3bCOut",
+        "title": "Hotstar",
+        "icon": "https://lh3.googleusercontent.com/jYdc49G1qb5pC5xGxutqZmh5cFrb0zvomJAMa3PfdqdgqVQSyvccU076Qp_42YxiAA",
         "screenshots": [],
-        "video": null,
+        "video": "https://www.youtube.com/embed/kt2TZzhkOPw",
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "4.2",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -15,7 +15,50 @@
             "2": null,
             "1": null
         },
-        "reviews": 2511314,
+        "reviews": 7129133,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Novi+Digital",
+        "updated": "August 16, 2019",
+        "size": "Varies with device",
+        "installs": "100,000,000+",
+        "current_version": "Varies with device",
+        "required_android_version": "Varies with device",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Novi Digital",
+        "developer_email": "hello@hotstar.com",
+        "developer_url": "http://www.hotstar.com",
+        "developer_address": "Star House, Urmi Estate, 95 Ganpatrao Kadam Marg, Lower Parel, Mumbai - 400013.",
+        "app_id": "in.startv.hotstar",
+        "url": "https://play.google.com/store/apps/details?id=in.startv.hotstar&hl=en&gl=in"
+    },
+    {
+        "title": "JioTV \u2013 LIVE Cricket, TV, Movies",
+        "icon": "https://lh3.googleusercontent.com/jI_QAS-2fVDoAp7E0A7yIrj7TjWzaW0fM3U6fYNTVp64isdux1U5s8fFtK3bCOut",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.4",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 2511323,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -49,7 +92,7 @@
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "3.9",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -57,7 +100,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 962067,
+        "reviews": 973365,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -103,7 +146,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 7020756,
+        "reviews": 7021460,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -141,7 +184,7 @@
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "4.0",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -149,7 +192,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 559057,
+        "reviews": 559551,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -185,7 +228,7 @@
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "4.4",
+        "score": "4.3",
         "histogram": {
             "5": null,
             "4": null,
@@ -193,7 +236,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9497861,
+        "reviews": 9497906,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -238,7 +281,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 978541,
+        "reviews": 979125,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -285,7 +328,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5556,
+        "reviews": 5577,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -322,7 +365,7 @@
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "3.8",
+        "score": "4.1",
         "histogram": {
             "5": null,
             "4": null,
@@ -330,7 +373,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 656403,
+        "reviews": 656405,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -376,7 +419,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 783370,
+        "reviews": 783366,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -412,7 +455,7 @@
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "4.4",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -420,7 +463,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1628606,
+        "reviews": 1628630,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -465,7 +508,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 652002,
+        "reviews": 652129,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -510,7 +553,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 86853,
+        "reviews": 86859,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -555,7 +598,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1136985,
+        "reviews": 1137044,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -589,7 +632,7 @@
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "2.2",
+        "score": "2.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -631,7 +674,7 @@
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "2.6",
+        "score": "2.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -673,7 +716,7 @@
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "1.4",
+        "score": "1.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -715,7 +758,7 @@
         "category": [
             "ENTERTAINMENT"
         ],
-        "score": "3.8",
+        "score": "3.9",
         "histogram": {
             "5": null,
             "4": null,
@@ -723,7 +766,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 216560,
+        "reviews": 216576,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -765,7 +808,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1293,
+        "reviews": 1294,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -807,7 +850,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 187093,
+        "reviews": 187097,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -839,6 +882,52 @@
         "url": "https://play.google.com/store/apps/details?id=com.balaji.alt&hl=en&gl=in"
     },
     {
+        "title": "Viu - Watch & Download Originals,Movies,TV Serials",
+        "icon": "https://lh3.googleusercontent.com/JaF2H1eBlSJ0rn6G62bph7CiFWgCPk62nr1FjylaSMx1G-29Rwn3jL6I2gasZdzut6I",
+        "screenshots": [],
+        "video": null,
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 465293,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": true,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "Vuclip+Mobile+Video",
+        "updated": "August 16, 2019",
+        "size": "14M",
+        "installs": "50,000,000+",
+        "current_version": "1.0.87",
+        "required_android_version": "4.3 and up",
+        "content_rating": [
+            "Rated for 3+"
+        ],
+        "iap_range": [
+            "Digital Purchases"
+        ],
+        "interactive_elements": [
+            "Digital Purchases"
+        ],
+        "developer": "Vuclip Mobile Video",
+        "developer_email": "help.viu@vuclip.com",
+        "developer_url": "http://www.vuclip.com",
+        "developer_address": "Vuclip\n1551 McCarthy Boulevard, Suite 213\nMilpitas,CA 95035\nPhone: +1.408.649.2240\nFax: +1.408.649.2245",
+        "app_id": "com.vuclip.viu",
+        "url": "https://play.google.com/store/apps/details?id=com.vuclip.viu&hl=en&gl=in"
+    },
+    {
         "title": "Best For You",
         "icon": "https://lh3.googleusercontent.com/i6wMan1FkO_TjLg4wY6gJe6fP9EDgRgrT9VzLXXMKY6NyLsFtsBMRp38TPPgiIgUAlI",
         "screenshots": [],
@@ -854,7 +943,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2310,
+        "reviews": 2329,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -881,6 +970,52 @@
         "url": "https://play.google.com/store/apps/details?id=com.best.foryou.pro&hl=en&gl=in"
     },
     {
+        "title": "Astrology horoscope, palm reader, tarot: Astroline",
+        "icon": "https://lh3.googleusercontent.com/qu3z5Nuf3Bp56PdiBs72_EDj2xGSewVHl6rkw22IA-IvDyYCCnLchIhT1fK7R9t2Uxs",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/TuGL3Eoaj4Q",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "1.6",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 10735,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": true,
+        "developer_id": "VEBMART+GRUPP,+OOO",
+        "updated": "May 22, 2019",
+        "size": "48M",
+        "installs": "1,000,000+",
+        "current_version": "1.5.6",
+        "required_android_version": "6.0 and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Horror"
+        ],
+        "iap_range": [
+            "Rated for 12+",
+            "Horror"
+        ],
+        "interactive_elements": null,
+        "developer": "VEBMART GRUPP, OOO",
+        "developer_email": "publisherwmgroup@gmail.com",
+        "developer_url": "https://adwebmart.com/policy.html",
+        "developer_address": "49 Platonova, Minsk 220000, Belarus",
+        "app_id": "com.horoastroline",
+        "url": "https://play.google.com/store/apps/details?id=com.horoastroline&hl=en&gl=in"
+    },
+    {
         "title": "Your Destiny Teller",
         "icon": "https://lh3.googleusercontent.com/9Hma7StT-Yd1Ohg08BtYVbou2ft92x--XeM-UOGiB4Aa20PQHYu-muh8ZVBans0Sb0I",
         "screenshots": [],
@@ -896,7 +1031,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3576,
+        "reviews": 3592,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -938,7 +1073,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 53724,
+        "reviews": 53772,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -982,7 +1117,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3522,
+        "reviews": 3538,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1024,7 +1159,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 140777,
+        "reviews": 140790,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1068,7 +1203,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 56300,
+        "reviews": 56302,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1157,7 +1292,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3266799,
+        "reviews": 3266798,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1203,7 +1338,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11963,
+        "reviews": 11964,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1250,7 +1385,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2254,
+        "reviews": 2268,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1277,6 +1412,49 @@
         "url": "https://play.google.com/store/apps/details?id=com.daily.lucky.plus&hl=en&gl=in"
     },
     {
+        "title": "Idea Movies & TV - LIVE TV, Movies, TV Shows",
+        "icon": "https://lh3.googleusercontent.com/mEaqIe3TTtuqwG-IavPTotutebXCTOV-SQlqXQ290Jh_KDAGlwcLnouNVrWCgy7nY__9",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/3Qpnu99s82w",
+        "category": [
+            "ENTERTAINMENT"
+        ],
+        "score": "4.2",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 169000,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Vodafone+Idea+Limited",
+        "updated": "August 4, 2019",
+        "size": "13M",
+        "installs": "10,000,000+",
+        "current_version": "3.1.0",
+        "required_android_version": "4.4W and up",
+        "content_rating": [
+            "Rated for 12+",
+            "Parental Guidance Recommended"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Vodafone Idea Limited",
+        "developer_email": "support@ideamoviesandtv.in",
+        "developer_url": "http://www.ideamoviesandtv.in/",
+        "developer_address": null,
+        "app_id": "com.ideacellular.digitalvideo",
+        "url": "https://play.google.com/store/apps/details?id=com.ideacellular.digitalvideo&hl=en&gl=in"
+    },
+    {
         "title": "Paint By Number - Free Coloring Book & Puzzle Game",
         "icon": "https://lh3.googleusercontent.com/SDM2OtiKT5bc76242_N1IibmmZVAq1hieDOP7rk-EJVL8dUBxqXMTqlHajHJUysTKw",
         "screenshots": [],
@@ -1292,7 +1470,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 401141,
+        "reviews": 401511,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1338,7 +1516,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5889,
+        "reviews": 5894,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1380,7 +1558,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2064,
+        "reviews": 2085,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1423,7 +1601,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 402,
+        "reviews": 407,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1555,7 +1733,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 861,
+        "reviews": 863,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1639,7 +1817,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 425,
+        "reviews": 426,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1681,7 +1859,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 937,
+        "reviews": 959,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1765,7 +1943,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 145023,
+        "reviews": 145059,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1794,7 +1972,7 @@
     },
     {
         "title": "Wedding Makeup Salon",
-        "icon": "https://lh3.googleusercontent.com/31ArCPo5kmaktciD1dnWrEIEnN-lgtqvp5VSudkTm1tkmvstahWQ-QzemUQDPpeXi9kc",
+        "icon": "https://lh3.googleusercontent.com/IGeWw41B9b0wyee2AZRzD8dMzj8TdfcuhpBCmj65qT-cb0Z4Wlnz_hVF2GgCvwcN6Awk",
         "screenshots": [],
         "video": null,
         "category": [
@@ -1808,7 +1986,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 64319,
+        "reviews": 64322,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1817,10 +1995,10 @@
         "free": true,
         "iap": false,
         "developer_id": "lemonbab",
-        "updated": "September 26, 2018",
-        "size": "64M",
+        "updated": "August 20, 2019",
+        "size": "62M",
         "installs": "10,000,000+",
-        "current_version": "1.0.12",
+        "current_version": "1.0.13",
         "required_android_version": "4.1 and up",
         "content_rating": [
             "Rated for 12+",
@@ -1830,7 +2008,7 @@
         "interactive_elements": null,
         "developer": "lemonbab",
         "developer_email": "betterplayapp@hotmail.com",
-        "developer_url": "https://www.facebook.com/notes/fat-cat-games/privacy-policy/714437452027899",
+        "developer_url": "https://sites.google.com/view/lemonbabprivacypolicy",
         "developer_address": null,
         "app_id": "com.fatcat.weddingmakesalon",
         "url": "https://play.google.com/store/apps/details?id=com.fatcat.weddingmakesalon&hl=en&gl=in"
@@ -1851,7 +2029,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 15417,
+        "reviews": 15422,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1894,7 +2072,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 16562,
+        "reviews": 16570,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1983,7 +2161,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1081,
+        "reviews": 1082,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2025,7 +2203,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2910,
+        "reviews": 2913,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2070,7 +2248,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8208,
+        "reviews": 8212,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2155,7 +2333,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 109,
+        "reviews": 110,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2199,7 +2377,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4478,
+        "reviews": 4515,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2241,7 +2419,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 31,
+        "reviews": 32,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2283,7 +2461,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1807006,
+        "reviews": 1807008,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2371,7 +2549,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3564,
+        "reviews": 3611,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2502,7 +2680,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 278985,
+        "reviews": 279038,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2544,7 +2722,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 406469,
+        "reviews": 406474,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2588,7 +2766,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 33351,
+        "reviews": 33354,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2630,7 +2808,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 323,
+        "reviews": 330,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2672,7 +2850,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2134,
+        "reviews": 2133,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2716,7 +2894,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1638,
+        "reviews": 1640,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2805,7 +2983,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 161511,
+        "reviews": 162042,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2851,7 +3029,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 77099,
+        "reviews": 77103,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2897,7 +3075,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 141,
+        "reviews": 142,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2939,7 +3117,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 5353,
+        "reviews": 5362,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2982,7 +3160,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1162963,
+        "reviews": 1162985,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3026,7 +3204,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 230,
+        "reviews": 233,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3111,7 +3289,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2416,
+        "reviews": 2415,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3153,7 +3331,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 458835,
+        "reviews": 458840,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3243,7 +3421,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4069,
+        "reviews": 4081,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3328,7 +3506,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11844,
+        "reviews": 11922,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3371,7 +3549,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 203,
+        "reviews": 204,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3413,7 +3591,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6138,
+        "reviews": 6137,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3455,7 +3633,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1114270,
+        "reviews": 1114288,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3542,7 +3720,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2270,
+        "reviews": 2273,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3630,7 +3808,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1697612,
+        "reviews": 1697614,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3722,7 +3900,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 14565,
+        "reviews": 14582,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3764,7 +3942,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 274111,
+        "reviews": 274112,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3808,7 +3986,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 13237,
+        "reviews": 13238,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3893,7 +4071,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1847,
+        "reviews": 1858,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3939,7 +4117,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 33708,
+        "reviews": 33709,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4027,7 +4205,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 67950,
+        "reviews": 67951,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4069,7 +4247,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 232227,
+        "reviews": 232263,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4116,7 +4294,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 65502,
+        "reviews": 65539,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4158,7 +4336,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2942162,
+        "reviews": 2942276,
         "description": null,
         "description_html": null,
         "recent_changes": null,

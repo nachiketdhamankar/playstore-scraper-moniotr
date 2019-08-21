@@ -15,7 +15,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 44815,
+        "reviews": 44829,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -51,7 +51,7 @@
         "category": [
             "BEAUTY"
         ],
-        "score": "4.9",
+        "score": "4.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -59,7 +59,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 84071,
+        "reviews": 84091,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -101,7 +101,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 64674,
+        "reviews": 64677,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -143,7 +143,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8961,
+        "reviews": 8962,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -229,7 +229,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 207,
+        "reviews": 208,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -263,7 +263,7 @@
         "category": [
             "BEAUTY"
         ],
-        "score": "4.1",
+        "score": "4.0",
         "histogram": {
             "5": null,
             "4": null,
@@ -271,7 +271,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4725,
+        "reviews": 4792,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -305,7 +305,7 @@
         "category": [
             "BEAUTY"
         ],
-        "score": "3.3",
+        "score": "3.4",
         "histogram": {
             "5": null,
             "4": null,
@@ -313,7 +313,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6299,
+        "reviews": 6300,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -347,7 +347,7 @@
         "category": [
             "BEAUTY"
         ],
-        "score": "3.7",
+        "score": "3.6",
         "histogram": {
             "5": null,
             "4": null,
@@ -355,7 +355,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1348,
+        "reviews": 1351,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -389,7 +389,7 @@
         "category": [
             "BEAUTY"
         ],
-        "score": "3.8",
+        "score": "3.7",
         "histogram": {
             "5": null,
             "4": null,
@@ -397,7 +397,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 8270,
+        "reviews": 8295,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -439,7 +439,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 32750,
+        "reviews": 32777,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -483,7 +483,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4816,
+        "reviews": 4834,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -522,7 +522,7 @@
         "category": [
             "BEAUTY"
         ],
-        "score": "4.4",
+        "score": "4.2",
         "histogram": {
             "5": null,
             "4": null,
@@ -530,7 +530,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6310,
+        "reviews": 6324,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -616,7 +616,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 773576,
+        "reviews": 773580,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -625,10 +625,10 @@
         "free": true,
         "iap": true,
         "developer_id": "Perfect365,+Inc.",
-        "updated": "July 31, 2019",
-        "size": "71M",
+        "updated": "August 20, 2019",
+        "size": "72M",
         "installs": "50,000,000+",
-        "current_version": "7.93.5",
+        "current_version": "7.95.7",
         "required_android_version": "4.4 and up",
         "content_rating": [
             "Everyone"
@@ -655,7 +655,7 @@
         "category": [
             "BEAUTY"
         ],
-        "score": "3.9",
+        "score": "3.8",
         "histogram": {
             "5": null,
             "4": null,
@@ -663,7 +663,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6069,
+        "reviews": 6070,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -707,7 +707,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9399,
+        "reviews": 9401,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -785,7 +785,7 @@
         "category": [
             "BEAUTY"
         ],
-        "score": "4.6",
+        "score": "4.5",
         "histogram": {
             "5": null,
             "4": null,
@@ -793,7 +793,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6944,
+        "reviews": 6947,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -881,7 +881,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 12383,
+        "reviews": 12397,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -925,7 +925,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1652,
+        "reviews": 1656,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -967,7 +967,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3972,
+        "reviews": 3975,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1009,7 +1009,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 10657,
+        "reviews": 10675,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1051,7 +1051,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2917,
+        "reviews": 2918,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1078,6 +1078,48 @@
         "url": "https://play.google.com/store/apps/details?id=haircolour.hairstyle.photoeditor.haircolorchanger&hl=en&gl=us"
     },
     {
+        "title": "TroveSkin: Your Skincare Coach",
+        "icon": "https://lh3.googleusercontent.com/MB-pSy33ZDFQG4FHCwUK-U7dnVoHrDFcAggbWR8moRmigpbdk5Fg2jAo6QcIWBZ6l9c",
+        "screenshots": [],
+        "video": "https://www.youtube.com/embed/xFBAkO0vPNM",
+        "category": [
+            "BEAUTY"
+        ],
+        "score": "4.7",
+        "histogram": {
+            "5": null,
+            "4": null,
+            "3": null,
+            "2": null,
+            "1": null
+        },
+        "reviews": 57172,
+        "description": null,
+        "description_html": null,
+        "recent_changes": null,
+        "editors_choice": false,
+        "price": "0",
+        "free": true,
+        "iap": false,
+        "developer_id": "Trove+Technologies",
+        "updated": "August 4, 2019",
+        "size": "53M",
+        "installs": "1,000,000+",
+        "current_version": "6.20",
+        "required_android_version": "5.0 and up",
+        "content_rating": [
+            "Everyone"
+        ],
+        "iap_range": null,
+        "interactive_elements": null,
+        "developer": "Trove Technologies",
+        "developer_email": "hello@troveskin.com",
+        "developer_url": "http://troveskin.com",
+        "developer_address": null,
+        "app_id": "com.trove",
+        "url": "https://play.google.com/store/apps/details?id=com.trove&hl=en&gl=us"
+    },
+    {
         "title": "School Hairstyles Step By Step, Braiding Hairstyle",
         "icon": "https://lh3.googleusercontent.com/eX2wDUkxnKkr7VuTMXNXdtF-bQ-FoFWlR87HGqiibf4uuSj3E16UMCykq-JgK0vnoGmE",
         "screenshots": [],
@@ -1093,7 +1135,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1576,
+        "reviews": 1589,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1135,7 +1177,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 262,
+        "reviews": 264,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1179,7 +1221,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3752,
+        "reviews": 3755,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1221,7 +1263,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9506,
+        "reviews": 9520,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1263,7 +1305,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 594,
+        "reviews": 603,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1352,7 +1394,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1731,
+        "reviews": 1733,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1655,7 +1697,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1106,
+        "reviews": 1107,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1743,7 +1785,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 52275,
+        "reviews": 52280,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1829,7 +1871,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1233,
+        "reviews": 1238,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1871,7 +1913,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 4311,
+        "reviews": 4313,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1913,7 +1955,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3497,
+        "reviews": 3499,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -1999,7 +2041,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 27073,
+        "reviews": 27075,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2041,7 +2083,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 114089,
+        "reviews": 114275,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2298,7 +2340,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 926,
+        "reviews": 927,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2686,7 +2728,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6847,
+        "reviews": 6851,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2940,7 +2982,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 64944,
+        "reviews": 64946,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -2986,7 +3028,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 232,
+        "reviews": 233,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3028,7 +3070,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 9554,
+        "reviews": 9555,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3070,7 +3112,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 428,
+        "reviews": 434,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3112,7 +3154,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 590,
+        "reviews": 591,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3155,7 +3197,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 635,
+        "reviews": 636,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3200,7 +3242,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 399,
+        "reviews": 400,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3242,7 +3284,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 83,
+        "reviews": 84,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3328,7 +3370,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 2749,
+        "reviews": 2748,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3581,7 +3623,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 3387,
+        "reviews": 3389,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3667,7 +3709,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 6632,
+        "reviews": 6634,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3754,7 +3796,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 1595,
+        "reviews": 1602,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3796,7 +3838,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 774,
+        "reviews": 776,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3838,7 +3880,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 11976,
+        "reviews": 11975,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -3964,7 +4006,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 56566,
+        "reviews": 56567,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4048,7 +4090,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 586,
+        "reviews": 587,
         "description": null,
         "description_html": null,
         "recent_changes": null,
@@ -4174,7 +4216,7 @@
             "2": null,
             "1": null
         },
-        "reviews": 400,
+        "reviews": 401,
         "description": null,
         "description_html": null,
         "recent_changes": null,

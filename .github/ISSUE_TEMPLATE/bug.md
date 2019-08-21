@@ -1,5 +1,5 @@
 ---
-name: Bug
+name: Bug 🐛
 about: Found a bug? Let me know!
 
 ---
